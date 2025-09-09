@@ -1,0 +1,158 @@
+original_state,original_district,suggested_state_key,suggested_district_key,similarity
+Karnataka,Chamarajanagara,karnataka,chamarajanagar,96.55172413793103
+Telangana,Mahabubnagar,telangana,mahbubnagar,95.65217391304348
+Telangana,Narayanpet,telangana,narayanapet,95.23809523809523
+Karnataka,Bagalkote,karnataka,bagalkot,94.11764705882352
+Gujarat,Arvalli,gujarat,aravalli,93.33333333333333
+Tamil Nadu,Tenkasi,tamil nadu,thenkasi,93.33333333333333
+Karnataka,Dakshina Kannada,karnataka,dakshin kannad,93.33333333333333
+Karnataka,Uttara Kannada,karnataka,uttar kannad,92.3076923076923
+Telangana,Kumuram Bheem Asifabad,telangana,komaram bheem asifabad,90.9090909090909
+Punjab,Ferozepur,punjab,firozepur,88.88888888888889
+Karnataka,Chikkaballapura,karnataka,chikballapur,88.88888888888889
+Karnataka,Chikkamagaluru,karnataka,chikmagalur,88.0
+Karnataka,Bengaluru Rural,karnataka,bengaluru urban,86.66666666666667
+Telangana,Ranga Reddy,telangana,rangareddi,85.71428571428572
+Karnataka,Tumakuru,karnataka,tumkur,85.71428571428572
+Nagaland,Niuland,nagaland,nuiland,85.71428571428572
+Karnataka,Shivamogga,karnataka,shimoga,82.35294117647058
+Meghalaya,Eastern West Khasi Hills,meghalaya,east khasi hills,80.0
+Uttar Pradesh,Bhadohi,uttar pradesh,hardoi,76.92307692307692
+Rajasthan,Jaipur,rajasthan,udaipur,76.92307692307692
+Rajasthan,Beawar,rajasthan,alwar,72.72727272727273
+Telangana,Jogulamba Gadwal,telangana,jogulamba,72.0
+Karnataka,Ballari,karnataka,bellary,71.42857142857143
+Rajasthan,Jodhpur,rajasthan,dholpur,71.42857142857143
+Karnataka,Vijayapura,karnataka,bijapur,70.58823529411764
+Assam,Bajali,assam,majuli,66.66666666666667
+Rajasthan,Nagaur,rajasthan,dungarpur,66.66666666666667
+Rajasthan,Balotra,rajasthan,baran,66.66666666666667
+Karnataka,Belagavi,karnataka,belgaum,66.66666666666667
+Maharashtra,Ahmednagar,maharashtra,ahilyanagar,66.66666666666667
+Karnataka,Mysuru,karnataka,mysore,66.66666666666667
+Maharashtra,Washim,maharashtra,nashik,66.66666666666667
+Haryana,Gurugram,haryana,gurgaon,66.66666666666667
+Telangana,Hanumakonda,telangana,nalgonda,63.1578947368421
+Uttar Pradesh,Prayagraj,uttar pradesh,pratapgarh,63.1578947368421
+Gujarat,Jamnagar,gujarat,gandhinagar,63.1578947368421
+Rajasthan,Anoopgarh,rajasthan,pratapgarh,63.1578947368421
+Telangana,Jayashankar Bhupalapally,telangana,jayashankar,62.857142857142854
+Maharashtra,Aurangabad,maharashtra,raigad,62.5
+Sikkim,Gyalshing,sikkim,geyzing,62.5
+Maharashtra,Buldhana,maharashtra,bhandara,62.5
+Telangana,Bhadradri Kothagudem,telangana,bhadradri,62.06896551724138
+Rajasthan,Salumbar,rajasthan,alwar,61.53846153846154
+Uttar Pradesh,Ayodhya,uttar pradesh,amroha,61.53846153846154
+Maharashtra,Akola,maharashtra,kolhapur,61.53846153846154
+Maharashtra,Hingoli,maharashtra,sangli,61.53846153846154
+Telangana,Rajanna Sircilla,telangana,rajanna,60.86956521739131
+Haryana,Mahendragarh,haryana,yamunanagar,60.86956521739131
+Gujarat,Botad,gujarat,dohad,60.0
+Gujarat,Bhavnagar,gujarat,gandhinagar,60.0
+Madhya Pradesh,Narmadapuram,madhya pradesh,mandsaur,60.0
+Gujarat,Patan,gujarat,anand,60.0
+Assam,Tamulpur,assam,lakhimpur,58.82352941176471
+Telangana,Hyderabad,telangana,adilabad,58.82352941176471
+Rajasthan,Shahpura,rajasthan,bharatpur,58.82352941176471
+Manipur,Tengnoupal,manipur,thoubal,58.82352941176471
+Manipur,Kamjong,manipur,tamenglong,58.82352941176471
+Gujarat,Banas Kantha,gujarat,panch mahals,58.33333333333333
+Punjab,Sri Muktsar Sahib,punjab,muktsar,58.33333333333333
+Rajasthan,Gangapurcity,rajasthan,dungarpur,57.14285714285714
+Gujarat,Amreli,gujarat,aravalli,57.14285714285714
+Telangana,Yadadri Bhuvanagiri,telangana,bhadradri,57.14285714285714
+Rajasthan,Jalore,rajasthan,jhalawar,57.14285714285714
+Maharashtra,Jalgaon,maharashtra,palghar,57.14285714285714
+Telangana,Medchal Malkajgiri,telangana,medchal,56.00000000000001
+Rajasthan,Dudu,rajasthan,udaipur,54.54545454545454
+Gujarat,Rajkot,gujarat,surat,54.54545454545454
+Rajasthan,Pali,rajasthan,karauli,54.54545454545454
+Karnataka,Kalaburagi,karnataka,chikballapur,54.54545454545454
+Rajasthan,Barmer,rajasthan,baran,54.54545454545454
+Rajasthan,Bikaner,rajasthan,banswara,53.333333333333336
+Maharashtra,Osmanabad,maharashtra,satara,53.333333333333336
+Maharashtra,Parbhani,maharashtra,palghar,53.333333333333336
+Gujarat,Junagadh,gujarat,narmada,53.333333333333336
+Madhya Pradesh,East Nimar,madhya pradesh,datia,53.333333333333336
+Punjab,Shahid Bhagat Singh Nagar,punjab,sas nagar,52.94117647058824
+Rajasthan,Khairthal-Tijara,rajasthan,karauli,52.17391304347826
+Rajasthan,Neem Ka Thana,rajasthan,hanumangarh,50.0
+Rajasthan,Kotputli-Behror,rajasthan,bharatpur,50.0
+Rajasthan,Jaipur Gramin,rajasthan,udaipur,50.0
+Maharashtra,Yavatmal,maharashtra,amravati,50.0
+Maharashtra,Wardha,maharashtra,satara,50.0
+Maharashtra,Jalna,maharashtra,ahilyanagar,50.0
+Gujarat,Porbandar,gujarat,gandhinagar,50.0
+Rajasthan,Kekri,rajasthan,karauli,50.0
+Rajasthan,Churu,rajasthan,dholpur,50.0
+Rajasthan,Dausa,rajasthan,udaipur,50.0
+Rajasthan,Sikar,rajasthan,karauli,50.0
+Rajasthan,Jodhpur Gramin,rajasthan,dholpur,47.61904761904761
+Rajasthan,Jaisalmer,rajasthan,banswara,47.05882352941176
+Arunachal Pradesh,Itanagar Capital Complex,arunachal pradesh,lower siang,45.714285714285715
+Rajasthan,Sanchor,rajasthan,chittorgarh,44.44444444444444
+Rajasthan,Didwana Kuchaman,rajasthan,hanumangarh,44.44444444444444
+Gujarat,Devbhumi Dwarka,gujarat,vadodara,43.47826086956522
+Rajasthan,Ajmer,rajasthan,rajsamand,42.85714285714286
+Rajasthan,Phalodi,rajasthan,karauli,42.85714285714286
+Manipur,Pherzawl,manipur,ukhrul,42.85714285714286
+Gujarat,Kachchh,gujarat,bharuch,42.85714285714286
+Maharashtra,Mumbai,maharashtra,amravati,42.85714285714286
+Manipur,Kangpokpi,manipur,tamenglong,42.10526315789473
+Tamil Nadu,Tuticorin,tamil nadu,tirupathur,42.10526315789473
+Maharashtra,Mumbai Suburban,maharashtra,nandurbar,41.666666666666664
+Manipur,Noney,manipur,tamenglong,40.0
+Himachal Pradesh,Lahul And Spiti,himachal pradesh,mandi,40.0
+Manipur,Kakching,manipur,chandel,40.0
+Rajasthan,Jhunjhunu,rajasthan,hanumangarh,40.0
+Maharashtra,Beed,maharashtra,nanded,40.0
+Rajasthan,Sirohi,rajasthan,chittorgarh,35.29411764705882
+Andhra Pradesh,Y.s.r.,andhra pradesh,sri sathya sai,35.29411764705882
+Haryana,Nuh,haryana,panchkula,33.333333333333336
+West Bengal,Kolkata,west bengal,nadia,33.333333333333336
+Gujarat,Morbi,gujarat,navsari,33.333333333333336
+Rajasthan,Deeg,rajasthan,dungarpur,30.76923076923077
+Manipur,Jiribam,manipur,thoubal,28.57142857142857
+Puducherry,Mahe,puducherry,pondicherry,26.66666666666667
+A & N Islands,Nicobars,,,0.0
+Delhi,West,,,0.0
+A & N Islands,North And Middle Andaman,,,0.0
+A & N Islands,South Andamans,,,0.0
+DNHDD,Dadra And Nagar Haveli,,,0.0
+DNHDD,Daman,,,0.0
+DNHDD,Diu,,,0.0
+Delhi,Central,,,0.0
+Delhi,East,,,0.0
+Delhi,New Delhi,,,0.0
+Delhi,North,,,0.0
+Delhi,North East,,,0.0
+Delhi,North West,,,0.0
+Delhi,Shahdara,,,0.0
+Delhi,South,,,0.0
+Delhi,South East,,,0.0
+Delhi,South West,,,0.0
+Ladakh,Leh Ladakh,,,0.0
+Jammu & Kashmir,Pulwama,,,0.0
+Ladakh,Kargil,,,0.0
+Lakshadweep,Lakshadweep District,,,0.0
+Jammu & Kashmir,Kishtwar,,,0.0
+Jammu & Kashmir,Mirpur,,,0.0
+Jammu & Kashmir,Muzaffarabad,,,0.0
+Jammu & Kashmir,Poonch,,,0.0
+Jammu & Kashmir,Kupwara,,,0.0
+Jammu & Kashmir,Jammu,,,0.0
+Jammu & Kashmir,Kathua,,,0.0
+Jammu & Kashmir,Kulgam,,,0.0
+Jammu & Kashmir,Ramban,,,0.0
+Jammu & Kashmir,Samba,,,0.0
+Jammu & Kashmir,Shopian,,,0.0
+Jammu & Kashmir,Srinagar,,,0.0
+Jammu & Kashmir,Udhampur,,,0.0
+Jammu & Kashmir,Reasi,,,0.0
+Jammu & Kashmir,Rajouri,,,0.0
+Jammu & Kashmir,Bandipora,,,0.0
+Jammu & Kashmir,Anantnag,,,0.0
+Jammu & Kashmir,Budgam,,,0.0
+Jammu & Kashmir,Doda,,,0.0
+Jammu & Kashmir,Ganderbal,,,0.0
+Jammu & Kashmir,Baramulla,,,0.0

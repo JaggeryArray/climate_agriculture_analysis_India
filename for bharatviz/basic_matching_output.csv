@@ -1,0 +1,786 @@
+state_name,district_name,rice_yield
+A & N Islands,Nicobars,1.26
+A & N Islands,North And Middle Andaman,2.11
+A & N Islands,South Andamans,2.08
+Andhra Pradesh,Alluri Sitharama Raju,2.99
+Andhra Pradesh,Anakapalli,3.14
+Andhra Pradesh,Anantapur,3.85
+Andhra Pradesh,Annamayya,3.3
+Andhra Pradesh,Bapatla,4.17
+Andhra Pradesh,Chittoor,3.15
+Andhra Pradesh,East Godavari,4.4
+Andhra Pradesh,Eluru,4.48
+Andhra Pradesh,Guntur,4.19
+Andhra Pradesh,Kakinada,3.93
+Andhra Pradesh,Konaseema,4.61
+Andhra Pradesh,Krishna,3.97
+Andhra Pradesh,Kurnool,3.36
+Andhra Pradesh,Nandyal,4.01
+Andhra Pradesh,Ntr,3.89
+Andhra Pradesh,Palnadu,3.71
+Andhra Pradesh,Parvathipuram Manyam,3.32
+Andhra Pradesh,Prakasam,3.47
+Andhra Pradesh,Spsr Nellore,4.46
+Andhra Pradesh,Sri Sathya Sai,2.79
+Andhra Pradesh,Srikakulam,3.14
+Andhra Pradesh,Tirupati,3.84
+Andhra Pradesh,Visakhapatanam,3.33
+Andhra Pradesh,Vizianagaram,3.62
+Andhra Pradesh,West Godavari,4.55
+Andhra Pradesh,Y.s.r.,
+Arunachal Pradesh,Anjaw,1.12
+Arunachal Pradesh,Changlang,2.24
+Arunachal Pradesh,Dibang Valley,1.2
+Arunachal Pradesh,East Kameng,1.35
+Arunachal Pradesh,East Siang,1.86
+Arunachal Pradesh,Itanagar Capital Complex,
+Arunachal Pradesh,Kamle,1.93
+Arunachal Pradesh,Kra Daadi,2
+Arunachal Pradesh,Kurung Kumey,2
+Arunachal Pradesh,Leparada,1.67
+Arunachal Pradesh,Lohit,2.13
+Arunachal Pradesh,Longding,1.76
+Arunachal Pradesh,Lower Dibang Valley,1.65
+Arunachal Pradesh,Lower Siang,1.57
+Arunachal Pradesh,Lower Subansiri,2.06
+Arunachal Pradesh,Namsai,2.28
+Arunachal Pradesh,Pakke Kessang,1.36
+Arunachal Pradesh,Papum Pare,2.02
+Arunachal Pradesh,Shi Yomi,1.67
+Arunachal Pradesh,Siang,2.15
+Arunachal Pradesh,Tawang,1.98
+Arunachal Pradesh,Tirap,1.46
+Arunachal Pradesh,Upper Siang,1.96
+Arunachal Pradesh,Upper Subansiri,2.11
+Arunachal Pradesh,West Kameng,1.85
+Arunachal Pradesh,West Siang,1.68
+Assam,Bajali,
+Assam,Baksa,2.58
+Assam,Barpeta,2.81
+Assam,Biswanath,2.55
+Assam,Bongaigaon,2.85
+Assam,Cachar,2.09
+Assam,Charaideo,2.54
+Assam,Chirang,2.72
+Assam,Darrang,2.87
+Assam,Dhemaji,2.18
+Assam,Dhubri,3.1
+Assam,Dibrugarh,2.76
+Assam,Dima Hasao,2.26
+Assam,Goalpara,2.95
+Assam,Golaghat,2.76
+Assam,Hailakandi,2.73
+Assam,Hojai,3.41
+Assam,Jorhat,2.91
+Assam,Kamrup,2.96
+Assam,Kamrup Metro,2.99
+Assam,Karbi Anglong,2.58
+Assam,Karimganj,2.05
+Assam,Kokrajhar,2.12
+Assam,Lakhimpur,1.96
+Assam,Majuli,2.52
+Assam,Marigaon,2.85
+Assam,Nagaon,2.52
+Assam,Nalbari,2.68
+Assam,Sivasagar,2.64
+Assam,Sonitpur,2.94
+Assam,South Salmara Mancachar,3.01
+Assam,Tamulpur,
+Assam,Tinsukia,1.81
+Assam,Udalguri,2.59
+Assam,West Karbi Anglong,2.52
+Bihar,Araria,2.42
+Bihar,Arwal,3.33
+Bihar,Aurangabad,3.83
+Bihar,Banka,2.37
+Bihar,Begusarai,2.72
+Bihar,Bhagalpur,1.79
+Bihar,Bhojpur,3.42
+Bihar,Buxar,3.67
+Bihar,Darbhanga,1.89
+Bihar,Gaya,2.61
+Bihar,Gopalganj,2.14
+Bihar,Jamui,2.07
+Bihar,Jehanabad,3.58
+Bihar,Kaimur (Bhabua),3.82
+Bihar,Katihar,2.77
+Bihar,Khagaria,2.72
+Bihar,Kishanganj,2.31
+Bihar,Lakhisarai,3.99
+Bihar,Madhepura,2.28
+Bihar,Madhubani,1.6
+Bihar,Munger,2.87
+Bihar,Muzaffarpur,1.89
+Bihar,Nalanda,3.04
+Bihar,Nawada,3.21
+Bihar,Pashchim Champaran,2.35
+Bihar,Patna,3.24
+Bihar,Purbi Champaran,1.84
+Bihar,Purnia,2.18
+Bihar,Rohtas,4.72
+Bihar,Saharsa,1.73
+Bihar,Samastipur,2.08
+Bihar,Saran,2.73
+Bihar,Sheikhpura,2.78
+Bihar,Sheohar,2.06
+Bihar,Sitamarhi,1.79
+Bihar,Siwan,2.45
+Bihar,Supaul,2.52
+Bihar,Vaishali,2.3
+Chandigarh,Chandigarh,5.5
+Chhattisgarh,Balod,3.01
+Chhattisgarh,Baloda Bazar,2.69
+Chhattisgarh,Balrampur,2.52
+Chhattisgarh,Bastar,2.45
+Chhattisgarh,Bemetara,3.29
+Chhattisgarh,Bijapur,2.29
+Chhattisgarh,Bilaspur,3.39
+Chhattisgarh,Dantewada,1.99
+Chhattisgarh,Dhamtari,3.27
+Chhattisgarh,Durg,2.86
+Chhattisgarh,Gariyaband,2.6
+Chhattisgarh,Gaurella Pendra Marwahi,3.66
+Chhattisgarh,Janjgir-Champa,3.17
+Chhattisgarh,Jashpur,1.68
+Chhattisgarh,Kabirdham,2.13
+Chhattisgarh,Kanker,2.83
+Chhattisgarh,Khairgarh Chhuikhadan Gandai,1.93
+Chhattisgarh,Kondagaon,2.13
+Chhattisgarh,Korba,2.05
+Chhattisgarh,Korea,1.5
+Chhattisgarh,Mahasamund,2.13
+Chhattisgarh,Manendragarh Chirimiri Bharatpur,1.48
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,1.89
+Chhattisgarh,Mungeli,2.32
+Chhattisgarh,Narayanpur,1.91
+Chhattisgarh,Raigarh,2.68
+Chhattisgarh,Raipur,3.48
+Chhattisgarh,Rajnandgaon,1.93
+Chhattisgarh,Sakti,3.03
+Chhattisgarh,Sarangarh Bilaigarh,2.49
+Chhattisgarh,Sukma,2.79
+Chhattisgarh,Surajpur,2.28
+Chhattisgarh,Surguja,2.3
+DNHDD,Dadra And Nagar Haveli,
+DNHDD,Daman,
+DNHDD,Diu,
+Delhi,Central,
+Delhi,East,
+Delhi,New Delhi,
+Delhi,North,
+Delhi,North East,
+Delhi,North West,
+Delhi,Shahdara,
+Delhi,South,
+Delhi,South East,
+Delhi,South West,
+Delhi,West,
+Goa,North Goa,16.15
+Goa,South Goa,8.36
+Gujarat,Ahmadabad,2.85
+Gujarat,Amreli,
+Gujarat,Anand,2.67
+Gujarat,Arvalli,2.64
+Gujarat,Banas Kantha,
+Gujarat,Bharuch,1.95
+Gujarat,Bhavnagar,
+Gujarat,Botad,
+Gujarat,Chhotaudepur,1.3
+Gujarat,Dang,1.76
+Gujarat,Devbhumi Dwarka,
+Gujarat,Dohad,1.27
+Gujarat,Gandhinagar,2.47
+Gujarat,Gir Somnath,1.9
+Gujarat,Jamnagar,
+Gujarat,Junagadh,
+Gujarat,Kachchh,
+Gujarat,Kheda,2.92
+Gujarat,Mahesana,2.35
+Gujarat,Mahisagar,2.53
+Gujarat,Morbi,
+Gujarat,Narmada,1.03
+Gujarat,Navsari,2.9
+Gujarat,Panch Mahals,1.7
+Gujarat,Patan,
+Gujarat,Porbandar,
+Gujarat,Rajkot,
+Gujarat,Sabar Kantha,3.3
+Gujarat,Surat,2.37
+Gujarat,Surendranagar,1.99
+Gujarat,Tapi,3
+Gujarat,Vadodara,2.08
+Gujarat,Valsad,2.59
+Haryana,Ambala,3.72
+Haryana,Bhiwani,2.78
+Haryana,Charki Dadri,2.45
+Haryana,Faridabad,2.66
+Haryana,Fatehabad,4.19
+Haryana,Gurugram,2.87
+Haryana,Hisar,3.1
+Haryana,Jhajjar,2.79
+Haryana,Jind,3.29
+Haryana,Kaithal,4.35
+Haryana,Karnal,3.97
+Haryana,Kurukshetra,4.52
+Haryana,Mahendragarh,
+Haryana,Nuh,
+Haryana,Palwal,2.65
+Haryana,Panchkula,2.59
+Haryana,Panipat,3.06
+Haryana,Rewari,2.45
+Haryana,Rohtak,2.93
+Haryana,Sirsa,3.51
+Haryana,Sonipat,2.88
+Haryana,Yamunanagar,3.41
+Himachal Pradesh,Bilaspur,1.68
+Himachal Pradesh,Chamba,1.2
+Himachal Pradesh,Hamirpur,1.66
+Himachal Pradesh,Kangra,2.1
+Himachal Pradesh,Kinnaur,1
+Himachal Pradesh,Kullu,1.26
+Himachal Pradesh,Lahul And Spiti,
+Himachal Pradesh,Mandi,2.06
+Himachal Pradesh,Shimla,1.97
+Himachal Pradesh,Sirmaur,0.94
+Himachal Pradesh,Solan,2.97
+Himachal Pradesh,Una,2.44
+Jammu & Kashmir,Anantnag,
+Jammu & Kashmir,Bandipora,
+Jammu & Kashmir,Baramulla,
+Jammu & Kashmir,Budgam,
+Jammu & Kashmir,Doda,
+Jammu & Kashmir,Ganderbal,
+Jammu & Kashmir,Jammu,
+Jammu & Kashmir,Kathua,
+Jammu & Kashmir,Kishtwar,
+Jammu & Kashmir,Kulgam,
+Jammu & Kashmir,Kupwara,
+Jammu & Kashmir,Mirpur,
+Jammu & Kashmir,Muzaffarabad,
+Jammu & Kashmir,Poonch,
+Jammu & Kashmir,Pulwama,
+Jammu & Kashmir,Rajouri,
+Jammu & Kashmir,Ramban,
+Jammu & Kashmir,Reasi,
+Jammu & Kashmir,Samba,
+Jammu & Kashmir,Shopian,
+Jammu & Kashmir,Srinagar,
+Jammu & Kashmir,Udhampur,
+Jharkhand,Bokaro,2
+Jharkhand,Chatra,3.25
+Jharkhand,Deoghar,3.9
+Jharkhand,Dhanbad,2.37
+Jharkhand,Dumka,2.17
+Jharkhand,East Singhbum,3.05
+Jharkhand,Garhwa,1.76
+Jharkhand,Giridih,3.53
+Jharkhand,Godda,3.16
+Jharkhand,Gumla,2.53
+Jharkhand,Hazaribagh,1.33
+Jharkhand,Jamtara,1.24
+Jharkhand,Khunti,2.32
+Jharkhand,Koderma,2.6
+Jharkhand,Latehar,1.76
+Jharkhand,Lohardaga,2.57
+Jharkhand,Pakur,1.85
+Jharkhand,Palamu,2.08
+Jharkhand,Ramgarh,2.3
+Jharkhand,Ranchi,2.21
+Jharkhand,Sahebganj,2.81
+Jharkhand,Saraikela Kharsawan,2.45
+Jharkhand,Simdega,2.28
+Jharkhand,West Singhbhum,1.81
+Karnataka,Bagalkote,3.29
+Karnataka,Ballari,4.25
+Karnataka,Belagavi,2.76
+Karnataka,Bengaluru Rural,3.21
+Karnataka,Bengaluru Urban,
+Karnataka,Bidar,1.31
+Karnataka,Chamarajanagara,3
+Karnataka,Chikkaballapura,2.8
+Karnataka,Chikkamagaluru,2.45
+Karnataka,Chitradurga,1.71
+Karnataka,Dakshina Kannada,2.93
+Karnataka,Davangere,3.75
+Karnataka,Dharwad,1.47
+Karnataka,Gadag,2.72
+Karnataka,Hassan,2.35
+Karnataka,Haveri,1.76
+Karnataka,Kalaburagi,
+Karnataka,Kodagu,2.57
+Karnataka,Kolar,2.65
+Karnataka,Koppal,3.63
+Karnataka,Mandya,2.99
+Karnataka,Mysuru,3.05
+Karnataka,Raichur,3.59
+Karnataka,Ramanagara,2.58
+Karnataka,Shivamogga,2.58
+Karnataka,Tumakuru,2.53
+Karnataka,Udupi,2.89
+Karnataka,Uttara Kannada,2.1
+Karnataka,Vijayanagar,3.51
+Karnataka,Vijayapura,
+Karnataka,Yadgir,3.25
+Kerala,Alappuzha,3.09
+Kerala,Ernakulam,2.46
+Kerala,Idukki,2.55
+Kerala,Kannur,2.3
+Kerala,Kasaragod,2.25
+Kerala,Kollam,2.41
+Kerala,Kottayam,3.1
+Kerala,Kozhikode,1.4
+Kerala,Malappuram,3.51
+Kerala,Palakkad,3.19
+Kerala,Pathanamthitta,3.31
+Kerala,Thiruvananthapuram,2.5
+Kerala,Thrissur,3.43
+Kerala,Wayanad,2.83
+Ladakh,Kargil,
+Ladakh,Leh Ladakh,
+Lakshadweep,Lakshadweep District,
+Madhya Pradesh,Agar Malwa,2
+Madhya Pradesh,Alirajpur,1.98
+Madhya Pradesh,Anuppur,2.36
+Madhya Pradesh,Ashoknagar,3.61
+Madhya Pradesh,Balaghat,2.93
+Madhya Pradesh,Barwani,1.89
+Madhya Pradesh,Betul,2.85
+Madhya Pradesh,Bhind,4.32
+Madhya Pradesh,Bhopal,3.59
+Madhya Pradesh,Burhanpur,1.97
+Madhya Pradesh,Chhatarpur,2.01
+Madhya Pradesh,Chhindwara,2.94
+Madhya Pradesh,Damoh,3.78
+Madhya Pradesh,Datia,2.47
+Madhya Pradesh,Dewas,2.14
+Madhya Pradesh,Dhar,1.81
+Madhya Pradesh,Dindori,2.21
+Madhya Pradesh,East Nimar,
+Madhya Pradesh,Guna,3.56
+Madhya Pradesh,Gwalior,4.44
+Madhya Pradesh,Harda,3.5
+Madhya Pradesh,Indore,2.38
+Madhya Pradesh,Jabalpur,3.71
+Madhya Pradesh,Jhabua,1.97
+Madhya Pradesh,Katni,3.94
+Madhya Pradesh,Khargone,1.83
+Madhya Pradesh,Mandla,3.11
+Madhya Pradesh,Mandsaur,1.88
+Madhya Pradesh,Morena,4.04
+Madhya Pradesh,Narmadapuram,
+Madhya Pradesh,Narsinghpur,3.89
+Madhya Pradesh,Neemuch,1.3
+Madhya Pradesh,Niwari,1.94
+Madhya Pradesh,Panna,3.14
+Madhya Pradesh,Raisen,3.56
+Madhya Pradesh,Rajgarh,2.31
+Madhya Pradesh,Ratlam,2.08
+Madhya Pradesh,Rewa,3.99
+Madhya Pradesh,Sagar,2.61
+Madhya Pradesh,Satna,4.16
+Madhya Pradesh,Sehore,4.46
+Madhya Pradesh,Seoni,3.34
+Madhya Pradesh,Shahdol,2.62
+Madhya Pradesh,Shajapur,1.95
+Madhya Pradesh,Sheopur,4.37
+Madhya Pradesh,Shivpuri,3.55
+Madhya Pradesh,Sidhi,3.54
+Madhya Pradesh,Singrauli,3.07
+Madhya Pradesh,Tikamgarh,1.94
+Madhya Pradesh,Ujjain,1.97
+Madhya Pradesh,Umaria,2.12
+Madhya Pradesh,Vidisha,2.84
+Maharashtra,Ahmednagar,1.66
+Maharashtra,Akola,
+Maharashtra,Amravati,0.39
+Maharashtra,Aurangabad,
+Maharashtra,Beed,
+Maharashtra,Bhandara,2.25
+Maharashtra,Buldhana,
+Maharashtra,Chandrapur,1.7
+Maharashtra,Dhule,1.7
+Maharashtra,Gadchiroli,1.83
+Maharashtra,Gondia,2.73
+Maharashtra,Hingoli,
+Maharashtra,Jalgaon,
+Maharashtra,Jalna,
+Maharashtra,Kolhapur,3.08
+Maharashtra,Latur,0.39
+Maharashtra,Mumbai,
+Maharashtra,Mumbai Suburban,
+Maharashtra,Nagpur,2.01
+Maharashtra,Nanded,2.55
+Maharashtra,Nandurbar,1.89
+Maharashtra,Nashik,2.49
+Maharashtra,Osmanabad,0.39
+Maharashtra,Palghar,2.41
+Maharashtra,Parbhani,
+Maharashtra,Pune,2.54
+Maharashtra,Raigad,2.68
+Maharashtra,Ratnagiri,2.98
+Maharashtra,Sangli,2.65
+Maharashtra,Satara,1.95
+Maharashtra,Sindhudurg,2.71
+Maharashtra,Solapur,3.95
+Maharashtra,Thane,2.68
+Maharashtra,Wardha,
+Maharashtra,Washim,
+Maharashtra,Yavatmal,
+Manipur,Bishnupur,1.39
+Manipur,Chandel,1.08
+Manipur,Churachandpur,0.81
+Manipur,Imphal East,1.44
+Manipur,Imphal West,1.02
+Manipur,Jiribam,
+Manipur,Kakching,
+Manipur,Kamjong,
+Manipur,Kangpokpi,
+Manipur,Noney,
+Manipur,Pherzawl,
+Manipur,Senapati,1.14
+Manipur,Tamenglong,0.87
+Manipur,Tengnoupal,
+Manipur,Thoubal,2.3
+Manipur,Ukhrul,0.92
+Meghalaya,East Garo Hills,1.96
+Meghalaya,East Jaintia Hills,2.2
+Meghalaya,East Khasi Hills,1.95
+Meghalaya,Eastern West Khasi Hills,
+Meghalaya,North Garo Hills,2.17
+Meghalaya,Ri Bhoi,3.38
+Meghalaya,South Garo Hills,2.02
+Meghalaya,South West Garo Hills,2.76
+Meghalaya,South West Khasi Hills,1.87
+Meghalaya,West Garo Hills,2.42
+Meghalaya,West Jaintia Hills,1.89
+Meghalaya,West Khasi Hills,1.86
+Mizoram,Aizawl,1.33
+Mizoram,Champhai,1.93
+Mizoram,Hnahthial,1.28
+Mizoram,Khawzawl,1.53
+Mizoram,Kolasib,2.22
+Mizoram,Lawngtlai,1.73
+Mizoram,Lunglei,1.46
+Mizoram,Mamit,1.36
+Mizoram,Saiha,1.56
+Mizoram,Saitual,1.51
+Mizoram,Serchhip,1.83
+Nagaland,Chumoukedima,2.86
+Nagaland,Dimapur,3.06
+Nagaland,Kiphire,2.35
+Nagaland,Kohima,2.92
+Nagaland,Longleng,2.37
+Nagaland,Mokokchung,2.46
+Nagaland,Mon,2.29
+Nagaland,Niuland,3.05
+Nagaland,Noklak,2.3
+Nagaland,Peren,2.82
+Nagaland,Phek,2.98
+Nagaland,Shamator,2.41
+Nagaland,Tseminyu,2.25
+Nagaland,Tuensang,2.41
+Nagaland,Wokha,2.55
+Nagaland,Zunheboto,2.41
+Odisha,Anugul,3.37
+Odisha,Balangir,2.15
+Odisha,Baleshwar,3.12
+Odisha,Bargarh,4.02
+Odisha,Bhadrak,2.87
+Odisha,Boudh,3.34
+Odisha,Cuttack,2.89
+Odisha,Deogarh,2.59
+Odisha,Dhenkanal,3.39
+Odisha,Gajapati,2.57
+Odisha,Ganjam,3.06
+Odisha,Jagatsinghapur,2.85
+Odisha,Jajapur,2.37
+Odisha,Jharsuguda,1.58
+Odisha,Kalahandi,3.05
+Odisha,Kandhamal,2.29
+Odisha,Kendrapara,2.28
+Odisha,Kendujhar,3.49
+Odisha,Khordha,2.97
+Odisha,Koraput,3.17
+Odisha,Malkangiri,2.71
+Odisha,Mayurbhanj,2.73
+Odisha,Nabarangpur,3.25
+Odisha,Nayagarh,2.75
+Odisha,Nuapada,2.51
+Odisha,Puri,2.44
+Odisha,Rayagada,3.22
+Odisha,Sambalpur,2.73
+Odisha,Sonepur,3.72
+Odisha,Sundargarh,1.73
+Puducherry,Karaikal,2.42
+Puducherry,Mahe,
+Puducherry,Pondicherry,3.3
+Puducherry,Yanam,2.61
+Punjab,Amritsar,3.56
+Punjab,Barnala,5.25
+Punjab,Bathinda,4.75
+Punjab,Faridkot,4.48
+Punjab,Fatehgarh Sahib,4.03
+Punjab,Fazilka,3.5
+Punjab,Ferozepur,4.79
+Punjab,Gurdaspur,3.64
+Punjab,Hoshiarpur,3.15
+Punjab,Jalandhar,4.17
+Punjab,Kapurthala,4.27
+Punjab,Ludhiana,4.78
+Punjab,Malerkotla,5.24
+Punjab,Mansa,4.7
+Punjab,Moga,5.06
+Punjab,Pathankot,2.72
+Punjab,Patiala,4.14
+Punjab,Rupnagar,3.65
+Punjab,S.a.s Nagar,3.02
+Punjab,Sangrur,5.16
+Punjab,Shahid Bhagat Singh Nagar,
+Punjab,Sri Muktsar Sahib,
+Punjab,Tarn Taran,4.19
+Rajasthan,Ajmer,
+Rajasthan,Alwar,2.43
+Rajasthan,Anoopgarh,
+Rajasthan,Balotra,
+Rajasthan,Banswara,1.13
+Rajasthan,Baran,2.84
+Rajasthan,Barmer,
+Rajasthan,Beawar,
+Rajasthan,Bharatpur,2
+Rajasthan,Bhilwara,2.46
+Rajasthan,Bikaner,
+Rajasthan,Bundi,2.83
+Rajasthan,Chittorgarh,2.35
+Rajasthan,Churu,
+Rajasthan,Dausa,
+Rajasthan,Deeg,
+Rajasthan,Dholpur,2.47
+Rajasthan,Didwana Kuchaman,
+Rajasthan,Dudu,
+Rajasthan,Dungarpur,1.09
+Rajasthan,Ganganagar,3.04
+Rajasthan,Gangapurcity,
+Rajasthan,Hanumangarh,3.37
+Rajasthan,Jaipur,
+Rajasthan,Jaipur Gramin,
+Rajasthan,Jaisalmer,
+Rajasthan,Jalore,
+Rajasthan,Jhalawar,2.14
+Rajasthan,Jhunjhunu,
+Rajasthan,Jodhpur,
+Rajasthan,Jodhpur Gramin,
+Rajasthan,Karauli,1.44
+Rajasthan,Kekri,
+Rajasthan,Khairthal-Tijara,
+Rajasthan,Kota,2.82
+Rajasthan,Kotputli-Behror,
+Rajasthan,Nagaur,
+Rajasthan,Neem Ka Thana,
+Rajasthan,Pali,
+Rajasthan,Phalodi,
+Rajasthan,Pratapgarh,2.46
+Rajasthan,Rajsamand,2.5
+Rajasthan,Salumbar,
+Rajasthan,Sanchor,
+Rajasthan,Sawai Madhopur,1.21
+Rajasthan,Shahpura,
+Rajasthan,Sikar,
+Rajasthan,Sirohi,
+Rajasthan,Tonk,2.4
+Rajasthan,Udaipur,0.7
+Sikkim,Gangtok,1.85
+Sikkim,Gyalshing,1.97
+Sikkim,Mangan,1.51
+Sikkim,Namchi,1.99
+Sikkim,Pakyong,1.87
+Sikkim,Soreng,1.97
+Tamil Nadu,Ariyalur,3.98
+Tamil Nadu,Chengalpattu,4.21
+Tamil Nadu,Chennai,2.94
+Tamil Nadu,Coimbatore,3.94
+Tamil Nadu,Cuddalore,3.61
+Tamil Nadu,Dharmapuri,4.29
+Tamil Nadu,Dindigul,4.25
+Tamil Nadu,Erode,4.24
+Tamil Nadu,Kallakurichi,3.9
+Tamil Nadu,Kanchipuram,3.73
+Tamil Nadu,Kanniyakumari,3.72
+Tamil Nadu,Karur,3.88
+Tamil Nadu,Krishnagiri,4.36
+Tamil Nadu,Madurai,3.92
+Tamil Nadu,Mayiladuthurai,3.22
+Tamil Nadu,Nagapattinam,3.24
+Tamil Nadu,Namakkal,5.14
+Tamil Nadu,Perambalur,4.01
+Tamil Nadu,Pudukkottai,3.51
+Tamil Nadu,Ramanathapuram,0.87
+Tamil Nadu,Ranipet,4.11
+Tamil Nadu,Salem,4.11
+Tamil Nadu,Sivaganga,2.6
+Tamil Nadu,Tenkasi,3.74
+Tamil Nadu,Thanjavur,3.71
+Tamil Nadu,The Nilgiris,3.84
+Tamil Nadu,Theni,3.72
+Tamil Nadu,Thiruvallur,3.78
+Tamil Nadu,Thiruvarur,3.38
+Tamil Nadu,Tiruchirappalli,3.73
+Tamil Nadu,Tirunelveli,4.16
+Tamil Nadu,Tirupathur,4.36
+Tamil Nadu,Tiruppur,4.37
+Tamil Nadu,Tiruvannamalai,3.78
+Tamil Nadu,Tuticorin,4.15
+Tamil Nadu,Vellore,3.76
+Tamil Nadu,Villupuram,3.75
+Tamil Nadu,Virudhunagar,3.32
+Telangana,Adilabad,3.49
+Telangana,Bhadradri Kothagudem,3.5
+Telangana,Hanumakonda,
+Telangana,Hyderabad,
+Telangana,Jagitial,3.61
+Telangana,Jangoan,2.55
+Telangana,Jayashankar Bhupalapally,3.18
+Telangana,Jogulamba Gadwal,3.3
+Telangana,Kamareddy,3.95
+Telangana,Karimnagar,3.21
+Telangana,Khammam,3.48
+Telangana,Kumuram Bheem Asifabad,
+Telangana,Mahabubabad,3.19
+Telangana,Mahabubnagar,3.44
+Telangana,Mancherial,3.13
+Telangana,Medak,3.5
+Telangana,Medchal Malkajgiri,
+Telangana,Mulugu,3.14
+Telangana,Nagarkurnool,3.4
+Telangana,Nalgonda,3.54
+Telangana,Narayanpet,3.35
+Telangana,Nirmal,3.32
+Telangana,Nizamabad,3.94
+Telangana,Peddapalli,3.66
+Telangana,Rajanna Sircilla,3.63
+Telangana,Ranga Reddy,3.62
+Telangana,Sangareddy,3.81
+Telangana,Siddipet,3.23
+Telangana,Suryapet,3.54
+Telangana,Vikarabad,3.24
+Telangana,Wanaparthy,3.52
+Telangana,Warangal,3.4
+Telangana,Yadadri Bhuvanagiri,3.48
+Tripura,Dhalai,2.85
+Tripura,Gomati,3.34
+Tripura,Khowai,3.2
+Tripura,North Tripura,3
+Tripura,Sepahijala,3.48
+Tripura,South Tripura,3.38
+Tripura,Unakoti,3.18
+Tripura,West Tripura,3.44
+Uttar Pradesh,Agra,2.69
+Uttar Pradesh,Aligarh,2.5
+Uttar Pradesh,Ambedkar Nagar,2.72
+Uttar Pradesh,Amethi,2.69
+Uttar Pradesh,Amroha,2.47
+Uttar Pradesh,Auraiya,3.7
+Uttar Pradesh,Ayodhya,
+Uttar Pradesh,Azamgarh,2.45
+Uttar Pradesh,Baghpat,2.79
+Uttar Pradesh,Bahraich,2.33
+Uttar Pradesh,Ballia,2.46
+Uttar Pradesh,Balrampur,2.13
+Uttar Pradesh,Banda,2.32
+Uttar Pradesh,Barabanki,2.44
+Uttar Pradesh,Bareilly,3
+Uttar Pradesh,Basti,2.72
+Uttar Pradesh,Bhadohi,
+Uttar Pradesh,Bijnor,2.53
+Uttar Pradesh,Budaun,2.55
+Uttar Pradesh,Bulandshahr,2.45
+Uttar Pradesh,Chandauli,3.32
+Uttar Pradesh,Chitrakoot,2.29
+Uttar Pradesh,Deoria,2.39
+Uttar Pradesh,Etah,2.69
+Uttar Pradesh,Etawah,3.02
+Uttar Pradesh,Farrukhabad,3.18
+Uttar Pradesh,Fatehpur,2.85
+Uttar Pradesh,Firozabad,2.94
+Uttar Pradesh,Gautam Buddha Nagar,2.2
+Uttar Pradesh,Ghaziabad,2.5
+Uttar Pradesh,Ghazipur,3.36
+Uttar Pradesh,Gonda,2.26
+Uttar Pradesh,Gorakhpur,2.39
+Uttar Pradesh,Hamirpur,2.41
+Uttar Pradesh,Hapur,2.4
+Uttar Pradesh,Hardoi,2.68
+Uttar Pradesh,Hathras,2.49
+Uttar Pradesh,Jalaun,1.34
+Uttar Pradesh,Jaunpur,2.82
+Uttar Pradesh,Jhansi,1.99
+Uttar Pradesh,Kannauj,2.98
+Uttar Pradesh,Kanpur Dehat,3.29
+Uttar Pradesh,Kanpur Nagar,2.99
+Uttar Pradesh,Kasganj,2.58
+Uttar Pradesh,Kaushambi,3.07
+Uttar Pradesh,Kheri,2.83
+Uttar Pradesh,Kushi Nagar,2.53
+Uttar Pradesh,Lalitpur,2.58
+Uttar Pradesh,Lucknow,2.62
+Uttar Pradesh,Maharajganj,2.59
+Uttar Pradesh,Mahoba,2.41
+Uttar Pradesh,Mainpuri,2.52
+Uttar Pradesh,Mathura,1.84
+Uttar Pradesh,Mau,2.56
+Uttar Pradesh,Meerut,2.47
+Uttar Pradesh,Mirzapur,3.27
+Uttar Pradesh,Moradabad,2.82
+Uttar Pradesh,Muzaffarnagar,2.59
+Uttar Pradesh,Pilibhit,3.25
+Uttar Pradesh,Pratapgarh,2.82
+Uttar Pradesh,Prayagraj,3.02
+Uttar Pradesh,Rae Bareli,2.82
+Uttar Pradesh,Rampur,2.75
+Uttar Pradesh,Saharanpur,2.46
+Uttar Pradesh,Sambhal,2.78
+Uttar Pradesh,Sant Kabeer Nagar,2.87
+Uttar Pradesh,Shahjahanpur,3.33
+Uttar Pradesh,Shamli,2.6
+Uttar Pradesh,Shravasti,2.16
+Uttar Pradesh,Siddharth Nagar,2.33
+Uttar Pradesh,Sitapur,2.12
+Uttar Pradesh,Sonbhadra,2.74
+Uttar Pradesh,Sultanpur,2.78
+Uttar Pradesh,Unnao,2.36
+Uttar Pradesh,Varanasi,2.82
+Uttarakhand,Almora,1.1
+Uttarakhand,Bageshwar,1.56
+Uttarakhand,Chamoli,1.45
+Uttarakhand,Champawat,1.29
+Uttarakhand,Dehradun,1.97
+Uttarakhand,Haridwar,2.26
+Uttarakhand,Nainital,3.03
+Uttarakhand,Pauri Garhwal,1.77
+Uttarakhand,Pithoragarh,1.3
+Uttarakhand,Rudra Prayag,1.42
+Uttarakhand,Tehri Garhwal,2.06
+Uttarakhand,Udam Singh Nagar,3.26
+Uttarakhand,Uttar Kashi,1.57
+West Bengal,24 Paraganas North,3.25
+West Bengal,24 Paraganas South,2.86
+West Bengal,Alipurduar,2.4
+West Bengal,Bankura,2.96
+West Bengal,Birbhum,3.23
+West Bengal,Coochbehar,3.1
+West Bengal,Darjeeling,2.42
+West Bengal,Dinajpur Dakshin,3.18
+West Bengal,Dinajpur Uttar,2.86
+West Bengal,Hooghly,3.31
+West Bengal,Howrah,2.84
+West Bengal,Jalpaiguri,2.7
+West Bengal,Jhargram,2.84
+West Bengal,Kalimpong,1.67
+West Bengal,Kolkata,
+West Bengal,Maldah,3.25
+West Bengal,Medinipur East,3.16
+West Bengal,Medinipur West,3.3
+West Bengal,Murshidabad,3.13
+West Bengal,Nadia,3.24
+West Bengal,Paschim Bardhaman,2.91
+West Bengal,Purba Bardhaman,3.15
+West Bengal,Purulia,2.38
