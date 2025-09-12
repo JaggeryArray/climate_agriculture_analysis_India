@@ -1,0 +1,4093 @@
+ <table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+      <thead>
+        <tr>
+          <th colspan="26"><p class=""><strong>Crop: <span id="selcrop">Cardamom</span></strong></p></th>
+        </tr>
+        <tr>
+          <th rowspan="2">S.No.</th>
+          <th rowspan="2">State</th>
+          <th rowspan="2">District</th>
+                    <th rowspan="">2000 - 2001</th>
+                  <th rowspan="">2001 - 2002</th>
+                  <th rowspan="">2002 - 2003</th>
+                  <th rowspan="">2003 - 2004</th>
+                  <th rowspan="">2004 - 2005</th>
+                  <th rowspan="">2005 - 2006</th>
+                  <th rowspan="">2006 - 2007</th>
+                  <th rowspan="">2007 - 2008</th>
+                  <th rowspan="">2008 - 2009</th>
+                  <th rowspan="">2009 - 2010</th>
+                  <th rowspan="">2010 - 2011</th>
+                  <th rowspan="">2011 - 2012</th>
+                  <th rowspan="">2012 - 2013</th>
+                  <th rowspan="">2013 - 2014</th>
+                  <th rowspan="">2014 - 2015</th>
+                  <th rowspan="">2015 - 2016</th>
+                  <th rowspan="">2016 - 2017</th>
+                  <th rowspan="">2017 - 2018</th>
+                  <th rowspan="">2018 - 2019</th>
+                  <th rowspan="">2019 - 2020</th>
+                  <th rowspan="">2020 - 2021</th>
+                  <th rowspan="">2021 - 2022</th>
+                  <th rowspan="">2022 - 2023</th>
+        
+        </tr>
+        <tr>
+                    <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                  <th rowspan="">Yield             (Ton./Ha.)          </th>
+                </tr>
+      </thead>
+
+      <tbody>
+                    <tr>
+
+              <td>1</td>
+              <td>Tamil Nadu</td>
+
+              <td>Madurai</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                5.50
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>2</td>
+              <td>West Bengal</td>
+
+              <td>Darjeeling</td>
+                            <td>
+                
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                2.87
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>3</td>
+              <td>Karnataka</td>
+
+              <td>Bangalore rural</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                2.00
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>4</td>
+              <td>Nagaland</td>
+
+              <td>Wokha</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                1.67
+              </td>
+                          <td>
+                0.50
+              </td>
+                          <td>
+                0.50
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>5</td>
+              <td>Nagaland</td>
+
+              <td>Mokokchung</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                1.65
+              </td>
+                          <td>
+                0.33
+              </td>
+                          <td>
+                1.00
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>6</td>
+              <td>Nagaland</td>
+
+              <td>Phek</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                1.63
+              </td>
+                          <td>
+                0.50
+              </td>
+                          <td>
+                0.15
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>7</td>
+              <td>Nagaland</td>
+
+              <td>Kohima</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                1.57
+              </td>
+                          <td>
+                0.60
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>8</td>
+              <td>Nagaland</td>
+
+              <td>Dimapur</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                1.54
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>9</td>
+              <td>Tamil Nadu</td>
+
+              <td>Virudhunagar</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.73
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>10</td>
+              <td>Kerala</td>
+
+              <td>Idukki</td>
+                            <td>
+                0.22
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.28
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.24
+              </td>
+                          <td>
+                0.21
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.28
+              </td>
+                          <td>
+                0.41
+              </td>
+                          <td>
+                0.47
+              </td>
+                          <td>
+                0.58
+              </td>
+                          <td>
+                0.53
+              </td>
+                          <td>
+                0.57
+              </td>
+                          <td>
+                0.36
+              </td>
+                          <td>
+                0.31
+              </td>
+                          <td>
+                0.64
+              </td>
+                          <td>
+                0.66
+              </td>
+                          <td>
+                0.67
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>11</td>
+              <td>Tamil Nadu</td>
+
+              <td>Vellore</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.50
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>12</td>
+              <td>Nagaland</td>
+
+              <td>Kiphire</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.50
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>13</td>
+              <td>Karnataka</td>
+
+              <td>Ramanagara</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.33
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.43
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>14</td>
+              <td>Karnataka</td>
+
+              <td>Mandya</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.15
+              </td>
+                          <td>
+                0.19
+              </td>
+                          <td>
+                0.22
+              </td>
+                          <td>
+                0.33
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>15</td>
+              <td>Karnataka</td>
+
+              <td>Chikballapur</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.33
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>16</td>
+              <td>Karnataka</td>
+
+              <td>Tumkur</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.16
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.19
+              </td>
+                          <td>
+                0.33
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>17</td>
+              <td>Tamil Nadu</td>
+
+              <td>Namakkal</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.30
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>18</td>
+              <td>Karnataka</td>
+
+              <td>Shimoga</td>
+                            <td>
+                0.08
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.16
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.19
+              </td>
+                          <td>
+                0.29
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>19</td>
+              <td>Karnataka</td>
+
+              <td>Uttar kannad</td>
+                            <td>
+                0.05
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.21
+              </td>
+                          <td>
+                0.23
+              </td>
+                          <td>
+                0.28
+              </td>
+                          <td>
+                0.20
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>20</td>
+              <td>Karnataka</td>
+
+              <td>Kodagu</td>
+                            <td>
+                0.06
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.21
+              </td>
+                          <td>
+                0.26
+              </td>
+                          <td>
+                0.27
+              </td>
+                          <td>
+                0.27
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>21</td>
+              <td>Nagaland</td>
+
+              <td>Mon</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>22</td>
+              <td>Karnataka</td>
+
+              <td>Mysore</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.20
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>23</td>
+              <td>Karnataka</td>
+
+              <td>Dakshin kannad</td>
+                            <td>
+                0.05
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.04
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.07
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>24</td>
+              <td>Karnataka</td>
+
+              <td>Chikmagalur</td>
+                            <td>
+                0.06
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.18
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.17
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>25</td>
+              <td>Karnataka</td>
+
+              <td>Udupi</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.18
+              </td>
+                          <td>
+                0.18
+              </td>
+                          <td>
+                0.25
+              </td>
+                          <td>
+                0.21
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>26</td>
+              <td>Karnataka</td>
+
+              <td>Belgaum</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.21
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>27</td>
+              <td>Karnataka</td>
+
+              <td>Chitradurga</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.20
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>28</td>
+              <td>Karnataka</td>
+
+              <td>Davangere</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.20
+              </td>
+                          <td>
+                0.03
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>29</td>
+              <td>Karnataka</td>
+
+              <td>Haveri</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.19
+              </td>
+                          <td>
+                0.10
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>30</td>
+              <td>Karnataka</td>
+
+              <td>Bengaluru urban</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.19
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>31</td>
+              <td>Karnataka</td>
+
+              <td>Gulbarga</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>32</td>
+              <td>Karnataka</td>
+
+              <td>Kolar</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>33</td>
+              <td>Karnataka</td>
+
+              <td>Chamarajanagar</td>
+                            <td>
+                0.07
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.06
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>34</td>
+              <td>Karnataka</td>
+
+              <td>Koppal</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>35</td>
+              <td>Kerala</td>
+
+              <td>Wayanad</td>
+                            <td>
+                0.06
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.15
+              </td>
+                          <td>
+                0.16
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                0.16
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.11
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>36</td>
+              <td>Nagaland</td>
+
+              <td>Zunheboto</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>37</td>
+              <td>Nagaland</td>
+
+              <td>Tuensang</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>38</td>
+              <td>Tamil Nadu</td>
+
+              <td>Erode</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.17
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>39</td>
+              <td>Karnataka</td>
+
+              <td>Hassan</td>
+                            <td>
+                0.05
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.14
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.15
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>40</td>
+              <td>Kerala</td>
+
+              <td>Kottayam</td>
+                            <td>
+                0.11
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.13
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>41</td>
+              <td>Kerala</td>
+
+              <td>Pathanamthitta</td>
+                            <td>
+                0.10
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.04
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.04
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>42</td>
+              <td>Kerala</td>
+
+              <td>Palakkad</td>
+                            <td>
+                0.06
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.12
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.03
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>43</td>
+              <td>Tamil Nadu</td>
+
+              <td>Dindigul</td>
+                            <td>
+                0.11
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>44</td>
+              <td>Tamil Nadu</td>
+
+              <td>Kanniyakumari</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.11
+              </td>
+                          <td>
+                0.08
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>45</td>
+              <td>Tamil Nadu</td>
+
+              <td>Salem</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.07
+              </td>
+                          <td>
+                0.05
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.06
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>46</td>
+              <td>Tamil Nadu</td>
+
+              <td>Tirunelveli</td>
+                            <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>47</td>
+              <td>Tamil Nadu</td>
+
+              <td>Thenkasi</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>48</td>
+              <td>Tamil Nadu</td>
+
+              <td>Theni</td>
+                            <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.10
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.10
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>49</td>
+              <td>Tamil Nadu</td>
+
+              <td>The nilgiris</td>
+                            <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.09
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>50</td>
+              <td>Tamil Nadu</td>
+
+              <td>Coimbatore</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.09
+              </td>
+                          <td>
+                0.08
+              </td>
+                          <td>
+                0.08
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>51</td>
+              <td>Kerala</td>
+
+              <td>Malappuram</td>
+                            <td>
+                
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.04
+              </td>
+                          <td>
+                0.04
+              </td>
+                          <td>
+                0.04
+              </td>
+                          <td>
+                0.04
+              </td>
+                          <td>
+                0.04
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.03
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>52</td>
+              <td>Kerala</td>
+
+              <td>Kozhikode</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.02
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                          <td>
+                0.01
+              </td>
+                        </tr>
+                        <tr>
+
+              <td>53</td>
+              <td>Kerala</td>
+
+              <td>Kasaragod</td>
+                            <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                0.00
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                          <td>
+                
+              </td>
+                        </tr>
+            
+      </tbody>
+    </table>
