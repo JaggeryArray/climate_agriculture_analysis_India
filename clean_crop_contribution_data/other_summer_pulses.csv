@@ -1,35 +1,33 @@
-Crop: Other Summer Pulses,,,,,,,,,
-S.No.,State,District,2016 - 2017,2017 - 2018,2018 - 2019,2019 - 2020,2020 - 2021,2021 - 2022,2022 - 2023
-,,,Yield (Ton./Ha.),Yield (Ton./Ha.),Yield (Ton./Ha.),Yield (Ton./Ha.),Yield (Ton./Ha.),Yield (Ton./Ha.),Yield (Ton./Ha.)
-1,Puducherry,Pondicherry,0.8,2.8,1,0.81,0.81,1,1
-2,Maharashtra,Beed,,,,1.28,0.31,0.35,0.71
-3,Maharashtra,Solapur,1,0.17,,1,0.57,,0.76
-4,Maharashtra,Ahilyanagar,1,0.2,1,0.94,0.52,0.57,0.72
-5,Maharashtra,Jalna,1,,,0.94,0.25,0.35,0.71
-6,Maharashtra,Chhatrapati Sambhajinagar,1,,,,,0.35,0.54
-7,Maharashtra,Kolhapur,1,0.55,0.33,0.46,0.56,0.47,0.59
-8,Maharashtra,Pune,1,,,0.99,0.31,0.57,0.76
-9,Maharashtra,Nashik,,0.43,0.77,,,,0.4
-10,Maharashtra,Nandurbar,0.75,0.33,0.42,0.43,0.41,0.41,0.48
-11,Maharashtra,Amravati,0.5,0.31,0.3,0.7,0.3,,
-12,Uttarakhand,Udam singh nagar,,,0.67,,,,
-13,Maharashtra,Buldhana,0.67,0.33,0.3,0.2,0.3,,
-14,Maharashtra,Chandrapur,0.4,0.4,0.6,0.23,0.36,0.36,0.4
-15,Maharashtra,Satara,,,,,,,0.59
-16,Uttarakhand,Haridwar,0.58,,,,,,
-17,Maharashtra,Gadchiroli,0.5,0.2,,0.42,0.28,0.28,
-18,Maharashtra,Nagpur,0.5,0.34,,0.24,0.48,,0.27
-19,Maharashtra,Yavatmal,0.5,0.38,0.15,0.23,0.27,,
-20,Maharashtra,Bhandara,0.5,0.15,0.17,0.26,0.32,0.3,0.27
-21,Maharashtra,Ratnagiri,,,,,,0.35,0.48
-22,Maharashtra,Jalgaon,,0.44,,0.25,0.31,0.31,0.34
-23,Maharashtra,Dhule,,,,,,0.41,
-24,Maharashtra,Gondia,0.3,0.4,0.4,0.28,0.39,,
-25,Maharashtra,Washim,0.4,0.39,0.25,0.26,0.3,,0.33
-26,Maharashtra,Raigad,,,,,,0.35,
-27,Maharashtra,Dharashiv,,,,,,0.35,0.31
-28,Maharashtra,Wardha,,,,,0.32,,
-29,Maharashtra,Parbhani,,,,,0.31,,0.31
-30,Maharashtra,Latur,,,,,0.07,,0.3
-31,Maharashtra,Akola,,,,0.19,0.19,,
-32,Maharashtra,Hingoli,,,,,0.07,,
+State,District,2016 - 2017,2017 - 2018,2018 - 2019,2019 - 2020,2020 - 2021,2021 - 2022,2022 - 2023
+Maharashtra,Ahmednagar,1.0,0.2,1.0,0.94,0.52,0.57,0.72
+Maharashtra,Akola,,,,0.19,0.19,,
+Maharashtra,Amravati,0.5,0.31,0.3,0.7,0.3,,
+Maharashtra,Aurangabad,1.0,,,,,0.35,0.54
+Maharashtra,Beed,,,,1.28,0.31,0.35,0.71
+Maharashtra,Bhandara,0.5,0.15,0.17,0.26,0.32,0.3,0.27
+Maharashtra,Buldhana,0.67,0.33,0.3,0.2,0.3,,
+Maharashtra,Chandrapur,0.4,0.4,0.6,0.23,0.36,0.36,0.4
+Maharashtra,Dhule,,,,,,0.41,
+Maharashtra,Gadchiroli,0.5,0.2,,0.42,0.28,0.28,
+Maharashtra,Gondia,0.3,0.4,0.4,0.28,0.39,,
+Maharashtra,Hingoli,,,,,0.07,,
+Maharashtra,Jalgaon,,0.44,,0.25,0.31,0.31,0.34
+Maharashtra,Jalna,1.0,,,0.94,0.25,0.35,0.71
+Maharashtra,Kolhapur,1.0,0.55,0.33,0.46,0.56,0.47,0.59
+Maharashtra,Latur,,,,,0.07,,0.3
+Maharashtra,Nagpur,0.5,0.34,,0.24,0.48,,0.27
+Maharashtra,Nandurbar,0.75,0.33,0.42,0.43,0.41,0.41,0.48
+Maharashtra,Nashik,,0.43,0.77,,,,0.4
+Maharashtra,Osmanabad,,,,,,0.35,0.31
+Maharashtra,Parbhani,,,,,0.31,,0.31
+Maharashtra,Pune,1.0,,,0.99,0.31,0.57,0.76
+Maharashtra,Raigad,,,,,,0.35,
+Maharashtra,Ratnagiri,,,,,,0.35,0.48
+Maharashtra,Satara,,,,,,,0.59
+Maharashtra,Solapur,1.0,0.17,,1.0,0.57,,0.76
+Maharashtra,Wardha,,,,,0.32,,
+Maharashtra,Washim,0.4,0.39,0.25,0.26,0.3,,0.33
+Maharashtra,Yavatmal,0.5,0.38,0.15,0.23,0.27,,
+Puducherry,Pondicherry,0.8,2.8,1.0,0.81,0.81,1.0,1.0
+Uttarakhand,Haridwar,0.58,,,,,,
+Uttarakhand,Udam Singh Nagar,,,0.67,,,,
