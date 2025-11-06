@@ -1,0 +1,127 @@
+State,District,Mean,Median,Max
+A & N Islands,Nicobars,0.4015000000000001,0.29,1.11
+A & N Islands,North And Middle Andaman,0.49187500000000006,0.43,1.58
+A & N Islands,South Andamans,0.7927777777777778,0.775,1.53
+Andhra Pradesh,Anantapur,0.49800000000000005,0.37,1.0
+Andhra Pradesh,Chittoor,0.47526315789473683,0.27,2.06
+Andhra Pradesh,East Godavari,0.3242105263157895,0.21,1.0
+Andhra Pradesh,Guntur,0.3088888888888888,0.27,0.84
+Andhra Pradesh,Krishna,0.44157894736842107,0.27,1.84
+Andhra Pradesh,Prakasam,0.9652631578947368,0.27,7.36
+Andhra Pradesh,Spsr Nellore,0.6452631578947368,0.28,6.3
+Andhra Pradesh,Srikakulam,0.47631578947368414,0.38,1.19
+Andhra Pradesh,Visakhapatanam,0.3652631578947368,0.27,1.0
+Andhra Pradesh,Vizianagaram,0.33421052631578946,0.27,1.0
+Andhra Pradesh,West Godavari,0.41789473684210526,0.33,1.14
+Andhra Pradesh,Y.s.r.,0.306875,0.31,0.5
+Goa,North Goa,0.4635714285714286,0.455,0.56
+Goa,South Goa,0.4228571428571429,0.44,0.49
+Karnataka,Bagalkote,1.4809090909090907,1.0,5.4
+Karnataka,Ballari,1.0457142857142856,1.14,1.41
+Karnataka,Belagavi,1.9193333333333333,1.46,8.0
+Karnataka,Bengaluru Rural,1.1506666666666665,0.81,4.67
+Karnataka,Bengaluru Urban,3.822857142857143,1.29,19.67
+Karnataka,Bidar,1.4264285714285714,0.8,8.09
+Karnataka,Chamarajanagara,1.2253333333333336,0.8,6.0
+Karnataka,Chikkaballapura,1.5346666666666666,1.19,7.36
+Karnataka,Chikkamagaluru,1.415333333333333,1.06,7.34
+Karnataka,Chitradurga,1.4,1.0,6.55
+Karnataka,Dakshina Kannada,1.2326666666666668,1.02,5.28
+Karnataka,Davangere,1.0953333333333333,0.81,3.83
+Karnataka,Dharwad,1.2086666666666666,0.8,5.54
+Karnataka,Gadag,1.7914285714285714,1.27,5.99
+Karnataka,Hassan,1.2635714285714283,0.81,5.91
+Karnataka,Haveri,1.3366666666666667,0.8,7.2
+Karnataka,Kalaburagi,1.0,1.0,1.0
+Karnataka,Kodagu,1.7420000000000002,1.16,9.21
+Karnataka,Kolar,1.428,0.76,7.87
+Karnataka,Koppal,2.712,1.26,8.8
+Karnataka,Mandya,1.1283333333333332,1.0,2.83
+Karnataka,Mysuru,1.2292857142857143,0.78,6.0
+Karnataka,Raichur,2.8333333333333335,1.5,6.0
+Karnataka,Ramanagara,1.4733333333333334,1.0,7.0
+Karnataka,Shivamogga,0.908,0.73,3.72
+Karnataka,Tumakuru,1.2326666666666666,0.8,5.88
+Karnataka,Udupi,1.074,0.47,6.76
+Karnataka,Uttara Kannada,1.602,1.38,8.64
+Karnataka,Vijayanagar,9.4,9.4,9.4
+Karnataka,Vijayapura,1.0,1.0,1.0
+Karnataka,Yadgir,1.35,1.35,1.5
+Kerala,Alappuzha,0.23869565217391306,0.21,0.39
+Kerala,Ernakulam,0.347391304347826,0.31,0.49
+Kerala,Idukki,0.37086956521739134,0.34,0.62
+Kerala,Kannur,0.9465217391304346,0.98,1.33
+Kerala,Kasaragod,0.7804347826086958,0.75,1.1
+Kerala,Kollam,0.4313043478260869,0.32,0.79
+Kerala,Kottayam,0.29478260869565215,0.3,0.42
+Kerala,Kozhikode,0.4134782608695652,0.38,0.66
+Kerala,Malappuram,0.38173913043478275,0.39,0.88
+Kerala,Palakkad,0.30391304347826087,0.26,0.51
+Kerala,Pathanamthitta,0.34826086956521746,0.32,0.56
+Kerala,Thiruvananthapuram,0.33826086956521745,0.31,0.58
+Kerala,Thrissur,0.3704347826086956,0.33,0.53
+Kerala,Wayanad,0.4878260869565217,0.42,0.88
+Manipur,Chandel,0.5833333333333334,0.64,0.71
+Manipur,Imphal East,0.4716666666666667,0.53,0.64
+Manipur,Ukhrul,0.54,0.54,0.54
+Meghalaya,East Garo Hills,1.110769230769231,1.08,1.25
+Meghalaya,North Garo Hills,1.0950000000000002,1.1,1.12
+Meghalaya,South Garo Hills,0.9353846153846155,0.98,1.07
+Meghalaya,South West Garo Hills,2.17375,1.94,2.61
+Meghalaya,West Garo Hills,2.089230769230769,1.89,2.72
+Puducherry,Karaikal,0.613,0.5,2.0
+Puducherry,Mahe,0.8370588235294117,0.64,2.0
+Puducherry,Pondicherry,0.5184999999999998,0.445,1.0
+Tamil Nadu,Ariyalur,0.23636363636363633,0.23,0.39
+Tamil Nadu,Chengalpattu,0.3466666666666667,0.32,0.42
+Tamil Nadu,Chennai,0.38,0.38,0.38
+Tamil Nadu,Coimbatore,0.38947368421052636,0.35,1.18
+Tamil Nadu,Cuddalore,0.5294736842105262,0.4,1.08
+Tamil Nadu,Dharmapuri,0.6466666666666666,0.5349999999999999,1.0
+Tamil Nadu,Dindigul,0.3563157894736842,0.34,0.57
+Tamil Nadu,Erode,0.46388888888888885,0.355,2.56
+Tamil Nadu,Kallakurichi,0.36999999999999994,0.39,0.42
+Tamil Nadu,Kanchipuram,0.3536842105263157,0.33,0.57
+Tamil Nadu,Kanniyakumari,0.40842105263157896,0.41,0.84
+Tamil Nadu,Karur,0.3510526315789474,0.36,0.57
+Tamil Nadu,Krishnagiri,0.386875,0.405,0.57
+Tamil Nadu,Madurai,0.35631578947368414,0.35,0.57
+Tamil Nadu,Mayiladuthurai,0.5033333333333333,0.42,0.78
+Tamil Nadu,Nagapattinam,0.5189473684210527,0.45,1.48
+Tamil Nadu,Namakkal,0.38,0.33,1.0
+Tamil Nadu,Perambalur,0.26999999999999996,0.25,0.5
+Tamil Nadu,Pudukkottai,0.19263157894736846,0.21,0.39
+Tamil Nadu,Ramanathapuram,0.3552631578947368,0.34,0.57
+Tamil Nadu,Ranipet,0.32666666666666666,0.3,0.43
+Tamil Nadu,Salem,0.3688235294117646,0.36,0.58
+Tamil Nadu,Sivaganga,0.1731578947368421,0.19,0.42
+Tamil Nadu,Tenkasi,0.11666666666666668,0.14,0.15
+Tamil Nadu,Thanjavur,0.5321052631578947,0.31,3.5
+Tamil Nadu,Theni,0.3884210526315789,0.35,1.08
+Tamil Nadu,Thiruvallur,0.3552631578947367,0.33,0.57
+Tamil Nadu,Thiruvarur,0.39999999999999997,0.33,0.67
+Tamil Nadu,Tiruchirappalli,0.3733333333333333,0.37,0.58
+Tamil Nadu,Tirunelveli,0.29105263157894734,0.17,0.85
+Tamil Nadu,Tiruppur,0.31181818181818177,0.3,0.5
+Tamil Nadu,Tiruvannamalai,0.44083333333333335,0.385,1.0
+Tamil Nadu,Tuticorin,0.3705263157894736,0.36,0.72
+Tamil Nadu,Vellore,0.36352941176470593,0.33,0.58
+Tamil Nadu,Villupuram,0.6210526315789474,0.47,3.0
+Tamil Nadu,Virudhunagar,0.3533333333333333,0.32499999999999996,0.57
+Telangana,Adilabad,0.3490909090909091,0.33,0.79
+Telangana,Bhadradri Kothagudem,0.34714285714285714,0.31,0.62
+Telangana,Jayashankar Bhupalapally,0.365,0.365,0.41
+Telangana,Kamareddy,0.5,0.5,0.5
+Telangana,Khammam,0.39571428571428563,0.34,0.77
+Telangana,Kumuram Bheem Asifabad,0.346,0.27,0.63
+Telangana,Mahabubnagar,0.28200000000000003,0.33,0.44
+Telangana,Mancherial,0.40166666666666667,0.31,0.9
+Telangana,Medak,0.31625,0.2,1.0
+Telangana,Medchal Malkajgiri,1.0,1.0,1.0
+Telangana,Mulugu,0.34,0.3,0.67
+Telangana,Nalgonda,0.36250000000000004,0.30000000000000004,0.6
+Telangana,Ranga Reddy,0.28200000000000003,0.25,0.33
+Telangana,Sangareddy,0.51,0.33,1.07
+Telangana,Siddipet,0.75,0.75,1.0
+Telangana,Warangal,1.0,1.0,1.0
+Telangana,Yadadri Bhuvanagiri,0.67,0.67,0.67

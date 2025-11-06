@@ -1,0 +1,428 @@
+State,District,Mean,Median,Max
+Andhra Pradesh,Anantapur,1.0666666666666667,1.085,1.84
+Andhra Pradesh,Annamayya,2.0,2.0,2.0
+Andhra Pradesh,Bapatla,1.84,1.84,1.84
+Andhra Pradesh,Chittoor,1.73,1.73,1.82
+Andhra Pradesh,East Godavari,1.2750000000000001,1.195,2.27
+Andhra Pradesh,Guntur,1.524,1.6,2.91
+Andhra Pradesh,Krishna,0.56,0.56,0.56
+Andhra Pradesh,Kurnool,1.5,1.61,1.96
+Andhra Pradesh,Nandyal,1.84,1.84,1.84
+Andhra Pradesh,Palnadu,1.84,1.84,1.84
+Andhra Pradesh,Prakasam,1.6,1.62,2.29
+Andhra Pradesh,Spsr Nellore,1.7766666666666666,1.8,1.86
+Andhra Pradesh,Sri Sathya Sai,1.85,1.85,1.85
+Andhra Pradesh,Vizianagaram,2.0,2.0,2.0
+Andhra Pradesh,Y.s.r.,1.3771428571428572,1.56,2.0
+Arunachal Pradesh,Anjaw,1.4014285714285712,1.43,2.25
+Arunachal Pradesh,Changlang,2.27,2.9,2.98
+Arunachal Pradesh,Dibang Valley,0.8057142857142858,0.73,1.23
+Arunachal Pradesh,East Kameng,1.2214285714285715,1.05,1.64
+Arunachal Pradesh,East Siang,1.197142857142857,1.04,1.56
+Arunachal Pradesh,Kamle,0.9420000000000002,0.91,1.44
+Arunachal Pradesh,Kra Daadi,1.9371428571428573,0.71,9.5
+Arunachal Pradesh,Kurung Kumey,1.8585714285714285,1.23,2.91
+Arunachal Pradesh,Leparada,1.645,1.6800000000000002,2.0
+Arunachal Pradesh,Lohit,0.55,0.19,1.48
+Arunachal Pradesh,Longding,1.3171428571428574,1.53,1.53
+Arunachal Pradesh,Lower Dibang Valley,1.282857142857143,1.38,1.43
+Arunachal Pradesh,Lower Siang,1.9400000000000002,2.37,2.41
+Arunachal Pradesh,Lower Subansiri,1.4257142857142857,1.21,3.09
+Arunachal Pradesh,Namsai,2.0042857142857144,2.17,2.17
+Arunachal Pradesh,Pakke Kessang,1.2600000000000002,1.1400000000000001,1.73
+Arunachal Pradesh,Papum Pare,0.9571428571428573,0.94,1.15
+Arunachal Pradesh,Shi Yomi,1.0925,1.0699999999999998,1.33
+Arunachal Pradesh,Siang,3.878571428571429,5.37,5.5
+Arunachal Pradesh,Tawang,1.5299999999999998,1.51,1.78
+Arunachal Pradesh,Tirap,1.5871428571428574,1.48,2.69
+Arunachal Pradesh,Upper Siang,1.3450000000000002,1.3450000000000002,1.36
+Arunachal Pradesh,Upper Subansiri,0.9528571428571428,0.65,2.11
+Arunachal Pradesh,West Kameng,1.162857142857143,1.04,1.62
+Arunachal Pradesh,West Siang,1.5042857142857144,1.44,2.62
+Bihar,Begusarai,0.7225,0.76,0.91
+Bihar,Khagaria,0.6074999999999999,0.575,1.05
+Bihar,Lakhisarai,0.6666666666666666,0.75,0.78
+Bihar,Samastipur,1.1350000000000002,0.825,2.43
+Chhattisgarh,Balod,0.7414285714285713,0.74,1.13
+Chhattisgarh,Baloda Bazar,1.0758333333333334,0.9550000000000001,1.93
+Chhattisgarh,Balrampur,1.2716666666666667,0.6599999999999999,7.92
+Chhattisgarh,Bastar,1.2255555555555557,1.225,1.76
+Chhattisgarh,Bemetara,0.6636363636363636,0.62,1.02
+Chhattisgarh,Bijapur,1.0,1.0,1.0
+Chhattisgarh,Bilaspur,1.0295454545454545,1.025,1.52
+Chhattisgarh,Dantewada,1.0943749999999999,1.0,2.0
+Chhattisgarh,Dhamtari,1.126,1.2,1.45
+Chhattisgarh,Durg,0.7695652173913043,0.81,1.17
+Chhattisgarh,Gariyaband,1.0,1.0,1.0
+Chhattisgarh,Gaurella Pendra Marwahi,1.2433333333333334,1.33,1.4
+Chhattisgarh,Janjgir-Champa,1.0794736842105264,1.07,1.63
+Chhattisgarh,Jashpur,0.8733333333333334,0.855,1.2
+Chhattisgarh,Kabirdham,0.8756521739130436,0.89,1.35
+Chhattisgarh,Kanker,0.9353846153846154,1.0,1.5
+Chhattisgarh,Khairgarh Chhuikhadan Gandai,0.98,0.98,0.98
+Chhattisgarh,Kondagaon,1.0,1.0,1.0
+Chhattisgarh,Korba,0.8726666666666667,1.0,1.33
+Chhattisgarh,Korea,0.6382352941176471,0.67,1.0
+Chhattisgarh,Mahasamund,1.2826666666666666,1.2,2.0
+Chhattisgarh,Mungeli,1.0358333333333332,0.965,1.73
+Chhattisgarh,Raigarh,0.84625,0.94,1.23
+Chhattisgarh,Raipur,1.1930434782608696,1.15,1.93
+Chhattisgarh,Rajnandgaon,0.8695652173913043,0.85,1.32
+Chhattisgarh,Sukma,1.3333333333333333,1.0,2.0
+Chhattisgarh,Surajpur,0.64625,0.7,1.0
+Chhattisgarh,Surguja,0.7252631578947369,0.74,1.13
+Gujarat,Ahmadabad,1.1199999999999999,1.0,1.68
+Gujarat,Amreli,1.276,1.36,1.95
+Gujarat,Anand,1.22,1.0,1.8
+Gujarat,Arvalli,2.0777777777777775,1.37,8.48
+Gujarat,Banas Kantha,1.6549999999999998,1.6549999999999998,1.68
+Gujarat,Bharuch,1.1228571428571428,1.24,1.4
+Gujarat,Bhavnagar,1.6749999999999998,1.6749999999999998,1.68
+Gujarat,Botad,1.5566666666666666,1.63,1.68
+Gujarat,Chhotaudepur,1.278888888888889,1.4,1.75
+Gujarat,Dang,0.8390000000000001,0.755,1.36
+Gujarat,Devbhumi Dwarka,1.7,1.68,1.75
+Gujarat,Dohad,0.9638461538461538,0.79,2.01
+Gujarat,Gandhinagar,1.3875,1.495,1.68
+Gujarat,Gir Somnath,1.6733333333333336,1.61,1.91
+Gujarat,Jamnagar,1.0516666666666665,1.125,1.68
+Gujarat,Junagadh,1.1788888888888889,1.0,1.95
+Gujarat,Kachchh,1.11,0.88,1.65
+Gujarat,Kheda,1.0745454545454547,0.8,1.6
+Gujarat,Mahesana,1.4175,1.495,1.68
+Gujarat,Mahisagar,1.1055555555555554,1.13,1.51
+Gujarat,Morbi,1.2711111111111113,1.5,1.95
+Gujarat,Narmada,1.1118181818181816,0.88,1.51
+Gujarat,Panch Mahals,1.1184615384615384,1.11,1.8
+Gujarat,Patan,1.2550000000000001,1.2550000000000001,1.61
+Gujarat,Porbandar,1.6549999999999998,1.6549999999999998,1.68
+Gujarat,Rajkot,0.9844444444444443,0.69,2.19
+Gujarat,Sabar Kantha,1.171,0.905,1.85
+Gujarat,Surat,0.9708333333333333,0.89,1.39
+Gujarat,Surendranagar,1.5566666666666666,1.63,1.68
+Gujarat,Tapi,1.13,1.05,1.79
+Gujarat,Vadodara,1.0561538461538462,0.85,1.64
+Haryana,Hisar,0.6,0.6,0.6
+Himachal Pradesh,Bilaspur,1.3529411764705883,1.56,1.71
+Himachal Pradesh,Chamba,1.5,1.5,1.5
+Himachal Pradesh,Hamirpur,1.0,1.0,1.0
+Himachal Pradesh,Kangra,1.3261904761904761,1.38,1.68
+Himachal Pradesh,Kullu,1.3385714285714285,1.5,1.75
+Himachal Pradesh,Mandi,1.437142857142857,1.64,1.91
+Himachal Pradesh,Shimla,1.5733333333333337,1.61,2.8
+Himachal Pradesh,Sirmaur,1.293,1.44,1.73
+Himachal Pradesh,Solan,1.3552380952380954,1.36,1.7
+Jharkhand,Bokaro,1.4000000000000001,1.59,1.6
+Jharkhand,Chatra,1.4966666666666668,1.82,1.84
+Jharkhand,Deoghar,0.9400000000000001,1.0,1.0
+Jharkhand,Dumka,0.6375000000000001,0.63,0.69
+Jharkhand,East Singhbum,0.5925,0.565,0.79
+Jharkhand,Garhwa,0.4066666666666667,0.31,0.61
+Jharkhand,Giridih,0.48333333333333334,0.48,0.49
+Jharkhand,Godda,0.945,0.945,0.95
+Jharkhand,Hazaribagh,0.51,0.51,0.51
+Jharkhand,Jamtara,1.33,1.33,1.33
+Jharkhand,Khunti,0.7200000000000001,0.8,0.91
+Jharkhand,Koderma,0.82,0.8,1.17
+Jharkhand,Latehar,1.11,1.11,1.11
+Jharkhand,Lohardaga,0.85,0.85,0.85
+Jharkhand,Pakur,0.595,0.65,0.65
+Jharkhand,Palamu,0.9620000000000001,1.0,1.0
+Jharkhand,Ramgarh,0.51,0.51,0.51
+Jharkhand,Ranchi,0.64,0.6,0.8
+Jharkhand,Sahebganj,0.75,0.75,0.75
+Jharkhand,Saraikela Kharsawan,0.79,0.8,1.04
+Jharkhand,Simdega,1.0999999999999999,1.0,1.5
+Jharkhand,West Singhbhum,1.0466666666666666,0.84,1.47
+Karnataka,Bagalkote,0.9317391304347824,0.96,1.35
+Karnataka,Ballari,1.1133333333333333,1.135,1.19
+Karnataka,Belagavi,0.8373913043478263,0.86,1.26
+Karnataka,Bengaluru Rural,1.098,1.07,1.25
+Karnataka,Bengaluru Urban,1.0,1.0,1.0
+Karnataka,Bidar,0.9495652173913042,0.84,1.82
+Karnataka,Chamarajanagara,1.0928571428571427,1.13,1.21
+Karnataka,Chikkaballapura,1.08,1.11,1.18
+Karnataka,Chikkamagaluru,1.1028571428571428,1.13,1.21
+Karnataka,Chitradurga,1.0599999999999998,1.1349999999999998,1.18
+Karnataka,Davangere,1.0533333333333335,1.15,1.53
+Karnataka,Dharwad,0.7613043478260869,0.74,1.33
+Karnataka,Gadag,0.8735714285714286,0.77,1.5
+Karnataka,Hassan,0.968,1.025,1.2
+Karnataka,Haveri,0.7482608695652173,0.82,1.17
+Karnataka,Kalaburagi,0.8839130434782608,0.81,1.96
+Karnataka,Kolar,1.0975,1.0699999999999998,1.25
+Karnataka,Koppal,1.134,1.15,1.21
+Karnataka,Mandya,0.9000000000000001,0.9199999999999999,1.21
+Karnataka,Mysuru,0.9141666666666667,0.915,1.21
+Karnataka,Raichur,1.126,1.12,1.23
+Karnataka,Ramanagara,1.04,1.0,1.2
+Karnataka,Shivamogga,1.0459999999999998,1.02,1.5
+Karnataka,Tumakuru,0.854375,0.845,1.17
+Karnataka,Uttara Kannada,0.9031249999999998,0.9099999999999999,1.57
+Karnataka,Vijayanagar,1.18,1.18,1.18
+Karnataka,Vijayapura,0.8963636363636364,0.97,1.21
+Karnataka,Yadgir,1.09,1.08,1.2
+Kerala,Palakkad,1.3325,1.415,1.5
+Madhya Pradesh,Agar Malwa,0.8266666666666668,0.76,1.3
+Madhya Pradesh,Alirajpur,0.8486666666666669,0.75,1.82
+Madhya Pradesh,Anuppur,0.6719999999999999,0.625,1.33
+Madhya Pradesh,Ashoknagar,1.0735000000000001,1.03,2.09
+Madhya Pradesh,Balaghat,1.1963157894736844,1.2,1.74
+Madhya Pradesh,Barwani,0.82,0.63,2.05
+Madhya Pradesh,Betul,0.968695652173913,1.02,2.06
+Madhya Pradesh,Bhind,0.8938095238095238,0.82,2.0
+Madhya Pradesh,Bhopal,1.0273913043478262,1.04,1.45
+Madhya Pradesh,Burhanpur,0.8525,0.715,1.67
+Madhya Pradesh,Chhatarpur,0.7056521739130434,0.6,1.44
+Madhya Pradesh,Chhindwara,1.2834782608695652,1.21,2.49
+Madhya Pradesh,Damoh,0.9473913043478263,0.95,1.46
+Madhya Pradesh,Datia,0.7578260869565218,0.75,1.27
+Madhya Pradesh,Dewas,1.0869565217391304,1.16,1.6
+Madhya Pradesh,Dhar,1.2486956521739128,1.31,1.66
+Madhya Pradesh,Dindori,0.7652173913043478,0.71,1.3
+Madhya Pradesh,East Nimar,0.6513043478260869,0.6,1.35
+Madhya Pradesh,Guna,0.9213043478260871,0.98,1.59
+Madhya Pradesh,Gwalior,1.509565217391304,1.5,2.25
+Madhya Pradesh,Harda,1.0982608695652174,1.2,1.81
+Madhya Pradesh,Indore,1.1986956521739132,1.14,1.77
+Madhya Pradesh,Jabalpur,0.9404347826086957,0.93,1.37
+Madhya Pradesh,Jhabua,0.8100000000000002,0.76,1.61
+Madhya Pradesh,Katni,0.818181818181818,0.825,1.44
+Madhya Pradesh,Khargone,0.8186956521739132,0.71,1.6
+Madhya Pradesh,Mandla,0.729090909090909,0.73,1.33
+Madhya Pradesh,Mandsaur,0.9091304347826086,0.88,1.78
+Madhya Pradesh,Morena,1.2240909090909091,1.2650000000000001,1.66
+Madhya Pradesh,Narmadapuram,0.8813043478260868,0.99,1.65
+Madhya Pradesh,Narsinghpur,1.292608695652174,1.35,2.2
+Madhya Pradesh,Neemuch,0.8847826086956523,0.84,1.57
+Madhya Pradesh,Niwari,0.8166666666666668,0.83,1.06
+Madhya Pradesh,Panna,0.7421739130434782,0.68,1.17
+Madhya Pradesh,Raisen,0.7934782608695652,0.79,1.26
+Madhya Pradesh,Rajgarh,0.8791304347826087,0.89,1.35
+Madhya Pradesh,Ratlam,1.0082608695652175,0.98,1.82
+Madhya Pradesh,Rewa,0.6969565217391305,0.65,1.32
+Madhya Pradesh,Sagar,0.8395652173913043,0.83,1.31
+Madhya Pradesh,Satna,0.538695652173913,0.51,2.04
+Madhya Pradesh,Sehore,1.0686956521739128,1.17,1.53
+Madhya Pradesh,Seoni,0.9117391304347828,0.94,1.38
+Madhya Pradesh,Shahdol,0.7334782608695652,0.63,1.79
+Madhya Pradesh,Shajapur,0.903913043478261,0.93,1.49
+Madhya Pradesh,Sheopur,1.1078260869565215,1.14,1.73
+Madhya Pradesh,Shivpuri,0.8113043478260868,0.82,1.63
+Madhya Pradesh,Sidhi,0.5366666666666666,0.49,1.5
+Madhya Pradesh,Singrauli,0.22,0.22,0.24
+Madhya Pradesh,Tikamgarh,0.8547826086956524,0.8,1.66
+Madhya Pradesh,Ujjain,1.0152173913043476,1.09,1.48
+Madhya Pradesh,Umaria,0.5113043478260869,0.45,1.14
+Madhya Pradesh,Vidisha,0.9747826086956521,1.01,1.36
+Maharashtra,Ahmednagar,1.1491304347826086,1.13,2.09
+Maharashtra,Akola,1.1330434782608696,1.09,2.0
+Maharashtra,Amravati,0.9978260869565219,0.96,1.7
+Maharashtra,Aurangabad,1.0413043478260868,1.05,2.13
+Maharashtra,Beed,0.981304347826087,0.93,1.98
+Maharashtra,Bhandara,0.942173913043478,0.94,1.73
+Maharashtra,Buldhana,1.2595652173913046,1.35,2.01
+Maharashtra,Chandrapur,1.0030434782608695,1.0,1.6
+Maharashtra,Dhule,1.3221739130434782,1.35,2.23
+Maharashtra,Gadchiroli,1.0695652173913044,1.0,2.3
+Maharashtra,Gondia,0.9,1.0,1.0
+Maharashtra,Hingoli,1.2086956521739132,1.2,1.98
+Maharashtra,Jalgaon,1.6239130434782607,1.77,2.53
+Maharashtra,Jalna,1.1626086956521737,1.2,2.0
+Maharashtra,Kolhapur,2.071304347826087,2.14,2.79
+Maharashtra,Latur,1.1404347826086956,1.1,2.36
+Maharashtra,Nagpur,0.9304347826086956,1.0,1.67
+Maharashtra,Nanded,1.0191304347826087,1.08,1.61
+Maharashtra,Nandurbar,1.3582608695652176,1.38,2.02
+Maharashtra,Nashik,1.5269565217391303,1.5,2.25
+Maharashtra,Osmanabad,0.9108695652173914,0.91,2.03
+Maharashtra,Parbhani,1.075217391304348,1.11,1.74
+Maharashtra,Pune,2.0821739130434787,2.0,3.88
+Maharashtra,Sangli,1.782173913043478,1.67,2.64
+Maharashtra,Satara,1.8282608695652172,1.81,2.47
+Maharashtra,Solapur,1.1839130434782608,1.17,2.39
+Maharashtra,Wardha,1.046086956521739,1.1,1.61
+Maharashtra,Washim,1.1434782608695655,1.29,1.75
+Maharashtra,Yavatmal,0.978695652173913,1.09,1.64
+Manipur,Bishnupur,0.8616666666666667,0.87,1.0
+Manipur,Chandel,0.9752941176470588,0.99,1.21
+Manipur,Churachandpur,0.7563636363636362,0.79,0.89
+Manipur,Imphal East,0.8354545454545454,0.85,0.92
+Manipur,Imphal West,0.8781818181818182,0.9,0.96
+Manipur,Senapati,0.8359999999999999,0.86,1.22
+Manipur,Tamenglong,0.7750000000000001,0.835,1.0
+Manipur,Thoubal,0.8799999999999999,0.86,1.25
+Manipur,Ukhrul,0.8078571428571427,0.8200000000000001,1.22
+Meghalaya,East Garo Hills,0.9845,1.01,1.06
+Meghalaya,East Jaintia Hills,1.3314999999999997,1.435,1.63
+Meghalaya,East Khasi Hills,1.1155,1.19,1.27
+Meghalaya,North Garo Hills,1.0680000000000003,1.06,1.11
+Meghalaya,Ri Bhoi,1.1735000000000002,1.225,1.31
+Meghalaya,South Garo Hills,1.656,2.0,2.13
+Meghalaya,South West Garo Hills,5.950999999999999,5.91,6.17
+Meghalaya,South West Khasi Hills,1.3689999999999998,1.355,1.6
+Meghalaya,West Garo Hills,3.5459999999999994,5.745,6.12
+Meghalaya,West Jaintia Hills,1.4600000000000004,1.46,1.5
+Meghalaya,West Khasi Hills,0.9635,1.08,1.17
+Mizoram,Aizawl,1.5394736842105265,1.48,3.71
+Mizoram,Champhai,1.0473684210526315,1.02,1.85
+Mizoram,Hnahthial,1.3966666666666667,1.45,1.67
+Mizoram,Khawzawl,1.0599999999999998,1.0,1.38
+Mizoram,Kolasib,1.9010526315789473,1.73,3.6
+Mizoram,Lawngtlai,1.014,1.15,1.48
+Mizoram,Lunglei,1.2889473684210526,1.2,3.32
+Mizoram,Mamit,1.385,1.2850000000000001,2.43
+Mizoram,Saiha,0.855,0.86,1.4
+Mizoram,Saitual,1.2133333333333332,1.22,1.22
+Mizoram,Serchhip,1.6486666666666665,1.8,2.01
+Nagaland,Chumoukedima,1.28,1.28,1.28
+Nagaland,Dimapur,1.3022727272727268,1.24,1.95
+Nagaland,Kiphire,1.226,1.22,1.54
+Nagaland,Kohima,1.3856521739130434,1.27,2.33
+Nagaland,Longleng,1.236666666666667,1.22,1.65
+Nagaland,Mokokchung,1.233478260869565,1.22,1.6
+Nagaland,Mon,1.2386956521739132,1.25,1.54
+Nagaland,Niuland,1.28,1.28,1.28
+Nagaland,Noklak,1.245,1.245,1.25
+Nagaland,Peren,1.23,1.21,1.59
+Nagaland,Phek,1.3017391304347825,1.27,1.81
+Nagaland,Shamator,1.25,1.25,1.25
+Nagaland,Tseminyu,1.26,1.26,1.26
+Nagaland,Tuensang,1.254782608695652,1.24,1.64
+Nagaland,Wokha,1.2634782608695652,1.24,1.63
+Nagaland,Zunheboto,1.2895652173913046,1.28,1.61
+Rajasthan,Ajmer,1.0461904761904761,1.0,2.0
+Rajasthan,Alwar,1.0,1.0,1.0
+Rajasthan,Banswara,1.0634782608695654,1.07,1.77
+Rajasthan,Baran,1.129565217391304,1.12,1.9
+Rajasthan,Barmer,1.0,1.0,1.0
+Rajasthan,Bharatpur,0.9638461538461539,1.0,1.53
+Rajasthan,Bhilwara,1.0721739130434786,1.09,1.53
+Rajasthan,Bikaner,1.5,1.5,1.5
+Rajasthan,Bundi,1.0765217391304345,1.15,1.5
+Rajasthan,Chittorgarh,0.9826086956521738,0.95,1.51
+Rajasthan,Dausa,1.0425,1.0,1.5
+Rajasthan,Dholpur,1.1099999999999999,1.0899999999999999,1.5
+Rajasthan,Dungarpur,1.069130434782609,1.05,1.54
+Rajasthan,Ganganagar,1.04,1.04,1.33
+Rajasthan,Hanumangarh,1.014,1.0,1.4
+Rajasthan,Jaipur,1.055,1.0,1.6
+Rajasthan,Jalore,1.1666666666666667,1.0,1.5
+Rajasthan,Jhalawar,0.9973913043478262,1.04,1.55
+Rajasthan,Jhunjhunu,1.0,1.0,1.0
+Rajasthan,Jodhpur,1.165,1.165,1.33
+Rajasthan,Karauli,1.057222222222222,1.0,2.0
+Rajasthan,Kota,1.138695652173913,1.18,1.61
+Rajasthan,Nagaur,0.9444444444444444,1.0,1.0
+Rajasthan,Pali,1.0929411764705885,1.0,1.5
+Rajasthan,Pratapgarh,1.1533333333333333,1.19,1.56
+Rajasthan,Rajsamand,1.0688888888888888,1.05,1.5
+Rajasthan,Sawai Madhopur,1.193913043478261,1.21,1.68
+Rajasthan,Sikar,1.0483333333333333,1.0,1.29
+Rajasthan,Sirohi,1.2075,1.165,1.5
+Rajasthan,Tonk,1.068695652173913,1.09,1.55
+Rajasthan,Udaipur,1.0195652173913041,1.02,1.51
+Sikkim,Gangtok,0.9313636363636365,0.975,1.0
+Sikkim,Gyalshing,0.8965217391304349,0.92,1.0
+Sikkim,Mangan,1.1234782608695655,0.86,7.75
+Sikkim,Namchi,1.2378260869565212,0.97,8.86
+Sikkim,Pakyong,1.0,1.0,1.0
+Sikkim,Soreng,0.93,0.93,0.93
+Telangana,Adilabad,1.4033333333333335,1.475,1.95
+Telangana,Bhadradri Kothagudem,1.54,1.5,2.0
+Telangana,Jagitial,1.6414285714285715,1.6,1.92
+Telangana,Jangoan,1.52,1.585,1.75
+Telangana,Jayashankar Bhupalapally,1.535,1.585,1.8
+Telangana,Jogulamba Gadwal,1.4949999999999999,1.5550000000000002,1.76
+Telangana,Kamareddy,1.605714285714286,1.66,2.04
+Telangana,Karimnagar,1.5400000000000003,1.6150000000000002,2.0
+Telangana,Khammam,1.5125,1.56,1.67
+Telangana,Kumuram Bheem Asifabad,1.2457142857142858,1.22,1.35
+Telangana,Mahabubabad,1.58,1.63,1.83
+Telangana,Mahabubnagar,1.528888888888889,1.63,2.0
+Telangana,Mancherial,1.5942857142857143,1.62,1.75
+Telangana,Medak,1.293888888888889,1.325,2.0
+Telangana,Medchal Malkajgiri,1.5999999999999999,1.5,1.8
+Telangana,Mulugu,1.5,1.5,1.5
+Telangana,Nagarkurnool,1.38,1.38,1.6
+Telangana,Nalgonda,1.5916666666666668,1.5899999999999999,2.0
+Telangana,Narayanpet,1.7,1.7,1.7
+Telangana,Nirmal,1.4628571428571429,1.36,1.83
+Telangana,Nizamabad,1.7166666666666666,1.83,2.27
+Telangana,Peddapalli,1.71,1.71,1.92
+Telangana,Rajanna Sircilla,1.7633333333333334,1.775,2.0
+Telangana,Ranga Reddy,1.4756250000000004,1.6,2.0
+Telangana,Sangareddy,1.3957142857142857,1.46,1.53
+Telangana,Siddipet,1.558571428571429,1.6,1.77
+Telangana,Vikarabad,1.542857142857143,1.47,2.22
+Telangana,Wanaparthy,1.4799999999999998,1.59,1.71
+Telangana,Warangal,1.4542857142857144,1.58,1.82
+Telangana,Yadadri Bhuvanagiri,1.514,1.5,2.0
+Tripura,Dhalai,0.8174999999999999,0.815,0.89
+Tripura,Gomati,0.82,0.81,0.9
+Tripura,Khowai,0.7860000000000001,0.78,0.89
+Tripura,North Tripura,0.8,0.77,0.88
+Tripura,Sepahijala,0.794,0.81,0.88
+Tripura,South Tripura,0.7859999999999999,0.79,0.89
+Tripura,Unakoti,0.792,0.8,0.85
+Tripura,West Tripura,0.8400000000000001,0.8300000000000001,0.94
+Uttar Pradesh,Agra,1.0,1.0,1.0
+Uttar Pradesh,Auraiya,1.0,1.0,1.0
+Uttar Pradesh,Azamgarh,1.25,1.25,1.5
+Uttar Pradesh,Bahraich,0.7299999999999999,0.69,1.42
+Uttar Pradesh,Banda,0.7618181818181817,0.715,1.41
+Uttar Pradesh,Barabanki,0.855,0.855,1.0
+Uttar Pradesh,Bareilly,0.8688888888888889,0.94,1.4
+Uttar Pradesh,Bhadohi,1.0,1.0,1.0
+Uttar Pradesh,Bijnor,0.79,0.8,1.0
+Uttar Pradesh,Budaun,0.592,0.63,1.0
+Uttar Pradesh,Chitrakoot,0.8247368421052631,0.71,1.42
+Uttar Pradesh,Deoria,0.67,0.67,0.67
+Uttar Pradesh,Etah,0.875,1.0,1.0
+Uttar Pradesh,Fatehpur,0.7075,0.75,1.0
+Uttar Pradesh,Gonda,0.6,0.6,0.6
+Uttar Pradesh,Hamirpur,0.7447826086956522,0.72,1.41
+Uttar Pradesh,Hardoi,0.7209090909090908,0.73,1.08
+Uttar Pradesh,Jalaun,0.7372727272727272,0.705,1.4
+Uttar Pradesh,Jaunpur,0.2,0.2,0.2
+Uttar Pradesh,Jhansi,0.7717391304347825,0.72,2.0
+Uttar Pradesh,Kannauj,0.8049999999999999,0.8049999999999999,1.0
+Uttar Pradesh,Kanpur Dehat,0.8041176470588235,0.78,1.41
+Uttar Pradesh,Kanpur Nagar,0.7745454545454545,0.72,1.33
+Uttar Pradesh,Kheri,0.6766666666666667,0.67,0.93
+Uttar Pradesh,Lalitpur,0.7508695652173915,0.73,1.41
+Uttar Pradesh,Lucknow,0.75,0.75,1.0
+Uttar Pradesh,Maharajganj,0.67,0.67,0.67
+Uttar Pradesh,Mahoba,0.7842857142857143,0.72,1.41
+Uttar Pradesh,Mathura,1.0,1.0,1.0
+Uttar Pradesh,Mirzapur,0.67,0.67,0.67
+Uttar Pradesh,Moradabad,0.7766666666666667,1.0,1.0
+Uttar Pradesh,Muzaffarnagar,0.7999999999999999,1.0,1.0
+Uttar Pradesh,Pilibhit,0.9144444444444445,0.875,1.67
+Uttar Pradesh,Prayagraj,0.655,0.655,0.73
+Uttar Pradesh,Rae Bareli,0.5,0.5,0.5
+Uttar Pradesh,Rampur,0.7816666666666666,0.755,1.41
+Uttar Pradesh,Shahjahanpur,0.8247368421052631,0.78,1.68
+Uttar Pradesh,Shravasti,0.86,0.86,0.86
+Uttar Pradesh,Siddharth Nagar,0.75,0.75,0.75
+Uttar Pradesh,Sitapur,0.558,0.62,1.0
+Uttar Pradesh,Unnao,0.6666666666666666,0.5,1.0
+Uttarakhand,Almora,1.0734782608695652,1.15,1.5
+Uttarakhand,Bageshwar,1.1195238095238098,1.2,1.43
+Uttarakhand,Chamoli,0.9652173913043479,1.0,1.36
+Uttarakhand,Champawat,1.0494999999999999,0.985,1.68
+Uttarakhand,Dehradun,0.8877272727272728,0.86,1.42
+Uttarakhand,Haridwar,0.9,1.0,1.0
+Uttarakhand,Nainital,1.4143478260869566,1.39,2.73
+Uttarakhand,Pauri Garhwal,0.7021739130434782,0.62,1.28
+Uttarakhand,Pithoragarh,1.2552173913043476,1.33,1.68
+Uttarakhand,Rudra Prayag,0.8578260869565216,0.83,1.98
+Uttarakhand,Tehri Garhwal,0.8600000000000001,0.9,1.28
+Uttarakhand,Udam Singh Nagar,1.2604347826086957,1.31,1.93
+Uttarakhand,Uttar Kashi,0.9634782608695653,0.98,1.65
+West Bengal,Bankura,0.45444444444444443,0.43,0.64
+West Bengal,Birbhum,0.8372727272727274,0.55,1.95
+West Bengal,Darjeeling,0.6772727272727272,0.6499999999999999,0.84
+West Bengal,Kalimpong,0.8500000000000001,0.8500000000000001,1.3
+West Bengal,Purba Bardhaman,0.7705882352941177,0.78,0.92
+West Bengal,Purulia,0.3975000000000001,0.395,0.41
