@@ -1,0 +1,774 @@
+feature,KMeans_Cluster,State,District
+A & N Islands_Nicobars,7,A & N Islands,Nicobars
+A & N Islands_North And Middle Andaman,14,A & N Islands,North And Middle Andaman
+A & N Islands_South Andamans,7,A & N Islands,South Andamans
+Andhra Pradesh_Alluri Sitharama Raju,9,Andhra Pradesh,Alluri Sitharama Raju
+Andhra Pradesh_Anakapalli,0,Andhra Pradesh,Anakapalli
+Andhra Pradesh_Anantapur,0,Andhra Pradesh,Anantapur
+Andhra Pradesh_Annamayya,0,Andhra Pradesh,Annamayya
+Andhra Pradesh_Bapatla,0,Andhra Pradesh,Bapatla
+Andhra Pradesh_Chittoor,0,Andhra Pradesh,Chittoor
+Andhra Pradesh_East Godavari,0,Andhra Pradesh,East Godavari
+Andhra Pradesh_Eluru,0,Andhra Pradesh,Eluru
+Andhra Pradesh_Guntur,0,Andhra Pradesh,Guntur
+Andhra Pradesh_Kakinada,0,Andhra Pradesh,Kakinada
+Andhra Pradesh_Konaseema,0,Andhra Pradesh,Konaseema
+Andhra Pradesh_Krishna,0,Andhra Pradesh,Krishna
+Andhra Pradesh_Kurnool,0,Andhra Pradesh,Kurnool
+Andhra Pradesh_Nandyal,0,Andhra Pradesh,Nandyal
+Andhra Pradesh_Ntr,0,Andhra Pradesh,Ntr
+Andhra Pradesh_Palnadu,0,Andhra Pradesh,Palnadu
+Andhra Pradesh_Parvathipuram Manyam,9,Andhra Pradesh,Parvathipuram Manyam
+Andhra Pradesh_Prakasam,0,Andhra Pradesh,Prakasam
+Andhra Pradesh_Spsr Nellore,7,Andhra Pradesh,Spsr Nellore
+Andhra Pradesh_Sri Sathya Sai,0,Andhra Pradesh,Sri Sathya Sai
+Andhra Pradesh_Srikakulam,9,Andhra Pradesh,Srikakulam
+Andhra Pradesh_Tirupati,7,Andhra Pradesh,Tirupati
+Andhra Pradesh_Visakhapatanam,0,Andhra Pradesh,Visakhapatanam
+Andhra Pradesh_Vizianagaram,0,Andhra Pradesh,Vizianagaram
+Andhra Pradesh_West Godavari,0,Andhra Pradesh,West Godavari
+Andhra Pradesh_Y.s.r.,0,Andhra Pradesh,Y.s.r.
+Arunachal Pradesh_Anjaw,1,Arunachal Pradesh,Anjaw
+Arunachal Pradesh_Changlang,8,Arunachal Pradesh,Changlang
+Arunachal Pradesh_Dibang Valley,4,Arunachal Pradesh,Dibang Valley
+Arunachal Pradesh_East Kameng,4,Arunachal Pradesh,East Kameng
+Arunachal Pradesh_East Siang,8,Arunachal Pradesh,East Siang
+Arunachal Pradesh_Itanagar Capital Complex,8,Arunachal Pradesh,Itanagar Capital Complex
+Arunachal Pradesh_Kamle,11,Arunachal Pradesh,Kamle
+Arunachal Pradesh_Kra Daadi,11,Arunachal Pradesh,Kra Daadi
+Arunachal Pradesh_Kurung Kumey,4,Arunachal Pradesh,Kurung Kumey
+Arunachal Pradesh_Leparada,8,Arunachal Pradesh,Leparada
+Arunachal Pradesh_Lohit,8,Arunachal Pradesh,Lohit
+Arunachal Pradesh_Longding,8,Arunachal Pradesh,Longding
+Arunachal Pradesh_Lower Dibang Valley,11,Arunachal Pradesh,Lower Dibang Valley
+Arunachal Pradesh_Lower Siang,8,Arunachal Pradesh,Lower Siang
+Arunachal Pradesh_Lower Subansiri,11,Arunachal Pradesh,Lower Subansiri
+Arunachal Pradesh_Namsai,3,Arunachal Pradesh,Namsai
+Arunachal Pradesh_Pakke Kessang,8,Arunachal Pradesh,Pakke Kessang
+Arunachal Pradesh_Papum Pare,11,Arunachal Pradesh,Papum Pare
+Arunachal Pradesh_Shi Yomi,11,Arunachal Pradesh,Shi Yomi
+Arunachal Pradesh_Siang,11,Arunachal Pradesh,Siang
+Arunachal Pradesh_Tawang,1,Arunachal Pradesh,Tawang
+Arunachal Pradesh_Tirap,8,Arunachal Pradesh,Tirap
+Arunachal Pradesh_Upper Siang,4,Arunachal Pradesh,Upper Siang
+Arunachal Pradesh_Upper Subansiri,11,Arunachal Pradesh,Upper Subansiri
+Arunachal Pradesh_West Kameng,11,Arunachal Pradesh,West Kameng
+Arunachal Pradesh_West Siang,11,Arunachal Pradesh,West Siang
+Assam_Bajali,3,Assam,Bajali
+Assam_Baksa,3,Assam,Baksa
+Assam_Barpeta,3,Assam,Barpeta
+Assam_Biswanath,3,Assam,Biswanath
+Assam_Bongaigaon,3,Assam,Bongaigaon
+Assam_Cachar,3,Assam,Cachar
+Assam_Charaideo,3,Assam,Charaideo
+Assam_Chirang,3,Assam,Chirang
+Assam_Darrang,3,Assam,Darrang
+Assam_Dhemaji,3,Assam,Dhemaji
+Assam_Dhubri,3,Assam,Dhubri
+Assam_Dibrugarh,3,Assam,Dibrugarh
+Assam_Dima Hasao,6,Assam,Dima Hasao
+Assam_Goalpara,3,Assam,Goalpara
+Assam_Golaghat,3,Assam,Golaghat
+Assam_Hailakandi,3,Assam,Hailakandi
+Assam_Hojai,3,Assam,Hojai
+Assam_Jorhat,3,Assam,Jorhat
+Assam_Kamrup,3,Assam,Kamrup
+Assam_Kamrup Metro,3,Assam,Kamrup Metro
+Assam_Karbi Anglong,3,Assam,Karbi Anglong
+Assam_Karimganj,3,Assam,Karimganj
+Assam_Kokrajhar,3,Assam,Kokrajhar
+Assam_Lakhimpur,3,Assam,Lakhimpur
+Assam_Majuli,3,Assam,Majuli
+Assam_Marigaon,3,Assam,Marigaon
+Assam_Nagaon,3,Assam,Nagaon
+Assam_Nalbari,3,Assam,Nalbari
+Assam_Sivasagar,3,Assam,Sivasagar
+Assam_Sonitpur,3,Assam,Sonitpur
+Assam_South Salmara Mancachar,3,Assam,South Salmara Mancachar
+Assam_Tamulpur,3,Assam,Tamulpur
+Assam_Tinsukia,3,Assam,Tinsukia
+Assam_Udalguri,3,Assam,Udalguri
+Assam_West Karbi Anglong,3,Assam,West Karbi Anglong
+Bihar_Araria,9,Bihar,Araria
+Bihar_Arwal,5,Bihar,Arwal
+Bihar_Aurangabad,5,Bihar,Aurangabad
+Bihar_Banka,5,Bihar,Banka
+Bihar_Begusarai,5,Bihar,Begusarai
+Bihar_Bhagalpur,5,Bihar,Bhagalpur
+Bihar_Bhojpur,5,Bihar,Bhojpur
+Bihar_Buxar,5,Bihar,Buxar
+Bihar_Darbhanga,5,Bihar,Darbhanga
+Bihar_Gaya,5,Bihar,Gaya
+Bihar_Gopalganj,5,Bihar,Gopalganj
+Bihar_Jamui,5,Bihar,Jamui
+Bihar_Jehanabad,5,Bihar,Jehanabad
+Bihar_Kaimur (Bhabua),5,Bihar,Kaimur (Bhabua)
+Bihar_Katihar,5,Bihar,Katihar
+Bihar_Khagaria,5,Bihar,Khagaria
+Bihar_Kishanganj,3,Bihar,Kishanganj
+Bihar_Lakhisarai,5,Bihar,Lakhisarai
+Bihar_Madhepura,5,Bihar,Madhepura
+Bihar_Madhubani,5,Bihar,Madhubani
+Bihar_Munger,5,Bihar,Munger
+Bihar_Muzaffarpur,5,Bihar,Muzaffarpur
+Bihar_Nalanda,5,Bihar,Nalanda
+Bihar_Nawada,5,Bihar,Nawada
+Bihar_Pashchim Champaran,5,Bihar,Pashchim Champaran
+Bihar_Patna,5,Bihar,Patna
+Bihar_Purbi Champaran,5,Bihar,Purbi Champaran
+Bihar_Purnia,5,Bihar,Purnia
+Bihar_Rohtas,5,Bihar,Rohtas
+Bihar_Saharsa,5,Bihar,Saharsa
+Bihar_Samastipur,5,Bihar,Samastipur
+Bihar_Saran,5,Bihar,Saran
+Bihar_Sheikhpura,5,Bihar,Sheikhpura
+Bihar_Sheohar,5,Bihar,Sheohar
+Bihar_Sitamarhi,5,Bihar,Sitamarhi
+Bihar_Siwan,5,Bihar,Siwan
+Bihar_Supaul,5,Bihar,Supaul
+Bihar_Vaishali,5,Bihar,Vaishali
+Chandigarh_Chandigarh,13,Chandigarh,Chandigarh
+Chhattisgarh_Balod,9,Chhattisgarh,Balod
+Chhattisgarh_Baloda Bazar,9,Chhattisgarh,Baloda Bazar
+Chhattisgarh_Balrampur,5,Chhattisgarh,Balrampur
+Chhattisgarh_Bastar,9,Chhattisgarh,Bastar
+Chhattisgarh_Bemetara,9,Chhattisgarh,Bemetara
+Chhattisgarh_Bijapur,9,Chhattisgarh,Bijapur
+Chhattisgarh_Bilaspur,9,Chhattisgarh,Bilaspur
+Chhattisgarh_Dantewada,9,Chhattisgarh,Dantewada
+Chhattisgarh_Dhamtari,9,Chhattisgarh,Dhamtari
+Chhattisgarh_Durg,9,Chhattisgarh,Durg
+Chhattisgarh_Gariyaband,9,Chhattisgarh,Gariyaband
+Chhattisgarh_Gaurella Pendra Marwahi,9,Chhattisgarh,Gaurella Pendra Marwahi
+Chhattisgarh_Janjgir-Champa,9,Chhattisgarh,Janjgir-Champa
+Chhattisgarh_Jashpur,9,Chhattisgarh,Jashpur
+Chhattisgarh_Kabirdham,9,Chhattisgarh,Kabirdham
+Chhattisgarh_Kanker,9,Chhattisgarh,Kanker
+Chhattisgarh_Khairgarh Chhuikhadan Gandai,9,Chhattisgarh,Khairgarh Chhuikhadan Gandai
+Chhattisgarh_Kondagaon,9,Chhattisgarh,Kondagaon
+Chhattisgarh_Korba,9,Chhattisgarh,Korba
+Chhattisgarh_Korea,5,Chhattisgarh,Korea
+Chhattisgarh_Mahasamund,9,Chhattisgarh,Mahasamund
+Chhattisgarh_Manendragarh Chirimiri Bharatpur,5,Chhattisgarh,Manendragarh Chirimiri Bharatpur
+Chhattisgarh_Mohla Manpur Ambagarh Chouki,9,Chhattisgarh,Mohla Manpur Ambagarh Chouki
+Chhattisgarh_Mungeli,9,Chhattisgarh,Mungeli
+Chhattisgarh_Narayanpur,9,Chhattisgarh,Narayanpur
+Chhattisgarh_Raigarh,9,Chhattisgarh,Raigarh
+Chhattisgarh_Raipur,9,Chhattisgarh,Raipur
+Chhattisgarh_Rajnandgaon,9,Chhattisgarh,Rajnandgaon
+Chhattisgarh_Sakti,9,Chhattisgarh,Sakti
+Chhattisgarh_Sarangarh Bilaigarh,9,Chhattisgarh,Sarangarh Bilaigarh
+Chhattisgarh_Sukma,9,Chhattisgarh,Sukma
+Chhattisgarh_Surajpur,5,Chhattisgarh,Surajpur
+Chhattisgarh_Surguja,9,Chhattisgarh,Surguja
+DNHDD_Dadra And Nagar Haveli,9,DNHDD,Dadra And Nagar Haveli
+DNHDD_Daman,9,DNHDD,Daman
+Delhi_Central,13,Delhi,Central
+Delhi_New Delhi,13,Delhi,New Delhi
+Delhi_North,13,Delhi,North
+Delhi_North West,13,Delhi,North West
+Delhi_South,13,Delhi,South
+Delhi_South East,13,Delhi,South East
+Delhi_South West,13,Delhi,South West
+Delhi_West,13,Delhi,West
+Goa_North Goa,14,Goa,North Goa
+Goa_South Goa,14,Goa,South Goa
+Gujarat_Ahmadabad,2,Gujarat,Ahmadabad
+Gujarat_Amreli,2,Gujarat,Amreli
+Gujarat_Anand,2,Gujarat,Anand
+Gujarat_Arvalli,2,Gujarat,Arvalli
+Gujarat_Banas Kantha,2,Gujarat,Banas Kantha
+Gujarat_Bharuch,2,Gujarat,Bharuch
+Gujarat_Bhavnagar,2,Gujarat,Bhavnagar
+Gujarat_Botad,2,Gujarat,Botad
+Gujarat_Chhotaudepur,2,Gujarat,Chhotaudepur
+Gujarat_Dang,9,Gujarat,Dang
+Gujarat_Devbhumi Dwarka,2,Gujarat,Devbhumi Dwarka
+Gujarat_Dohad,2,Gujarat,Dohad
+Gujarat_Gandhinagar,2,Gujarat,Gandhinagar
+Gujarat_Gir Somnath,2,Gujarat,Gir Somnath
+Gujarat_Jamnagar,2,Gujarat,Jamnagar
+Gujarat_Junagadh,2,Gujarat,Junagadh
+Gujarat_Kachchh,2,Gujarat,Kachchh
+Gujarat_Kheda,2,Gujarat,Kheda
+Gujarat_Mahesana,2,Gujarat,Mahesana
+Gujarat_Mahisagar,2,Gujarat,Mahisagar
+Gujarat_Morbi,2,Gujarat,Morbi
+Gujarat_Narmada,2,Gujarat,Narmada
+Gujarat_Navsari,9,Gujarat,Navsari
+Gujarat_Panch Mahals,2,Gujarat,Panch Mahals
+Gujarat_Patan,2,Gujarat,Patan
+Gujarat_Porbandar,2,Gujarat,Porbandar
+Gujarat_Rajkot,2,Gujarat,Rajkot
+Gujarat_Sabar Kantha,2,Gujarat,Sabar Kantha
+Gujarat_Surat,2,Gujarat,Surat
+Gujarat_Surendranagar,2,Gujarat,Surendranagar
+Gujarat_Tapi,2,Gujarat,Tapi
+Gujarat_Vadodara,2,Gujarat,Vadodara
+Gujarat_Valsad,9,Gujarat,Valsad
+Haryana_Ambala,13,Haryana,Ambala
+Haryana_Bhiwani,13,Haryana,Bhiwani
+Haryana_Charki Dadri,13,Haryana,Charki Dadri
+Haryana_Faridabad,13,Haryana,Faridabad
+Haryana_Fatehabad,13,Haryana,Fatehabad
+Haryana_Gurugram,13,Haryana,Gurugram
+Haryana_Hisar,13,Haryana,Hisar
+Haryana_Jhajjar,13,Haryana,Jhajjar
+Haryana_Jind,13,Haryana,Jind
+Haryana_Kaithal,13,Haryana,Kaithal
+Haryana_Karnal,13,Haryana,Karnal
+Haryana_Kurukshetra,13,Haryana,Kurukshetra
+Haryana_Mahendragarh,13,Haryana,Mahendragarh
+Haryana_Nuh,13,Haryana,Nuh
+Haryana_Palwal,13,Haryana,Palwal
+Haryana_Panchkula,13,Haryana,Panchkula
+Haryana_Panipat,13,Haryana,Panipat
+Haryana_Rewari,13,Haryana,Rewari
+Haryana_Rohtak,13,Haryana,Rohtak
+Haryana_Sirsa,13,Haryana,Sirsa
+Haryana_Sonipat,13,Haryana,Sonipat
+Haryana_Yamunanagar,13,Haryana,Yamunanagar
+Himachal Pradesh_Bilaspur,10,Himachal Pradesh,Bilaspur
+Himachal Pradesh_Chamba,1,Himachal Pradesh,Chamba
+Himachal Pradesh_Hamirpur,10,Himachal Pradesh,Hamirpur
+Himachal Pradesh_Kangra,10,Himachal Pradesh,Kangra
+Himachal Pradesh_Kinnaur,12,Himachal Pradesh,Kinnaur
+Himachal Pradesh_Kullu,1,Himachal Pradesh,Kullu
+Himachal Pradesh_Lahul And Spiti,12,Himachal Pradesh,Lahul And Spiti
+Himachal Pradesh_Mandi,10,Himachal Pradesh,Mandi
+Himachal Pradesh_Shimla,1,Himachal Pradesh,Shimla
+Himachal Pradesh_Sirmaur,10,Himachal Pradesh,Sirmaur
+Himachal Pradesh_Solan,10,Himachal Pradesh,Solan
+Himachal Pradesh_Una,10,Himachal Pradesh,Una
+Jammu & Kashmir_Anantnag,1,Jammu & Kashmir,Anantnag
+Jammu & Kashmir_Bandipora,1,Jammu & Kashmir,Bandipora
+Jammu & Kashmir_Baramulla,1,Jammu & Kashmir,Baramulla
+Jammu & Kashmir_Budgam,1,Jammu & Kashmir,Budgam
+Jammu & Kashmir_Doda,1,Jammu & Kashmir,Doda
+Jammu & Kashmir_Ganderbal,1,Jammu & Kashmir,Ganderbal
+Jammu & Kashmir_Jammu,10,Jammu & Kashmir,Jammu
+Jammu & Kashmir_Kathua,10,Jammu & Kashmir,Kathua
+Jammu & Kashmir_Kishtwar,12,Jammu & Kashmir,Kishtwar
+Jammu & Kashmir_Kulgam,1,Jammu & Kashmir,Kulgam
+Jammu & Kashmir_Kupwara,1,Jammu & Kashmir,Kupwara
+Jammu & Kashmir_Mirpur,10,Jammu & Kashmir,Mirpur
+Jammu & Kashmir_Muzaffarabad,1,Jammu & Kashmir,Muzaffarabad
+Jammu & Kashmir_Poonch,10,Jammu & Kashmir,Poonch
+Jammu & Kashmir_Pulwama,1,Jammu & Kashmir,Pulwama
+Jammu & Kashmir_Rajouri,10,Jammu & Kashmir,Rajouri
+Jammu & Kashmir_Ramban,1,Jammu & Kashmir,Ramban
+Jammu & Kashmir_Reasi,10,Jammu & Kashmir,Reasi
+Jammu & Kashmir_Samba,10,Jammu & Kashmir,Samba
+Jammu & Kashmir_Shopian,4,Jammu & Kashmir,Shopian
+Jammu & Kashmir_Srinagar,1,Jammu & Kashmir,Srinagar
+Jammu & Kashmir_Udhampur,10,Jammu & Kashmir,Udhampur
+Jharkhand_Bokaro,5,Jharkhand,Bokaro
+Jharkhand_Chatra,5,Jharkhand,Chatra
+Jharkhand_Deoghar,5,Jharkhand,Deoghar
+Jharkhand_Dhanbad,5,Jharkhand,Dhanbad
+Jharkhand_Dumka,5,Jharkhand,Dumka
+Jharkhand_East Singhbum,5,Jharkhand,East Singhbum
+Jharkhand_Garhwa,5,Jharkhand,Garhwa
+Jharkhand_Giridih,5,Jharkhand,Giridih
+Jharkhand_Godda,5,Jharkhand,Godda
+Jharkhand_Gumla,5,Jharkhand,Gumla
+Jharkhand_Hazaribagh,5,Jharkhand,Hazaribagh
+Jharkhand_Jamtara,5,Jharkhand,Jamtara
+Jharkhand_Khunti,5,Jharkhand,Khunti
+Jharkhand_Koderma,5,Jharkhand,Koderma
+Jharkhand_Latehar,5,Jharkhand,Latehar
+Jharkhand_Lohardaga,5,Jharkhand,Lohardaga
+Jharkhand_Pakur,5,Jharkhand,Pakur
+Jharkhand_Palamu,5,Jharkhand,Palamu
+Jharkhand_Ramgarh,5,Jharkhand,Ramgarh
+Jharkhand_Ranchi,5,Jharkhand,Ranchi
+Jharkhand_Sahebganj,5,Jharkhand,Sahebganj
+Jharkhand_Saraikela Kharsawan,5,Jharkhand,Saraikela Kharsawan
+Jharkhand_Simdega,9,Jharkhand,Simdega
+Jharkhand_West Singhbhum,9,Jharkhand,West Singhbhum
+Karnataka_Bagalkote,0,Karnataka,Bagalkote
+Karnataka_Ballari,0,Karnataka,Ballari
+Karnataka_Belagavi,0,Karnataka,Belagavi
+Karnataka_Bengaluru Rural,0,Karnataka,Bengaluru Rural
+Karnataka_Bengaluru Urban,0,Karnataka,Bengaluru Urban
+Karnataka_Bidar,0,Karnataka,Bidar
+Karnataka_Chamarajanagara,0,Karnataka,Chamarajanagara
+Karnataka_Chikkaballapura,0,Karnataka,Chikkaballapura
+Karnataka_Chikkamagaluru,6,Karnataka,Chikkamagaluru
+Karnataka_Chitradurga,0,Karnataka,Chitradurga
+Karnataka_Dakshina Kannada,14,Karnataka,Dakshina Kannada
+Karnataka_Davangere,0,Karnataka,Davangere
+Karnataka_Dharwad,0,Karnataka,Dharwad
+Karnataka_Gadag,0,Karnataka,Gadag
+Karnataka_Hassan,6,Karnataka,Hassan
+Karnataka_Haveri,0,Karnataka,Haveri
+Karnataka_Kalaburagi,0,Karnataka,Kalaburagi
+Karnataka_Kodagu,14,Karnataka,Kodagu
+Karnataka_Kolar,0,Karnataka,Kolar
+Karnataka_Koppal,0,Karnataka,Koppal
+Karnataka_Mandya,0,Karnataka,Mandya
+Karnataka_Mysuru,0,Karnataka,Mysuru
+Karnataka_Raichur,0,Karnataka,Raichur
+Karnataka_Ramanagara,0,Karnataka,Ramanagara
+Karnataka_Shivamogga,9,Karnataka,Shivamogga
+Karnataka_Tumakuru,0,Karnataka,Tumakuru
+Karnataka_Udupi,14,Karnataka,Udupi
+Karnataka_Uttara Kannada,14,Karnataka,Uttara Kannada
+Karnataka_Vijayanagar,0,Karnataka,Vijayanagar
+Karnataka_Vijayapura,0,Karnataka,Vijayapura
+Karnataka_Yadgir,0,Karnataka,Yadgir
+Kerala_Alappuzha,14,Kerala,Alappuzha
+Kerala_Ernakulam,14,Kerala,Ernakulam
+Kerala_Idukki,14,Kerala,Idukki
+Kerala_Kannur,14,Kerala,Kannur
+Kerala_Kasaragod,14,Kerala,Kasaragod
+Kerala_Kollam,7,Kerala,Kollam
+Kerala_Kottayam,14,Kerala,Kottayam
+Kerala_Kozhikode,14,Kerala,Kozhikode
+Kerala_Malappuram,14,Kerala,Malappuram
+Kerala_Palakkad,14,Kerala,Palakkad
+Kerala_Pathanamthitta,14,Kerala,Pathanamthitta
+Kerala_Thiruvananthapuram,7,Kerala,Thiruvananthapuram
+Kerala_Thrissur,14,Kerala,Thrissur
+Kerala_Wayanad,14,Kerala,Wayanad
+Ladakh_Kargil,12,Ladakh,Kargil
+Ladakh_Leh Ladakh,12,Ladakh,Leh Ladakh
+Madhya Pradesh_Agar Malwa,2,Madhya Pradesh,Agar Malwa
+Madhya Pradesh_Alirajpur,2,Madhya Pradesh,Alirajpur
+Madhya Pradesh_Anuppur,5,Madhya Pradesh,Anuppur
+Madhya Pradesh_Ashoknagar,2,Madhya Pradesh,Ashoknagar
+Madhya Pradesh_Balaghat,9,Madhya Pradesh,Balaghat
+Madhya Pradesh_Barwani,2,Madhya Pradesh,Barwani
+Madhya Pradesh_Betul,9,Madhya Pradesh,Betul
+Madhya Pradesh_Bhind,13,Madhya Pradesh,Bhind
+Madhya Pradesh_Bhopal,2,Madhya Pradesh,Bhopal
+Madhya Pradesh_Burhanpur,2,Madhya Pradesh,Burhanpur
+Madhya Pradesh_Chhatarpur,5,Madhya Pradesh,Chhatarpur
+Madhya Pradesh_Chhindwara,9,Madhya Pradesh,Chhindwara
+Madhya Pradesh_Damoh,2,Madhya Pradesh,Damoh
+Madhya Pradesh_Datia,13,Madhya Pradesh,Datia
+Madhya Pradesh_Dewas,2,Madhya Pradesh,Dewas
+Madhya Pradesh_Dhar,2,Madhya Pradesh,Dhar
+Madhya Pradesh_Dindori,9,Madhya Pradesh,Dindori
+Madhya Pradesh_East Nimar,2,Madhya Pradesh,East Nimar
+Madhya Pradesh_Guna,2,Madhya Pradesh,Guna
+Madhya Pradesh_Gwalior,13,Madhya Pradesh,Gwalior
+Madhya Pradesh_Harda,2,Madhya Pradesh,Harda
+Madhya Pradesh_Indore,2,Madhya Pradesh,Indore
+Madhya Pradesh_Jabalpur,2,Madhya Pradesh,Jabalpur
+Madhya Pradesh_Jhabua,2,Madhya Pradesh,Jhabua
+Madhya Pradesh_Katni,5,Madhya Pradesh,Katni
+Madhya Pradesh_Khargone,2,Madhya Pradesh,Khargone
+Madhya Pradesh_Mandla,9,Madhya Pradesh,Mandla
+Madhya Pradesh_Mandsaur,2,Madhya Pradesh,Mandsaur
+Madhya Pradesh_Morena,13,Madhya Pradesh,Morena
+Madhya Pradesh_Narmadapuram,2,Madhya Pradesh,Narmadapuram
+Madhya Pradesh_Narsinghpur,2,Madhya Pradesh,Narsinghpur
+Madhya Pradesh_Neemuch,2,Madhya Pradesh,Neemuch
+Madhya Pradesh_Niwari,13,Madhya Pradesh,Niwari
+Madhya Pradesh_Panna,5,Madhya Pradesh,Panna
+Madhya Pradesh_Raisen,2,Madhya Pradesh,Raisen
+Madhya Pradesh_Rajgarh,2,Madhya Pradesh,Rajgarh
+Madhya Pradesh_Ratlam,2,Madhya Pradesh,Ratlam
+Madhya Pradesh_Rewa,5,Madhya Pradesh,Rewa
+Madhya Pradesh_Sagar,2,Madhya Pradesh,Sagar
+Madhya Pradesh_Satna,5,Madhya Pradesh,Satna
+Madhya Pradesh_Sehore,2,Madhya Pradesh,Sehore
+Madhya Pradesh_Seoni,9,Madhya Pradesh,Seoni
+Madhya Pradesh_Shahdol,5,Madhya Pradesh,Shahdol
+Madhya Pradesh_Shajapur,2,Madhya Pradesh,Shajapur
+Madhya Pradesh_Sheopur,13,Madhya Pradesh,Sheopur
+Madhya Pradesh_Shivpuri,13,Madhya Pradesh,Shivpuri
+Madhya Pradesh_Sidhi,5,Madhya Pradesh,Sidhi
+Madhya Pradesh_Singrauli,5,Madhya Pradesh,Singrauli
+Madhya Pradesh_Tikamgarh,5,Madhya Pradesh,Tikamgarh
+Madhya Pradesh_Ujjain,2,Madhya Pradesh,Ujjain
+Madhya Pradesh_Umaria,5,Madhya Pradesh,Umaria
+Madhya Pradesh_Vidisha,2,Madhya Pradesh,Vidisha
+Maharashtra_Ahmednagar,0,Maharashtra,Ahmednagar
+Maharashtra_Akola,2,Maharashtra,Akola
+Maharashtra_Amravati,2,Maharashtra,Amravati
+Maharashtra_Aurangabad,2,Maharashtra,Aurangabad
+Maharashtra_Beed,0,Maharashtra,Beed
+Maharashtra_Bhandara,9,Maharashtra,Bhandara
+Maharashtra_Buldhana,2,Maharashtra,Buldhana
+Maharashtra_Chandrapur,9,Maharashtra,Chandrapur
+Maharashtra_Dhule,2,Maharashtra,Dhule
+Maharashtra_Gadchiroli,9,Maharashtra,Gadchiroli
+Maharashtra_Gondia,9,Maharashtra,Gondia
+Maharashtra_Hingoli,2,Maharashtra,Hingoli
+Maharashtra_Jalgaon,2,Maharashtra,Jalgaon
+Maharashtra_Jalna,2,Maharashtra,Jalna
+Maharashtra_Kolhapur,9,Maharashtra,Kolhapur
+Maharashtra_Latur,0,Maharashtra,Latur
+Maharashtra_Mumbai Suburban,9,Maharashtra,Mumbai Suburban
+Maharashtra_Nagpur,2,Maharashtra,Nagpur
+Maharashtra_Nanded,2,Maharashtra,Nanded
+Maharashtra_Nandurbar,2,Maharashtra,Nandurbar
+Maharashtra_Nashik,2,Maharashtra,Nashik
+Maharashtra_Osmanabad,0,Maharashtra,Osmanabad
+Maharashtra_Palghar,9,Maharashtra,Palghar
+Maharashtra_Parbhani,2,Maharashtra,Parbhani
+Maharashtra_Pune,9,Maharashtra,Pune
+Maharashtra_Raigad,9,Maharashtra,Raigad
+Maharashtra_Ratnagiri,14,Maharashtra,Ratnagiri
+Maharashtra_Sangli,0,Maharashtra,Sangli
+Maharashtra_Satara,9,Maharashtra,Satara
+Maharashtra_Sindhudurg,14,Maharashtra,Sindhudurg
+Maharashtra_Solapur,0,Maharashtra,Solapur
+Maharashtra_Thane,9,Maharashtra,Thane
+Maharashtra_Wardha,2,Maharashtra,Wardha
+Maharashtra_Washim,2,Maharashtra,Washim
+Maharashtra_Yavatmal,2,Maharashtra,Yavatmal
+Manipur_Bishnupur,6,Manipur,Bishnupur
+Manipur_Chandel,6,Manipur,Chandel
+Manipur_Churachandpur,6,Manipur,Churachandpur
+Manipur_Imphal East,6,Manipur,Imphal East
+Manipur_Imphal West,6,Manipur,Imphal West
+Manipur_Kakching,6,Manipur,Kakching
+Manipur_Kamjong,6,Manipur,Kamjong
+Manipur_Kangpokpi,6,Manipur,Kangpokpi
+Manipur_Noney,6,Manipur,Noney
+Manipur_Pherzawl,6,Manipur,Pherzawl
+Manipur_Senapati,8,Manipur,Senapati
+Manipur_Tamenglong,6,Manipur,Tamenglong
+Manipur_Tengnoupal,6,Manipur,Tengnoupal
+Manipur_Thoubal,6,Manipur,Thoubal
+Manipur_Ukhrul,6,Manipur,Ukhrul
+Meghalaya_East Garo Hills,3,Meghalaya,East Garo Hills
+Meghalaya_East Jaintia Hills,8,Meghalaya,East Jaintia Hills
+Meghalaya_East Khasi Hills,8,Meghalaya,East Khasi Hills
+Meghalaya_Eastern West Khasi Hills,8,Meghalaya,Eastern West Khasi Hills
+Meghalaya_North Garo Hills,3,Meghalaya,North Garo Hills
+Meghalaya_Ri Bhoi,8,Meghalaya,Ri Bhoi
+Meghalaya_South Garo Hills,3,Meghalaya,South Garo Hills
+Meghalaya_South West Garo Hills,3,Meghalaya,South West Garo Hills
+Meghalaya_South West Khasi Hills,8,Meghalaya,South West Khasi Hills
+Meghalaya_West Garo Hills,3,Meghalaya,West Garo Hills
+Meghalaya_West Jaintia Hills,8,Meghalaya,West Jaintia Hills
+Meghalaya_West Khasi Hills,8,Meghalaya,West Khasi Hills
+Mizoram_Aizawl,6,Mizoram,Aizawl
+Mizoram_Champhai,6,Mizoram,Champhai
+Mizoram_Hnahthial,6,Mizoram,Hnahthial
+Mizoram_Khawzawl,6,Mizoram,Khawzawl
+Mizoram_Kolasib,6,Mizoram,Kolasib
+Mizoram_Lawngtlai,6,Mizoram,Lawngtlai
+Mizoram_Lunglei,6,Mizoram,Lunglei
+Mizoram_Mamit,6,Mizoram,Mamit
+Mizoram_Saiha,6,Mizoram,Saiha
+Mizoram_Saitual,6,Mizoram,Saitual
+Mizoram_Serchhip,6,Mizoram,Serchhip
+Nagaland_Chumoukedima,6,Nagaland,Chumoukedima
+Nagaland_Kiphire,6,Nagaland,Kiphire
+Nagaland_Kohima,8,Nagaland,Kohima
+Nagaland_Longleng,8,Nagaland,Longleng
+Nagaland_Mokokchung,8,Nagaland,Mokokchung
+Nagaland_Mon,8,Nagaland,Mon
+Nagaland_Noklak,8,Nagaland,Noklak
+Nagaland_Peren,6,Nagaland,Peren
+Nagaland_Phek,6,Nagaland,Phek
+Nagaland_Shamator,8,Nagaland,Shamator
+Nagaland_Tseminyu,6,Nagaland,Tseminyu
+Nagaland_Tuensang,8,Nagaland,Tuensang
+Nagaland_Wokha,6,Nagaland,Wokha
+Nagaland_Zunheboto,6,Nagaland,Zunheboto
+Odisha_Anugul,9,Odisha,Anugul
+Odisha_Balangir,9,Odisha,Balangir
+Odisha_Baleshwar,9,Odisha,Baleshwar
+Odisha_Bargarh,9,Odisha,Bargarh
+Odisha_Bhadrak,9,Odisha,Bhadrak
+Odisha_Boudh,9,Odisha,Boudh
+Odisha_Cuttack,9,Odisha,Cuttack
+Odisha_Deogarh,9,Odisha,Deogarh
+Odisha_Dhenkanal,9,Odisha,Dhenkanal
+Odisha_Gajapati,9,Odisha,Gajapati
+Odisha_Ganjam,9,Odisha,Ganjam
+Odisha_Jagatsinghapur,9,Odisha,Jagatsinghapur
+Odisha_Jajapur,9,Odisha,Jajapur
+Odisha_Jharsuguda,9,Odisha,Jharsuguda
+Odisha_Kalahandi,9,Odisha,Kalahandi
+Odisha_Kandhamal,9,Odisha,Kandhamal
+Odisha_Kendrapara,9,Odisha,Kendrapara
+Odisha_Kendujhar,9,Odisha,Kendujhar
+Odisha_Khordha,9,Odisha,Khordha
+Odisha_Koraput,9,Odisha,Koraput
+Odisha_Malkangiri,9,Odisha,Malkangiri
+Odisha_Mayurbhanj,9,Odisha,Mayurbhanj
+Odisha_Nabarangpur,9,Odisha,Nabarangpur
+Odisha_Nayagarh,9,Odisha,Nayagarh
+Odisha_Nuapada,9,Odisha,Nuapada
+Odisha_Puri,9,Odisha,Puri
+Odisha_Rayagada,9,Odisha,Rayagada
+Odisha_Sambalpur,9,Odisha,Sambalpur
+Odisha_Sonepur,9,Odisha,Sonepur
+Odisha_Sundargarh,9,Odisha,Sundargarh
+Puducherry_Karaikal,7,Puducherry,Karaikal
+Puducherry_Pondicherry,7,Puducherry,Pondicherry
+Punjab_Amritsar,13,Punjab,Amritsar
+Punjab_Barnala,13,Punjab,Barnala
+Punjab_Bathinda,13,Punjab,Bathinda
+Punjab_Faridkot,13,Punjab,Faridkot
+Punjab_Fatehgarh Sahib,13,Punjab,Fatehgarh Sahib
+Punjab_Fazilka,13,Punjab,Fazilka
+Punjab_Ferozepur,13,Punjab,Ferozepur
+Punjab_Gurdaspur,13,Punjab,Gurdaspur
+Punjab_Hoshiarpur,13,Punjab,Hoshiarpur
+Punjab_Jalandhar,13,Punjab,Jalandhar
+Punjab_Kapurthala,13,Punjab,Kapurthala
+Punjab_Ludhiana,13,Punjab,Ludhiana
+Punjab_Malerkotla,13,Punjab,Malerkotla
+Punjab_Mansa,13,Punjab,Mansa
+Punjab_Moga,13,Punjab,Moga
+Punjab_Pathankot,10,Punjab,Pathankot
+Punjab_Patiala,13,Punjab,Patiala
+Punjab_Rupnagar,13,Punjab,Rupnagar
+Punjab_S.a.s Nagar,13,Punjab,S.a.s Nagar
+Punjab_Sangrur,13,Punjab,Sangrur
+Punjab_Shahid Bhagat Singh Nagar,13,Punjab,Shahid Bhagat Singh Nagar
+Punjab_Sri Muktsar Sahib,13,Punjab,Sri Muktsar Sahib
+Punjab_Tarn Taran,13,Punjab,Tarn Taran
+Rajasthan_Ajmer,13,Rajasthan,Ajmer
+Rajasthan_Alwar,13,Rajasthan,Alwar
+Rajasthan_Anoopgarh,13,Rajasthan,Anoopgarh
+Rajasthan_Balotra,13,Rajasthan,Balotra
+Rajasthan_Banswara,2,Rajasthan,Banswara
+Rajasthan_Baran,2,Rajasthan,Baran
+Rajasthan_Barmer,13,Rajasthan,Barmer
+Rajasthan_Beawar,13,Rajasthan,Beawar
+Rajasthan_Bharatpur,13,Rajasthan,Bharatpur
+Rajasthan_Bhilwara,13,Rajasthan,Bhilwara
+Rajasthan_Bikaner,13,Rajasthan,Bikaner
+Rajasthan_Bundi,13,Rajasthan,Bundi
+Rajasthan_Chittorgarh,2,Rajasthan,Chittorgarh
+Rajasthan_Churu,13,Rajasthan,Churu
+Rajasthan_Dausa,13,Rajasthan,Dausa
+Rajasthan_Deeg,13,Rajasthan,Deeg
+Rajasthan_Dholpur,13,Rajasthan,Dholpur
+Rajasthan_Didwana Kuchaman,13,Rajasthan,Didwana Kuchaman
+Rajasthan_Dudu,13,Rajasthan,Dudu
+Rajasthan_Dungarpur,2,Rajasthan,Dungarpur
+Rajasthan_Ganganagar,13,Rajasthan,Ganganagar
+Rajasthan_Gangapurcity,13,Rajasthan,Gangapurcity
+Rajasthan_Hanumangarh,13,Rajasthan,Hanumangarh
+Rajasthan_Jaipur,13,Rajasthan,Jaipur
+Rajasthan_Jaipur Gramin,13,Rajasthan,Jaipur Gramin
+Rajasthan_Jaisalmer,13,Rajasthan,Jaisalmer
+Rajasthan_Jalore,13,Rajasthan,Jalore
+Rajasthan_Jhalawar,2,Rajasthan,Jhalawar
+Rajasthan_Jhunjhunu,13,Rajasthan,Jhunjhunu
+Rajasthan_Jodhpur,13,Rajasthan,Jodhpur
+Rajasthan_Jodhpur Gramin,13,Rajasthan,Jodhpur Gramin
+Rajasthan_Karauli,13,Rajasthan,Karauli
+Rajasthan_Kekri,13,Rajasthan,Kekri
+Rajasthan_Khairthal-Tijara,13,Rajasthan,Khairthal-Tijara
+Rajasthan_Kota,2,Rajasthan,Kota
+Rajasthan_Kotputli-Behror,13,Rajasthan,Kotputli-Behror
+Rajasthan_Nagaur,13,Rajasthan,Nagaur
+Rajasthan_Neem Ka Thana,13,Rajasthan,Neem Ka Thana
+Rajasthan_Pali,13,Rajasthan,Pali
+Rajasthan_Phalodi,13,Rajasthan,Phalodi
+Rajasthan_Pratapgarh,2,Rajasthan,Pratapgarh
+Rajasthan_Rajsamand,2,Rajasthan,Rajsamand
+Rajasthan_Salumbar,2,Rajasthan,Salumbar
+Rajasthan_Sawai Madhopur,13,Rajasthan,Sawai Madhopur
+Rajasthan_Shahpura,13,Rajasthan,Shahpura
+Rajasthan_Sikar,13,Rajasthan,Sikar
+Rajasthan_Sirohi,2,Rajasthan,Sirohi
+Rajasthan_Tonk,13,Rajasthan,Tonk
+Rajasthan_Udaipur,2,Rajasthan,Udaipur
+Sikkim_Gangtok,11,Sikkim,Gangtok
+Sikkim_Gyalshing,11,Sikkim,Gyalshing
+Sikkim_Mangan,4,Sikkim,Mangan
+Sikkim_Namchi,4,Sikkim,Namchi
+Sikkim_Pakyong,11,Sikkim,Pakyong
+Sikkim_Soreng,11,Sikkim,Soreng
+Tamil Nadu_Ariyalur,7,Tamil Nadu,Ariyalur
+Tamil Nadu_Chengalpattu,7,Tamil Nadu,Chengalpattu
+Tamil Nadu_Chennai,7,Tamil Nadu,Chennai
+Tamil Nadu_Coimbatore,0,Tamil Nadu,Coimbatore
+Tamil Nadu_Cuddalore,7,Tamil Nadu,Cuddalore
+Tamil Nadu_Dharmapuri,0,Tamil Nadu,Dharmapuri
+Tamil Nadu_Dindigul,7,Tamil Nadu,Dindigul
+Tamil Nadu_Erode,0,Tamil Nadu,Erode
+Tamil Nadu_Kallakurichi,7,Tamil Nadu,Kallakurichi
+Tamil Nadu_Kanchipuram,7,Tamil Nadu,Kanchipuram
+Tamil Nadu_Kanniyakumari,7,Tamil Nadu,Kanniyakumari
+Tamil Nadu_Karur,7,Tamil Nadu,Karur
+Tamil Nadu_Krishnagiri,0,Tamil Nadu,Krishnagiri
+Tamil Nadu_Madurai,7,Tamil Nadu,Madurai
+Tamil Nadu_Mayiladuthurai,7,Tamil Nadu,Mayiladuthurai
+Tamil Nadu_Nagapattinam,7,Tamil Nadu,Nagapattinam
+Tamil Nadu_Namakkal,0,Tamil Nadu,Namakkal
+Tamil Nadu_Perambalur,7,Tamil Nadu,Perambalur
+Tamil Nadu_Pudukkottai,7,Tamil Nadu,Pudukkottai
+Tamil Nadu_Ramanathapuram,7,Tamil Nadu,Ramanathapuram
+Tamil Nadu_Ranipet,7,Tamil Nadu,Ranipet
+Tamil Nadu_Salem,0,Tamil Nadu,Salem
+Tamil Nadu_Sivaganga,7,Tamil Nadu,Sivaganga
+Tamil Nadu_Tenkasi,7,Tamil Nadu,Tenkasi
+Tamil Nadu_Thanjavur,7,Tamil Nadu,Thanjavur
+Tamil Nadu_The Nilgiris,6,Tamil Nadu,The Nilgiris
+Tamil Nadu_Theni,7,Tamil Nadu,Theni
+Tamil Nadu_Thiruvallur,7,Tamil Nadu,Thiruvallur
+Tamil Nadu_Thiruvarur,7,Tamil Nadu,Thiruvarur
+Tamil Nadu_Tiruchirappalli,7,Tamil Nadu,Tiruchirappalli
+Tamil Nadu_Tirunelveli,7,Tamil Nadu,Tirunelveli
+Tamil Nadu_Tirupathur,0,Tamil Nadu,Tirupathur
+Tamil Nadu_Tiruppur,7,Tamil Nadu,Tiruppur
+Tamil Nadu_Tiruvannamalai,7,Tamil Nadu,Tiruvannamalai
+Tamil Nadu_Tuticorin,7,Tamil Nadu,Tuticorin
+Tamil Nadu_Vellore,7,Tamil Nadu,Vellore
+Tamil Nadu_Villupuram,7,Tamil Nadu,Villupuram
+Tamil Nadu_Virudhunagar,7,Tamil Nadu,Virudhunagar
+Telangana_Adilabad,2,Telangana,Adilabad
+Telangana_Bhadradri Kothagudem,9,Telangana,Bhadradri Kothagudem
+Telangana_Hanumakonda,2,Telangana,Hanumakonda
+Telangana_Hyderabad,0,Telangana,Hyderabad
+Telangana_Jagitial,2,Telangana,Jagitial
+Telangana_Jangoan,2,Telangana,Jangoan
+Telangana_Jayashankar Bhupalapally,9,Telangana,Jayashankar Bhupalapally
+Telangana_Jogulamba Gadwal,0,Telangana,Jogulamba Gadwal
+Telangana_Kamareddy,2,Telangana,Kamareddy
+Telangana_Karimnagar,2,Telangana,Karimnagar
+Telangana_Khammam,0,Telangana,Khammam
+Telangana_Kumuram Bheem Asifabad,9,Telangana,Kumuram Bheem Asifabad
+Telangana_Mahabubabad,9,Telangana,Mahabubabad
+Telangana_Mahabubnagar,0,Telangana,Mahabubnagar
+Telangana_Mancherial,9,Telangana,Mancherial
+Telangana_Medak,0,Telangana,Medak
+Telangana_Medchal Malkajgiri,0,Telangana,Medchal Malkajgiri
+Telangana_Mulugu,9,Telangana,Mulugu
+Telangana_Nagarkurnool,0,Telangana,Nagarkurnool
+Telangana_Nalgonda,0,Telangana,Nalgonda
+Telangana_Narayanpet,0,Telangana,Narayanpet
+Telangana_Nirmal,2,Telangana,Nirmal
+Telangana_Nizamabad,2,Telangana,Nizamabad
+Telangana_Peddapalli,2,Telangana,Peddapalli
+Telangana_Rajanna Sircilla,2,Telangana,Rajanna Sircilla
+Telangana_Ranga Reddy,0,Telangana,Ranga Reddy
+Telangana_Sangareddy,0,Telangana,Sangareddy
+Telangana_Siddipet,0,Telangana,Siddipet
+Telangana_Suryapet,0,Telangana,Suryapet
+Telangana_Vikarabad,0,Telangana,Vikarabad
+Telangana_Wanaparthy,0,Telangana,Wanaparthy
+Telangana_Warangal,2,Telangana,Warangal
+Telangana_Yadadri Bhuvanagiri,0,Telangana,Yadadri Bhuvanagiri
+Tripura_Dhalai,6,Tripura,Dhalai
+Tripura_Gomati,6,Tripura,Gomati
+Tripura_Khowai,6,Tripura,Khowai
+Tripura_North Tripura,6,Tripura,North Tripura
+Tripura_Sepahijala,6,Tripura,Sepahijala
+Tripura_South Tripura,6,Tripura,South Tripura
+Tripura_Unakoti,6,Tripura,Unakoti
+Tripura_West Tripura,6,Tripura,West Tripura
+Uttar Pradesh_Agra,13,Uttar Pradesh,Agra
+Uttar Pradesh_Aligarh,13,Uttar Pradesh,Aligarh
+Uttar Pradesh_Ambedkar Nagar,5,Uttar Pradesh,Ambedkar Nagar
+Uttar Pradesh_Amethi,5,Uttar Pradesh,Amethi
+Uttar Pradesh_Amroha,13,Uttar Pradesh,Amroha
+Uttar Pradesh_Auraiya,13,Uttar Pradesh,Auraiya
+Uttar Pradesh_Ayodhya,5,Uttar Pradesh,Ayodhya
+Uttar Pradesh_Azamgarh,5,Uttar Pradesh,Azamgarh
+Uttar Pradesh_Baghpat,13,Uttar Pradesh,Baghpat
+Uttar Pradesh_Bahraich,5,Uttar Pradesh,Bahraich
+Uttar Pradesh_Ballia,5,Uttar Pradesh,Ballia
+Uttar Pradesh_Balrampur,5,Uttar Pradesh,Balrampur
+Uttar Pradesh_Banda,5,Uttar Pradesh,Banda
+Uttar Pradesh_Barabanki,5,Uttar Pradesh,Barabanki
+Uttar Pradesh_Bareilly,5,Uttar Pradesh,Bareilly
+Uttar Pradesh_Basti,5,Uttar Pradesh,Basti
+Uttar Pradesh_Bhadohi,5,Uttar Pradesh,Bhadohi
+Uttar Pradesh_Bijnor,13,Uttar Pradesh,Bijnor
+Uttar Pradesh_Budaun,13,Uttar Pradesh,Budaun
+Uttar Pradesh_Bulandshahr,13,Uttar Pradesh,Bulandshahr
+Uttar Pradesh_Chandauli,5,Uttar Pradesh,Chandauli
+Uttar Pradesh_Chitrakoot,5,Uttar Pradesh,Chitrakoot
+Uttar Pradesh_Deoria,5,Uttar Pradesh,Deoria
+Uttar Pradesh_Etah,13,Uttar Pradesh,Etah
+Uttar Pradesh_Etawah,13,Uttar Pradesh,Etawah
+Uttar Pradesh_Farrukhabad,13,Uttar Pradesh,Farrukhabad
+Uttar Pradesh_Fatehpur,5,Uttar Pradesh,Fatehpur
+Uttar Pradesh_Firozabad,13,Uttar Pradesh,Firozabad
+Uttar Pradesh_Gautam Buddha Nagar,13,Uttar Pradesh,Gautam Buddha Nagar
+Uttar Pradesh_Ghaziabad,13,Uttar Pradesh,Ghaziabad
+Uttar Pradesh_Ghazipur,5,Uttar Pradesh,Ghazipur
+Uttar Pradesh_Gonda,5,Uttar Pradesh,Gonda
+Uttar Pradesh_Gorakhpur,5,Uttar Pradesh,Gorakhpur
+Uttar Pradesh_Hamirpur,13,Uttar Pradesh,Hamirpur
+Uttar Pradesh_Hapur,13,Uttar Pradesh,Hapur
+Uttar Pradesh_Hardoi,13,Uttar Pradesh,Hardoi
+Uttar Pradesh_Hathras,13,Uttar Pradesh,Hathras
+Uttar Pradesh_Jalaun,13,Uttar Pradesh,Jalaun
+Uttar Pradesh_Jaunpur,5,Uttar Pradesh,Jaunpur
+Uttar Pradesh_Jhansi,13,Uttar Pradesh,Jhansi
+Uttar Pradesh_Kannauj,13,Uttar Pradesh,Kannauj
+Uttar Pradesh_Kanpur Dehat,13,Uttar Pradesh,Kanpur Dehat
+Uttar Pradesh_Kanpur Nagar,13,Uttar Pradesh,Kanpur Nagar
+Uttar Pradesh_Kasganj,13,Uttar Pradesh,Kasganj
+Uttar Pradesh_Kaushambi,5,Uttar Pradesh,Kaushambi
+Uttar Pradesh_Kheri,5,Uttar Pradesh,Kheri
+Uttar Pradesh_Kushi Nagar,5,Uttar Pradesh,Kushi Nagar
+Uttar Pradesh_Lalitpur,2,Uttar Pradesh,Lalitpur
+Uttar Pradesh_Lucknow,5,Uttar Pradesh,Lucknow
+Uttar Pradesh_Maharajganj,5,Uttar Pradesh,Maharajganj
+Uttar Pradesh_Mahoba,5,Uttar Pradesh,Mahoba
+Uttar Pradesh_Mainpuri,13,Uttar Pradesh,Mainpuri
+Uttar Pradesh_Mathura,13,Uttar Pradesh,Mathura
+Uttar Pradesh_Mau,5,Uttar Pradesh,Mau
+Uttar Pradesh_Meerut,13,Uttar Pradesh,Meerut
+Uttar Pradesh_Mirzapur,5,Uttar Pradesh,Mirzapur
+Uttar Pradesh_Moradabad,5,Uttar Pradesh,Moradabad
+Uttar Pradesh_Muzaffarnagar,13,Uttar Pradesh,Muzaffarnagar
+Uttar Pradesh_Pilibhit,5,Uttar Pradesh,Pilibhit
+Uttar Pradesh_Pratapgarh,5,Uttar Pradesh,Pratapgarh
+Uttar Pradesh_Prayagraj,5,Uttar Pradesh,Prayagraj
+Uttar Pradesh_Rae Bareli,5,Uttar Pradesh,Rae Bareli
+Uttar Pradesh_Rampur,5,Uttar Pradesh,Rampur
+Uttar Pradesh_Saharanpur,13,Uttar Pradesh,Saharanpur
+Uttar Pradesh_Sambhal,13,Uttar Pradesh,Sambhal
+Uttar Pradesh_Sant Kabeer Nagar,5,Uttar Pradesh,Sant Kabeer Nagar
+Uttar Pradesh_Shahjahanpur,5,Uttar Pradesh,Shahjahanpur
+Uttar Pradesh_Shamli,13,Uttar Pradesh,Shamli
+Uttar Pradesh_Shravasti,5,Uttar Pradesh,Shravasti
+Uttar Pradesh_Siddharth Nagar,5,Uttar Pradesh,Siddharth Nagar
+Uttar Pradesh_Sitapur,5,Uttar Pradesh,Sitapur
+Uttar Pradesh_Sonbhadra,5,Uttar Pradesh,Sonbhadra
+Uttar Pradesh_Sultanpur,5,Uttar Pradesh,Sultanpur
+Uttar Pradesh_Unnao,13,Uttar Pradesh,Unnao
+Uttar Pradesh_Varanasi,5,Uttar Pradesh,Varanasi
+Uttarakhand_Almora,10,Uttarakhand,Almora
+Uttarakhand_Bageshwar,1,Uttarakhand,Bageshwar
+Uttarakhand_Chamoli,1,Uttarakhand,Chamoli
+Uttarakhand_Champawat,8,Uttarakhand,Champawat
+Uttarakhand_Dehradun,10,Uttarakhand,Dehradun
+Uttarakhand_Haridwar,13,Uttarakhand,Haridwar
+Uttarakhand_Nainital,6,Uttarakhand,Nainital
+Uttarakhand_Pauri Garhwal,10,Uttarakhand,Pauri Garhwal
+Uttarakhand_Pithoragarh,1,Uttarakhand,Pithoragarh
+Uttarakhand_Rudra Prayag,1,Uttarakhand,Rudra Prayag
+Uttarakhand_Tehri Garhwal,10,Uttarakhand,Tehri Garhwal
+Uttarakhand_Udam Singh Nagar,5,Uttarakhand,Udam Singh Nagar
+Uttarakhand_Uttar Kashi,1,Uttarakhand,Uttar Kashi
+West Bengal_24 Paraganas North,9,West Bengal,24 Paraganas North
+West Bengal_24 Paraganas South,9,West Bengal,24 Paraganas South
+West Bengal_Alipurduar,3,West Bengal,Alipurduar
+West Bengal_Bankura,5,West Bengal,Bankura
+West Bengal_Birbhum,5,West Bengal,Birbhum
+West Bengal_Coochbehar,3,West Bengal,Coochbehar
+West Bengal_Darjeeling,8,West Bengal,Darjeeling
+West Bengal_Dinajpur Dakshin,5,West Bengal,Dinajpur Dakshin
+West Bengal_Dinajpur Uttar,3,West Bengal,Dinajpur Uttar
+West Bengal_Hooghly,5,West Bengal,Hooghly
+West Bengal_Howrah,9,West Bengal,Howrah
+West Bengal_Jalpaiguri,3,West Bengal,Jalpaiguri
+West Bengal_Jhargram,5,West Bengal,Jhargram
+West Bengal_Kalimpong,8,West Bengal,Kalimpong
+West Bengal_Kolkata,9,West Bengal,Kolkata
+West Bengal_Maldah,5,West Bengal,Maldah
+West Bengal_Medinipur East,9,West Bengal,Medinipur East
+West Bengal_Medinipur West,5,West Bengal,Medinipur West
+West Bengal_Murshidabad,5,West Bengal,Murshidabad
+West Bengal_Nadia,5,West Bengal,Nadia
+West Bengal_Paschim Bardhaman,5,West Bengal,Paschim Bardhaman
+West Bengal_Purba Bardhaman,5,West Bengal,Purba Bardhaman
+West Bengal_Purulia,5,West Bengal,Purulia
