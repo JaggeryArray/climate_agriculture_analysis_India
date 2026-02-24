@@ -1,0 +1,127 @@
+State,District,Median,Max,Yield_Class
+A & N Islands,Nicobars,0.29,1.11,Low
+A & N Islands,North And Middle Andaman,0.43,1.58,Low
+A & N Islands,South Andamans,0.775,1.53,Medium
+Andhra Pradesh,Anantapur,0.37,1.0,Low
+Andhra Pradesh,Chittoor,0.27,2.06,Low
+Andhra Pradesh,East Godavari,0.21,1.0,Low
+Andhra Pradesh,Guntur,0.27,0.84,Low
+Andhra Pradesh,Krishna,0.27,1.84,Low
+Andhra Pradesh,Prakasam,0.27,7.36,Low
+Andhra Pradesh,Spsr Nellore,0.28,6.3,Low
+Andhra Pradesh,Srikakulam,0.38,1.19,Low
+Andhra Pradesh,Visakhapatanam,0.27,1.0,Low
+Andhra Pradesh,Vizianagaram,0.27,1.0,Low
+Andhra Pradesh,West Godavari,0.33,1.14,Low
+Andhra Pradesh,Y.s.r.,0.31,0.5,Low
+Goa,North Goa,0.455,0.56,Low
+Goa,South Goa,0.44,0.49,Low
+Karnataka,Bagalkote,1.0,5.4,Medium
+Karnataka,Ballari,1.14,1.41,Medium
+Karnataka,Belagavi,1.46,8.0,Medium
+Karnataka,Bengaluru Rural,0.81,4.67,Medium
+Karnataka,Bengaluru Urban,1.29,19.67,Medium
+Karnataka,Bidar,0.8,8.09,Medium
+Karnataka,Chamarajanagara,0.8,6.0,Medium
+Karnataka,Chikkaballapura,1.19,7.36,Medium
+Karnataka,Chikkamagaluru,1.06,7.34,Medium
+Karnataka,Chitradurga,1.0,6.55,Medium
+Karnataka,Dakshina Kannada,1.02,5.28,Medium
+Karnataka,Davangere,0.81,3.83,Medium
+Karnataka,Dharwad,0.8,5.54,Medium
+Karnataka,Gadag,1.27,5.99,Medium
+Karnataka,Hassan,0.81,5.91,Medium
+Karnataka,Haveri,0.8,7.2,Medium
+Karnataka,Kalaburagi,1.0,1.0,Medium
+Karnataka,Kodagu,1.16,9.21,Medium
+Karnataka,Kolar,0.76,7.87,Medium
+Karnataka,Koppal,1.26,8.8,Medium
+Karnataka,Mandya,1.0,2.83,Medium
+Karnataka,Mysuru,0.78,6.0,Medium
+Karnataka,Raichur,1.5,6.0,Medium
+Karnataka,Ramanagara,1.0,7.0,Medium
+Karnataka,Shivamogga,0.73,3.72,Medium
+Karnataka,Tumakuru,0.8,5.88,Medium
+Karnataka,Udupi,0.47,6.76,Low
+Karnataka,Uttara Kannada,1.38,8.64,Medium
+Karnataka,Vijayanagar,9.4,9.4,High
+Karnataka,Vijayapura,1.0,1.0,Medium
+Karnataka,Yadgir,1.35,1.5,Medium
+Kerala,Alappuzha,0.21,0.39,Low
+Kerala,Ernakulam,0.31,0.49,Low
+Kerala,Idukki,0.34,0.62,Low
+Kerala,Kannur,0.98,1.33,Medium
+Kerala,Kasaragod,0.75,1.1,Medium
+Kerala,Kollam,0.32,0.79,Low
+Kerala,Kottayam,0.3,0.42,Low
+Kerala,Kozhikode,0.38,0.66,Low
+Kerala,Malappuram,0.39,0.88,Low
+Kerala,Palakkad,0.26,0.51,Low
+Kerala,Pathanamthitta,0.32,0.56,Low
+Kerala,Thiruvananthapuram,0.31,0.58,Low
+Kerala,Thrissur,0.33,0.53,Low
+Kerala,Wayanad,0.42,0.88,Low
+Manipur,Chandel,0.64,0.71,Medium
+Manipur,Imphal East,0.53,0.64,Low
+Manipur,Ukhrul,0.54,0.54,Low
+Meghalaya,East Garo Hills,1.08,1.25,Medium
+Meghalaya,North Garo Hills,1.1,1.12,Medium
+Meghalaya,South Garo Hills,0.98,1.07,Medium
+Meghalaya,South West Garo Hills,1.94,2.61,Medium
+Meghalaya,West Garo Hills,1.89,2.72,Medium
+Puducherry,Karaikal,0.5,2.0,Low
+Puducherry,Mahe,0.64,2.0,Medium
+Puducherry,Pondicherry,0.445,1.0,Low
+Tamil Nadu,Ariyalur,0.23,0.39,Low
+Tamil Nadu,Chengalpattu,0.32,0.42,Low
+Tamil Nadu,Chennai,0.38,0.38,Low
+Tamil Nadu,Coimbatore,0.35,1.18,Low
+Tamil Nadu,Cuddalore,0.4,1.08,Low
+Tamil Nadu,Dharmapuri,0.5349999999999999,1.0,Low
+Tamil Nadu,Dindigul,0.34,0.57,Low
+Tamil Nadu,Erode,0.355,2.56,Low
+Tamil Nadu,Kallakurichi,0.39,0.42,Low
+Tamil Nadu,Kanchipuram,0.33,0.57,Low
+Tamil Nadu,Kanniyakumari,0.41,0.84,Low
+Tamil Nadu,Karur,0.36,0.57,Low
+Tamil Nadu,Krishnagiri,0.405,0.57,Low
+Tamil Nadu,Madurai,0.35,0.57,Low
+Tamil Nadu,Mayiladuthurai,0.42,0.78,Low
+Tamil Nadu,Nagapattinam,0.45,1.48,Low
+Tamil Nadu,Namakkal,0.33,1.0,Low
+Tamil Nadu,Perambalur,0.25,0.5,Low
+Tamil Nadu,Pudukkottai,0.21,0.39,Low
+Tamil Nadu,Ramanathapuram,0.34,0.57,Low
+Tamil Nadu,Ranipet,0.3,0.43,Low
+Tamil Nadu,Salem,0.36,0.58,Low
+Tamil Nadu,Sivaganga,0.19,0.42,Low
+Tamil Nadu,Tenkasi,0.14,0.15,Low
+Tamil Nadu,Thanjavur,0.31,3.5,Low
+Tamil Nadu,Theni,0.35,1.08,Low
+Tamil Nadu,Thiruvallur,0.33,0.57,Low
+Tamil Nadu,Thiruvarur,0.33,0.67,Low
+Tamil Nadu,Tiruchirappalli,0.37,0.58,Low
+Tamil Nadu,Tirunelveli,0.17,0.85,Low
+Tamil Nadu,Tiruppur,0.3,0.5,Low
+Tamil Nadu,Tiruvannamalai,0.385,1.0,Low
+Tamil Nadu,Tuticorin,0.36,0.72,Low
+Tamil Nadu,Vellore,0.33,0.58,Low
+Tamil Nadu,Villupuram,0.47,3.0,Low
+Tamil Nadu,Virudhunagar,0.3249999999999999,0.57,Low
+Telangana,Adilabad,0.33,0.79,Low
+Telangana,Bhadradri Kothagudem,0.31,0.62,Low
+Telangana,Jayashankar Bhupalapally,0.365,0.41,Low
+Telangana,Kamareddy,0.5,0.5,Low
+Telangana,Khammam,0.34,0.77,Low
+Telangana,Kumuram Bheem Asifabad,0.27,0.63,Low
+Telangana,Mahabubnagar,0.33,0.44,Low
+Telangana,Mancherial,0.31,0.9,Low
+Telangana,Medak,0.2,1.0,Low
+Telangana,Medchal Malkajgiri,1.0,1.0,Medium
+Telangana,Mulugu,0.3,0.67,Low
+Telangana,Nalgonda,0.3,0.6,Low
+Telangana,Ranga Reddy,0.25,0.33,Low
+Telangana,Sangareddy,0.33,1.07,Low
+Telangana,Siddipet,0.75,1.0,Medium
+Telangana,Warangal,1.0,1.0,Medium
+Telangana,Yadadri Bhuvanagiri,0.67,0.67,Medium

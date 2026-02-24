@@ -1,0 +1,167 @@
+State,District,Median,Max,Yield_Class
+Assam,Baksa,7.314999999999999,15.35,High
+Assam,Barpeta,9.97,14.46,High
+Assam,Biswanath,8.19,11.66,High
+Assam,Bongaigaon,10.94,18.35,High
+Assam,Cachar,10.68,12.33,High
+Assam,Charaideo,12.0,12.25,High
+Assam,Chirang,9.6,10.39,High
+Assam,Darrang,10.67,16.54,High
+Assam,Dhemaji,10.69,12.33,High
+Assam,Dhubri,9.35,16.27,High
+Assam,Dibrugarh,10.73,12.33,High
+Assam,Dima Hasao,10.68,12.32,High
+Assam,Goalpara,9.36,16.25,High
+Assam,Golaghat,10.27,12.32,High
+Assam,Hailakandi,10.77,17.07,High
+Assam,Hojai,16.27,16.3,High
+Assam,Jorhat,10.69,12.35,High
+Assam,Kamrup,9.33,15.33,High
+Assam,Kamrup Metro,10.955,14.04,High
+Assam,Karbi Anglong,11.11,13.01,High
+Assam,Karimganj,10.69,12.33,High
+Assam,Kokrajhar,10.1,13.52,High
+Assam,Lakhimpur,8.56,12.33,High
+Assam,Majuli,12.1,12.4,High
+Assam,Marigaon,9.78,15.17,High
+Assam,Nagaon,14.47,17.37,High
+Assam,Nalbari,8.87,10.12,High
+Assam,Sivasagar,10.67,12.29,High
+Assam,Sonitpur,8.75,10.18,High
+Assam,South Salmara Mancachar,10.0,11.36,High
+Assam,Tinsukia,10.63,12.5,High
+Assam,Udalguri,11.185,16.75,High
+Assam,West Karbi Anglong,12.08,12.31,High
+Bihar,Araria,9.58,24.39,High
+Bihar,Arwal,12.0,12.5,High
+Bihar,Banka,7.21,7.42,High
+Bihar,Begusarai,9.33,10.33,High
+Bihar,Bhagalpur,8.0,11.57,High
+Bihar,Buxar,8.0,8.0,High
+Bihar,Darbhanga,7.8,7.8,High
+Bihar,Gaya,11.75,15.0,High
+Bihar,Gopalganj,8.0,10.0,High
+Bihar,Jehanabad,10.25,10.25,High
+Bihar,Katihar,10.54,26.52,High
+Bihar,Khagaria,9.5,15.0,High
+Bihar,Kishanganj,7.81,14.84,High
+Bihar,Madhepura,12.71,36.89,High
+Bihar,Madhubani,9.2,14.33,High
+Bihar,Munger,8.715,9.43,High
+Bihar,Muzaffarpur,5.015,9.43,High
+Bihar,Nawada,14.25,14.25,High
+Bihar,Pashchim Champaran,8.755,9.17,High
+Bihar,Purbi Champaran,8.760000000000002,11.55,High
+Bihar,Purnia,11.93,21.19,High
+Bihar,Rohtas,8.5,8.5,High
+Bihar,Saharsa,12.85,25.0,High
+Bihar,Samastipur,13.525,14.97,High
+Bihar,Saran,7.720000000000001,9.15,High
+Bihar,Sheohar,10.0,10.0,High
+Bihar,Siwan,8.405000000000001,10.14,High
+Bihar,Supaul,13.9,24.63,High
+Bihar,Vaishali,8.920000000000002,14.94,High
+Madhya Pradesh,Agar Malwa,0.25,0.25,Low
+Madhya Pradesh,Alirajpur,0.57,0.57,Low
+Madhya Pradesh,Anuppur,1.91,1.91,Medium
+Madhya Pradesh,Balaghat,1.2,1.96,Medium
+Madhya Pradesh,Barwani,0.71,0.92,Medium
+Madhya Pradesh,Betul,1.27,2.13,Medium
+Madhya Pradesh,Bhind,3.0,3.0,Medium
+Madhya Pradesh,Bhopal,1.89,1.89,Medium
+Madhya Pradesh,Burhanpur,2.21,2.21,Medium
+Madhya Pradesh,Chhatarpur,1.0,1.23,Medium
+Madhya Pradesh,Chhindwara,1.0,3.22,Medium
+Madhya Pradesh,Datia,1.41,2.2,Medium
+Madhya Pradesh,Dewas,2.44,2.44,Medium
+Madhya Pradesh,Dhar,1.285,1.97,Medium
+Madhya Pradesh,Dindori,0.96,0.96,Medium
+Madhya Pradesh,East Nimar,2.36,2.36,Medium
+Madhya Pradesh,Gwalior,3.0,3.0,Medium
+Madhya Pradesh,Harda,0.25,0.25,Low
+Madhya Pradesh,Indore,0.33,0.33,Low
+Madhya Pradesh,Jabalpur,1.0,2.79,Medium
+Madhya Pradesh,Jhabua,1.24,1.98,Medium
+Madhya Pradesh,Katni,1.0,1.0,Medium
+Madhya Pradesh,Khargone,1.18,2.03,Medium
+Madhya Pradesh,Mandla,1.43,1.6,Medium
+Madhya Pradesh,Mandsaur,2.5,2.5,Medium
+Madhya Pradesh,Morena,2.0,2.0,Medium
+Madhya Pradesh,Narmadapuram,2.23,3.0,Medium
+Madhya Pradesh,Narsinghpur,1.835,3.0,Medium
+Madhya Pradesh,Neemuch,2.43,2.43,Medium
+Madhya Pradesh,Panna,0.97,1.19,Medium
+Madhya Pradesh,Raisen,1.86,1.86,Medium
+Madhya Pradesh,Rajgarh,2.29,2.29,Medium
+Madhya Pradesh,Ratlam,2.43,2.43,Medium
+Madhya Pradesh,Rewa,1.25,3.0,Medium
+Madhya Pradesh,Sagar,1.19,1.88,Medium
+Madhya Pradesh,Satna,1.095,1.69,Medium
+Madhya Pradesh,Sehore,1.885,2.77,Medium
+Madhya Pradesh,Seoni,2.11,11.0,Medium
+Madhya Pradesh,Shahdol,1.87,1.87,Medium
+Madhya Pradesh,Shajapur,0.89,1.53,Medium
+Madhya Pradesh,Sheopur,0.28,0.28,Low
+Madhya Pradesh,Shivpuri,1.79,1.79,Medium
+Madhya Pradesh,Sidhi,1.575,2.15,Medium
+Madhya Pradesh,Singrauli,1.305,2.0,Medium
+Madhya Pradesh,Tikamgarh,1.56,1.56,Medium
+Madhya Pradesh,Ujjain,1.13,1.83,Medium
+Madhya Pradesh,Umaria,1.38,1.38,Medium
+Madhya Pradesh,Vidisha,2.0,2.0,Medium
+Meghalaya,East Garo Hills,8.87,11.76,High
+Meghalaya,North Garo Hills,11.405,11.42,High
+Meghalaya,South Garo Hills,4.82,6.24,High
+Meghalaya,South West Garo Hills,10.755,10.76,High
+Meghalaya,West Garo Hills,9.41,10.56,High
+Nagaland,Dimapur,1.91,5.15,Medium
+Nagaland,Kohima,1.89,11.8,Medium
+Nagaland,Mokokchung,1.9,13.57,Medium
+Nagaland,Mon,1.9,19.0,Medium
+Nagaland,Wokha,1.9,7.62,Medium
+Odisha,Baleshwar,6.01,10.21,High
+Odisha,Bhadrak,6.38,9.98,High
+Odisha,Cuttack,9.51,17.61,High
+Odisha,Dhenkanal,0.11,0.11,Low
+Odisha,Jagatsinghapur,8.29,23.17,High
+Odisha,Jajapur,5.44,13.52,High
+Odisha,Kendrapara,8.25,12.3,High
+Odisha,Kendujhar,7.47,15.96,High
+Odisha,Khordha,11.0,12.0,High
+Odisha,Mayurbhanj,5.76,8.31,High
+Odisha,Nabarangpur,4.5,4.5,High
+Odisha,Nayagarh,4.0,4.0,High
+Odisha,Nuapada,0.12,0.12,Low
+Odisha,Puri,4.0,6.0,High
+Tripura,Dhalai,8.71,11.12,High
+Tripura,Gomati,8.59,10.07,High
+Tripura,Khowai,9.08,9.68,High
+Tripura,North Tripura,8.55,9.28,High
+Tripura,Sepahijala,8.81,9.5,High
+Tripura,South Tripura,8.11,8.6,High
+Tripura,Unakoti,8.09,9.05,High
+Tripura,West Tripura,8.45,11.13,High
+Uttar Pradesh,Kannauj,0.86,0.86,Medium
+Uttar Pradesh,Kheri,0.83,0.83,Medium
+Uttar Pradesh,Shravasti,0.81,0.81,Medium
+Uttar Pradesh,Unnao,1.0,1.0,Medium
+West Bengal,24 Paraganas North,17.42,20.41,High
+West Bengal,24 Paraganas South,14.89,180.29,High
+West Bengal,Alipurduar,13.19,14.55,High
+West Bengal,Bankura,17.8,20.82,High
+West Bengal,Birbhum,18.73,21.19,High
+West Bengal,Coochbehar,11.61,16.33,High
+West Bengal,Darjeeling,11.58,14.25,High
+West Bengal,Dinajpur Dakshin,13.63,18.15,High
+West Bengal,Dinajpur Uttar,12.95,16.44,High
+West Bengal,Hooghly,19.06,22.76,High
+West Bengal,Howrah,18.27,82.99,High
+West Bengal,Jalpaiguri,12.55,16.78,High
+West Bengal,Maldah,15.5,17.23,High
+West Bengal,Medinipur East,16.1,22.13,High
+West Bengal,Medinipur West,15.6,19.73,High
+West Bengal,Murshidabad,13.92,16.62,High
+West Bengal,Nadia,14.89,17.38,High
+West Bengal,Paschim Bardhaman,20.57,21.14,High
+West Bengal,Purba Bardhaman,18.37,21.39,High
+West Bengal,Purulia,19.55,19.55,High

@@ -1,0 +1,54 @@
+State,District,Mean,Median,Max
+Karnataka,Belagavi,0.175,0.175,0.21
+Karnataka,Bengaluru Rural,0.7566666666666667,0.17,2.0
+Karnataka,Bengaluru Urban,0.19,0.19,0.19
+Karnataka,Chamarajanagara,0.098,0.1,0.17
+Karnataka,Chikkaballapura,0.25,0.25,0.33
+Karnataka,Chikkamagaluru,0.10454545454545454,0.07500000000000001,0.25
+Karnataka,Chitradurga,0.156,0.14,0.2
+Karnataka,Dakshina Kannada,0.08772727272727275,0.08,0.25
+Karnataka,Davangere,0.152,0.2,0.2
+Karnataka,Hassan,0.08045454545454546,0.08,0.15
+Karnataka,Haveri,0.14,0.135,0.19
+Karnataka,Kalaburagi,0.17,0.17,0.17
+Karnataka,Kodagu,0.10727272727272727,0.07,0.27
+Karnataka,Kolar,0.135,0.135,0.17
+Karnataka,Koppal,0.17,0.17,0.17
+Karnataka,Mandya,0.202,0.19,0.33
+Karnataka,Mysuru,0.20800000000000002,0.2,0.25
+Karnataka,Ramanagara,0.265,0.265,0.43
+Karnataka,Shivamogga,0.11681818181818183,0.10500000000000001,0.29
+Karnataka,Tumakuru,0.19200000000000003,0.17,0.33
+Karnataka,Udupi,0.184,0.18,0.25
+Karnataka,Uttara Kannada,0.12590909090909094,0.11499999999999999,0.28
+Kerala,Idukki,0.3738095238095238,0.28,0.67
+Kerala,Kasaragod,0.0,0.0,0.0
+Kerala,Kottayam,0.0775,0.07,0.13
+Kerala,Kozhikode,0.008823529411764706,0.01,0.02
+Kerala,Malappuram,0.024500000000000004,0.025,0.04
+Kerala,Palakkad,0.07727272727272728,0.08499999999999999,0.12
+Kerala,Pathanamthitta,0.04681818181818182,0.02,0.12
+Kerala,Wayanad,0.09818181818181819,0.09,0.17
+Nagaland,Dimapur,1.54,1.54,1.54
+Nagaland,Kiphire,0.5,0.5,0.5
+Nagaland,Kohima,0.7666666666666666,0.6,1.57
+Nagaland,Mokokchung,0.9933333333333333,1.0,1.65
+Nagaland,Mon,0.25,0.25,0.25
+Nagaland,Phek,0.7599999999999999,0.5,1.63
+Nagaland,Tuensang,0.17,0.17,0.17
+Nagaland,Wokha,0.89,0.5,1.67
+Nagaland,Zunheboto,0.17,0.17,0.17
+Tamil Nadu,Coimbatore,0.07777777777777779,0.08,0.09
+Tamil Nadu,Dindigul,0.09526315789473688,0.1,0.11
+Tamil Nadu,Erode,0.15000000000000002,0.15000000000000002,0.17
+Tamil Nadu,Kanniyakumari,0.08647058823529415,0.09,0.11
+Tamil Nadu,Madurai,5.5,5.5,5.5
+Tamil Nadu,Namakkal,0.0958823529411765,0.09,0.3
+Tamil Nadu,Salem,0.07500000000000001,0.08,0.1
+Tamil Nadu,Tenkasi,0.09333333333333334,0.09,0.1
+Tamil Nadu,The Nilgiris,0.09000000000000002,0.09,0.09
+Tamil Nadu,Theni,0.09421052631578951,0.1,0.1
+Tamil Nadu,Tirunelveli,0.09263157894736845,0.1,0.1
+Tamil Nadu,Vellore,0.5,0.5,0.5
+Tamil Nadu,Virudhunagar,0.12555555555555553,0.09,0.73
+West Bengal,Darjeeling,0.6157142857142858,0.24,2.87

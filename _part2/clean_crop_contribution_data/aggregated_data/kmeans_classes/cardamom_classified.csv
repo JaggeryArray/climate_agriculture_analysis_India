@@ -1,0 +1,53 @@
+State,District,Median,Max,Yield_Class
+Karnataka,Belagavi,0.175,0.21,Medium
+Karnataka,Bengaluru Rural,0.17,2.0,Medium
+Karnataka,Bengaluru Urban,0.19,0.19,Medium
+Karnataka,Chamarajanagara,0.1,0.17,Medium
+Karnataka,Chikkaballapura,0.25,0.33,Medium
+Karnataka,Chikkamagaluru,0.075,0.25,Medium
+Karnataka,Chitradurga,0.14,0.2,Medium
+Karnataka,Dakshina Kannada,0.08,0.25,Medium
+Karnataka,Davangere,0.2,0.2,Medium
+Karnataka,Hassan,0.08,0.15,Medium
+Karnataka,Haveri,0.135,0.19,Medium
+Karnataka,Kalaburagi,0.17,0.17,Medium
+Karnataka,Kodagu,0.07,0.27,Medium
+Karnataka,Kolar,0.135,0.17,Medium
+Karnataka,Koppal,0.17,0.17,Medium
+Karnataka,Mandya,0.19,0.33,Medium
+Karnataka,Mysuru,0.2,0.25,Medium
+Karnataka,Ramanagara,0.265,0.43,Medium
+Karnataka,Shivamogga,0.105,0.29,Medium
+Karnataka,Tumakuru,0.17,0.33,Medium
+Karnataka,Udupi,0.18,0.25,Medium
+Karnataka,Uttara Kannada,0.1149999999999999,0.28,Medium
+Kerala,Idukki,0.28,0.67,Medium
+Kerala,Kottayam,0.07,0.13,Medium
+Kerala,Kozhikode,0.01,0.02,Low
+Kerala,Malappuram,0.025,0.04,Low
+Kerala,Palakkad,0.0849999999999999,0.12,Medium
+Kerala,Pathanamthitta,0.02,0.12,Low
+Kerala,Wayanad,0.09,0.17,Medium
+Nagaland,Dimapur,1.54,1.54,High
+Nagaland,Kiphire,0.5,0.5,High
+Nagaland,Kohima,0.6,1.57,High
+Nagaland,Mokokchung,1.0,1.65,High
+Nagaland,Mon,0.25,0.25,Medium
+Nagaland,Phek,0.5,1.63,High
+Nagaland,Tuensang,0.17,0.17,Medium
+Nagaland,Wokha,0.5,1.67,High
+Nagaland,Zunheboto,0.17,0.17,Medium
+Tamil Nadu,Coimbatore,0.08,0.09,Medium
+Tamil Nadu,Dindigul,0.1,0.11,Medium
+Tamil Nadu,Erode,0.15,0.17,Medium
+Tamil Nadu,Kanniyakumari,0.09,0.11,Medium
+Tamil Nadu,Madurai,5.5,5.5,High
+Tamil Nadu,Namakkal,0.09,0.3,Medium
+Tamil Nadu,Salem,0.08,0.1,Medium
+Tamil Nadu,Tenkasi,0.09,0.1,Medium
+Tamil Nadu,The Nilgiris,0.09,0.09,Medium
+Tamil Nadu,Theni,0.1,0.1,Medium
+Tamil Nadu,Tirunelveli,0.1,0.1,Medium
+Tamil Nadu,Vellore,0.5,0.5,High
+Tamil Nadu,Virudhunagar,0.09,0.73,Medium
+West Bengal,Darjeeling,0.24,2.87,Medium

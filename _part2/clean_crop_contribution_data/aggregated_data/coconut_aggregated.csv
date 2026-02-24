@@ -1,0 +1,181 @@
+State,District,Mean,Median,Max
+A & N Islands,Nicobars,,,
+A & N Islands,North And Middle Andaman,,,
+A & N Islands,South Andamans,,,
+Andhra Pradesh,Alluri Sitharama Raju,,,
+Andhra Pradesh,Anakapalli,,,
+Andhra Pradesh,Anantapur,,,
+Andhra Pradesh,Annamayya,,,
+Andhra Pradesh,Bapatla,,,
+Andhra Pradesh,Chittoor,,,
+Andhra Pradesh,East Godavari,,,
+Andhra Pradesh,Eluru,,,
+Andhra Pradesh,Guntur,,,
+Andhra Pradesh,Kakinada,,,
+Andhra Pradesh,Konaseema,,,
+Andhra Pradesh,Krishna,,,
+Andhra Pradesh,Kurnool,,,
+Andhra Pradesh,Nandyal,,,
+Andhra Pradesh,Ntr,,,
+Andhra Pradesh,Palnadu,,,
+Andhra Pradesh,Parvathipuram Manyam,,,
+Andhra Pradesh,Prakasam,,,
+Andhra Pradesh,Spsr Nellore,,,
+Andhra Pradesh,Sri Sathya Sai,,,
+Andhra Pradesh,Srikakulam,,,
+Andhra Pradesh,Tirupati,,,
+Andhra Pradesh,Visakhapatanam,,,
+Andhra Pradesh,Vizianagaram,,,
+Andhra Pradesh,West Godavari,,,
+Andhra Pradesh,Y.s.r.,,,
+Assam,Baksa,,,
+Assam,Barpeta,,,
+Assam,Biswanath,,,
+Assam,Bongaigaon,,,
+Assam,Cachar,980.98,980.98,980.98
+Assam,Charaideo,,,
+Assam,Chirang,,,
+Assam,Darrang,,,
+Assam,Dhemaji,,,
+Assam,Dhubri,,,
+Assam,Dibrugarh,584.62,584.62,584.62
+Assam,Dima Hasao,571.11,555.235,765.43
+Assam,Goalpara,,,
+Assam,Golaghat,,,
+Assam,Hailakandi,651.43,651.43,651.43
+Assam,Hojai,,,
+Assam,Jorhat,,,
+Assam,Kamrup,,,
+Assam,Kamrup Metro,,,
+Assam,Karbi Anglong,,,
+Assam,Karimganj,,,
+Assam,Kokrajhar,,,
+Assam,Lakhimpur,,,
+Assam,Majuli,,,
+Assam,Marigaon,,,
+Assam,Nagaon,,,
+Assam,Nalbari,,,
+Assam,Sivasagar,,,
+Assam,Sonitpur,,,
+Assam,South Salmara Mancachar,,,
+Assam,Tinsukia,942.86,942.86,942.86
+Assam,Udalguri,,,
+Assam,West Karbi Anglong,,,
+DNHDD,Dadra And Nagar Haveli,277.81857142857143,250.0,445.0
+Goa,North Goa,308.84,308.84,308.84
+Goa,South Goa,606.21,606.21,606.21
+Karnataka,Bagalkote,7.96,7.96,7.96
+Karnataka,Ballari,7.96,7.96,7.96
+Karnataka,Belagavi,7.96,7.96,7.96
+Karnataka,Bengaluru Rural,7.96,7.96,7.96
+Karnataka,Bengaluru Urban,7.96,7.96,7.96
+Karnataka,Bidar,7.94,7.94,7.94
+Karnataka,Chamarajanagara,11.8,11.8,11.8
+Karnataka,Chikkaballapura,7.96,7.96,7.96
+Karnataka,Chikkamagaluru,9.05,9.05,9.05
+Karnataka,Chitradurga,9.6,9.6,9.6
+Karnataka,Dakshina Kannada,6.89,6.89,6.89
+Karnataka,Davangere,7.96,7.96,7.96
+Karnataka,Dharwad,7.96,7.96,7.96
+Karnataka,Gadag,7.96,7.96,7.96
+Karnataka,Hassan,4.86,4.86,4.86
+Karnataka,Haveri,7.96,7.96,7.96
+Karnataka,Kalaburagi,7.96,7.96,7.96
+Karnataka,Kodagu,7.96,7.96,7.96
+Karnataka,Kolar,7.96,7.96,7.96
+Karnataka,Koppal,7.96,7.96,7.96
+Karnataka,Mandya,8.95,8.95,8.95
+Karnataka,Mysuru,11.63,11.63,11.63
+Karnataka,Raichur,7.96,7.96,7.96
+Karnataka,Ramanagara,7.68,7.68,7.68
+Karnataka,Shivamogga,7.96,7.96,7.96
+Karnataka,Tumakuru,7.34,7.34,7.34
+Karnataka,Udupi,13.02,13.02,13.02
+Karnataka,Uttara Kannada,7.96,7.96,7.96
+Karnataka,Vijayanagar,,,
+Karnataka,Vijayapura,7.97,7.97,7.97
+Karnataka,Yadgir,7.96,7.96,7.96
+Kerala,Alappuzha,605.11,605.11,605.11
+Kerala,Ernakulam,486.2,486.2,486.2
+Kerala,Idukki,345.38,345.38,345.38
+Kerala,Kannur,607.56,607.56,607.56
+Kerala,Kasaragod,890.76,890.76,890.76
+Kerala,Kollam,624.79,624.79,624.79
+Kerala,Kottayam,502.09,502.09,502.09
+Kerala,Kozhikode,813.53,813.53,813.53
+Kerala,Malappuram,943.75,943.75,943.75
+Kerala,Palakkad,825.99,825.99,825.99
+Kerala,Pathanamthitta,538.63,538.63,538.63
+Kerala,Thiruvananthapuram,705.29,705.29,705.29
+Kerala,Thrissur,677.75,677.75,677.75
+Kerala,Wayanad,685.89,685.89,685.89
+Puducherry,Karaikal,,,
+Puducherry,Mahe,,,
+Puducherry,Pondicherry,,,
+Puducherry,Yanam,,,
+Tamil Nadu,Ariyalur,,,
+Tamil Nadu,Chengalpattu,,,
+Tamil Nadu,Chennai,,,
+Tamil Nadu,Coimbatore,,,
+Tamil Nadu,Cuddalore,,,
+Tamil Nadu,Dharmapuri,,,
+Tamil Nadu,Dindigul,,,
+Tamil Nadu,Erode,,,
+Tamil Nadu,Kallakurichi,,,
+Tamil Nadu,Kanchipuram,,,
+Tamil Nadu,Kanniyakumari,,,
+Tamil Nadu,Karur,,,
+Tamil Nadu,Krishnagiri,,,
+Tamil Nadu,Madurai,,,
+Tamil Nadu,Mayiladuthurai,,,
+Tamil Nadu,Nagapattinam,,,
+Tamil Nadu,Namakkal,,,
+Tamil Nadu,Perambalur,,,
+Tamil Nadu,Pudukkottai,,,
+Tamil Nadu,Ramanathapuram,,,
+Tamil Nadu,Ranipet,,,
+Tamil Nadu,Salem,,,
+Tamil Nadu,Sivaganga,,,
+Tamil Nadu,Tenkasi,,,
+Tamil Nadu,Thanjavur,,,
+Tamil Nadu,The Nilgiris,,,
+Tamil Nadu,Theni,,,
+Tamil Nadu,Thiruvallur,,,
+Tamil Nadu,Thiruvarur,,,
+Tamil Nadu,Tiruchirappalli,,,
+Tamil Nadu,Tirunelveli,,,
+Tamil Nadu,Tirupathur,,,
+Tamil Nadu,Tiruppur,,,
+Tamil Nadu,Tiruvannamalai,,,
+Tamil Nadu,Tuticorin,,,
+Tamil Nadu,Vellore,,,
+Tamil Nadu,Villupuram,,,
+Tamil Nadu,Virudhunagar,,,
+Telangana,Khammam,,,
+Telangana,Mahabubnagar,,,
+Telangana,Medak,,,
+Telangana,Nalgonda,,,
+Telangana,Nizamabad,,,
+Telangana,Ranga Reddy,,,
+West Bengal,24 Paraganas North,,,
+West Bengal,24 Paraganas South,,,
+West Bengal,Alipurduar,,,
+West Bengal,Bankura,,,
+West Bengal,Birbhum,,,
+West Bengal,Coochbehar,,,
+West Bengal,Darjeeling,,,
+West Bengal,Dinajpur Dakshin,,,
+West Bengal,Dinajpur Uttar,,,
+West Bengal,Hooghly,,,
+West Bengal,Howrah,,,
+West Bengal,Jalpaiguri,,,
+West Bengal,Jhargram,,,
+West Bengal,Kalimpong,,,
+West Bengal,Maldah,100.0,100.0,100.0
+West Bengal,Medinipur East,,,
+West Bengal,Medinipur West,,,
+West Bengal,Murshidabad,,,
+West Bengal,Nadia,,,
+West Bengal,Paschim Bardhaman,,,
+West Bengal,Purba Bardhaman,,,
+West Bengal,Purulia,,,

@@ -1,0 +1,186 @@
+State,District,Median,Max,Yield_Class
+A & N Islands,Nicobars,8.33,13.67,Medium
+A & N Islands,North And Middle Andaman,11.78,24.63,Medium
+A & N Islands,South Andamans,13.33,51.03,Medium
+Andhra Pradesh,Alluri Sitharama Raju,9.26,9.26,Medium
+Andhra Pradesh,Anakapalli,12.63,12.63,Medium
+Andhra Pradesh,Chittoor,11.165,16.8,Medium
+Andhra Pradesh,East Godavari,11.78,19.65,Medium
+Andhra Pradesh,Guntur,7.2,7.2,Medium
+Andhra Pradesh,Kakinada,11.85,11.85,Medium
+Andhra Pradesh,Konaseema,12.57,12.57,Medium
+Andhra Pradesh,Krishna,8.02,17.0,Medium
+Andhra Pradesh,Kurnool,17.0,17.0,Medium
+Andhra Pradesh,Palnadu,13.0,13.0,Medium
+Andhra Pradesh,Parvathipuram Manyam,12.6,12.6,Medium
+Andhra Pradesh,Spsr Nellore,12.09,17.44,Medium
+Andhra Pradesh,Srikakulam,8.27,19.61,Medium
+Andhra Pradesh,Tirupati,12.63,12.63,Medium
+Andhra Pradesh,Visakhapatanam,6.43,20.43,Low
+Andhra Pradesh,Vizianagaram,10.305,18.42,Medium
+Andhra Pradesh,West Godavari,18.41,26.1,High
+Assam,Baksa,8.98,12.82,Medium
+Assam,Barpeta,8.265,10.6,Medium
+Assam,Biswanath,11.67,16.66,Medium
+Assam,Bongaigaon,7.875,9.8,Medium
+Assam,Cachar,8.785,10.24,Medium
+Assam,Charaideo,9.0,9.0,Medium
+Assam,Chirang,5.05,8.36,Low
+Assam,Darrang,4.5,14.0,Low
+Assam,Dhemaji,5.59,8.31,Low
+Assam,Dhubri,4.74,8.45,Low
+Assam,Dibrugarh,9.665,10.5,Medium
+Assam,Dima Hasao,5.6850000000000005,7.05,Low
+Assam,Goalpara,5.7,8.51,Low
+Assam,Golaghat,7.465,9.15,Medium
+Assam,Hailakandi,4.585,13.0,Low
+Assam,Hojai,9.26,9.65,Medium
+Assam,Jorhat,9.515,10.5,Medium
+Assam,Kamrup,4.56,9.1,Low
+Assam,Kamrup Metro,9.0,9.58,Medium
+Assam,Karbi Anglong,10.28,11.56,Medium
+Assam,Karimganj,4.365,10.0,Low
+Assam,Kokrajhar,10.125,13.2,Medium
+Assam,Lakhimpur,8.629999999999999,9.6,Medium
+Assam,Majuli,10.0,10.0,Medium
+Assam,Marigaon,7.335,9.5,Medium
+Assam,Nagaon,6.835000000000001,16.5,Medium
+Assam,Nalbari,8.4,12.0,Medium
+Assam,Sivasagar,8.015,10.0,Medium
+Assam,Sonitpur,8.73,11.74,Medium
+Assam,South Salmara Mancachar,9.6,10.43,Medium
+Assam,Tinsukia,7.215,9.25,Medium
+Assam,Udalguri,9.49,11.54,Medium
+Assam,West Karbi Anglong,11.3,11.3,Medium
+Karnataka,Bagalkote,12.765,13.0,Medium
+Karnataka,Ballari,13.165,13.33,Medium
+Karnataka,Belagavi,11.58,13.0,Medium
+Karnataka,Bengaluru Rural,8.875,20.0,Medium
+Karnataka,Bengaluru Urban,12.75,13.25,Medium
+Karnataka,Bidar,12.77,13.33,Medium
+Karnataka,Chamarajanagara,11.71,13.29,Medium
+Karnataka,Chikkaballapura,12.5,13.5,Medium
+Karnataka,Chikkamagaluru,10.86,13.29,Medium
+Karnataka,Chitradurga,12.68,12.68,Medium
+Karnataka,Dakshina Kannada,8.36,13.0,Medium
+Karnataka,Davangere,13.0,13.0,Medium
+Karnataka,Dharwad,12.695,12.86,Medium
+Karnataka,Gadag,12.725,13.29,Medium
+Karnataka,Hassan,12.18,13.81,Medium
+Karnataka,Haveri,13.0,13.0,Medium
+Karnataka,Kalaburagi,12.67,13.33,Medium
+Karnataka,Kodagu,12.81,20.2,Medium
+Karnataka,Kolar,12.835,13.33,Medium
+Karnataka,Koppal,12.67,12.8,Medium
+Karnataka,Mandya,9.0,13.0,Medium
+Karnataka,Mysuru,9.69,13.29,Medium
+Karnataka,Raichur,12.835,13.0,Medium
+Karnataka,Ramanagara,9.5,13.28,Medium
+Karnataka,Shivamogga,8.53,13.5,Medium
+Karnataka,Tumakuru,8.75,13.29,Medium
+Karnataka,Udupi,8.565000000000001,13.5,Medium
+Karnataka,Uttara Kannada,13.0,13.0,Medium
+Karnataka,Vijayapura,12.75,12.82,Medium
+Karnataka,Yadgir,12.77,13.5,Medium
+Kerala,Alappuzha,28.19,50.72,High
+Kerala,Ernakulam,40.1,56.08,High
+Kerala,Idukki,40.65,55.1,High
+Kerala,Kannur,36.68,47.91,High
+Kerala,Kasaragod,24.84,43.37,High
+Kerala,Kollam,30.57,45.48,High
+Kerala,Kottayam,37.88,53.73,High
+Kerala,Kozhikode,26.12,43.93,High
+Kerala,Malappuram,35.4,46.36,High
+Kerala,Palakkad,29.09,56.54,High
+Kerala,Pathanamthitta,39.64,50.55,High
+Kerala,Thiruvananthapuram,30.41,37.22,High
+Kerala,Thrissur,37.57,59.2,High
+Kerala,Wayanad,41.7,52.5,High
+Manipur,Bishnupur,4.385,5.6,Low
+Manipur,Chandel,5.675,5.75,Low
+Manipur,Churachandpur,7.8,10.0,Medium
+Manipur,Imphal East,5.58,5.58,Low
+Manipur,Imphal West,4.199999999999999,5.6,Low
+Manipur,Senapati,4.385,5.6,Low
+Manipur,Tamenglong,4.4,5.6,Low
+Manipur,Thoubal,5.6,5.6,Low
+Manipur,Ukhrul,7.279999999999999,9.0,Medium
+Meghalaya,East Garo Hills,5.37,5.69,Low
+Meghalaya,East Jaintia Hills,10.215,13.67,Medium
+Meghalaya,East Khasi Hills,6.005,7.26,Low
+Meghalaya,North Garo Hills,5.87,5.87,Low
+Meghalaya,Ri Bhoi,6.029999999999999,6.32,Low
+Meghalaya,South Garo Hills,6.775,8.81,Medium
+Meghalaya,South West Garo Hills,6.94,6.94,Medium
+Meghalaya,South West Khasi Hills,8.9,8.91,Medium
+Meghalaya,West Garo Hills,5.58,5.77,Low
+Meghalaya,West Jaintia Hills,11.04,11.04,Medium
+Meghalaya,West Khasi Hills,6.11,7.64,Low
+Mizoram,Aizawl,7.5,16.55,Medium
+Mizoram,Champhai,1.48,9.2,Low
+Mizoram,Hnahthial,6.75,6.75,Medium
+Mizoram,Khawzawl,1.67,1.67,Low
+Mizoram,Kolasib,11.75,37.97,Medium
+Mizoram,Lawngtlai,3.565,10.0,Low
+Mizoram,Lunglei,8.57,14.38,Medium
+Mizoram,Mamit,1.84,9.24,Low
+Mizoram,Saiha,2.62,2.62,Low
+Mizoram,Saitual,1.5,1.5,Low
+Nagaland,Chumoukedima,22.46,22.46,High
+Nagaland,Dimapur,20.275,23.56,High
+Nagaland,Kiphire,20.25,23.5,High
+Nagaland,Kohima,20.26,23.88,High
+Nagaland,Longleng,20.24,23.75,High
+Nagaland,Mokokchung,20.26,23.62,High
+Nagaland,Mon,20.23,23.42,High
+Nagaland,Niuland,22.45,22.45,High
+Nagaland,Noklak,17.595,22.44,Medium
+Nagaland,Peren,20.27,23.7,High
+Nagaland,Phek,20.265,23.5,High
+Nagaland,Shamator,22.11,22.11,High
+Nagaland,Tseminyu,22.22,22.22,High
+Nagaland,Tuensang,20.275,23.47,High
+Nagaland,Wokha,20.25,23.57,High
+Nagaland,Zunheboto,20.255000000000003,23.58,High
+Puducherry,Mahe,12.9,42.0,Medium
+Puducherry,Pondicherry,25.43,41.0,High
+Tamil Nadu,Ariyalur,34.585,42.49,High
+Tamil Nadu,Chengalpattu,37.6,42.92,High
+Tamil Nadu,Coimbatore,37.935,55.05,High
+Tamil Nadu,Cuddalore,32.28,70.52,High
+Tamil Nadu,Dharmapuri,30.18,49.72,High
+Tamil Nadu,Dindigul,35.205,42.46,High
+Tamil Nadu,Erode,36.370000000000005,52.31,High
+Tamil Nadu,Kallakurichi,42.55,49.97,High
+Tamil Nadu,Kanchipuram,34.22,42.17,High
+Tamil Nadu,Kanniyakumari,31.92,56.78,High
+Tamil Nadu,Karur,37.34,58.14,High
+Tamil Nadu,Krishnagiri,35.974999999999994,67.75,High
+Tamil Nadu,Madurai,35.04,43.09,High
+Tamil Nadu,Mayiladuthurai,37.55,42.49,High
+Tamil Nadu,Nagapattinam,34.95,42.2,High
+Tamil Nadu,Namakkal,37.25,48.45,High
+Tamil Nadu,Perambalur,39.0,65.71,High
+Tamil Nadu,Pudukkottai,35.14,42.54,High
+Tamil Nadu,Ramanathapuram,28.695,34.0,High
+Tamil Nadu,Ranipet,37.5,43.0,High
+Tamil Nadu,Salem,34.010000000000005,50.64,High
+Tamil Nadu,Sivaganga,35.54,42.87,High
+Tamil Nadu,Tenkasi,37.55,42.47,High
+Tamil Nadu,Thanjavur,34.980000000000004,49.28,High
+Tamil Nadu,The Nilgiris,34.974999999999994,42.79,High
+Tamil Nadu,Theni,37.28,60.2,High
+Tamil Nadu,Thiruvallur,35.135000000000005,42.46,High
+Tamil Nadu,Thiruvarur,35.125,42.55,High
+Tamil Nadu,Tiruchirappalli,42.66,58.35,High
+Tamil Nadu,Tirunelveli,35.175,42.72,High
+Tamil Nadu,Tirupathur,37.56,42.53,High
+Tamil Nadu,Tiruppur,33.905,49.16,High
+Tamil Nadu,Tiruvannamalai,37.13,73.39,High
+Tamil Nadu,Tuticorin,35.0,42.18,High
+Tamil Nadu,Vellore,35.195,42.5,High
+Tamil Nadu,Villupuram,31.265,43.21,High
+Tamil Nadu,Virudhunagar,34.44,42.66,High
+Telangana,Khammam,6.5,6.5,Low
+Telangana,Mahabubnagar,8.0,8.0,Medium
+Telangana,Ranga Reddy,6.99,7.65,Medium

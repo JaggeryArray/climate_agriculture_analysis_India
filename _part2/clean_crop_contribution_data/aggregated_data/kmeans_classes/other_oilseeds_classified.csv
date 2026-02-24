@@ -1,0 +1,225 @@
+State,District,Median,Max,Yield_Class
+A & N Islands,Nicobars,0.09,0.11,Low
+A & N Islands,North And Middle Andaman,0.6,1.25,Low
+A & N Islands,South Andamans,0.52,0.64,Low
+Andhra Pradesh,Alluri Sitharama Raju,23.9,23.9,High
+Andhra Pradesh,Anakapalli,23.9,23.9,High
+Andhra Pradesh,Anantapur,0.56,20.14,Low
+Andhra Pradesh,Annamayya,5.2,5.2,Medium
+Andhra Pradesh,Chittoor,6.48,14.15,High
+Andhra Pradesh,East Godavari,22.995,32.57,High
+Andhra Pradesh,Eluru,24.82,24.82,High
+Andhra Pradesh,Guntur,21.145,24.29,High
+Andhra Pradesh,Kakinada,23.53,23.53,High
+Andhra Pradesh,Konaseema,23.9,23.9,High
+Andhra Pradesh,Krishna,21.37,25.0,High
+Andhra Pradesh,Kurnool,0.47,0.47,Low
+Andhra Pradesh,Ntr,23.9,23.9,High
+Andhra Pradesh,Parvathipuram Manyam,23.9,23.9,High
+Andhra Pradesh,Prakasam,1.24,23.88,Medium
+Andhra Pradesh,Spsr Nellore,19.19,23.9,High
+Andhra Pradesh,Sri Sathya Sai,5.29,5.29,Medium
+Andhra Pradesh,Srikakulam,21.42,25.25,High
+Andhra Pradesh,Tirupati,20.89,20.89,High
+Andhra Pradesh,Visakhapatanam,19.935,24.27,High
+Andhra Pradesh,Vizianagaram,21.54,23.9,High
+Andhra Pradesh,West Godavari,22.615,24.47,High
+Andhra Pradesh,Y.s.r.,1.72,3.18,Medium
+Arunachal Pradesh,Changlang,1.54,1.54,Medium
+Arunachal Pradesh,Leparada,1.0,1.0,Medium
+Arunachal Pradesh,Lohit,1.26,1.28,Medium
+Arunachal Pradesh,Lower Dibang Valley,0.59,0.73,Low
+Arunachal Pradesh,Namsai,1.06,1.57,Medium
+Arunachal Pradesh,Papum Pare,0.425,0.75,Low
+Arunachal Pradesh,Siang,2.05,2.05,Medium
+Arunachal Pradesh,Upper Siang,1.32,1.36,Medium
+Arunachal Pradesh,West Siang,0.9,1.0,Medium
+Goa,North Goa,2.25,2.45,Medium
+Goa,South Goa,2.98,3.8,Medium
+Gujarat,Ahmadabad,0.42,0.47,Low
+Gujarat,Amreli,0.36,0.36,Low
+Gujarat,Anand,0.4599999999999999,0.5,Low
+Gujarat,Banas Kantha,0.33,0.33,Low
+Gujarat,Bharuch,0.365,0.4,Low
+Gujarat,Bhavnagar,0.5,0.5,Low
+Gujarat,Dang,0.32,0.36,Low
+Gujarat,Dohad,0.33,0.33,Low
+Gujarat,Jamnagar,0.36,0.39,Low
+Gujarat,Junagadh,0.445,0.51,Low
+Gujarat,Kachchh,0.33,0.33,Low
+Gujarat,Kheda,0.43,0.53,Low
+Gujarat,Mahesana,0.58,0.73,Low
+Gujarat,Narmada,0.5,0.5,Low
+Gujarat,Navsari,0.395,0.5,Low
+Gujarat,Panch Mahals,0.4649999999999999,0.5,Low
+Gujarat,Patan,0.44,0.5,Low
+Gujarat,Porbandar,0.39,0.44,Low
+Gujarat,Rajkot,0.33,0.33,Low
+Gujarat,Surat,0.4,0.4,Low
+Gujarat,Surendranagar,0.415,0.5,Low
+Gujarat,Tapi,0.37,0.37,Low
+Gujarat,Valsad,0.33,0.34,Low
+Haryana,Ambala,1.705,2.08,Medium
+Haryana,Bhiwani,1.665,1.75,Medium
+Haryana,Faridabad,1.8,1.8,Medium
+Haryana,Fatehabad,1.365,1.73,Medium
+Haryana,Gurugram,1.73,1.73,Medium
+Haryana,Hisar,1.8,2.0,Medium
+Haryana,Jind,1.8,1.8,Medium
+Haryana,Karnal,1.0,1.0,Medium
+Haryana,Kurukshetra,1.585,1.78,Medium
+Haryana,Mahendragarh,1.75,1.86,Medium
+Haryana,Nuh,2.0,2.0,Medium
+Haryana,Panchkula,1.0,2.0,Medium
+Haryana,Rewari,2.0,2.5,Medium
+Haryana,Rohtak,2.0,2.0,Medium
+Haryana,Sirsa,1.9,2.0,Medium
+Haryana,Yamunanagar,1.41,1.75,Medium
+Himachal Pradesh,Solan,0.88,0.88,Medium
+Jammu & Kashmir,Baramulla,0.35,0.35,Low
+Jammu & Kashmir,Budgam,0.59,0.59,Low
+Jammu & Kashmir,Doda,0.46,1.4,Low
+Jammu & Kashmir,Jammu,0.45,1.38,Low
+Jammu & Kashmir,Kathua,0.815,1.38,Low
+Jammu & Kashmir,Kulgam,0.165,0.17,Low
+Jammu & Kashmir,Poonch,0.78,0.78,Low
+Jammu & Kashmir,Rajouri,0.4,0.4,Low
+Jammu & Kashmir,Reasi,0.93,1.4,Medium
+Jammu & Kashmir,Samba,0.54,0.78,Low
+Jammu & Kashmir,Srinagar,0.4,0.5,Low
+Jammu & Kashmir,Udhampur,0.5349999999999999,0.57,Low
+Ladakh,Leh Ladakh,0.92,1.13,Medium
+Maharashtra,Ahmednagar,0.2,0.54,Low
+Maharashtra,Akola,0.31,0.31,Low
+Maharashtra,Amravati,0.4,0.44,Low
+Maharashtra,Aurangabad,0.255,0.5,Low
+Maharashtra,Beed,0.2799999999999999,2.0,Low
+Maharashtra,Bhandara,0.33,1.0,Low
+Maharashtra,Buldhana,0.33,1.0,Low
+Maharashtra,Chandrapur,0.31,0.43,Low
+Maharashtra,Dhule,0.4,0.5,Low
+Maharashtra,Gadchiroli,0.275,0.31,Low
+Maharashtra,Gondia,0.38,0.38,Low
+Maharashtra,Hingoli,0.16,0.33,Low
+Maharashtra,Jalgaon,0.565,0.65,Low
+Maharashtra,Jalna,0.35,0.45,Low
+Maharashtra,Kolhapur,0.4,5.0,Low
+Maharashtra,Latur,0.3,0.34,Low
+Maharashtra,Nagpur,0.4,0.49,Low
+Maharashtra,Nanded,0.22,0.42,Low
+Maharashtra,Nandurbar,0.375,6.0,Low
+Maharashtra,Nashik,0.36,1.24,Low
+Maharashtra,Osmanabad,0.245,0.33,Low
+Maharashtra,Palghar,0.53,1.0,Low
+Maharashtra,Parbhani,0.19,0.4,Low
+Maharashtra,Pune,0.17,0.23,Low
+Maharashtra,Raigad,0.45,0.67,Low
+Maharashtra,Ratnagiri,0.63,0.66,Low
+Maharashtra,Sangli,0.21,0.48,Low
+Maharashtra,Satara,0.24,0.34,Low
+Maharashtra,Sindhudurg,0.6,0.71,Low
+Maharashtra,Solapur,0.21,0.26,Low
+Maharashtra,Thane,0.4499999999999999,1.0,Low
+Maharashtra,Wardha,0.53,0.89,Low
+Maharashtra,Washim,0.33,0.47,Low
+Maharashtra,Yavatmal,0.25,0.4,Low
+Manipur,Bishnupur,0.825,0.95,Low
+Manipur,Chandel,0.745,0.8,Low
+Manipur,Churachandpur,0.715,0.82,Low
+Manipur,Imphal East,0.785,0.81,Low
+Manipur,Imphal West,0.8200000000000001,0.86,Low
+Manipur,Senapati,0.56,0.56,Low
+Manipur,Tamenglong,0.725,0.83,Low
+Manipur,Thoubal,0.71,0.73,Low
+Manipur,Ukhrul,0.54,0.54,Low
+Mizoram,Aizawl,0.82,1.17,Low
+Mizoram,Champhai,0.765,1.12,Low
+Mizoram,Kolasib,0.68,1.36,Low
+Mizoram,Lawngtlai,0.35,0.47,Low
+Mizoram,Lunglei,0.75,1.8,Low
+Mizoram,Mamit,0.57,0.75,Low
+Mizoram,Saiha,0.765,0.93,Low
+Mizoram,Serchhip,0.55,1.48,Low
+Nagaland,Chumoukedima,0.62,0.62,Low
+Nagaland,Kiphire,0.59,0.66,Low
+Nagaland,Kohima,0.6,0.62,Low
+Nagaland,Longleng,0.58,0.63,Low
+Nagaland,Mokokchung,0.62,0.64,Low
+Nagaland,Mon,0.61,0.61,Low
+Nagaland,Niuland,0.6,0.6,Low
+Nagaland,Noklak,0.505,0.61,Low
+Nagaland,Peren,0.63,0.63,Low
+Nagaland,Phek,0.6,0.62,Low
+Nagaland,Shamator,0.51,0.51,Low
+Nagaland,Tseminyu,0.61,0.61,Low
+Nagaland,Tuensang,0.6,0.61,Low
+Nagaland,Wokha,0.6,0.67,Low
+Nagaland,Zunheboto,0.59,0.62,Low
+Punjab,Fazilka,2.0,2.0,Medium
+Punjab,Hoshiarpur,1.2,1.33,Medium
+Punjab,Rupnagar,1.33,1.5,Medium
+Punjab,S.a.s Nagar,1.25,1.67,Medium
+Punjab,Shahid Bhagat Singh Nagar,1.5,1.5,Medium
+Punjab,Sri Muktsar Sahib,1.25,1.25,Medium
+Rajasthan,Ajmer,0.6,1.08,Low
+Rajasthan,Alwar,0.46,0.84,Low
+Rajasthan,Banswara,0.43,0.74,Low
+Rajasthan,Baran,0.435,1.87,Low
+Rajasthan,Barmer,0.42,1.16,Low
+Rajasthan,Bharatpur,0.5,0.83,Low
+Rajasthan,Bhilwara,0.52,0.71,Low
+Rajasthan,Bikaner,0.43,1.07,Low
+Rajasthan,Bundi,0.57,1.07,Low
+Rajasthan,Chittorgarh,0.56,0.71,Low
+Rajasthan,Churu,0.42,0.8,Low
+Rajasthan,Dausa,0.57,1.02,Low
+Rajasthan,Dholpur,0.4649999999999999,1.13,Low
+Rajasthan,Dungarpur,0.43,1.02,Low
+Rajasthan,Ganganagar,0.37,1.05,Low
+Rajasthan,Hanumangarh,0.37,1.11,Low
+Rajasthan,Jaipur,0.51,0.91,Low
+Rajasthan,Jaisalmer,0.43,1.06,Low
+Rajasthan,Jalore,0.51,1.18,Low
+Rajasthan,Jhalawar,0.43,1.01,Low
+Rajasthan,Jhunjhunu,0.4649999999999999,0.94,Low
+Rajasthan,Jodhpur,0.67,1.15,Low
+Rajasthan,Karauli,0.5,0.88,Low
+Rajasthan,Kota,0.5,1.72,Low
+Rajasthan,Nagaur,0.59,0.98,Low
+Rajasthan,Pali,0.46,0.97,Low
+Rajasthan,Pratapgarh,0.49,0.71,Low
+Rajasthan,Rajsamand,0.42,0.77,Low
+Rajasthan,Sawai Madhopur,0.5,0.71,Low
+Rajasthan,Sikar,0.54,1.04,Low
+Rajasthan,Sirohi,0.51,1.02,Low
+Rajasthan,Tonk,0.61,0.92,Low
+Rajasthan,Udaipur,0.52,0.73,Low
+Sikkim,Gangtok,0.5,0.5,Low
+Sikkim,Gyalshing,0.5,1.0,Low
+Sikkim,Namchi,0.5,0.75,Low
+Telangana,Adilabad,1.25,1.25,Medium
+Telangana,Khammam,15.61,26.86,High
+Telangana,Medak,1.31,1.72,Medium
+Telangana,Nalgonda,21.38,26.86,High
+Telangana,Nizamabad,1.25,1.25,Medium
+Telangana,Ranga Reddy,0.4,1.29,Low
+Tripura,Dhalai,0.75,0.75,Low
+Tripura,Gomati,0.67,0.67,Low
+Tripura,Khowai,0.79,0.8,Low
+Tripura,North Tripura,0.685,0.73,Low
+Tripura,South Tripura,0.68,0.68,Low
+Tripura,Unakoti,0.8,0.8,Low
+Tripura,West Tripura,0.71,0.71,Low
+Uttarakhand,Almora,0.485,1.0,Low
+Uttarakhand,Bageshwar,0.5,1.0,Low
+Uttarakhand,Chamoli,0.5,1.0,Low
+Uttarakhand,Champawat,0.5700000000000001,1.0,Low
+Uttarakhand,Dehradun,0.605,1.29,Low
+Uttarakhand,Haridwar,0.6799999999999999,0.8,Low
+Uttarakhand,Nainital,0.675,1.18,Low
+Uttarakhand,Pauri Garhwal,0.5,0.67,Low
+Uttarakhand,Pithoragarh,0.67,1.0,Low
+Uttarakhand,Rudra Prayag,0.57,0.75,Low
+Uttarakhand,Tehri Garhwal,0.565,1.0,Low
+Uttarakhand,Udam Singh Nagar,0.72,1.14,Low
+Uttarakhand,Uttar Kashi,0.565,1.0,Low

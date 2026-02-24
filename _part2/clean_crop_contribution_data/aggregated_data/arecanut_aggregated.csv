@@ -1,0 +1,153 @@
+State,District,Mean,Median,Max
+A & N Islands,Nicobars,0.7999999999999999,0.64,1.71
+A & N Islands,North And Middle Andaman,2.3575000000000004,2.375,3.43
+A & N Islands,South Andamans,3.152222222222222,2.245,8.62
+Andhra Pradesh,Anakapalli,9.22,9.22,9.22
+Andhra Pradesh,Anantapur,3.3652380952380954,1.44,10.54
+Andhra Pradesh,East Godavari,2.2,1.7149999999999999,9.2
+Andhra Pradesh,Eluru,9.2,9.2,9.2
+Andhra Pradesh,Konaseema,1.12,1.12,1.12
+Andhra Pradesh,Krishna,2.35,1.595,7.0
+Andhra Pradesh,Ntr,9.2,9.2,9.2
+Andhra Pradesh,Sri Sathya Sai,9.89,9.89,9.89
+Andhra Pradesh,Visakhapatanam,7.13,7.13,7.13
+Andhra Pradesh,Vizianagaram,2.441,1.0,7.13
+Andhra Pradesh,West Godavari,3.045833333333333,1.925,9.5
+Assam,Baksa,0.8411764705882355,0.81,1.08
+Assam,Barpeta,0.8113636363636364,0.785,1.17
+Assam,Biswanath,0.7925,0.8,0.8
+Assam,Bongaigaon,0.9477272727272728,0.915,1.66
+Assam,Cachar,0.45,0.42,0.77
+Assam,Charaideo,0.5525,0.65,0.68
+Assam,Chirang,0.8594117647058827,0.85,1.39
+Assam,Darrang,0.5804545454545453,0.585,1.13
+Assam,Dhemaji,0.9386363636363636,0.845,1.86
+Assam,Dhubri,0.9304545454545452,0.83,1.88
+Assam,Dibrugarh,0.8954545454545454,0.82,1.55
+Assam,Dima Hasao,0.7140909090909092,0.715,1.12
+Assam,Goalpara,1.1818181818181819,1.21,1.79
+Assam,Golaghat,0.740909090909091,0.755,0.89
+Assam,Hailakandi,1.0763636363636364,0.85,3.54
+Assam,Hojai,0.6175,0.62,0.62
+Assam,Jorhat,0.6686363636363637,0.65,0.96
+Assam,Kamrup,1.0881818181818181,1.085,1.76
+Assam,Kamrup Metro,0.9529411764705884,0.85,1.64
+Assam,Karbi Anglong,0.7254545454545454,0.5900000000000001,1.38
+Assam,Karimganj,0.4068181818181818,0.355,1.23
+Assam,Kokrajhar,2.0349999999999997,0.9750000000000001,19.3
+Assam,Lakhimpur,0.6922727272727273,0.66,1.32
+Assam,Majuli,0.46749999999999997,0.47,0.47
+Assam,Marigaon,0.7863636363636363,0.755,1.14
+Assam,Nagaon,0.9640909090909091,0.98,1.81
+Assam,Nalbari,0.9554545454545452,0.985,1.54
+Assam,Sivasagar,0.7213636363636362,0.685,1.7
+Assam,Sonitpur,0.7827272727272728,0.71,1.31
+Assam,South Salmara Mancachar,0.74,0.825,0.83
+Assam,Tinsukia,1.417727272727273,1.13,4.44
+Assam,Udalguri,0.7629411764705882,0.74,0.96
+Assam,West Karbi Anglong,0.53,0.51,0.59
+Goa,North Goa,1.989,2.045,2.35
+Goa,South Goa,1.7239999999999998,1.68,1.89
+Karnataka,Bagalkote,5.7225,4.25,11.2
+Karnataka,Ballari,7.155238095238094,8.02,11.26
+Karnataka,Belagavi,7.815555555555554,9.105,11.29
+Karnataka,Bengaluru Rural,7.4409090909090905,8.515,11.26
+Karnataka,Bengaluru Urban,7.336818181818182,8.065,11.26
+Karnataka,Chamarajanagara,6.552727272727273,8.065,11.26
+Karnataka,Chikkaballapura,9.844615384615384,10.16,11.26
+Karnataka,Chikkamagaluru,5.508636363636364,5.824999999999999,11.14
+Karnataka,Chitradurga,7.0554545454545465,8.2,12.89
+Karnataka,Dakshina Kannada,8.813181818181818,9.41,13.55
+Karnataka,Davangere,7.095,8.065,14.52
+Karnataka,Dharwad,7.377727272727273,8.120000000000001,11.26
+Karnataka,Gadag,7.577058823529412,8.89,11.25
+Karnataka,Hassan,6.743636363636363,7.21,11.5
+Karnataka,Haveri,7.408181818181817,8.399999999999999,11.26
+Karnataka,Kalaburagi,9.0,9.0,9.0
+Karnataka,Kodagu,7.26409090909091,8.149999999999999,11.26
+Karnataka,Kolar,5.517272727272727,4.93,11.25
+Karnataka,Koppal,9.113333333333333,11.0,11.25
+Karnataka,Mandya,7.2731818181818175,8.065,11.26
+Karnataka,Mysuru,6.5640909090909085,8.065,11.26
+Karnataka,Ramanagara,9.098125000000001,9.525,11.26
+Karnataka,Shivamogga,6.993181818181818,7.15,11.79
+Karnataka,Tumakuru,6.62409090909091,7.31,11.91
+Karnataka,Udupi,8.528636363636364,8.37,19.21
+Karnataka,Uttara Kannada,9.422272727272729,12.295,14.5
+Karnataka,Vijayanagar,8.15,8.15,8.15
+Karnataka,Vijayapura,9.49,9.835,11.29
+Karnataka,Yadgir,11.0,11.0,11.0
+Kerala,Alappuzha,0.38999999999999996,0.4,0.61
+Kerala,Ernakulam,0.8713043478260868,0.79,1.23
+Kerala,Idukki,0.9400000000000001,0.94,1.48
+Kerala,Kannur,1.1091304347826088,1.09,1.51
+Kerala,Kasaragod,2.142608695652174,2.03,2.89
+Kerala,Kollam,0.6378260869565218,0.65,0.82
+Kerala,Kottayam,0.6852173913043478,0.71,0.85
+Kerala,Kozhikode,1.0417391304347825,1.02,1.47
+Kerala,Malappuram,0.9486956521739129,0.9,1.4
+Kerala,Palakkad,0.9152173913043479,0.93,1.29
+Kerala,Pathanamthitta,0.6943478260869564,0.64,1.12
+Kerala,Thiruvananthapuram,0.5065217391304347,0.51,0.73
+Kerala,Thrissur,0.8356521739130436,0.8,1.31
+Kerala,Wayanad,0.4852173913043478,0.47,0.93
+Meghalaya,East Garo Hills,1.1484999999999996,1.13,1.27
+Meghalaya,East Jaintia Hills,1.4884999999999995,1.45,2.01
+Meghalaya,East Khasi Hills,1.0345,1.05,1.21
+Meghalaya,North Garo Hills,1.2933333333333337,1.32,1.32
+Meghalaya,Ri Bhoi,0.5905000000000001,0.57,0.71
+Meghalaya,South Garo Hills,1.5429999999999997,1.45,1.9
+Meghalaya,South West Garo Hills,1.8299999999999998,1.78,2.03
+Meghalaya,South West Khasi Hills,1.217777777777778,1.23,1.47
+Meghalaya,West Garo Hills,1.7600000000000002,1.795,2.1
+Meghalaya,West Jaintia Hills,1.6066666666666665,1.6,1.65
+Meghalaya,West Khasi Hills,1.0244999999999997,0.995,1.24
+Puducherry,Mahe,1.4875,1.5,2.11
+Tamil Nadu,Ariyalur,2.0833333333333335,2.0,2.25
+Tamil Nadu,Coimbatore,1.6835294117647055,1.89,2.87
+Tamil Nadu,Cuddalore,1.8,2.0,2.0
+Tamil Nadu,Dharmapuri,2.7064705882352946,2.29,6.78
+Tamil Nadu,Dindigul,1.2658823529411762,1.25,2.95
+Tamil Nadu,Erode,2.223529411764706,2.05,4.36
+Tamil Nadu,Kallakurichi,2.813333333333334,2.89,2.97
+Tamil Nadu,Kanniyakumari,1.3676470588235292,1.2,3.33
+Tamil Nadu,Karur,1.5357142857142858,2.0,2.0
+Tamil Nadu,Krishnagiri,1.3170588235294116,0.81,4.92
+Tamil Nadu,Madurai,2.0,2.0,2.0
+Tamil Nadu,Mayiladuthurai,2.0,2.0,2.0
+Tamil Nadu,Nagapattinam,1.5555555555555556,2.0,2.0
+Tamil Nadu,Namakkal,2.2147058823529413,2.09,3.63
+Tamil Nadu,Perambalur,1.688235294117647,1.52,4.36
+Tamil Nadu,Pudukkottai,1.595,1.5,2.4
+Tamil Nadu,Salem,1.9129411764705884,1.92,2.92
+Tamil Nadu,Tenkasi,0.17,0.16,0.23
+Tamil Nadu,Thanjavur,1.286470588235294,1.16,2.89
+Tamil Nadu,The Nilgiris,1.5752941176470587,1.11,3.67
+Tamil Nadu,Theni,1.312941176470588,1.13,3.13
+Tamil Nadu,Thiruvarur,1.6541176470588235,1.67,2.5
+Tamil Nadu,Tiruchirappalli,2.4041176470588232,2.34,4.31
+Tamil Nadu,Tirunelveli,0.7647058823529412,0.61,2.13
+Tamil Nadu,Tirupathur,1.5066666666666666,1.43,1.8
+Tamil Nadu,Tiruppur,2.7016666666666667,1.7850000000000001,7.07
+Tamil Nadu,Tiruvannamalai,1.6099999999999997,1.7,2.45
+Tamil Nadu,Vellore,1.78,2.0,2.43
+Tamil Nadu,Villupuram,1.552857142857143,1.4,2.45
+Tamil Nadu,Virudhunagar,1.6176470588235294,2.0,2.0
+West Bengal,24 Paraganas North,2.5999999999999996,2.625,5.13
+West Bengal,24 Paraganas South,1.55875,1.61,2.0
+West Bengal,Bankura,3.59875,1.5150000000000001,18.4
+West Bengal,Birbhum,1.405,1.2650000000000001,1.95
+West Bengal,Coochbehar,2.38875,1.5,5.75
+West Bengal,Darjeeling,2.24125,2.075,3.45
+West Bengal,Dinajpur Dakshin,1.1,1.1099999999999999,1.25
+West Bengal,Dinajpur Uttar,4.65125,4.74,12.12
+West Bengal,Hooghly,2.21,2.2,2.95
+West Bengal,Howrah,2.13,2.0949999999999998,2.4
+West Bengal,Jalpaiguri,1.6462500000000002,1.5550000000000002,2.28
+West Bengal,Maldah,1.57625,1.665,1.81
+West Bengal,Medinipur East,1.34875,1.6099999999999999,2.5
+West Bengal,Medinipur West,1.4125,1.27,2.39
+West Bengal,Murshidabad,1.8487500000000001,1.8599999999999999,2.0
+West Bengal,Nadia,1.87875,1.875,2.77
+West Bengal,Purba Bardhaman,2.55375,2.725,3.0
+West Bengal,Purulia,0.9,0.9,1.0

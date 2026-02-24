@@ -1,0 +1,124 @@
+State,District,Median,Max,Yield_Class
+A & N Islands,Nicobars,0.065,0.37,Low
+A & N Islands,North And Middle Andaman,0.205,1.09,Low
+A & N Islands,South Andamans,0.21,5.03,Low
+Andhra Pradesh,Alluri Sitharama Raju,0.62,0.62,Medium
+Andhra Pradesh,Anantapur,1.0,1.0,Medium
+Andhra Pradesh,East Godavari,0.625,0.75,Medium
+Andhra Pradesh,Eluru,0.11,0.11,Low
+Andhra Pradesh,Visakhapatanam,0.7849999999999999,1.0,Medium
+Andhra Pradesh,West Godavari,0.54,1.0,Medium
+Assam,Baksa,1.835,2.11,High
+Assam,Barpeta,1.53,2.28,High
+Assam,Biswanath,1.79,1.97,High
+Assam,Bongaigaon,1.88,2.71,High
+Assam,Cachar,2.0700000000000003,2.57,High
+Assam,Charaideo,1.55,1.9,High
+Assam,Chirang,1.775,5.15,High
+Assam,Darrang,1.685,2.48,High
+Assam,Dhemaji,1.44,2.18,High
+Assam,Dhubri,2.0,3.11,High
+Assam,Dibrugarh,1.92,2.89,High
+Assam,Dima Hasao,1.545,2.51,High
+Assam,Goalpara,1.895,2.51,High
+Assam,Golaghat,2.41,2.86,High
+Assam,Hailakandi,1.97,2.89,High
+Assam,Hojai,2.05,2.5,High
+Assam,Jorhat,1.47,1.78,High
+Assam,Kamrup,1.6349999999999998,1.88,High
+Assam,Kamrup Metro,1.92,2.53,High
+Assam,Karbi Anglong,1.61,3.71,High
+Assam,Karimganj,1.685,2.12,High
+Assam,Kokrajhar,1.64,2.86,High
+Assam,Lakhimpur,1.885,2.69,High
+Assam,Majuli,1.66,1.97,High
+Assam,Marigaon,1.825,2.07,High
+Assam,Nagaon,1.615,2.43,High
+Assam,Nalbari,2.0,3.21,High
+Assam,Sivasagar,1.81,2.48,High
+Assam,Sonitpur,1.69,2.08,High
+Assam,South Salmara Mancachar,3.0,3.0,High
+Assam,Tinsukia,1.21,1.82,High
+Assam,Udalguri,1.825,2.21,High
+Assam,West Karbi Anglong,3.51,3.68,High
+Goa,North Goa,0.335,0.41,Low
+Goa,South Goa,0.345,0.54,Low
+Karnataka,Bagalkote,0.55,2.5,Medium
+Karnataka,Ballari,0.47,0.56,Medium
+Karnataka,Belagavi,0.6,2.8,Medium
+Karnataka,Bengaluru Rural,2.33,4.0,High
+Karnataka,Bengaluru Urban,0.61,6.87,Medium
+Karnataka,Bidar,0.64,4.0,Medium
+Karnataka,Chamarajanagara,0.625,4.25,Medium
+Karnataka,Chikkaballapura,0.48,0.53,Medium
+Karnataka,Chikkamagaluru,1.1,4.24,High
+Karnataka,Chitradurga,0.615,2.5,Medium
+Karnataka,Dakshina Kannada,2.01,5.18,High
+Karnataka,Davangere,2.0,4.27,High
+Karnataka,Dharwad,0.615,4.22,Medium
+Karnataka,Gadag,0.525,0.77,Medium
+Karnataka,Hassan,1.1,3.84,High
+Karnataka,Haveri,0.59,0.77,Medium
+Karnataka,Kalaburagi,0.56,2.0,Medium
+Karnataka,Kodagu,2.35,4.44,High
+Karnataka,Kolar,0.425,0.47,Medium
+Karnataka,Koppal,0.55,7.84,Medium
+Karnataka,Mandya,2.5,2.5,High
+Karnataka,Mysuru,2.48,4.24,High
+Karnataka,Raichur,0.47,0.55,Medium
+Karnataka,Ramanagara,0.595,2.84,Medium
+Karnataka,Shivamogga,2.48,3.82,High
+Karnataka,Tumakuru,2.0,4.29,High
+Karnataka,Udupi,2.32,4.24,High
+Karnataka,Uttara Kannada,2.44,4.24,High
+Karnataka,Vijayanagar,0.72,0.72,Medium
+Karnataka,Vijayapura,0.39,0.39,Medium
+Karnataka,Yadgir,0.505,0.54,Medium
+Kerala,Alappuzha,0.17,0.24,Low
+Kerala,Ernakulam,0.22,0.3,Low
+Kerala,Idukki,0.47,0.7,Medium
+Kerala,Kannur,0.28,0.56,Low
+Kerala,Kasaragod,0.42,0.8,Medium
+Kerala,Kollam,0.3,0.4,Low
+Kerala,Kottayam,0.26,0.4,Low
+Kerala,Kozhikode,0.19,0.33,Low
+Kerala,Malappuram,0.16,0.25,Low
+Kerala,Palakkad,0.34,0.43,Low
+Kerala,Pathanamthitta,0.31,0.5,Low
+Kerala,Thiruvananthapuram,0.3,0.42,Low
+Kerala,Thrissur,0.25,0.36,Low
+Kerala,Wayanad,0.32,0.53,Low
+Meghalaya,East Garo Hills,0.59,1.66,Medium
+Meghalaya,East Jaintia Hills,0.705,0.76,Medium
+Meghalaya,East Khasi Hills,0.855,0.88,Medium
+Meghalaya,North Garo Hills,0.51,0.56,Medium
+Meghalaya,Ri Bhoi,0.78,0.81,Medium
+Meghalaya,South Garo Hills,0.665,0.81,Medium
+Meghalaya,South West Garo Hills,0.605,0.63,Medium
+Meghalaya,South West Khasi Hills,0.9,0.9,Medium
+Meghalaya,West Garo Hills,0.62,0.66,Medium
+Meghalaya,West Jaintia Hills,1.0,1.0,Medium
+Meghalaya,West Khasi Hills,0.83,0.86,Medium
+Puducherry,Mahe,0.67,1.8,Medium
+Tamil Nadu,Coimbatore,0.21,0.22,Low
+Tamil Nadu,Cuddalore,0.29,0.33,Low
+Tamil Nadu,Dharmapuri,0.185,0.22,Low
+Tamil Nadu,Dindigul,0.36,0.36,Medium
+Tamil Nadu,Erode,0.25,0.33,Low
+Tamil Nadu,Kallakurichi,0.21,0.21,Low
+Tamil Nadu,Kanniyakumari,0.15,0.22,Low
+Tamil Nadu,Krishnagiri,0.185,0.2,Low
+Tamil Nadu,Namakkal,0.18,0.22,Low
+Tamil Nadu,Pudukkottai,0.2,0.33,Low
+Tamil Nadu,Salem,0.18,0.22,Low
+Tamil Nadu,Tenkasi,0.22,0.23,Low
+Tamil Nadu,Thanjavur,0.18,0.25,Low
+Tamil Nadu,The Nilgiris,0.18,0.22,Low
+Tamil Nadu,Theni,0.29,0.32,Low
+Tamil Nadu,Tiruchirappalli,0.205,0.25,Low
+Tamil Nadu,Tirunelveli,0.21,0.21,Low
+Tamil Nadu,Tirupathur,0.25,0.25,Low
+Tamil Nadu,Tiruppur,0.135,0.14,Low
+Tamil Nadu,Tiruvannamalai,0.23,0.25,Low
+Tamil Nadu,Vellore,0.14,0.14,Low
+Tamil Nadu,Villupuram,0.185,0.2,Low

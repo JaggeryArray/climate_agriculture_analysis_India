@@ -1,0 +1,226 @@
+State,District,Median,Max,Yield_Class
+Andhra Pradesh,Alluri Sitharama Raju,0.39,0.39,High
+Andhra Pradesh,East Godavari,0.34,0.43,Medium
+Andhra Pradesh,Eluru,0.5,0.5,High
+Andhra Pradesh,Guntur,0.4,0.4,High
+Andhra Pradesh,Kurnool,0.33,0.33,Medium
+Andhra Pradesh,Prakasam,0.395,0.5,High
+Andhra Pradesh,Visakhapatanam,0.38,0.7,High
+Andhra Pradesh,Vizianagaram,0.5,0.74,High
+Andhra Pradesh,Y.s.r.,0.33,0.33,Medium
+Assam,Baksa,0.52,0.75,High
+Assam,Barpeta,0.52,0.77,High
+Assam,Biswanath,0.58,0.62,High
+Assam,Bongaigaon,0.5,0.61,High
+Assam,Cachar,0.47,0.53,High
+Assam,Chirang,0.545,0.68,High
+Assam,Darrang,0.51,0.95,High
+Assam,Dhemaji,0.5,1.0,High
+Assam,Dhubri,0.53,0.62,High
+Assam,Dibrugarh,0.5,0.56,High
+Assam,Dima Hasao,0.54,2.0,High
+Assam,Goalpara,0.51,0.93,High
+Assam,Golaghat,0.4599999999999999,1.0,High
+Assam,Hailakandi,0.6,1.0,High
+Assam,Hojai,0.81,0.81,High
+Assam,Jorhat,0.5,1.0,High
+Assam,Kamrup,0.51,0.77,High
+Assam,Kamrup Metro,0.52,0.55,High
+Assam,Karbi Anglong,0.51,0.58,High
+Assam,Karimganj,0.75,1.0,High
+Assam,Kokrajhar,0.51,0.74,High
+Assam,Lakhimpur,0.57,1.5,High
+Assam,Majuli,0.6,0.6,High
+Assam,Marigaon,0.5,0.54,High
+Assam,Nagaon,0.53,1.09,High
+Assam,Nalbari,0.52,0.55,High
+Assam,Sivasagar,0.77,1.0,High
+Assam,Sonitpur,0.57,0.67,High
+Assam,South Salmara Mancachar,0.7,0.72,High
+Assam,Tinsukia,0.49,0.53,High
+Assam,Udalguri,0.535,0.71,High
+Assam,West Karbi Anglong,0.5,0.53,High
+Chhattisgarh,Balod,0.25,0.25,Medium
+Chhattisgarh,Baloda Bazar,0.2,0.2,Low
+Chhattisgarh,Balrampur,0.17,0.2,Low
+Chhattisgarh,Bastar,0.21,0.23,Low
+Chhattisgarh,Bijapur,0.22,6.58,Medium
+Chhattisgarh,Bilaspur,0.245,0.29,Medium
+Chhattisgarh,Dantewada,0.19,0.28,Low
+Chhattisgarh,Dhamtari,0.31,1.0,Medium
+Chhattisgarh,Durg,0.19,0.2,Low
+Chhattisgarh,Gariyaband,0.16,0.18,Low
+Chhattisgarh,Gaurella Pendra Marwahi,0.265,0.29,Medium
+Chhattisgarh,Janjgir-Champa,0.24,0.24,Medium
+Chhattisgarh,Jashpur,0.17,0.2,Low
+Chhattisgarh,Kabirdham,0.19,5.44,Low
+Chhattisgarh,Kanker,0.2,0.25,Low
+Chhattisgarh,Kondagaon,0.215,0.35,Medium
+Chhattisgarh,Korba,0.24,0.28,Medium
+Chhattisgarh,Korea,0.17,0.24,Low
+Chhattisgarh,Mahasamund,0.17,0.17,Low
+Chhattisgarh,Manendragarh Chirimiri Bharatpur,0.22,0.22,Medium
+Chhattisgarh,Narayanpur,0.195,0.24,Low
+Chhattisgarh,Raigarh,0.17,0.18,Low
+Chhattisgarh,Raipur,0.17,0.18,Low
+Chhattisgarh,Rajnandgaon,0.25,71.0,Medium
+Chhattisgarh,Sukma,0.19,0.2,Low
+Chhattisgarh,Surajpur,0.175,0.2,Low
+Chhattisgarh,Surguja,0.17,0.29,Low
+DNHDD,Dadra And Nagar Haveli,0.75,2.85,High
+Jharkhand,Bokaro,0.52,0.53,High
+Jharkhand,Chatra,0.61,0.63,High
+Jharkhand,Deoghar,0.5,0.5,High
+Jharkhand,Dumka,0.59,0.6,High
+Jharkhand,East Singhbum,0.58,0.65,High
+Jharkhand,Garhwa,0.52,0.52,High
+Jharkhand,Giridih,0.43,0.44,High
+Jharkhand,Godda,0.6,0.6,High
+Jharkhand,Gumla,0.49,0.55,High
+Jharkhand,Hazaribagh,0.5,0.5,High
+Jharkhand,Khunti,0.45,0.45,High
+Jharkhand,Koderma,0.4,0.4,High
+Jharkhand,Latehar,0.42,0.42,High
+Jharkhand,Lohardaga,0.3,0.3,Medium
+Jharkhand,Pakur,0.365,0.41,Medium
+Jharkhand,Palamu,0.5,1.0,High
+Jharkhand,Ramgarh,0.5,0.55,High
+Jharkhand,Ranchi,0.425,0.45,High
+Jharkhand,Saraikela Kharsawan,0.65,0.65,High
+Jharkhand,Simdega,0.7,1.0,High
+Jharkhand,West Singhbhum,0.47,0.48,High
+Karnataka,Bagalkote,0.23,0.38,Medium
+Karnataka,Ballari,0.26,0.38,Medium
+Karnataka,Belagavi,0.24,0.38,Medium
+Karnataka,Bengaluru Rural,0.25,0.38,Medium
+Karnataka,Bengaluru Urban,0.25,0.38,Medium
+Karnataka,Bidar,0.24,0.38,Medium
+Karnataka,Chamarajanagara,0.25,0.42,Medium
+Karnataka,Chikkaballapura,0.25,0.38,Medium
+Karnataka,Chikkamagaluru,0.26,0.38,Medium
+Karnataka,Chitradurga,0.29,0.38,Medium
+Karnataka,Davangere,0.29,0.38,Medium
+Karnataka,Dharwad,0.24,0.41,Medium
+Karnataka,Gadag,0.24,0.42,Medium
+Karnataka,Hassan,0.22,0.47,Medium
+Karnataka,Haveri,0.24,0.35,Medium
+Karnataka,Kalaburagi,0.19,0.34,Low
+Karnataka,Kolar,0.23,0.37,Medium
+Karnataka,Koppal,0.23,0.34,Medium
+Karnataka,Mandya,0.25,0.49,Medium
+Karnataka,Mysuru,0.25,0.52,Medium
+Karnataka,Raichur,0.16,0.33,Low
+Karnataka,Ramanagara,0.255,0.37,Medium
+Karnataka,Shivamogga,0.26,0.37,Medium
+Karnataka,Tumakuru,0.29,0.38,Medium
+Karnataka,Vijayanagar,0.24,0.24,Medium
+Karnataka,Vijayapura,0.2,0.31,Low
+Karnataka,Yadgir,0.235,1.0,Medium
+Madhya Pradesh,Agar Malwa,0.25,0.25,Medium
+Madhya Pradesh,Anuppur,0.33,0.55,Medium
+Madhya Pradesh,Ashoknagar,0.205,0.25,Low
+Madhya Pradesh,Balaghat,0.17,0.33,Low
+Madhya Pradesh,Barwani,0.25,0.5,Medium
+Madhya Pradesh,Betul,0.25,1.0,Medium
+Madhya Pradesh,Bhind,0.215,0.25,Medium
+Madhya Pradesh,Bhopal,0.2,0.2,Low
+Madhya Pradesh,Chhatarpur,0.13,0.22,Low
+Madhya Pradesh,Chhindwara,0.235,0.46,Medium
+Madhya Pradesh,Damoh,0.17,0.5,Low
+Madhya Pradesh,Dewas,0.25,0.25,Medium
+Madhya Pradesh,Dindori,0.2,0.43,Low
+Madhya Pradesh,East Nimar,0.2249999999999999,0.33,Medium
+Madhya Pradesh,Guna,0.21,0.67,Low
+Madhya Pradesh,Gwalior,0.245,0.25,Medium
+Madhya Pradesh,Harda,0.43,0.5,High
+Madhya Pradesh,Jabalpur,0.28,0.87,Medium
+Madhya Pradesh,Jhabua,0.5,0.67,High
+Madhya Pradesh,Katni,0.125,0.23,Low
+Madhya Pradesh,Khargone,0.38,0.5,High
+Madhya Pradesh,Mandla,0.22,0.45,Medium
+Madhya Pradesh,Mandsaur,0.33,0.33,Medium
+Madhya Pradesh,Morena,0.29,0.33,Medium
+Madhya Pradesh,Narmadapuram,0.25,1.05,Medium
+Madhya Pradesh,Narsinghpur,0.42,0.5,High
+Madhya Pradesh,Panna,0.17,0.33,Low
+Madhya Pradesh,Raisen,0.42,0.5,High
+Madhya Pradesh,Rajgarh,0.33,0.4,Medium
+Madhya Pradesh,Ratlam,0.5,0.5,High
+Madhya Pradesh,Rewa,0.12,0.21,Low
+Madhya Pradesh,Sagar,0.2,0.6,Low
+Madhya Pradesh,Satna,0.18,0.46,Low
+Madhya Pradesh,Seoni,0.22,0.51,Medium
+Madhya Pradesh,Shahdol,0.33,0.73,Medium
+Madhya Pradesh,Shajapur,0.25,0.25,Medium
+Madhya Pradesh,Sheopur,0.25,0.26,Medium
+Madhya Pradesh,Shivpuri,0.23,0.33,Medium
+Madhya Pradesh,Sidhi,0.415,0.57,High
+Madhya Pradesh,Singrauli,0.48,0.67,High
+Madhya Pradesh,Tikamgarh,0.37,0.4,Medium
+Madhya Pradesh,Ujjain,0.105,0.2,Low
+Madhya Pradesh,Umaria,0.285,0.5,Medium
+Madhya Pradesh,Vidisha,0.185,0.21,Low
+Maharashtra,Ahmednagar,0.27,0.46,Medium
+Maharashtra,Akola,0.15,0.15,Low
+Maharashtra,Aurangabad,0.25,1.0,Medium
+Maharashtra,Beed,0.17,0.33,Low
+Maharashtra,Buldhana,0.12,0.13,Low
+Maharashtra,Dhule,1.0,1.0,High
+Maharashtra,Hingoli,0.2,1.0,Low
+Maharashtra,Jalna,0.19,0.5,Low
+Maharashtra,Kolhapur,0.295,0.46,Medium
+Maharashtra,Latur,0.17,0.29,Low
+Maharashtra,Nanded,0.18,0.27,Low
+Maharashtra,Nandurbar,0.375,1.0,High
+Maharashtra,Nashik,0.24,0.4,Medium
+Maharashtra,Osmanabad,0.23,0.37,Medium
+Maharashtra,Palghar,0.17,0.46,Low
+Maharashtra,Parbhani,0.19,0.28,Low
+Maharashtra,Pune,0.27,0.46,Medium
+Maharashtra,Raigad,0.33,0.33,Medium
+Maharashtra,Ratnagiri,0.29,0.4,Medium
+Maharashtra,Sangli,0.33,1.0,Medium
+Maharashtra,Satara,0.29,0.46,Medium
+Maharashtra,Sindhudurg,0.5,1.0,High
+Maharashtra,Solapur,0.375,1.0,High
+Maharashtra,Thane,0.29,0.46,Medium
+Maharashtra,Washim,0.17,1.0,Low
+Maharashtra,Yavatmal,0.1,0.1,Low
+Nagaland,Dimapur,0.81,1.13,High
+Nagaland,Kohima,1.0,1.17,High
+Nagaland,Mokokchung,0.53,0.53,High
+Nagaland,Mon,0.63,1.04,High
+Nagaland,Tuensang,0.36,0.36,Medium
+Nagaland,Wokha,1.08,2.39,High
+Odisha,Anugul,0.47,0.54,High
+Odisha,Balangir,0.3,0.3,Medium
+Odisha,Bargarh,0.5,0.5,High
+Odisha,Boudh,0.265,0.27,Medium
+Odisha,Deogarh,0.42,0.47,High
+Odisha,Gajapati,0.22,0.5,Medium
+Odisha,Ganjam,0.49,0.5,High
+Odisha,Jharsuguda,0.5,0.5,High
+Odisha,Kalahandi,0.31,0.48,Medium
+Odisha,Kandhamal,0.22,0.27,Medium
+Odisha,Kendujhar,0.24,0.35,Medium
+Odisha,Koraput,0.29,0.4,Medium
+Odisha,Malkangiri,0.25,0.62,Medium
+Odisha,Mayurbhanj,0.23,0.3,Medium
+Odisha,Nabarangpur,0.33,0.36,Medium
+Odisha,Nuapada,0.2,0.2,Low
+Odisha,Rayagada,0.28,0.34,Medium
+Odisha,Sambalpur,0.47,0.5,High
+Odisha,Sundargarh,0.27,0.33,Medium
+Telangana,Medak,0.385,0.42,High
+Telangana,Ranga Reddy,0.39,0.44,High
+West Bengal,Alipurduar,0.57,0.65,High
+West Bengal,Bankura,0.31,0.75,Medium
+West Bengal,Coochbehar,0.73,0.85,High
+West Bengal,Darjeeling,0.64,1.41,High
+West Bengal,Dinajpur Dakshin,0.485,0.5,High
+West Bengal,Dinajpur Uttar,0.405,0.8,High
+West Bengal,Jalpaiguri,0.59,0.63,High
+West Bengal,Jhargram,0.41,0.41,High
+West Bengal,Maldah,0.275,0.83,Medium
+West Bengal,Medinipur West,0.45,0.53,High
+West Bengal,Purulia,0.35,0.41,Medium

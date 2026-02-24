@@ -1,0 +1,134 @@
+State,District,Median,Max,Yield_Class
+Bihar,Araria,0.67,1.26,Medium
+Bihar,Arwal,0.84,1.47,Medium
+Bihar,Aurangabad,0.76,1.09,Medium
+Bihar,Banka,0.63,1.27,Medium
+Bihar,Begusarai,0.985,1.49,High
+Bihar,Bhagalpur,0.63,1.27,Medium
+Bihar,Bhojpur,1.01,1.72,High
+Bihar,Buxar,1.13,1.73,High
+Bihar,Darbhanga,0.94,1.26,High
+Bihar,Gaya,0.85,1.24,Medium
+Bihar,Gopalganj,0.925,1.2,High
+Bihar,Jamui,0.985,1.49,High
+Bihar,Jehanabad,0.94,2.13,High
+Bihar,Kaimur (Bhabua),0.85,1.23,Medium
+Bihar,Katihar,0.76,1.27,Medium
+Bihar,Khagaria,1.0,1.49,High
+Bihar,Kishanganj,0.9,1.26,High
+Bihar,Lakhisarai,0.95,1.76,High
+Bihar,Madhepura,0.69,1.37,Medium
+Bihar,Madhubani,0.98,1.26,High
+Bihar,Munger,1.0,1.49,High
+Bihar,Muzaffarpur,0.82,1.31,Medium
+Bihar,Nalanda,1.01,1.77,High
+Bihar,Nawada,0.81,1.15,Medium
+Bihar,Pashchim Champaran,0.82,1.12,Medium
+Bihar,Patna,1.25,2.08,High
+Bihar,Purbi Champaran,0.825,1.31,Medium
+Bihar,Purnia,0.835,1.26,Medium
+Bihar,Rohtas,0.95,1.81,High
+Bihar,Saharsa,0.67,1.37,Medium
+Bihar,Samastipur,0.94,1.26,High
+Bihar,Saran,0.965,1.27,High
+Bihar,Sheikhpura,1.0,1.43,High
+Bihar,Sheohar,0.82,1.29,Medium
+Bihar,Sitamarhi,0.82,1.3,Medium
+Bihar,Siwan,0.8,1.06,Medium
+Bihar,Supaul,0.64,1.37,Medium
+Bihar,Vaishali,0.82,1.31,Medium
+Chhattisgarh,Balod,0.49,1.64,Low
+Chhattisgarh,Baloda Bazar,0.48,2.35,Low
+Chhattisgarh,Balrampur,0.47,3.0,Low
+Chhattisgarh,Bastar,0.67,2.5,Medium
+Chhattisgarh,Bemetara,0.47,1.86,Low
+Chhattisgarh,Bilaspur,0.67,1.24,Medium
+Chhattisgarh,Dhamtari,0.62,1.25,Medium
+Chhattisgarh,Durg,0.53,2.61,Low
+Chhattisgarh,Gariyaband,0.51,1.57,Low
+Chhattisgarh,Gaurella Pendra Marwahi,0.745,0.83,Medium
+Chhattisgarh,Janjgir-Champa,0.71,1.17,Medium
+Chhattisgarh,Jashpur,0.47,1.8,Low
+Chhattisgarh,Kabirdham,0.39,1.99,Low
+Chhattisgarh,Kanker,0.73,1.25,Medium
+Chhattisgarh,Khairgarh Chhuikhadan Gandai,0.53,0.53,Low
+Chhattisgarh,Kondagaon,0.71,1.18,Medium
+Chhattisgarh,Korba,0.55,1.4,Low
+Chhattisgarh,Korea,0.42,1.71,Low
+Chhattisgarh,Mahasamund,0.52,1.51,Low
+Chhattisgarh,Manendragarh Chirimiri Bharatpur,0.52,0.52,Low
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,0.53,0.53,Low
+Chhattisgarh,Mungeli,0.8049999999999999,1.17,Medium
+Chhattisgarh,Narayanpur,1.0,1.0,High
+Chhattisgarh,Raigarh,0.53,1.47,Low
+Chhattisgarh,Raipur,0.54,1.25,Low
+Chhattisgarh,Rajnandgaon,0.46,1.72,Low
+Chhattisgarh,Sarangarh Bilaigarh,0.6,0.6,Medium
+Chhattisgarh,Surajpur,0.57,1.37,Low
+Chhattisgarh,Surguja,0.5,1.08,Low
+Madhya Pradesh,Anuppur,0.375,0.49,Low
+Madhya Pradesh,Ashoknagar,0.98,1.43,High
+Madhya Pradesh,Balaghat,0.53,0.79,Low
+Madhya Pradesh,Betul,0.525,0.85,Low
+Madhya Pradesh,Bhind,0.5,0.5,Low
+Madhya Pradesh,Bhopal,0.76,1.21,Medium
+Madhya Pradesh,Burhanpur,0.71,0.71,Medium
+Madhya Pradesh,Chhatarpur,0.4,0.72,Low
+Madhya Pradesh,Chhindwara,0.64,0.91,Medium
+Madhya Pradesh,Damoh,0.72,0.9,Medium
+Madhya Pradesh,Datia,0.37,0.61,Low
+Madhya Pradesh,Dewas,0.5,0.5,Low
+Madhya Pradesh,Dhar,0.755,1.19,Medium
+Madhya Pradesh,Dindori,0.395,0.49,Low
+Madhya Pradesh,East Nimar,0.5,0.6,Low
+Madhya Pradesh,Guna,1.0,1.0,High
+Madhya Pradesh,Harda,0.92,1.45,High
+Madhya Pradesh,Indore,1.0,1.08,High
+Madhya Pradesh,Jabalpur,0.925,1.15,High
+Madhya Pradesh,Katni,0.53,1.0,Low
+Madhya Pradesh,Mandla,0.495,0.7,Low
+Madhya Pradesh,Narmadapuram,0.685,0.9,Medium
+Madhya Pradesh,Narsinghpur,1.135,1.6,High
+Madhya Pradesh,Panna,0.5,0.5,Low
+Madhya Pradesh,Raisen,1.125,1.41,High
+Madhya Pradesh,Rewa,0.415,0.54,Low
+Madhya Pradesh,Sagar,0.555,0.76,Low
+Madhya Pradesh,Sehore,0.92,1.72,High
+Madhya Pradesh,Seoni,0.665,0.84,Medium
+Madhya Pradesh,Shahdol,0.41,0.77,Low
+Madhya Pradesh,Shivpuri,0.51,0.6,Low
+Madhya Pradesh,Sidhi,0.41,0.58,Low
+Madhya Pradesh,Singrauli,0.5549999999999999,0.9,Low
+Madhya Pradesh,Tikamgarh,0.49,0.7,Low
+Madhya Pradesh,Ujjain,0.5,0.5,Low
+Madhya Pradesh,Umaria,0.39,0.5,Low
+Madhya Pradesh,Vidisha,0.8049999999999999,0.91,Medium
+Tripura,Dhalai,0.875,1.0,High
+Tripura,Gomati,0.71,1.0,Medium
+Tripura,Khowai,0.75,1.0,Medium
+Tripura,North Tripura,0.815,1.0,Medium
+Tripura,Sepahijala,0.815,1.0,Medium
+Tripura,South Tripura,0.75,1.0,Medium
+Tripura,Unakoti,0.855,1.0,Medium
+Tripura,West Tripura,0.65,0.65,Medium
+West Bengal,24 Paraganas North,1.0,1.53,High
+West Bengal,24 Paraganas South,1.1,1.5,High
+West Bengal,Alipurduar,1.12,1.29,High
+West Bengal,Bankura,1.24,1.99,High
+West Bengal,Birbhum,1.1,1.97,High
+West Bengal,Coochbehar,0.96,1.29,High
+West Bengal,Darjeeling,0.98,1.29,High
+West Bengal,Dinajpur Dakshin,0.9,1.19,High
+West Bengal,Dinajpur Uttar,0.9,1.2,High
+West Bengal,Hooghly,1.02,1.25,High
+West Bengal,Howrah,0.98,1.55,High
+West Bengal,Jalpaiguri,0.88,1.29,High
+West Bengal,Jhargram,1.15,1.43,High
+West Bengal,Maldah,1.12,1.52,High
+West Bengal,Medinipur East,1.22,1.71,High
+West Bengal,Medinipur West,1.12,1.97,High
+West Bengal,Murshidabad,0.9,1.3,High
+West Bengal,Nadia,0.8,1.4,Medium
+West Bengal,Paschim Bardhaman,1.03,1.24,High
+West Bengal,Purba Bardhaman,0.97,1.5,High
+West Bengal,Purulia,0.86,1.55,Medium

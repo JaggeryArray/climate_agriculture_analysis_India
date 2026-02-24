@@ -1,0 +1,172 @@
+State,District,Median,Max,Yield_Class
+Andhra Pradesh,Spsr Nellore,1.9,1.9,High
+Chhattisgarh,Balrampur,0.81,0.81,High
+Gujarat,Ahmadabad,0.67,1.1,Medium
+Gujarat,Amreli,0.665,1.0,Medium
+Gujarat,Anand,0.67,1.0,Medium
+Gujarat,Arvalli,0.75,1.6,High
+Gujarat,Banas Kantha,0.69,1.3,Medium
+Gujarat,Bharuch,0.5,0.89,Medium
+Gujarat,Bhavnagar,0.67,1.6,Medium
+Gujarat,Botad,0.66,0.77,Medium
+Gujarat,Chhotaudepur,0.665,0.77,Medium
+Gujarat,Devbhumi Dwarka,0.77,0.77,High
+Gujarat,Dohad,0.67,0.73,Medium
+Gujarat,Gandhinagar,0.64,1.12,Medium
+Gujarat,Gir Somnath,0.63,0.77,Medium
+Gujarat,Jamnagar,0.675,1.0,Medium
+Gujarat,Junagadh,0.67,0.89,Medium
+Gujarat,Kachchh,0.51,0.76,Medium
+Gujarat,Kheda,0.67,1.15,Medium
+Gujarat,Mahesana,0.74,0.98,High
+Gujarat,Mahisagar,0.67,0.77,Medium
+Gujarat,Morbi,1.23,1.81,High
+Gujarat,Narmada,0.76,0.89,High
+Gujarat,Navsari,1.0,40.0,High
+Gujarat,Panch Mahals,0.66,1.07,Medium
+Gujarat,Patan,0.64,0.98,Medium
+Gujarat,Porbandar,0.72,1.5,High
+Gujarat,Rajkot,0.65,0.89,Medium
+Gujarat,Sabar Kantha,0.67,1.43,Medium
+Gujarat,Surat,0.66,1.0,Medium
+Gujarat,Surendranagar,0.67,0.89,Medium
+Gujarat,Tapi,0.66,0.66,Medium
+Gujarat,Vadodara,0.66,0.89,Medium
+Haryana,Bhiwani,0.855,0.9,High
+Haryana,Charki Dadri,0.9,0.9,High
+Haryana,Faridabad,0.89,0.9,High
+Haryana,Fatehabad,0.95,0.95,High
+Haryana,Gurugram,0.8,0.83,High
+Haryana,Hisar,0.945,1.0,High
+Haryana,Jhajjar,0.95,0.96,High
+Haryana,Jind,0.7,0.71,Medium
+Haryana,Kaithal,0.59,0.59,Medium
+Haryana,Karnal,0.9,0.94,High
+Haryana,Mahendragarh,0.87,0.87,High
+Haryana,Nuh,0.845,1.0,High
+Haryana,Panchkula,1.0,1.0,High
+Haryana,Panipat,0.875,1.0,High
+Haryana,Rewari,0.88,0.88,High
+Haryana,Rohtak,0.86,0.87,High
+Haryana,Sirsa,0.8,0.84,High
+Haryana,Sonipat,0.795,0.94,High
+Punjab,Amritsar,1.03,1.03,High
+Punjab,Barnala,1.0,1.65,High
+Punjab,Bathinda,0.77,0.88,High
+Punjab,Faridkot,1.0,2.0,High
+Punjab,Fatehgarh Sahib,1.0,1.0,High
+Punjab,Fazilka,0.81,1.05,High
+Punjab,Ferozepur,0.77,1.0,High
+Punjab,Hoshiarpur,1.06,1.06,High
+Punjab,Jalandhar,1.04,1.04,High
+Punjab,Kapurthala,1.06,1.06,High
+Punjab,Mansa,0.85,1.43,High
+Punjab,Moga,1.0,1.0,High
+Punjab,Patiala,1.0,1.0,High
+Punjab,Rupnagar,1.07,1.07,High
+Punjab,Sangrur,1.0,1.0,High
+Punjab,Shahid Bhagat Singh Nagar,1.0,1.0,High
+Punjab,Sri Muktsar Sahib,0.8,1.6,High
+Rajasthan,Ajmer,0.665,1.03,Medium
+Rajasthan,Alwar,1.11,3.42,High
+Rajasthan,Banswara,0.45,0.86,Medium
+Rajasthan,Baran,0.54,1.54,Medium
+Rajasthan,Barmer,0.15,0.51,Low
+Rajasthan,Bharatpur,1.06,1.46,High
+Rajasthan,Bhilwara,0.575,0.99,Medium
+Rajasthan,Bikaner,0.35,0.58,Medium
+Rajasthan,Bundi,0.54,1.47,Medium
+Rajasthan,Chittorgarh,0.6799999999999999,5.01,Medium
+Rajasthan,Churu,0.255,0.51,Low
+Rajasthan,Dausa,0.88,1.2,High
+Rajasthan,Dholpur,0.7050000000000001,1.4,Medium
+Rajasthan,Dungarpur,0.45,1.6,Medium
+Rajasthan,Ganganagar,0.735,1.21,High
+Rajasthan,Hanumangarh,0.43,1.15,Medium
+Rajasthan,Jaipur,0.885,1.25,High
+Rajasthan,Jaisalmer,0.1,0.33,Low
+Rajasthan,Jalore,0.345,0.67,Medium
+Rajasthan,Jhalawar,0.5,1.0,Medium
+Rajasthan,Jhunjhunu,0.815,1.03,High
+Rajasthan,Jodhpur,0.4499999999999999,0.91,Medium
+Rajasthan,Karauli,1.235,2.0,High
+Rajasthan,Kota,0.46,1.0,Medium
+Rajasthan,Nagaur,0.485,0.74,Medium
+Rajasthan,Pali,0.4649999999999999,0.84,Medium
+Rajasthan,Pratapgarh,0.485,1.19,Medium
+Rajasthan,Rajsamand,0.785,1.8,High
+Rajasthan,Sawai Madhopur,0.775,1.2,High
+Rajasthan,Sikar,0.665,0.94,Medium
+Rajasthan,Sirohi,0.6000000000000001,1.0,Medium
+Rajasthan,Tonk,0.79,1.0,High
+Rajasthan,Udaipur,0.68,1.16,Medium
+Uttar Pradesh,Agra,0.82,0.85,High
+Uttar Pradesh,Aligarh,0.82,0.85,High
+Uttar Pradesh,Ambedkar Nagar,0.8,1.0,High
+Uttar Pradesh,Amethi,0.73,1.0,High
+Uttar Pradesh,Amroha,0.875,1.0,High
+Uttar Pradesh,Auraiya,0.81,0.87,High
+Uttar Pradesh,Ayodhya,0.82,0.88,High
+Uttar Pradesh,Azamgarh,0.81,0.88,High
+Uttar Pradesh,Bahraich,0.82,0.85,High
+Uttar Pradesh,Ballia,0.79,0.85,High
+Uttar Pradesh,Balrampur,0.81,0.86,High
+Uttar Pradesh,Banda,0.81,0.86,High
+Uttar Pradesh,Barabanki,0.775,0.85,High
+Uttar Pradesh,Bareilly,0.77,0.87,High
+Uttar Pradesh,Basti,0.815,0.86,High
+Uttar Pradesh,Bhadohi,0.815,0.86,High
+Uttar Pradesh,Bijnor,0.82,0.86,High
+Uttar Pradesh,Budaun,0.81,0.86,High
+Uttar Pradesh,Bulandshahr,0.815,0.86,High
+Uttar Pradesh,Chandauli,0.81,0.87,High
+Uttar Pradesh,Chitrakoot,0.82,0.86,High
+Uttar Pradesh,Deoria,0.8,1.0,High
+Uttar Pradesh,Etah,0.81,0.84,High
+Uttar Pradesh,Etawah,0.81,1.0,High
+Uttar Pradesh,Farrukhabad,0.8,0.88,High
+Uttar Pradesh,Fatehpur,0.75,1.0,High
+Uttar Pradesh,Firozabad,0.82,1.0,High
+Uttar Pradesh,Gautam Buddha Nagar,0.75,1.0,High
+Uttar Pradesh,Ghaziabad,1.0,1.0,High
+Uttar Pradesh,Ghazipur,0.81,0.86,High
+Uttar Pradesh,Gonda,0.81,0.86,High
+Uttar Pradesh,Gorakhpur,0.79,0.87,High
+Uttar Pradesh,Hamirpur,0.78,0.89,High
+Uttar Pradesh,Hardoi,0.8200000000000001,0.86,High
+Uttar Pradesh,Hathras,0.81,0.86,High
+Uttar Pradesh,Jalaun,0.81,0.84,High
+Uttar Pradesh,Jaunpur,0.82,1.0,High
+Uttar Pradesh,Jhansi,0.8,0.88,High
+Uttar Pradesh,Kannauj,0.67,1.0,Medium
+Uttar Pradesh,Kanpur Dehat,0.82,0.86,High
+Uttar Pradesh,Kanpur Nagar,0.81,0.84,High
+Uttar Pradesh,Kasganj,0.75,0.83,High
+Uttar Pradesh,Kaushambi,0.81,0.86,High
+Uttar Pradesh,Kheri,0.805,0.85,High
+Uttar Pradesh,Kushi Nagar,0.8,0.88,High
+Uttar Pradesh,Lucknow,0.83,1.0,High
+Uttar Pradesh,Maharajganj,0.915,1.0,High
+Uttar Pradesh,Mahoba,0.75,1.0,High
+Uttar Pradesh,Mainpuri,0.81,1.0,High
+Uttar Pradesh,Mathura,0.82,0.85,High
+Uttar Pradesh,Mau,1.0,1.0,High
+Uttar Pradesh,Meerut,1.0,1.0,High
+Uttar Pradesh,Mirzapur,0.815,0.85,High
+Uttar Pradesh,Moradabad,0.82,0.85,High
+Uttar Pradesh,Pilibhit,0.83,0.88,High
+Uttar Pradesh,Pratapgarh,0.78,1.0,High
+Uttar Pradesh,Prayagraj,0.81,1.0,High
+Uttar Pradesh,Rae Bareli,0.82,0.85,High
+Uttar Pradesh,Rampur,0.8,1.0,High
+Uttar Pradesh,Saharanpur,0.815,0.85,High
+Uttar Pradesh,Sambhal,0.75,1.0,High
+Uttar Pradesh,Sant Kabeer Nagar,0.8,1.0,High
+Uttar Pradesh,Shahjahanpur,0.82,1.0,High
+Uttar Pradesh,Shravasti,0.81,1.0,High
+Uttar Pradesh,Siddharth Nagar,0.81,0.85,High
+Uttar Pradesh,Sitapur,0.82,0.85,High
+Uttar Pradesh,Sonbhadra,0.9,1.0,High
+Uttar Pradesh,Sultanpur,0.81,0.85,High
+Uttar Pradesh,Unnao,0.81,0.85,High
+Uttar Pradesh,Varanasi,0.81,0.86,High

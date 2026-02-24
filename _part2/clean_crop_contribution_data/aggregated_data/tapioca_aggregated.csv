@@ -1,0 +1,186 @@
+State,District,Mean,Median,Max
+A & N Islands,Nicobars,8.154615384615385,8.33,13.67
+A & N Islands,North And Middle Andaman,12.855384615384615,11.78,24.63
+A & N Islands,South Andamans,19.633846153846154,13.33,51.03
+Andhra Pradesh,Alluri Sitharama Raju,9.26,9.26,9.26
+Andhra Pradesh,Anakapalli,12.63,12.63,12.63
+Andhra Pradesh,Chittoor,10.46375,11.165,16.8
+Andhra Pradesh,East Godavari,12.041818181818183,11.78,19.65
+Andhra Pradesh,Guntur,7.2,7.2,7.2
+Andhra Pradesh,Kakinada,11.85,11.85,11.85
+Andhra Pradesh,Konaseema,12.57,12.57,12.57
+Andhra Pradesh,Krishna,9.76,8.02,17.0
+Andhra Pradesh,Kurnool,17.0,17.0,17.0
+Andhra Pradesh,Palnadu,13.0,13.0,13.0
+Andhra Pradesh,Parvathipuram Manyam,12.6,12.6,12.6
+Andhra Pradesh,Spsr Nellore,11.124999999999998,12.09,17.44
+Andhra Pradesh,Srikakulam,10.069523809523808,8.27,19.61
+Andhra Pradesh,Tirupati,12.63,12.63,12.63
+Andhra Pradesh,Visakhapatanam,10.129545454545454,6.43,20.43
+Andhra Pradesh,Vizianagaram,10.44590909090909,10.305,18.42
+Andhra Pradesh,West Godavari,18.224999999999998,18.41,26.1
+Assam,Baksa,9.47111111111111,8.98,12.82
+Assam,Barpeta,7.114545454545455,8.265,10.6
+Assam,Biswanath,13.333333333333334,11.67,16.66
+Assam,Bongaigaon,7.024090909090909,7.875,9.8
+Assam,Cachar,7.052727272727274,8.785,10.24
+Assam,Charaideo,9.0,9.0,9.0
+Assam,Chirang,5.323888888888891,5.05,8.36
+Assam,Darrang,6.491052631578947,4.5,14.0
+Assam,Dhemaji,4.848181818181818,5.59,8.31
+Assam,Dhubri,4.988636363636364,4.74,8.45
+Assam,Dibrugarh,7.325454545454547,9.665,10.5
+Assam,Dima Hasao,5.718636363636365,5.6850000000000005,7.05
+Assam,Goalpara,5.8531818181818185,5.7,8.51
+Assam,Golaghat,6.395909090909091,7.465,9.15
+Assam,Hailakandi,6.91611111111111,4.585,13.0
+Assam,Hojai,9.39,9.26,9.65
+Assam,Jorhat,7.767727272727272,9.515,10.5
+Assam,Kamrup,5.113181818181817,4.56,9.1
+Assam,Kamrup Metro,6.7423076923076914,9.0,9.58
+Assam,Karbi Anglong,8.455909090909092,10.280000000000001,11.56
+Assam,Karimganj,6.010000000000001,4.365,10.0
+Assam,Kokrajhar,8.217272727272727,10.125,13.2
+Assam,Lakhimpur,6.818181818181817,8.629999999999999,9.6
+Assam,Majuli,10.0,10.0,10.0
+Assam,Marigaon,6.7749999999999995,7.335,9.5
+Assam,Nagaon,7.005454545454544,6.835000000000001,16.5
+Assam,Nalbari,8.552380952380952,8.4,12.0
+Assam,Sivasagar,6.767272727272727,8.015,10.0
+Assam,Sonitpur,7.279545454545453,8.73,11.74
+Assam,South Salmara Mancachar,9.843333333333334,9.6,10.43
+Assam,Tinsukia,6.403636363636363,7.215,9.25
+Assam,Udalguri,7.762222222222222,9.49,11.54
+Assam,West Karbi Anglong,10.826666666666668,11.3,11.3
+Karnataka,Bagalkote,12.49,12.765,13.0
+Karnataka,Ballari,13.165,13.165,13.33
+Karnataka,Belagavi,10.972857142857142,11.58,13.0
+Karnataka,Bengaluru Rural,9.699090909090907,8.875,20.0
+Karnataka,Bengaluru Urban,12.102,12.75,13.25
+Karnataka,Bidar,12.892499999999998,12.77,13.33
+Karnataka,Chamarajanagara,10.915555555555557,11.71,13.29
+Karnataka,Chikkaballapura,12.5,12.5,13.5
+Karnataka,Chikkamagaluru,10.933529411764706,10.86,13.29
+Karnataka,Chitradurga,12.68,12.68,12.68
+Karnataka,Dakshina Kannada,9.31,8.36,13.0
+Karnataka,Davangere,13.0,13.0,13.0
+Karnataka,Dharwad,11.8125,12.695,12.86
+Karnataka,Gadag,12.011666666666665,12.725,13.29
+Karnataka,Hassan,10.777777777777779,12.18,13.81
+Karnataka,Haveri,12.916666666666666,13.0,13.0
+Karnataka,Kalaburagi,12.61,12.67,13.33
+Karnataka,Kodagu,14.433636363636365,12.809999999999999,20.2
+Karnataka,Kolar,12.625,12.835,13.33
+Karnataka,Koppal,12.39,12.67,12.8
+Karnataka,Mandya,9.868571428571428,9.0,13.0
+Karnataka,Mysuru,9.911874999999998,9.690000000000001,13.29
+Karnataka,Raichur,12.835,12.835,13.0
+Karnataka,Ramanagara,9.71125,9.5,13.28
+Karnataka,Shivamogga,9.37,8.53,13.5
+Karnataka,Tumakuru,9.03,8.75,13.29
+Karnataka,Udupi,9.236,8.565000000000001,13.5
+Karnataka,Uttara Kannada,13.0,13.0,13.0
+Karnataka,Vijayapura,12.69,12.75,12.82
+Karnataka,Yadgir,12.9275,12.77,13.5
+Kerala,Alappuzha,29.77521739130435,28.19,50.72
+Kerala,Ernakulam,39.89,40.1,56.08
+Kerala,Idukki,40.72304347826088,40.65,55.1
+Kerala,Kannur,34.66826086956521,36.68,47.91
+Kerala,Kasaragod,28.362608695652174,24.84,43.37
+Kerala,Kollam,31.657391304347822,30.57,45.48
+Kerala,Kottayam,37.65434782608696,37.88,53.73
+Kerala,Kozhikode,27.044347826086955,26.12,43.93
+Kerala,Malappuram,35.01869565217392,35.4,46.36
+Kerala,Palakkad,30.709565217391308,29.09,56.54
+Kerala,Pathanamthitta,38.469130434782606,39.64,50.55
+Kerala,Thiruvananthapuram,29.04869565217391,30.41,37.22
+Kerala,Thrissur,36.18173913043478,37.57,59.2
+Kerala,Wayanad,41.14565217391304,41.7,52.5
+Manipur,Bishnupur,4.385,4.385,5.6
+Manipur,Chandel,5.675,5.675,5.75
+Manipur,Churachandpur,7.8,7.8,10.0
+Manipur,Imphal East,5.58,5.58,5.58
+Manipur,Imphal West,4.199999999999999,4.199999999999999,5.6
+Manipur,Senapati,4.385,4.385,5.6
+Manipur,Tamenglong,4.4,4.4,5.6
+Manipur,Thoubal,5.6,5.6,5.6
+Manipur,Ukhrul,7.279999999999999,7.279999999999999,9.0
+Meghalaya,East Garo Hills,5.382272727272727,5.37,5.69
+Meghalaya,East Jaintia Hills,10.736363636363642,10.215,13.67
+Meghalaya,East Khasi Hills,6.187272727272728,6.005,7.26
+Meghalaya,North Garo Hills,5.840999999999999,5.87,5.87
+Meghalaya,Ri Bhoi,5.721363636363635,6.029999999999999,6.32
+Meghalaya,South Garo Hills,6.876818181818183,6.775,8.81
+Meghalaya,South West Garo Hills,6.7459999999999996,6.94,6.94
+Meghalaya,South West Khasi Hills,8.149999999999999,8.9,8.91
+Meghalaya,West Garo Hills,5.369090909090907,5.58,5.77
+Meghalaya,West Jaintia Hills,10.859999999999996,11.04,11.04
+Meghalaya,West Khasi Hills,6.329999999999998,6.11,7.64
+Mizoram,Aizawl,8.081,7.5,16.55
+Mizoram,Champhai,2.373333333333333,1.48,9.2
+Mizoram,Hnahthial,5.1066666666666665,6.75,6.75
+Mizoram,Khawzawl,1.67,1.67,1.67
+Mizoram,Kolasib,17.093333333333334,11.75,37.97
+Mizoram,Lawngtlai,4.440714285714285,3.565,10.0
+Mizoram,Lunglei,7.584705882352941,8.57,14.38
+Mizoram,Mamit,2.7099999999999995,1.84,9.24
+Mizoram,Saiha,2.62,2.62,2.62
+Mizoram,Saitual,1.49,1.5,1.5
+Nagaland,Chumoukedima,22.46,22.46,22.46
+Nagaland,Dimapur,19.866875,20.275,23.56
+Nagaland,Kiphire,20.009333333333334,20.25,23.5
+Nagaland,Kohima,20.62375,20.26,23.88
+Nagaland,Longleng,19.676666666666666,20.24,23.75
+Nagaland,Mokokchung,20.549375,20.259999999999998,23.62
+Nagaland,Mon,19.93,20.229999999999997,23.42
+Nagaland,Niuland,22.45,22.45,22.45
+Nagaland,Noklak,17.595,17.595,22.44
+Nagaland,Peren,20.354,20.27,23.7
+Nagaland,Phek,20.04,20.265,23.5
+Nagaland,Shamator,22.11,22.11,22.11
+Nagaland,Tseminyu,22.22,22.22,22.22
+Nagaland,Tuensang,19.994374999999994,20.275,23.47
+Nagaland,Wokha,19.82,20.25,23.57
+Nagaland,Zunheboto,20.004374999999996,20.255000000000003,23.58
+Puducherry,Mahe,22.061666666666667,12.9,42.0
+Puducherry,Pondicherry,27.88095238095238,25.43,41.0
+Tamil Nadu,Ariyalur,35.348333333333336,34.585,42.49
+Tamil Nadu,Chengalpattu,36.78333333333333,37.6,42.92
+Tamil Nadu,Coimbatore,37.568,37.935,55.05
+Tamil Nadu,Cuddalore,33.397000000000006,32.28,70.52
+Tamil Nadu,Dharmapuri,31.708999999999996,30.18,49.72
+Tamil Nadu,Dindigul,35.3755,35.205,42.46
+Tamil Nadu,Erode,37.443999999999996,36.370000000000005,52.31
+Tamil Nadu,Kallakurichi,43.65333333333333,42.55,49.97
+Tamil Nadu,Kanchipuram,33.819375,34.22,42.17
+Tamil Nadu,Kanniyakumari,33.327999999999996,31.92,56.78
+Tamil Nadu,Karur,36.364000000000004,37.34,58.14
+Tamil Nadu,Krishnagiri,35.43388888888889,35.974999999999994,67.75
+Tamil Nadu,Madurai,35.322500000000005,35.04,43.09
+Tamil Nadu,Mayiladuthurai,37.35333333333333,37.55,42.49
+Tamil Nadu,Nagapattinam,34.987647058823526,34.95,42.2
+Tamil Nadu,Namakkal,37.94850000000001,37.25,48.45
+Tamil Nadu,Perambalur,41.82299999999999,39.0,65.71
+Tamil Nadu,Pudukkottai,35.32999999999999,35.14,42.54
+Tamil Nadu,Ramanathapuram,29.17,28.695,34.0
+Tamil Nadu,Ranipet,38.166666666666664,37.5,43.0
+Tamil Nadu,Salem,34.8995,34.010000000000005,50.64
+Tamil Nadu,Sivaganga,35.49499999999999,35.54,42.87
+Tamil Nadu,Tenkasi,37.39666666666667,37.55,42.47
+Tamil Nadu,Thanjavur,35.404,34.980000000000004,49.28
+Tamil Nadu,The Nilgiris,35.376,34.974999999999994,42.79
+Tamil Nadu,Theni,38.20049999999999,37.28,60.2
+Tamil Nadu,Thiruvallur,35.313,35.135000000000005,42.46
+Tamil Nadu,Thiruvarur,35.32599999999999,35.125,42.55
+Tamil Nadu,Tiruchirappalli,45.52699999999999,42.66,58.35
+Tamil Nadu,Tirunelveli,35.342,35.175,42.72
+Tamil Nadu,Tirupathur,37.473333333333336,37.56,42.53
+Tamil Nadu,Tiruppur,35.29833333333333,33.905,49.16
+Tamil Nadu,Tiruvannamalai,41.353500000000004,37.129999999999995,73.39
+Tamil Nadu,Tuticorin,35.19315789473685,35.0,42.18
+Tamil Nadu,Vellore,35.68249999999999,35.195,42.5
+Tamil Nadu,Villupuram,30.928500000000003,31.265,43.21
+Tamil Nadu,Virudhunagar,35.31947368421052,34.44,42.66
+Telangana,Khammam,6.5,6.5,6.5
+Telangana,Mahabubnagar,8.0,8.0,8.0
+Telangana,Ranga Reddy,6.99,6.99,7.65

@@ -1,0 +1,54 @@
+State,District,Median,Max,Yield_Class
+Assam,Cachar,980.98,980.98,High
+Assam,Dibrugarh,584.62,584.62,High
+Assam,Dima Hasao,555.235,765.43,High
+Assam,Hailakandi,651.43,651.43,High
+Assam,Tinsukia,942.86,942.86,High
+DNHDD,Dadra And Nagar Haveli,250.0,445.0,Medium
+Goa,North Goa,308.84,308.84,Medium
+Goa,South Goa,606.21,606.21,High
+Karnataka,Bagalkote,7.96,7.96,Low
+Karnataka,Ballari,7.96,7.96,Low
+Karnataka,Belagavi,7.96,7.96,Low
+Karnataka,Bengaluru Rural,7.96,7.96,Low
+Karnataka,Bengaluru Urban,7.96,7.96,Low
+Karnataka,Bidar,7.94,7.94,Low
+Karnataka,Chamarajanagara,11.8,11.8,Low
+Karnataka,Chikkaballapura,7.96,7.96,Low
+Karnataka,Chikkamagaluru,9.05,9.05,Low
+Karnataka,Chitradurga,9.6,9.6,Low
+Karnataka,Dakshina Kannada,6.89,6.89,Low
+Karnataka,Davangere,7.96,7.96,Low
+Karnataka,Dharwad,7.96,7.96,Low
+Karnataka,Gadag,7.96,7.96,Low
+Karnataka,Hassan,4.86,4.86,Low
+Karnataka,Haveri,7.96,7.96,Low
+Karnataka,Kalaburagi,7.96,7.96,Low
+Karnataka,Kodagu,7.96,7.96,Low
+Karnataka,Kolar,7.96,7.96,Low
+Karnataka,Koppal,7.96,7.96,Low
+Karnataka,Mandya,8.95,8.95,Low
+Karnataka,Mysuru,11.63,11.63,Low
+Karnataka,Raichur,7.96,7.96,Low
+Karnataka,Ramanagara,7.68,7.68,Low
+Karnataka,Shivamogga,7.96,7.96,Low
+Karnataka,Tumakuru,7.34,7.34,Low
+Karnataka,Udupi,13.02,13.02,Low
+Karnataka,Uttara Kannada,7.96,7.96,Low
+Karnataka,Vijayapura,7.97,7.97,Low
+Karnataka,Yadgir,7.96,7.96,Low
+Kerala,Alappuzha,605.11,605.11,High
+Kerala,Ernakulam,486.2,486.2,High
+Kerala,Idukki,345.38,345.38,Medium
+Kerala,Kannur,607.56,607.56,High
+Kerala,Kasaragod,890.76,890.76,High
+Kerala,Kollam,624.79,624.79,High
+Kerala,Kottayam,502.09,502.09,High
+Kerala,Kozhikode,813.53,813.53,High
+Kerala,Malappuram,943.75,943.75,High
+Kerala,Palakkad,825.99,825.99,High
+Kerala,Pathanamthitta,538.63,538.63,High
+Kerala,Thiruvananthapuram,705.29,705.29,High
+Kerala,Thrissur,677.75,677.75,High
+Kerala,Wayanad,685.89,685.89,High
+West Bengal,Maldah,100.0,100.0,Medium
