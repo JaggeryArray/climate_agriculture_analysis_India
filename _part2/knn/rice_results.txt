@@ -1,0 +1,67 @@
+CROP: rice
+Total rows after merge: 720
+
+CLASS COUNTS
+Yield_Class
+High      349
+Medium    305
+Low        66
+
+CLASS PROPORTIONS
+Yield_Class
+High      0.4847
+Medium    0.4236
+Low       0.0917
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.7639  F1=0.7616
+  Fold 2: Accuracy=0.7986  F1=0.7993
+  Fold 3: Accuracy=0.7917  F1=0.7907
+  Fold 4: Accuracy=0.7500  F1=0.7511
+  Fold 5: Accuracy=0.7569  F1=0.7479
+
+AGGREGATED CV METRICS
+  Accuracy : 0.7722 ± 0.0193
+  F1       : 0.7701 ± 0.0210
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+             e_kharif_std    0.015948
+   runoff_ratio_rabi_mean    0.014210
+    water_retention_index    0.013682
+           swvl1_rabi_std    0.012905
+          swvl1_amplitude    0.012561
+     humidity_variability    0.012475
+              e_zaid_mean    0.012286
+            tp_kharif_std    0.011533
+ soil_air_diff_kharif_std    0.011301
+                 GDD_rabi    0.010674
+soil_moisture_seasonality    0.010333
+           swvl1_zaid_std    0.009761
+ runoff_ratio_kharif_mean    0.009434
+          heat_months_30C    0.009215
+               GDD_kharif    0.009068
+           tp_kharif_mean    0.009047
+                      cvh    0.008934
+    humidity_stress_index    0.008718
+            t2m_amplitude    0.008688
+               e_zaid_std    0.008605
+            e_kharif_mean    0.008585
+  soil_air_diff_zaid_mean    0.008536
+             t2m_peak_cos    0.008475
+        swvl1_kharif_mean    0.008363
+             tp_zaid_mean    0.008150
+   runoff_ratio_zaid_mean    0.007889
+          swvl1_rabi_mean    0.007830
+               e_rabi_std    0.007168
+  soil_air_diff_rabi_mean    0.006993
+       tp_kharif_fraction    0.006823
+soil_air_diff_kharif_mean    0.006615
+             t2m_peak_sin    0.006301
+          heat_months_35C    0.006062
+   soil_air_diff_rabi_std    0.005471
+              e_rabi_mean    0.005466
+          swvl1_stability    0.004637

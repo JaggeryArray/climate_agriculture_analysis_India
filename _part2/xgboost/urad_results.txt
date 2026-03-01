@@ -1,0 +1,67 @@
+CROP: urad
+Total rows after merge: 664
+
+CLASS COUNTS
+Yield_Class
+Medium    286
+High      219
+Low       159
+
+CLASS PROPORTIONS
+Yield_Class
+Medium    0.4307
+High      0.3298
+Low       0.2395
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.7143  F1=0.7166
+  Fold 2: Accuracy=0.7068  F1=0.7065
+  Fold 3: Accuracy=0.6541  F1=0.6552
+  Fold 4: Accuracy=0.6541  F1=0.6520
+  Fold 5: Accuracy=0.7121  F1=0.7114
+
+AGGREGATED CV METRICS
+  Accuracy : 0.6883 ± 0.0280
+  F1       : 0.6884 ± 0.0286
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+     humidity_variability    0.376594
+            tp_kharif_std    0.291622
+   runoff_ratio_rabi_mean    0.226715
+           swvl1_rabi_std    0.199641
+               e_zaid_std    0.171610
+             e_kharif_std    0.154966
+                 GDD_rabi    0.139051
+    water_retention_index    0.138356
+               e_rabi_std    0.131720
+   soil_air_diff_rabi_std    0.128970
+        swvl1_kharif_mean    0.125428
+            t2m_amplitude    0.124489
+   runoff_ratio_zaid_mean    0.120273
+          swvl1_amplitude    0.116497
+              e_rabi_mean    0.114025
+            e_kharif_mean    0.113117
+           tp_kharif_mean    0.109610
+           swvl1_zaid_std    0.108870
+       tp_kharif_fraction    0.103451
+soil_air_diff_kharif_mean    0.099177
+ soil_air_diff_kharif_std    0.095230
+          swvl1_rabi_mean    0.094532
+  soil_air_diff_zaid_mean    0.085285
+               GDD_kharif    0.080499
+              e_zaid_mean    0.080341
+    humidity_stress_index    0.079759
+ runoff_ratio_kharif_mean    0.079622
+                      cvh    0.075965
+soil_moisture_seasonality    0.074402
+  soil_air_diff_rabi_mean    0.067129
+             tp_zaid_mean    0.063696
+          swvl1_stability    0.057248
+             t2m_peak_sin    0.050733
+          heat_months_30C    0.009410
+             t2m_peak_cos    0.008971
+          heat_months_35C    0.001133

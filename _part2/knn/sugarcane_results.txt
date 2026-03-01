@@ -1,0 +1,67 @@
+CROP: sugarcane
+Total rows after merge: 663
+
+CLASS COUNTS
+Yield_Class
+High      451
+Medium    158
+Low        54
+
+CLASS PROPORTIONS
+Yield_Class
+High      0.6802
+Medium    0.2383
+Low       0.0814
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.8722  F1=0.8732
+  Fold 2: Accuracy=0.8421  F1=0.8346
+  Fold 3: Accuracy=0.8647  F1=0.8665
+  Fold 4: Accuracy=0.8788  F1=0.8819
+  Fold 5: Accuracy=0.8712  F1=0.8686
+
+AGGREGATED CV METRICS
+  Accuracy : 0.8658 ± 0.0127
+  F1       : 0.8650 ± 0.0161
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+                      cvh    0.012426
+     humidity_variability    0.011430
+               e_zaid_std    0.011202
+            tp_kharif_std    0.011071
+                 GDD_rabi    0.011050
+             t2m_peak_sin    0.010865
+           swvl1_rabi_std    0.010820
+ runoff_ratio_kharif_mean    0.010705
+   runoff_ratio_rabi_mean    0.010653
+             tp_zaid_mean    0.009557
+           tp_kharif_mean    0.009247
+  soil_air_diff_zaid_mean    0.009050
+              e_zaid_mean    0.009039
+    water_retention_index    0.009037
+          swvl1_amplitude    0.008873
+   runoff_ratio_zaid_mean    0.008674
+          swvl1_rabi_mean    0.008604
+    humidity_stress_index    0.008337
+  soil_air_diff_rabi_mean    0.007995
+            t2m_amplitude    0.007863
+             e_kharif_std    0.007808
+          heat_months_30C    0.007362
+           swvl1_zaid_std    0.007346
+soil_moisture_seasonality    0.006897
+ soil_air_diff_kharif_std    0.006771
+            e_kharif_mean    0.006728
+        swvl1_kharif_mean    0.006289
+             t2m_peak_cos    0.006028
+               e_rabi_std    0.006004
+              e_rabi_mean    0.005987
+               GDD_kharif    0.005981
+          heat_months_35C    0.005433
+soil_air_diff_kharif_mean    0.005227
+       tp_kharif_fraction    0.005041
+   soil_air_diff_rabi_std    0.004545
+          swvl1_stability    0.004262

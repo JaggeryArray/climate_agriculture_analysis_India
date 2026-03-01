@@ -1,0 +1,67 @@
+CROP: sweet_potato
+Total rows after merge: 457
+
+CLASS COUNTS
+Yield_Class
+High      225
+Medium    175
+Low        57
+
+CLASS PROPORTIONS
+Yield_Class
+High      0.4923
+Medium    0.3829
+Low       0.1247
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.8587  F1=0.8571
+  Fold 2: Accuracy=0.8804  F1=0.8770
+  Fold 3: Accuracy=0.8352  F1=0.8356
+  Fold 4: Accuracy=0.7802  F1=0.7785
+  Fold 5: Accuracy=0.8681  F1=0.8647
+
+AGGREGATED CV METRICS
+  Accuracy : 0.8445 ± 0.0354
+  F1       : 0.8426 ± 0.0347
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+   runoff_ratio_rabi_mean    0.020442
+  soil_air_diff_rabi_mean    0.014926
+                      cvh    0.013587
+             tp_zaid_mean    0.012608
+              e_zaid_mean    0.012286
+           swvl1_rabi_std    0.012038
+            tp_kharif_std    0.011763
+soil_moisture_seasonality    0.011444
+             t2m_peak_sin    0.011102
+               GDD_kharif    0.011086
+    water_retention_index    0.010971
+          swvl1_amplitude    0.010926
+           swvl1_zaid_std    0.010788
+             t2m_peak_cos    0.010454
+ runoff_ratio_kharif_mean    0.010413
+     humidity_variability    0.010380
+           tp_kharif_mean    0.010175
+               e_rabi_std    0.009993
+  soil_air_diff_zaid_mean    0.009790
+            e_kharif_mean    0.009724
+             e_kharif_std    0.009712
+   runoff_ratio_zaid_mean    0.009685
+       tp_kharif_fraction    0.009442
+            t2m_amplitude    0.009410
+                 GDD_rabi    0.009359
+          swvl1_rabi_mean    0.009282
+               e_zaid_std    0.009176
+   soil_air_diff_rabi_std    0.008203
+soil_air_diff_kharif_mean    0.008025
+ soil_air_diff_kharif_std    0.007910
+    humidity_stress_index    0.007386
+        swvl1_kharif_mean    0.007380
+              e_rabi_mean    0.007325
+          heat_months_35C    0.006750
+          swvl1_stability    0.006006
+          heat_months_30C    0.005944

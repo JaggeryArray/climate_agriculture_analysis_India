@@ -1,0 +1,67 @@
+CROP: small_millets
+Total rows after merge: 554
+
+CLASS COUNTS
+Yield_Class
+Medium    261
+High      172
+Low       121
+
+CLASS PROPORTIONS
+Yield_Class
+Medium    0.4711
+High      0.3105
+Low       0.2184
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.7027  F1=0.7030
+  Fold 2: Accuracy=0.7387  F1=0.7380
+  Fold 3: Accuracy=0.7027  F1=0.7021
+  Fold 4: Accuracy=0.6757  F1=0.6758
+  Fold 5: Accuracy=0.6636  F1=0.6622
+
+AGGREGATED CV METRICS
+  Accuracy : 0.6967 ± 0.0260
+  F1       : 0.6962 ± 0.0261
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+                      cvh    0.018683
+     humidity_variability    0.016581
+   runoff_ratio_rabi_mean    0.016313
+soil_moisture_seasonality    0.013742
+    water_retention_index    0.013676
+               e_rabi_std    0.012681
+           swvl1_rabi_std    0.012341
+            tp_kharif_std    0.011754
+             e_kharif_std    0.011710
+          swvl1_rabi_mean    0.011262
+              e_zaid_mean    0.011079
+          heat_months_30C    0.010826
+   runoff_ratio_zaid_mean    0.010608
+            e_kharif_mean    0.010443
+               e_zaid_std    0.010178
+           swvl1_zaid_std    0.010175
+          swvl1_amplitude    0.009499
+          swvl1_stability    0.009107
+              e_rabi_mean    0.009080
+        swvl1_kharif_mean    0.008964
+  soil_air_diff_zaid_mean    0.008837
+            t2m_amplitude    0.008709
+    humidity_stress_index    0.008534
+                 GDD_rabi    0.008246
+             t2m_peak_sin    0.008177
+soil_air_diff_kharif_mean    0.008039
+ runoff_ratio_kharif_mean    0.007867
+             t2m_peak_cos    0.007647
+       tp_kharif_fraction    0.007637
+   soil_air_diff_rabi_std    0.007321
+           tp_kharif_mean    0.007205
+ soil_air_diff_kharif_std    0.006904
+               GDD_kharif    0.006844
+             tp_zaid_mean    0.005823
+  soil_air_diff_rabi_mean    0.005580
+          heat_months_35C    0.004576

@@ -1,0 +1,67 @@
+CROP: jowar
+Total rows after merge: 521
+
+CLASS COUNTS
+Yield_Class
+Medium    329
+Low       139
+High       53
+
+CLASS PROPORTIONS
+Yield_Class
+Medium    0.6315
+Low       0.2668
+High      0.1017
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.6476  F1=0.6539
+  Fold 2: Accuracy=0.7500  F1=0.7330
+  Fold 3: Accuracy=0.7308  F1=0.7289
+  Fold 4: Accuracy=0.7019  F1=0.6665
+  Fold 5: Accuracy=0.7308  F1=0.7242
+
+AGGREGATED CV METRICS
+  Accuracy : 0.7122 ± 0.0358
+  F1       : 0.7013 ± 0.0339
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+    water_retention_index    0.279328
+                 GDD_rabi    0.260283
+   runoff_ratio_rabi_mean    0.208257
+               GDD_kharif    0.199106
+              e_rabi_mean    0.194715
+soil_air_diff_kharif_mean    0.187253
+  soil_air_diff_rabi_mean    0.178262
+              e_zaid_mean    0.175981
+               e_zaid_std    0.162482
+   runoff_ratio_zaid_mean    0.157977
+  soil_air_diff_zaid_mean    0.146478
+          swvl1_stability    0.141599
+               e_rabi_std    0.140536
+          swvl1_rabi_mean    0.136640
+                      cvh    0.135025
+             e_kharif_std    0.128258
+            e_kharif_mean    0.127569
+     humidity_variability    0.122839
+            t2m_amplitude    0.109228
+            tp_kharif_std    0.108955
+ soil_air_diff_kharif_std    0.108758
+           swvl1_rabi_std    0.104353
+           swvl1_zaid_std    0.092803
+       tp_kharif_fraction    0.089141
+    humidity_stress_index    0.087928
+soil_moisture_seasonality    0.086698
+ runoff_ratio_kharif_mean    0.079795
+   soil_air_diff_rabi_std    0.073206
+          swvl1_amplitude    0.072736
+           tp_kharif_mean    0.067830
+             tp_zaid_mean    0.066739
+        swvl1_kharif_mean    0.055907
+          heat_months_30C    0.010804
+          heat_months_35C    0.009968
+             t2m_peak_sin    0.005831
+             t2m_peak_cos    0.001121

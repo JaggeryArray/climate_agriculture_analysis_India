@@ -1,0 +1,67 @@
+CROP: potato
+Total rows after merge: 600
+
+CLASS COUNTS
+Yield_Class
+Medium    328
+High      238
+Low        34
+
+CLASS PROPORTIONS
+Yield_Class
+Medium    0.5467
+High      0.3967
+Low       0.0567
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.7833  F1=0.7820
+  Fold 2: Accuracy=0.8000  F1=0.7932
+  Fold 3: Accuracy=0.7583  F1=0.7539
+  Fold 4: Accuracy=0.8250  F1=0.8243
+  Fold 5: Accuracy=0.8000  F1=0.7976
+
+AGGREGATED CV METRICS
+  Accuracy : 0.7933 ± 0.0220
+  F1       : 0.7902 ± 0.0228
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+  soil_air_diff_rabi_mean    0.313375
+    water_retention_index    0.260282
+              e_rabi_mean    0.248459
+           swvl1_rabi_std    0.229499
+        swvl1_kharif_mean    0.180001
+    humidity_stress_index    0.169347
+                 GDD_rabi    0.168670
+                      cvh    0.168071
+               GDD_kharif    0.164785
+ runoff_ratio_kharif_mean    0.161718
+            e_kharif_mean    0.153391
+               e_rabi_std    0.153239
+           swvl1_zaid_std    0.140410
+     humidity_variability    0.135103
+   runoff_ratio_rabi_mean    0.127262
+             e_kharif_std    0.124328
+   soil_air_diff_rabi_std    0.122180
+            tp_kharif_std    0.121965
+          swvl1_amplitude    0.115784
+soil_air_diff_kharif_mean    0.115229
+              e_zaid_mean    0.112307
+             tp_zaid_mean    0.110561
+          swvl1_rabi_mean    0.097407
+soil_moisture_seasonality    0.092349
+       tp_kharif_fraction    0.090008
+ soil_air_diff_kharif_std    0.089766
+  soil_air_diff_zaid_mean    0.089390
+               e_zaid_std    0.085507
+          swvl1_stability    0.081226
+            t2m_amplitude    0.076713
+           tp_kharif_mean    0.063504
+   runoff_ratio_zaid_mean    0.044614
+          heat_months_30C    0.017054
+             t2m_peak_sin    0.013922
+             t2m_peak_cos    0.013733
+          heat_months_35C    0.000219

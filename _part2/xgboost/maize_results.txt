@@ -1,0 +1,67 @@
+CROP: maize
+Total rows after merge: 723
+
+CLASS COUNTS
+Yield_Class
+Medium    325
+Low       280
+High      118
+
+CLASS PROPORTIONS
+Yield_Class
+Medium    0.4495
+Low       0.3873
+High      0.1632
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.6897  F1=0.6896
+  Fold 2: Accuracy=0.6276  F1=0.6290
+  Fold 3: Accuracy=0.6966  F1=0.6921
+  Fold 4: Accuracy=0.6250  F1=0.6253
+  Fold 5: Accuracy=0.6736  F1=0.6730
+
+AGGREGATED CV METRICS
+  Accuracy : 0.6625 ± 0.0305
+  F1       : 0.6618 ± 0.0291
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+           swvl1_rabi_std    0.434713
+                 GDD_rabi    0.297259
+               GDD_kharif    0.195109
+            tp_kharif_std    0.191762
+   runoff_ratio_rabi_mean    0.175399
+           swvl1_zaid_std    0.138282
+           tp_kharif_mean    0.134990
+             tp_zaid_mean    0.131704
+    humidity_stress_index    0.130991
+   runoff_ratio_zaid_mean    0.130378
+soil_moisture_seasonality    0.128330
+            t2m_amplitude    0.125162
+       tp_kharif_fraction    0.119510
+soil_air_diff_kharif_mean    0.117951
+ runoff_ratio_kharif_mean    0.114013
+    water_retention_index    0.109494
+            e_kharif_mean    0.106717
+             e_kharif_std    0.106310
+          swvl1_rabi_mean    0.105479
+              e_rabi_mean    0.103985
+              e_zaid_mean    0.103553
+  soil_air_diff_zaid_mean    0.103105
+     humidity_variability    0.094919
+          swvl1_stability    0.091631
+   soil_air_diff_rabi_std    0.090732
+          swvl1_amplitude    0.086993
+        swvl1_kharif_mean    0.082021
+  soil_air_diff_rabi_mean    0.078299
+ soil_air_diff_kharif_std    0.077809
+               e_zaid_std    0.077426
+               e_rabi_std    0.069060
+                      cvh    0.060296
+             t2m_peak_cos    0.022240
+          heat_months_30C    0.008312
+             t2m_peak_sin    0.006356
+          heat_months_35C    0.000108

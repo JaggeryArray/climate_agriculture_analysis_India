@@ -1,0 +1,67 @@
+CROP: groundnut
+Total rows after merge: 583
+
+DROPPED CLASSES (< 5 samples): ['High']
+
+CLASS COUNTS
+Yield_Class
+Low       372
+Medium    211
+
+CLASS PROPORTIONS
+Yield_Class
+Low       0.6381
+Medium    0.3619
+
+ENCODING
+{'Low': np.int64(0), 'Medium': np.int64(1)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.8034  F1=0.8048
+  Fold 2: Accuracy=0.7778  F1=0.7812
+  Fold 3: Accuracy=0.7778  F1=0.7817
+  Fold 4: Accuracy=0.7328  F1=0.7379
+  Fold 5: Accuracy=0.8190  F1=0.8219
+
+AGGREGATED CV METRICS
+  Accuracy : 0.7821 ± 0.0293
+  F1       : 0.7855 ± 0.0283
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+                 GDD_rabi    0.076525
+    humidity_stress_index    0.057068
+           swvl1_zaid_std    0.038190
+            t2m_amplitude    0.023904
+              e_rabi_mean    0.021442
+               GDD_kharif    0.015330
+           swvl1_rabi_std    0.014898
+             t2m_peak_sin    0.014344
+            e_kharif_mean    0.014237
+               e_zaid_std    0.011939
+             tp_zaid_mean    0.011789
+     humidity_variability    0.011343
+               e_rabi_std    0.011096
+  soil_air_diff_zaid_mean    0.010109
+             t2m_peak_cos    0.008708
+                      cvh    0.008431
+   soil_air_diff_rabi_std    0.008280
+           tp_kharif_mean    0.008276
+              e_zaid_mean    0.007843
+       tp_kharif_fraction    0.007067
+   runoff_ratio_rabi_mean    0.007011
+soil_moisture_seasonality    0.006981
+        swvl1_kharif_mean    0.006910
+            tp_kharif_std    0.006660
+          swvl1_amplitude    0.006616
+          swvl1_stability    0.006470
+    water_retention_index    0.005344
+   runoff_ratio_zaid_mean    0.005171
+soil_air_diff_kharif_mean    0.004613
+ runoff_ratio_kharif_mean    0.004340
+  soil_air_diff_rabi_mean    0.004165
+          swvl1_rabi_mean    0.003965
+ soil_air_diff_kharif_std    0.003752
+             e_kharif_std    0.003079
+          heat_months_30C    0.001687
+          heat_months_35C    0.000142

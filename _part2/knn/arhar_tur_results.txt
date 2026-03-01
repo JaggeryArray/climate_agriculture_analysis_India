@@ -1,0 +1,67 @@
+CROP: arhar_tur
+Total rows after merge: 665
+
+CLASS COUNTS
+Yield_Class
+Medium    293
+High      275
+Low        97
+
+CLASS PROPORTIONS
+Yield_Class
+Medium    0.4406
+High      0.4135
+Low       0.1459
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.6692  F1=0.6680
+  Fold 2: Accuracy=0.6617  F1=0.6567
+  Fold 3: Accuracy=0.7068  F1=0.7018
+  Fold 4: Accuracy=0.7143  F1=0.7030
+  Fold 5: Accuracy=0.7068  F1=0.7021
+
+AGGREGATED CV METRICS
+  Accuracy : 0.6917 ± 0.0218
+  F1       : 0.6863 ± 0.0199
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+                      cvh    0.013405
+   runoff_ratio_rabi_mean    0.013148
+              e_zaid_mean    0.013048
+            e_kharif_mean    0.012886
+            tp_kharif_std    0.011958
+               e_zaid_std    0.011925
+             e_kharif_std    0.011773
+           swvl1_rabi_std    0.011668
+          heat_months_30C    0.011360
+   runoff_ratio_zaid_mean    0.011251
+                 GDD_rabi    0.010651
+               e_rabi_std    0.010366
+    water_retention_index    0.010327
+    humidity_stress_index    0.010196
+            t2m_amplitude    0.010182
+     humidity_variability    0.009601
+ soil_air_diff_kharif_std    0.009567
+          swvl1_rabi_mean    0.009555
+  soil_air_diff_zaid_mean    0.009517
+        swvl1_kharif_mean    0.009107
+          swvl1_stability    0.008537
+  soil_air_diff_rabi_mean    0.008344
+soil_moisture_seasonality    0.008303
+           swvl1_zaid_std    0.008274
+ runoff_ratio_kharif_mean    0.007850
+soil_air_diff_kharif_mean    0.007749
+             t2m_peak_sin    0.007695
+               GDD_kharif    0.007584
+             t2m_peak_cos    0.007272
+          swvl1_amplitude    0.007212
+             tp_zaid_mean    0.007145
+              e_rabi_mean    0.007082
+           tp_kharif_mean    0.006863
+          heat_months_35C    0.006812
+       tp_kharif_fraction    0.006631
+   soil_air_diff_rabi_std    0.006319

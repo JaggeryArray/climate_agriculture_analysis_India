@@ -1,0 +1,67 @@
+CROP: rapeseed_and_mustard
+Total rows after merge: 656
+
+CLASS COUNTS
+Yield_Class
+High      296
+Medium    259
+Low       101
+
+CLASS PROPORTIONS
+Yield_Class
+High      0.4512
+Medium    0.3948
+Low       0.1540
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.7197  F1=0.7205
+  Fold 2: Accuracy=0.7863  F1=0.7845
+  Fold 3: Accuracy=0.7786  F1=0.7793
+  Fold 4: Accuracy=0.7786  F1=0.7762
+  Fold 5: Accuracy=0.7405  F1=0.7362
+
+AGGREGATED CV METRICS
+  Accuracy : 0.7607 ± 0.0260
+  F1       : 0.7593 ± 0.0259
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+           swvl1_rabi_std    0.021332
+   runoff_ratio_rabi_mean    0.017428
+               e_rabi_std    0.016198
+    water_retention_index    0.016168
+            t2m_amplitude    0.014652
+   runoff_ratio_zaid_mean    0.013875
+               e_zaid_std    0.012686
+            tp_kharif_std    0.012372
+                      cvh    0.012117
+          heat_months_30C    0.011656
+             e_kharif_std    0.010947
+             t2m_peak_sin    0.010805
+  soil_air_diff_zaid_mean    0.010370
+                 GDD_rabi    0.010284
+     humidity_variability    0.009764
+             t2m_peak_cos    0.009591
+              e_zaid_mean    0.009203
+soil_moisture_seasonality    0.009053
+           swvl1_zaid_std    0.009045
+           tp_kharif_mean    0.009041
+             tp_zaid_mean    0.008919
+          swvl1_amplitude    0.008814
+               GDD_kharif    0.008623
+              e_rabi_mean    0.008057
+ soil_air_diff_kharif_std    0.007618
+          swvl1_rabi_mean    0.007604
+          swvl1_stability    0.007341
+        swvl1_kharif_mean    0.007029
+ runoff_ratio_kharif_mean    0.006977
+    humidity_stress_index    0.006947
+            e_kharif_mean    0.006942
+soil_air_diff_kharif_mean    0.006272
+       tp_kharif_fraction    0.005852
+  soil_air_diff_rabi_mean    0.005784
+   soil_air_diff_rabi_std    0.004978
+          heat_months_35C    0.004652

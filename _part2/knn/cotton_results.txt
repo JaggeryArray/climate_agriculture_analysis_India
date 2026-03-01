@@ -1,0 +1,67 @@
+CROP: cotton
+Total rows after merge: 454
+
+CLASS COUNTS
+Yield_Class
+High      216
+Medium    155
+Low        83
+
+CLASS PROPORTIONS
+Yield_Class
+High      0.4758
+Medium    0.3414
+Low       0.1828
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.7253  F1=0.7252
+  Fold 2: Accuracy=0.7692  F1=0.7637
+  Fold 3: Accuracy=0.7033  F1=0.7086
+  Fold 4: Accuracy=0.7692  F1=0.7668
+  Fold 5: Accuracy=0.7778  F1=0.7683
+
+AGGREGATED CV METRICS
+  Accuracy : 0.7490 ± 0.0293
+  F1       : 0.7465 ± 0.0248
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+             e_kharif_std    0.012984
+   runoff_ratio_rabi_mean    0.012612
+               GDD_kharif    0.012506
+           swvl1_rabi_std    0.011993
+   runoff_ratio_zaid_mean    0.011654
+           swvl1_zaid_std    0.011494
+             t2m_peak_sin    0.011479
+                 GDD_rabi    0.011353
+ soil_air_diff_kharif_std    0.011280
+            tp_kharif_std    0.011049
+                      cvh    0.010660
+           tp_kharif_mean    0.010600
+    water_retention_index    0.010419
+             t2m_peak_cos    0.010414
+              e_zaid_mean    0.010193
+          swvl1_amplitude    0.010183
+            e_kharif_mean    0.010150
+     humidity_variability    0.009750
+             tp_zaid_mean    0.009394
+ runoff_ratio_kharif_mean    0.009338
+  soil_air_diff_zaid_mean    0.009283
+          heat_months_30C    0.009282
+   soil_air_diff_rabi_std    0.008852
+               e_zaid_std    0.008705
+               e_rabi_std    0.008533
+          swvl1_stability    0.007878
+              e_rabi_mean    0.007870
+            t2m_amplitude    0.007534
+        swvl1_kharif_mean    0.007440
+          heat_months_35C    0.007412
+  soil_air_diff_rabi_mean    0.007385
+          swvl1_rabi_mean    0.007313
+soil_moisture_seasonality    0.007064
+    humidity_stress_index    0.006991
+       tp_kharif_fraction    0.006768
+soil_air_diff_kharif_mean    0.006645
