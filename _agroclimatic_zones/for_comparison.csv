@@ -1,0 +1,774 @@
+district,label,label_name
+A & N Islands_Nicobars,15,Islands Region
+A & N Islands_North And Middle Andaman,15,Islands Region
+A & N Islands_South Andamans,15,Islands Region
+Andhra Pradesh_Alluri Sitharama Raju,11,East Coast Plains and Hills Region
+Andhra Pradesh_Anakapalli,11,East Coast Plains and Hills Region
+Andhra Pradesh_Anantapur,10,Southern Plateau and Hills Region
+Andhra Pradesh_Annamayya,10,Southern Plateau and Hills Region
+Andhra Pradesh_Bapatla,11,East Coast Plains and Hills Region
+Andhra Pradesh_Chittoor,10,Southern Plateau and Hills Region
+Andhra Pradesh_East Godavari,11,East Coast Plains and Hills Region
+Andhra Pradesh_Eluru,11,East Coast Plains and Hills Region
+Andhra Pradesh_Guntur,11,East Coast Plains and Hills Region
+Andhra Pradesh_Kakinada,11,East Coast Plains and Hills Region
+Andhra Pradesh_Konaseema,11,East Coast Plains and Hills Region
+Andhra Pradesh_Krishna,11,East Coast Plains and Hills Region
+Andhra Pradesh_Kurnool,10,Southern Plateau and Hills Region
+Andhra Pradesh_Nandyal,10,Southern Plateau and Hills Region
+Andhra Pradesh_Ntr,11,East Coast Plains and Hills Region
+Andhra Pradesh_Palnadu,11,East Coast Plains and Hills Region
+Andhra Pradesh_Parvathipuram Manyam,11,East Coast Plains and Hills Region
+Andhra Pradesh_Prakasam,11,East Coast Plains and Hills Region
+Andhra Pradesh_Spsr Nellore,11,East Coast Plains and Hills Region
+Andhra Pradesh_Sri Sathya Sai,10,Southern Plateau and Hills Region
+Andhra Pradesh_Srikakulam,11,East Coast Plains and Hills Region
+Andhra Pradesh_Tirupati,11,East Coast Plains and Hills Region
+Andhra Pradesh_Visakhapatanam,11,East Coast Plains and Hills Region
+Andhra Pradesh_Vizianagaram,11,East Coast Plains and Hills Region
+Andhra Pradesh_West Godavari,11,East Coast Plains and Hills Region
+Andhra Pradesh_Y.s.r.,10,Southern Plateau and Hills Region
+Arunachal Pradesh_Anjaw,2,Eastern Himalayan Region
+Arunachal Pradesh_Changlang,2,Eastern Himalayan Region
+Arunachal Pradesh_Dibang Valley,2,Eastern Himalayan Region
+Arunachal Pradesh_East Kameng,2,Eastern Himalayan Region
+Arunachal Pradesh_East Siang,2,Eastern Himalayan Region
+Arunachal Pradesh_Itanagar Capital Complex,2,Eastern Himalayan Region
+Arunachal Pradesh_Kamle,2,Eastern Himalayan Region
+Arunachal Pradesh_Kra Daadi,2,Eastern Himalayan Region
+Arunachal Pradesh_Kurung Kumey,2,Eastern Himalayan Region
+Arunachal Pradesh_Leparada,2,Eastern Himalayan Region
+Arunachal Pradesh_Lohit,2,Eastern Himalayan Region
+Arunachal Pradesh_Longding,2,Eastern Himalayan Region
+Arunachal Pradesh_Lower Dibang Valley,2,Eastern Himalayan Region
+Arunachal Pradesh_Lower Siang,2,Eastern Himalayan Region
+Arunachal Pradesh_Lower Subansiri,2,Eastern Himalayan Region
+Arunachal Pradesh_Namsai,2,Eastern Himalayan Region
+Arunachal Pradesh_Pakke Kessang,2,Eastern Himalayan Region
+Arunachal Pradesh_Papum Pare,2,Eastern Himalayan Region
+Arunachal Pradesh_Shi Yomi,2,Eastern Himalayan Region
+Arunachal Pradesh_Siang,2,Eastern Himalayan Region
+Arunachal Pradesh_Tawang,2,Eastern Himalayan Region
+Arunachal Pradesh_Tirap,2,Eastern Himalayan Region
+Arunachal Pradesh_Upper Siang,2,Eastern Himalayan Region
+Arunachal Pradesh_Upper Subansiri,2,Eastern Himalayan Region
+Arunachal Pradesh_West Kameng,2,Eastern Himalayan Region
+Arunachal Pradesh_West Siang,2,Eastern Himalayan Region
+Assam_Bajali,2,Eastern Himalayan Region
+Assam_Baksa,2,Eastern Himalayan Region
+Assam_Barpeta,2,Eastern Himalayan Region
+Assam_Biswanath,2,Eastern Himalayan Region
+Assam_Bongaigaon,2,Eastern Himalayan Region
+Assam_Cachar,2,Eastern Himalayan Region
+Assam_Charaideo,2,Eastern Himalayan Region
+Assam_Chirang,2,Eastern Himalayan Region
+Assam_Darrang,2,Eastern Himalayan Region
+Assam_Dhemaji,2,Eastern Himalayan Region
+Assam_Dhubri,2,Eastern Himalayan Region
+Assam_Dibrugarh,2,Eastern Himalayan Region
+Assam_Dima Hasao,2,Eastern Himalayan Region
+Assam_Goalpara,2,Eastern Himalayan Region
+Assam_Golaghat,2,Eastern Himalayan Region
+Assam_Hailakandi,2,Eastern Himalayan Region
+Assam_Hojai,2,Eastern Himalayan Region
+Assam_Jorhat,2,Eastern Himalayan Region
+Assam_Kamrup,2,Eastern Himalayan Region
+Assam_Kamrup Metro,2,Eastern Himalayan Region
+Assam_Karbi Anglong,2,Eastern Himalayan Region
+Assam_Karimganj,2,Eastern Himalayan Region
+Assam_Kokrajhar,2,Eastern Himalayan Region
+Assam_Lakhimpur,2,Eastern Himalayan Region
+Assam_Majuli,2,Eastern Himalayan Region
+Assam_Marigaon,2,Eastern Himalayan Region
+Assam_Nagaon,2,Eastern Himalayan Region
+Assam_Nalbari,2,Eastern Himalayan Region
+Assam_Sivasagar,2,Eastern Himalayan Region
+Assam_Sonitpur,2,Eastern Himalayan Region
+Assam_South Salmara Mancachar,2,Eastern Himalayan Region
+Assam_Tamulpur,2,Eastern Himalayan Region
+Assam_Tinsukia,2,Eastern Himalayan Region
+Assam_Udalguri,2,Eastern Himalayan Region
+Assam_West Karbi Anglong,2,Eastern Himalayan Region
+Bihar_Araria,4,Middle Gangetic Plains Region
+Bihar_Arwal,4,Middle Gangetic Plains Region
+Bihar_Aurangabad,4,Middle Gangetic Plains Region
+Bihar_Banka,4,Middle Gangetic Plains Region
+Bihar_Begusarai,4,Middle Gangetic Plains Region
+Bihar_Bhagalpur,4,Middle Gangetic Plains Region
+Bihar_Bhojpur,4,Middle Gangetic Plains Region
+Bihar_Buxar,4,Middle Gangetic Plains Region
+Bihar_Darbhanga,4,Middle Gangetic Plains Region
+Bihar_Gaya,4,Middle Gangetic Plains Region
+Bihar_Gopalganj,4,Middle Gangetic Plains Region
+Bihar_Jamui,4,Middle Gangetic Plains Region
+Bihar_Jehanabad,4,Middle Gangetic Plains Region
+Bihar_Kaimur (Bhabua),4,Middle Gangetic Plains Region
+Bihar_Katihar,4,Middle Gangetic Plains Region
+Bihar_Khagaria,4,Middle Gangetic Plains Region
+Bihar_Kishanganj,4,Middle Gangetic Plains Region
+Bihar_Lakhisarai,4,Middle Gangetic Plains Region
+Bihar_Madhepura,4,Middle Gangetic Plains Region
+Bihar_Madhubani,4,Middle Gangetic Plains Region
+Bihar_Munger,4,Middle Gangetic Plains Region
+Bihar_Muzaffarpur,4,Middle Gangetic Plains Region
+Bihar_Nalanda,4,Middle Gangetic Plains Region
+Bihar_Nawada,4,Middle Gangetic Plains Region
+Bihar_Pashchim Champaran,4,Middle Gangetic Plains Region
+Bihar_Patna,4,Middle Gangetic Plains Region
+Bihar_Purbi Champaran,4,Middle Gangetic Plains Region
+Bihar_Purnia,4,Middle Gangetic Plains Region
+Bihar_Rohtas,4,Middle Gangetic Plains Region
+Bihar_Saharsa,4,Middle Gangetic Plains Region
+Bihar_Samastipur,4,Middle Gangetic Plains Region
+Bihar_Saran,4,Middle Gangetic Plains Region
+Bihar_Sheikhpura,4,Middle Gangetic Plains Region
+Bihar_Sheohar,4,Middle Gangetic Plains Region
+Bihar_Sitamarhi,4,Middle Gangetic Plains Region
+Bihar_Siwan,4,Middle Gangetic Plains Region
+Bihar_Supaul,4,Middle Gangetic Plains Region
+Bihar_Vaishali,4,Middle Gangetic Plains Region
+Chandigarh_Chandigarh,6,Trans-Gangetic Plains Region
+Chhattisgarh_Balod,7,Eastern Plateau and Hills Region
+Chhattisgarh_Baloda Bazar,7,Eastern Plateau and Hills Region
+Chhattisgarh_Balrampur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Bastar,7,Eastern Plateau and Hills Region
+Chhattisgarh_Bemetara,7,Eastern Plateau and Hills Region
+Chhattisgarh_Bijapur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Bilaspur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Dantewada,7,Eastern Plateau and Hills Region
+Chhattisgarh_Dhamtari,7,Eastern Plateau and Hills Region
+Chhattisgarh_Durg,7,Eastern Plateau and Hills Region
+Chhattisgarh_Gariyaband,7,Eastern Plateau and Hills Region
+Chhattisgarh_Gaurella Pendra Marwahi,7,Eastern Plateau and Hills Region
+Chhattisgarh_Janjgir-Champa,7,Eastern Plateau and Hills Region
+Chhattisgarh_Jashpur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Kabirdham,7,Eastern Plateau and Hills Region
+Chhattisgarh_Kanker,7,Eastern Plateau and Hills Region
+Chhattisgarh_Khairgarh Chhuikhadan Gandai,7,Eastern Plateau and Hills Region
+Chhattisgarh_Kondagaon,7,Eastern Plateau and Hills Region
+Chhattisgarh_Korba,7,Eastern Plateau and Hills Region
+Chhattisgarh_Korea,7,Eastern Plateau and Hills Region
+Chhattisgarh_Mahasamund,7,Eastern Plateau and Hills Region
+Chhattisgarh_Manendragarh Chirimiri Bharatpur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Mohla Manpur Ambagarh Chouki,7,Eastern Plateau and Hills Region
+Chhattisgarh_Mungeli,7,Eastern Plateau and Hills Region
+Chhattisgarh_Narayanpur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Raigarh,7,Eastern Plateau and Hills Region
+Chhattisgarh_Raipur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Rajnandgaon,7,Eastern Plateau and Hills Region
+Chhattisgarh_Sakti,7,Eastern Plateau and Hills Region
+Chhattisgarh_Sarangarh Bilaigarh,7,Eastern Plateau and Hills Region
+Chhattisgarh_Sukma,7,Eastern Plateau and Hills Region
+Chhattisgarh_Surajpur,7,Eastern Plateau and Hills Region
+Chhattisgarh_Surguja,7,Eastern Plateau and Hills Region
+DNHDD_Dadra And Nagar Haveli,13,Gujarat Plains and Hills Region
+DNHDD_Daman,13,Gujarat Plains and Hills Region
+Delhi_Central,6,Trans-Gangetic Plains Region
+Delhi_New Delhi,6,Trans-Gangetic Plains Region
+Delhi_North,6,Trans-Gangetic Plains Region
+Delhi_North West,6,Trans-Gangetic Plains Region
+Delhi_South,6,Trans-Gangetic Plains Region
+Delhi_South East,6,Trans-Gangetic Plains Region
+Delhi_South West,6,Trans-Gangetic Plains Region
+Delhi_West,6,Trans-Gangetic Plains Region
+Goa_North Goa,12,West Coast Plains and Ghats Region
+Goa_South Goa,12,West Coast Plains and Ghats Region
+Gujarat_Ahmadabad,13,Gujarat Plains and Hills Region
+Gujarat_Amreli,13,Gujarat Plains and Hills Region
+Gujarat_Anand,13,Gujarat Plains and Hills Region
+Gujarat_Arvalli,13,Gujarat Plains and Hills Region
+Gujarat_Banas Kantha,13,Gujarat Plains and Hills Region
+Gujarat_Bharuch,13,Gujarat Plains and Hills Region
+Gujarat_Bhavnagar,13,Gujarat Plains and Hills Region
+Gujarat_Botad,13,Gujarat Plains and Hills Region
+Gujarat_Chhotaudepur,13,Gujarat Plains and Hills Region
+Gujarat_Dang,13,Gujarat Plains and Hills Region
+Gujarat_Devbhumi Dwarka,13,Gujarat Plains and Hills Region
+Gujarat_Dohad,13,Gujarat Plains and Hills Region
+Gujarat_Gandhinagar,13,Gujarat Plains and Hills Region
+Gujarat_Gir Somnath,13,Gujarat Plains and Hills Region
+Gujarat_Jamnagar,13,Gujarat Plains and Hills Region
+Gujarat_Junagadh,13,Gujarat Plains and Hills Region
+Gujarat_Kachchh,13,Gujarat Plains and Hills Region
+Gujarat_Kheda,13,Gujarat Plains and Hills Region
+Gujarat_Mahesana,13,Gujarat Plains and Hills Region
+Gujarat_Mahisagar,13,Gujarat Plains and Hills Region
+Gujarat_Morbi,13,Gujarat Plains and Hills Region
+Gujarat_Narmada,13,Gujarat Plains and Hills Region
+Gujarat_Navsari,13,Gujarat Plains and Hills Region
+Gujarat_Panch Mahals,13,Gujarat Plains and Hills Region
+Gujarat_Patan,13,Gujarat Plains and Hills Region
+Gujarat_Porbandar,13,Gujarat Plains and Hills Region
+Gujarat_Rajkot,13,Gujarat Plains and Hills Region
+Gujarat_Sabar Kantha,13,Gujarat Plains and Hills Region
+Gujarat_Surat,13,Gujarat Plains and Hills Region
+Gujarat_Surendranagar,13,Gujarat Plains and Hills Region
+Gujarat_Tapi,13,Gujarat Plains and Hills Region
+Gujarat_Vadodara,13,Gujarat Plains and Hills Region
+Gujarat_Valsad,13,Gujarat Plains and Hills Region
+Haryana_Ambala,6,Trans-Gangetic Plains Region
+Haryana_Bhiwani,6,Trans-Gangetic Plains Region
+Haryana_Charki Dadri,6,Trans-Gangetic Plains Region
+Haryana_Faridabad,6,Trans-Gangetic Plains Region
+Haryana_Fatehabad,6,Trans-Gangetic Plains Region
+Haryana_Gurugram,6,Trans-Gangetic Plains Region
+Haryana_Hisar,6,Trans-Gangetic Plains Region
+Haryana_Jhajjar,6,Trans-Gangetic Plains Region
+Haryana_Jind,6,Trans-Gangetic Plains Region
+Haryana_Kaithal,6,Trans-Gangetic Plains Region
+Haryana_Karnal,6,Trans-Gangetic Plains Region
+Haryana_Kurukshetra,6,Trans-Gangetic Plains Region
+Haryana_Mahendragarh,6,Trans-Gangetic Plains Region
+Haryana_Nuh,6,Trans-Gangetic Plains Region
+Haryana_Palwal,6,Trans-Gangetic Plains Region
+Haryana_Panchkula,6,Trans-Gangetic Plains Region
+Haryana_Panipat,6,Trans-Gangetic Plains Region
+Haryana_Rewari,6,Trans-Gangetic Plains Region
+Haryana_Rohtak,6,Trans-Gangetic Plains Region
+Haryana_Sirsa,6,Trans-Gangetic Plains Region
+Haryana_Sonipat,6,Trans-Gangetic Plains Region
+Haryana_Yamunanagar,6,Trans-Gangetic Plains Region
+Himachal Pradesh_Bilaspur,1,Western Himalayan Region
+Himachal Pradesh_Chamba,1,Western Himalayan Region
+Himachal Pradesh_Hamirpur,1,Western Himalayan Region
+Himachal Pradesh_Kangra,1,Western Himalayan Region
+Himachal Pradesh_Kinnaur,1,Western Himalayan Region
+Himachal Pradesh_Kullu,1,Western Himalayan Region
+Himachal Pradesh_Lahul And Spiti,1,Western Himalayan Region
+Himachal Pradesh_Mandi,1,Western Himalayan Region
+Himachal Pradesh_Shimla,1,Western Himalayan Region
+Himachal Pradesh_Sirmaur,1,Western Himalayan Region
+Himachal Pradesh_Solan,1,Western Himalayan Region
+Himachal Pradesh_Una,1,Western Himalayan Region
+Jammu & Kashmir_Anantnag,1,Western Himalayan Region
+Jammu & Kashmir_Bandipora,1,Western Himalayan Region
+Jammu & Kashmir_Baramulla,1,Western Himalayan Region
+Jammu & Kashmir_Budgam,1,Western Himalayan Region
+Jammu & Kashmir_Doda,1,Western Himalayan Region
+Jammu & Kashmir_Ganderbal,1,Western Himalayan Region
+Jammu & Kashmir_Jammu,1,Western Himalayan Region
+Jammu & Kashmir_Kathua,1,Western Himalayan Region
+Jammu & Kashmir_Kishtwar,1,Western Himalayan Region
+Jammu & Kashmir_Kulgam,1,Western Himalayan Region
+Jammu & Kashmir_Kupwara,1,Western Himalayan Region
+Jammu & Kashmir_Mirpur,1,Western Himalayan Region
+Jammu & Kashmir_Muzaffarabad,1,Western Himalayan Region
+Jammu & Kashmir_Poonch,1,Western Himalayan Region
+Jammu & Kashmir_Pulwama,1,Western Himalayan Region
+Jammu & Kashmir_Rajouri,1,Western Himalayan Region
+Jammu & Kashmir_Ramban,1,Western Himalayan Region
+Jammu & Kashmir_Reasi,1,Western Himalayan Region
+Jammu & Kashmir_Samba,1,Western Himalayan Region
+Jammu & Kashmir_Shopian,1,Western Himalayan Region
+Jammu & Kashmir_Srinagar,1,Western Himalayan Region
+Jammu & Kashmir_Udhampur,1,Western Himalayan Region
+Jharkhand_Bokaro,7,Eastern Plateau and Hills Region
+Jharkhand_Chatra,7,Eastern Plateau and Hills Region
+Jharkhand_Deoghar,7,Eastern Plateau and Hills Region
+Jharkhand_Dhanbad,7,Eastern Plateau and Hills Region
+Jharkhand_Dumka,7,Eastern Plateau and Hills Region
+Jharkhand_East Singhbum,7,Eastern Plateau and Hills Region
+Jharkhand_Garhwa,7,Eastern Plateau and Hills Region
+Jharkhand_Giridih,7,Eastern Plateau and Hills Region
+Jharkhand_Godda,7,Eastern Plateau and Hills Region
+Jharkhand_Gumla,7,Eastern Plateau and Hills Region
+Jharkhand_Hazaribagh,7,Eastern Plateau and Hills Region
+Jharkhand_Jamtara,7,Eastern Plateau and Hills Region
+Jharkhand_Khunti,7,Eastern Plateau and Hills Region
+Jharkhand_Koderma,7,Eastern Plateau and Hills Region
+Jharkhand_Latehar,7,Eastern Plateau and Hills Region
+Jharkhand_Lohardaga,7,Eastern Plateau and Hills Region
+Jharkhand_Pakur,7,Eastern Plateau and Hills Region
+Jharkhand_Palamu,7,Eastern Plateau and Hills Region
+Jharkhand_Ramgarh,7,Eastern Plateau and Hills Region
+Jharkhand_Ranchi,7,Eastern Plateau and Hills Region
+Jharkhand_Sahebganj,7,Eastern Plateau and Hills Region
+Jharkhand_Saraikela Kharsawan,7,Eastern Plateau and Hills Region
+Jharkhand_Simdega,7,Eastern Plateau and Hills Region
+T_West Singhbhum,7,Eastern Plateau and Hills Region
+Karnataka_Bagalkote,9,Western Plateau and Hills Region
+Karnataka_Ballari,10,Southern Plateau and Hills Region
+Karnataka_Belagavi,9,Western Plateau and Hills Region
+Karnataka_Bengaluru Rural,10,Southern Plateau and Hills Region
+Karnataka_Bengaluru Urban,10,Southern Plateau and Hills Region
+Karnataka_Bidar,9,Western Plateau and Hills Region
+Karnataka_Chamarajanagara,10,Southern Plateau and Hills Region
+Karnataka_Chikkaballapura,10,Southern Plateau and Hills Region
+Karnataka_Chikkamagaluru,10,Southern Plateau and Hills Region
+Karnataka_Chitradurga,10,Southern Plateau and Hills Region
+Karnataka_Dakshina Kannada,12,West Coast Plains and Ghats Region
+Karnataka_Davangere,10,Southern Plateau and Hills Region
+Karnataka_Dharwad,9,Western Plateau and Hills Region
+Karnataka_Gadag,9,Western Plateau and Hills Region
+Karnataka_Hassan,10,Southern Plateau and Hills Region
+Karnataka_Haveri,9,Western Plateau and Hills Region
+Karnataka_Kalaburagi,9,Western Plateau and Hills Region
+Karnataka_Kodagu,12,West Coast Plains and Ghats Region
+Karnataka_Kolar,10,Southern Plateau and Hills Region
+Karnataka_Koppal,10,Southern Plateau and Hills Region
+Karnataka_Mandya,10,Southern Plateau and Hills Region
+Karnataka_Mysuru,10,Southern Plateau and Hills Region
+Karnataka_Raichur,10,Southern Plateau and Hills Region
+Karnataka_Ramanagara,10,Southern Plateau and Hills Region
+Karnataka_Shivamogga,10,Southern Plateau and Hills Region
+Karnataka_Tumakuru,10,Southern Plateau and Hills Region
+Karnataka_Udupi,12,West Coast Plains and Ghats Region
+Karnataka_Uttara Kannada,12,West Coast Plains and Ghats Region
+Karnataka_Vijayanagar,10,Southern Plateau and Hills Region
+Karnataka_Vijayapura,9,Western Plateau and Hills Region
+Karnataka_Yadgir,9,Western Plateau and Hills Region
+Kerala_Alappuzha,12,West Coast Plains and Ghats Region
+Kerala_Ernakulam,12,West Coast Plains and Ghats Region
+Kerala_Idukki,12,West Coast Plains and Ghats Region
+Kerala_Kannur,12,West Coast Plains and Ghats Region
+Kerala_Kasaragod,12,West Coast Plains and Ghats Region
+Kerala_Kollam,12,West Coast Plains and Ghats Region
+Kerala_Kottayam,12,West Coast Plains and Ghats Region
+Kerala_Kozhikode,12,West Coast Plains and Ghats Region
+Kerala_Malappuram,12,West Coast Plains and Ghats Region
+Kerala_Palakkad,12,West Coast Plains and Ghats Region
+Kerala_Pathanamthitta,12,West Coast Plains and Ghats Region
+Kerala_Thiruvananthapuram,12,West Coast Plains and Ghats Region
+Kerala_Thrissur,12,West Coast Plains and Ghats Region
+Kerala_Wayanad,12,West Coast Plains and Ghats Region
+Ladakh_Kargil,1,Western Himalayan Region
+Ladakh_Leh Ladakh,1,Western Himalayan Region
+Madhya Pradesh_Agar Malwa,8,Central Plateau and Hills Region
+Madhya Pradesh_Alirajpur,8,Central Plateau and Hills Region
+Madhya Pradesh_Anuppur,8,Central Plateau and Hills Region
+Madhya Pradesh_Ashoknagar,8,Central Plateau and Hills Region
+Madhya Pradesh_Balaghat,8,Central Plateau and Hills Region
+Madhya Pradesh_Barwani,8,Central Plateau and Hills Region
+Madhya Pradesh_Betul,8,Central Plateau and Hills Region
+Madhya Pradesh_Bhind,8,Central Plateau and Hills Region
+Madhya Pradesh_Bhopal,8,Central Plateau and Hills Region
+Madhya Pradesh_Burhanpur,8,Central Plateau and Hills Region
+Madhya Pradesh_Chhatarpur,8,Central Plateau and Hills Region
+Madhya Pradesh_Chhindwara,8,Central Plateau and Hills Region
+Madhya Pradesh_Damoh,8,Central Plateau and Hills Region
+Madhya Pradesh_Datia,8,Central Plateau and Hills Region
+Madhya Pradesh_Dewas,8,Central Plateau and Hills Region
+Madhya Pradesh_Dhar,8,Central Plateau and Hills Region
+Madhya Pradesh_Dindori,8,Central Plateau and Hills Region
+Madhya Pradesh_East Nimar,8,Central Plateau and Hills Region
+Madhya Pradesh_Guna,8,Central Plateau and Hills Region
+Madhya Pradesh_Gwalior,8,Central Plateau and Hills Region
+Madhya Pradesh_Harda,8,Central Plateau and Hills Region
+Madhya Pradesh_Indore,8,Central Plateau and Hills Region
+Madhya Pradesh_Jabalpur,8,Central Plateau and Hills Region
+Madhya Pradesh_Jhabua,8,Central Plateau and Hills Region
+Madhya Pradesh_Katni,8,Central Plateau and Hills Region
+Madhya Pradesh_Khargone,8,Central Plateau and Hills Region
+Madhya Pradesh_Mandla,8,Central Plateau and Hills Region
+Madhya Pradesh_Mandsaur,8,Central Plateau and Hills Region
+Madhya Pradesh_Morena,8,Central Plateau and Hills Region
+Madhya Pradesh_Narmadapuram,8,Central Plateau and Hills Region
+Madhya Pradesh_Narsinghpur,8,Central Plateau and Hills Region
+Madhya Pradesh_Neemuch,8,Central Plateau and Hills Region
+Madhya Pradesh_Niwari,8,Central Plateau and Hills Region
+Madhya Pradesh_Panna,8,Central Plateau and Hills Region
+Madhya Pradesh_Raisen,8,Central Plateau and Hills Region
+Madhya Pradesh_Rajgarh,8,Central Plateau and Hills Region
+Madhya Pradesh_Ratlam,8,Central Plateau and Hills Region
+Madhya Pradesh_Rewa,8,Central Plateau and Hills Region
+Madhya Pradesh_Sagar,8,Central Plateau and Hills Region
+Madhya Pradesh_Satna,8,Central Plateau and Hills Region
+Madhya Pradesh_Sehore,8,Central Plateau and Hills Region
+Madhya Pradesh_Seoni,8,Central Plateau and Hills Region
+Madhya Pradesh_Shahdol,8,Central Plateau and Hills Region
+Madhya Pradesh_Shajapur,8,Central Plateau and Hills Region
+Madhya Pradesh_Sheopur,8,Central Plateau and Hills Region
+Madhya Pradesh_Shivpuri,8,Central Plateau and Hills Region
+Madhya Pradesh_Sidhi,8,Central Plateau and Hills Region
+Madhya Pradesh_Singrauli,8,Central Plateau and Hills Region
+Madhya Pradesh_Tikamgarh,8,Central Plateau and Hills Region
+Madhya Pradesh_Ujjain,8,Central Plateau and Hills Region
+Madhya Pradesh_Umaria,8,Central Plateau and Hills Region
+Madhya Pradesh_Vidisha,8,Central Plateau and Hills Region
+Maharashtra_Ahmednagar,9,Western Plateau and Hills Region
+Maharashtra_Akola,9,Western Plateau and Hills Region
+Maharashtra_Amravati,9,Western Plateau and Hills Region
+Maharashtra_Aurangabad,9,Western Plateau and Hills Region
+Maharashtra_Beed,9,Western Plateau and Hills Region
+Maharashtra_Bhandara,9,Western Plateau and Hills Region
+Maharashtra_Buldhana,9,Western Plateau and Hills Region
+Maharashtra_Chandrapur,9,Western Plateau and Hills Region
+Maharashtra_Dhule,9,Western Plateau and Hills Region
+Maharashtra_Gadchiroli,9,Western Plateau and Hills Region
+Maharashtra_Gondia,9,Western Plateau and Hills Region
+Maharashtra_Hingoli,9,Western Plateau and Hills Region
+Maharashtra_Jalgaon,9,Western Plateau and Hills Region
+Maharashtra_Jalna,9,Western Plateau and Hills Region
+Maharashtra_Kolhapur,9,Western Plateau and Hills Region
+Maharashtra_Latur,9,Western Plateau and Hills Region
+Maharashtra_Mumbai Suburban,12,West Coast Plains and Ghats Region
+Maharashtra_Nagpur,9,Western Plateau and Hills Region
+Maharashtra_Nanded,9,Western Plateau and Hills Region
+Maharashtra_Nandurbar,9,Western Plateau and Hills Region
+Maharashtra_Nashik,9,Western Plateau and Hills Region
+Maharashtra_Osmanabad,9,Western Plateau and Hills Region
+Maharashtra_Palghar,12,West Coast Plains and Ghats Region
+Maharashtra_Parbhani,9,Western Plateau and Hills Region
+Maharashtra_Pune,9,Western Plateau and Hills Region
+Maharashtra_Raigad,12,West Coast Plains and Ghats Region
+Maharashtra_Ratnagiri,12,West Coast Plains and Ghats Region
+Maharashtra_Sangli,9,Western Plateau and Hills Region
+Maharashtra_Satara,9,Western Plateau and Hills Region
+Maharashtra_Sindhudurg,12,West Coast Plains and Ghats Region
+Maharashtra_Solapur,9,Western Plateau and Hills Region
+Maharashtra_Thane,12,West Coast Plains and Ghats Region
+Maharashtra_Wardha,9,Western Plateau and Hills Region
+Maharashtra_Washim,9,Western Plateau and Hills Region
+Maharashtra_Yavatmal,9,Western Plateau and Hills Region
+Manipur_Bishnupur,2,Eastern Himalayan Region
+Manipur_Chandel,2,Eastern Himalayan Region
+Manipur_Churachandpur,2,Eastern Himalayan Region
+Manipur_Imphal East,2,Eastern Himalayan Region
+Manipur_Imphal West,2,Eastern Himalayan Region
+Manipur_Kakching,2,Eastern Himalayan Region
+Manipur_Kamjong,2,Eastern Himalayan Region
+Manipur_Kangpokpi,2,Eastern Himalayan Region
+Manipur_Noney,2,Eastern Himalayan Region
+Manipur_Pherzawl,2,Eastern Himalayan Region
+Manipur_Senapati,2,Eastern Himalayan Region
+Manipur_Tamenglong,2,Eastern Himalayan Region
+Manipur_Tengnoupal,2,Eastern Himalayan Region
+Manipur_Thoubal,2,Eastern Himalayan Region
+Manipur_Ukhrul,2,Eastern Himalayan Region
+Meghalaya_East Garo Hills,2,Eastern Himalayan Region
+Meghalaya_East Jaintia Hills,2,Eastern Himalayan Region
+Meghalaya_East Khasi Hills,2,Eastern Himalayan Region
+Meghalaya_Eastern West Khasi Hills,2,Eastern Himalayan Region
+Meghalaya_North Garo Hills,2,Eastern Himalayan Region
+Meghalaya_Ri Bhoi,2,Eastern Himalayan Region
+Meghalaya_South Garo Hills,2,Eastern Himalayan Region
+Meghalaya_South West Garo Hills,2,Eastern Himalayan Region
+Meghalaya_South West Khasi Hills,2,Eastern Himalayan Region
+Meghalaya_West Garo Hills,2,Eastern Himalayan Region
+Meghalaya_West Jaintia Hills,2,Eastern Himalayan Region
+Meghalaya_West Khasi Hills,2,Eastern Himalayan Region
+Mizoram_Aizawl,2,Eastern Himalayan Region
+Mizoram_Champhai,2,Eastern Himalayan Region
+Mizoram_Hnahthial,2,Eastern Himalayan Region
+Mizoram_Khawzawl,2,Eastern Himalayan Region
+Mizoram_Kolasib,2,Eastern Himalayan Region
+Mizoram_Lawngtlai,2,Eastern Himalayan Region
+Mizoram_Lunglei,2,Eastern Himalayan Region
+Mizoram_Mamit,2,Eastern Himalayan Region
+Mizoram_Saiha,2,Eastern Himalayan Region
+Mizoram_Saitual,2,Eastern Himalayan Region
+Mizoram_Serchhip,2,Eastern Himalayan Region
+Nagaland_Chumoukedima,2,Eastern Himalayan Region
+Nagaland_Kiphire,2,Eastern Himalayan Region
+Nagaland_Kohima,2,Eastern Himalayan Region
+Nagaland_Longleng,2,Eastern Himalayan Region
+Nagaland_Mokokchung,2,Eastern Himalayan Region
+Nagaland_Mon,2,Eastern Himalayan Region
+Nagaland_Noklak,2,Eastern Himalayan Region
+Nagaland_Peren,2,Eastern Himalayan Region
+Nagaland_Phek,2,Eastern Himalayan Region
+Nagaland_Shamator,2,Eastern Himalayan Region
+Nagaland_Tseminyu,2,Eastern Himalayan Region
+Nagaland_Tuensang,2,Eastern Himalayan Region
+Nagaland_Wokha,2,Eastern Himalayan Region
+Nagaland_Zunheboto,2,Eastern Himalayan Region
+Odisha_Anugul,11,East Coast Plains and Hills Region
+Odisha_Balangir,7,Eastern Plateau and Hills Region
+Odisha_Baleshwar,11,East Coast Plains and Hills Region
+Odisha_Bargarh,7,Eastern Plateau and Hills Region
+Odisha_Bhadrak,11,East Coast Plains and Hills Region
+Odisha_Boudh,7,Eastern Plateau and Hills Region
+Odisha_Cuttack,11,East Coast Plains and Hills Region
+Odisha_Deogarh,7,Eastern Plateau and Hills Region
+Odisha_Dhenkanal,11,East Coast Plains and Hills Region
+Odisha_Gajapati,11,East Coast Plains and Hills Region
+Odisha_Ganjam,11,East Coast Plains and Hills Region
+Odisha_Jagatsinghapur,11,East Coast Plains and Hills Region
+Odisha_Jajapur,11,East Coast Plains and Hills Region
+Odisha_Jharsuguda,7,Eastern Plateau and Hills Region
+Odisha_Kalahandi,7,Eastern Plateau and Hills Region
+Odisha_Kandhamal,7,Eastern Plateau and Hills Region
+Odisha_Kendrapara,11,East Coast Plains and Hills Region
+Odisha_Kendujhar,7,Eastern Plateau and Hills Region
+Odisha_Khordha,11,East Coast Plains and Hills Region
+Odisha_Koraput,7,Eastern Plateau and Hills Region
+Odisha_Malkangiri,7,Eastern Plateau and Hills Region
+Odisha_Mayurbhanj,11,East Coast Plains and Hills Region
+Odisha_Nabarangpur,7,Eastern Plateau and Hills Region
+Odisha_Nayagarh,11,East Coast Plains and Hills Region
+Odisha_Nuapada,7,Eastern Plateau and Hills Region
+Odisha_Puri,11,East Coast Plains and Hills Region
+Odisha_Rayagada,7,Eastern Plateau and Hills Region
+Odisha_Sambalpur,7,Eastern Plateau and Hills Region
+Odisha_Sonepur,7,Eastern Plateau and Hills Region
+Odisha_Sundargarh,7,Eastern Plateau and Hills Region
+Puducherry_Karaikal,11,East Coast Plains and Hills Region
+Puducherry_Pondicherry,11,East Coast Plains and Hills Region
+Punjab_Amritsar,6,Trans-Gangetic Plains Region
+Punjab_Barnala,6,Trans-Gangetic Plains Region
+Punjab_Bathinda,6,Trans-Gangetic Plains Region
+Punjab_Faridkot,6,Trans-Gangetic Plains Region
+Punjab_Fatehgarh Sahib,6,Trans-Gangetic Plains Region
+Punjab_Fazilka,6,Trans-Gangetic Plains Region
+Punjab_Ferozepur,6,Trans-Gangetic Plains Region
+Punjab_Gurdaspur,6,Trans-Gangetic Plains Region
+Punjab_Hoshiarpur,6,Trans-Gangetic Plains Region
+Punjab_Jalandhar,6,Trans-Gangetic Plains Region
+Punjab_Kapurthala,6,Trans-Gangetic Plains Region
+Punjab_Ludhiana,6,Trans-Gangetic Plains Region
+Punjab_Malerkotla,6,Trans-Gangetic Plains Region
+Punjab_Mansa,6,Trans-Gangetic Plains Region
+Punjab_Moga,6,Trans-Gangetic Plains Region
+Punjab_Pathankot,6,Trans-Gangetic Plains Region
+Punjab_Patiala,6,Trans-Gangetic Plains Region
+Punjab_Rupnagar,6,Trans-Gangetic Plains Region
+Punjab_S.a.s Nagar,6,Trans-Gangetic Plains Region
+Punjab_Sangrur,6,Trans-Gangetic Plains Region
+Punjab_Shahid Bhagat Singh Nagar,6,Trans-Gangetic Plains Region
+Punjab_Sri Muktsar Sahib,6,Trans-Gangetic Plains Region
+Punjab_Tarn Taran,6,Trans-Gangetic Plains Region
+Rajasthan_Ajmer,14,Western Dry Region
+Rajasthan_Alwar,6,Trans-Gangetic Plains Region
+Rajasthan_Anoopgarh,14,Western Dry Region
+Rajasthan_Balotra,14,Western Dry Region
+Rajasthan_Banswara,13,Gujarat Plains and Hills Region
+Rajasthan_Baran,8,Central Plateau and Hills Region
+Rajasthan_Barmer,14,Western Dry Region
+Rajasthan_Beawar,14,Western Dry Region
+Rajasthan_Bharatpur,6,Trans-Gangetic Plains Region
+Rajasthan_Bhilwara,8,Central Plateau and Hills Region
+Rajasthan_Bikaner,14,Western Dry Region
+Rajasthan_Bundi,8,Central Plateau and Hills Region
+Rajasthan_Chittorgarh,8,Central Plateau and Hills Region
+Rajasthan_Churu,14,Western Dry Region
+Rajasthan_Dausa,6,Trans-Gangetic Plains Region
+Rajasthan_Deeg,6,Trans-Gangetic Plains Region
+Rajasthan_Dholpur,6,Trans-Gangetic Plains Region
+Rajasthan_Didwana Kuchaman,14,Western Dry Region
+Rajasthan_Dudu,6,Trans-Gangetic Plains Region
+Rajasthan_Dungarpur,13,Gujarat Plains and Hills Region
+Rajasthan_Ganganagar,14,Western Dry Region
+Rajasthan_Gangapurcity,6,Trans-Gangetic Plains Region
+Rajasthan_Hanumangarh,6,Trans-Gangetic Plains Region
+Rajasthan_Jaipur,6,Trans-Gangetic Plains Region
+Rajasthan_Jaipur Gramin,6,Trans-Gangetic Plains Region
+Rajasthan_Jaisalmer,14,Western Dry Region
+Rajasthan_Jalore,14,Western Dry Region
+Rajasthan_Jhalawar,8,Central Plateau and Hills Region
+Rajasthan_Jhunjhunu,6,Trans-Gangetic Plains Region
+Rajasthan_Jodhpur,14,Western Dry Region
+Rajasthan_Jodhpur Gramin,14,Western Dry Region
+Rajasthan_Karauli,6,Trans-Gangetic Plains Region
+Rajasthan_Kekri,8,Central Plateau and Hills Region
+Rajasthan_Khairthal-Tijara,6,Trans-Gangetic Plains Region
+Rajasthan_Kota,8,Central Plateau and Hills Region
+Rajasthan_Kotputli-Behror,6,Trans-Gangetic Plains Region
+Rajasthan_Nagaur,14,Western Dry Region
+Rajasthan_Neem Ka Thana,6,Trans-Gangetic Plains Region
+Rajasthan_Pali,14,Western Dry Region
+Rajasthan_Phalodi,14,Western Dry Region
+Rajasthan_Pratapgarh,8,Central Plateau and Hills Region
+Rajasthan_Rajsamand,8,Central Plateau and Hills Region
+Rajasthan_Salumbar,8,Central Plateau and Hills Region
+Rajasthan_Sawai Madhopur,6,Trans-Gangetic Plains Region
+Rajasthan_Shahpura,8,Central Plateau and Hills Region
+Rajasthan_Sikar,6,Trans-Gangetic Plains Region
+Rajasthan_Sirohi,13,Gujarat Plains and Hills Region
+Rajasthan_Tonk,6,Trans-Gangetic Plains Region
+Rajasthan_Udaipur,8,Central Plateau and Hills Region
+Sikkim_Gangtok,2,Eastern Himalayan Region
+Sikkim_Gyalshing,2,Eastern Himalayan Region
+Sikkim_Mangan,2,Eastern Himalayan Region
+Sikkim_Namchi,2,Eastern Himalayan Region
+Sikkim_Pakyong,2,Eastern Himalayan Region
+Sikkim_Soreng,2,Eastern Himalayan Region
+Tamil Nadu_Ariyalur,11,East Coast Plains and Hills Region
+Tamil Nadu_Chengalpattu,11,East Coast Plains and Hills Region
+Tamil Nadu_Chennai,11,East Coast Plains and Hills Region
+Tamil Nadu_Coimbatore,10,Southern Plateau and Hills Region
+Tamil Nadu_Cuddalore,11,East Coast Plains and Hills Region
+Tamil Nadu_Dharmapuri,10,Southern Plateau and Hills Region
+Tamil Nadu_Dindigul,10,Southern Plateau and Hills Region
+Tamil Nadu_Erode,10,Southern Plateau and Hills Region
+Tamil Nadu_Kallakurichi,11,East Coast Plains and Hills Region
+Tamil Nadu_Kanchipuram,11,East Coast Plains and Hills Region
+Tamil Nadu_Kanniyakumari,12,West Coast Plains and Ghats Region
+Tamil Nadu_Karur,10,Southern Plateau and Hills Region
+Tamil Nadu_Krishnagiri,10,Southern Plateau and Hills Region
+Tamil Nadu_Madurai,10,Southern Plateau and Hills Region
+Tamil Nadu_Mayiladuthurai,11,East Coast Plains and Hills Region
+Tamil Nadu_Nagapattinam,11,East Coast Plains and Hills Region
+Tamil Nadu_Namakkal,10,Southern Plateau and Hills Region
+Tamil Nadu_Perambalur,11,East Coast Plains and Hills Region
+Tamil Nadu_Pudukkottai,11,East Coast Plains and Hills Region
+Tamil Nadu_Ramanathapuram,11,East Coast Plains and Hills Region
+Tamil Nadu_Ranipet,11,East Coast Plains and Hills Region
+Tamil Nadu_Salem,10,Southern Plateau and Hills Region
+Tamil Nadu_Sivaganga,11,East Coast Plains and Hills Region
+Tamil Nadu_Tenkasi,12,West Coast Plains and Ghats Region
+Tamil Nadu_Thanjavur,11,East Coast Plains and Hills Region
+Tamil Nadu_The Nilgiris,12,West Coast Plains and Ghats Region
+Tamil Nadu_Theni,10,Southern Plateau and Hills Region
+Tamil Nadu_Thiruvallur,11,East Coast Plains and Hills Region
+Tamil Nadu_Thiruvarur,11,East Coast Plains and Hills Region
+Tamil Nadu_Tiruchirappalli,11,East Coast Plains and Hills Region
+Tamil Nadu_Tirunelveli,11,East Coast Plains and Hills Region
+Tamil Nadu_Tirupathur,10,Southern Plateau and Hills Region
+Tamil Nadu_Tiruppur,10,Southern Plateau and Hills Region
+Tamil Nadu_Tiruvannamalai,11,East Coast Plains and Hills Region
+Tamil Nadu_Tuticorin,11,East Coast Plains and Hills Region
+Tamil Nadu_Vellore,11,East Coast Plains and Hills Region
+Tamil Nadu_Villupuram,11,East Coast Plains and Hills Region
+Tamil Nadu_Virudhunagar,10,Southern Plateau and Hills Region
+Telangana_Adilabad,10,Southern Plateau and Hills Region
+Telangana_Bhadradri Kothagudem,10,Southern Plateau and Hills Region
+Telangana_Hanumakonda,10,Southern Plateau and Hills Region
+Telangana_Hyderabad,10,Southern Plateau and Hills Region
+Telangana_Jagitial,10,Southern Plateau and Hills Region
+Telangana_Jangoan,10,Southern Plateau and Hills Region
+Telangana_Jayashankar Bhupalapally,10,Southern Plateau and Hills Region
+Telangana_Jogulamba Gadwal,10,Southern Plateau and Hills Region
+Telangana_Kamareddy,10,Southern Plateau and Hills Region
+Telangana_Karimnagar,10,Southern Plateau and Hills Region
+Telangana_Khammam,10,Southern Plateau and Hills Region
+Telangana_Kumuram Bheem Asifabad,10,Southern Plateau and Hills Region
+Telangana_Mahabubabad,10,Southern Plateau and Hills Region
+Telangana_Mahabubnagar,10,Southern Plateau and Hills Region
+Telangana_Mancherial,10,Southern Plateau and Hills Region
+Telangana_Medak,10,Southern Plateau and Hills Region
+Telangana_Medchal Malkajgiri,10,Southern Plateau and Hills Region
+Telangana_Mulugu,10,Southern Plateau and Hills Region
+Telangana_Nagarkurnool,10,Southern Plateau and Hills Region
+Telangana_Nalgonda,10,Southern Plateau and Hills Region
+Telangana_Narayanpet,10,Southern Plateau and Hills Region
+Telangana_Nirmal,10,Southern Plateau and Hills Region
+Telangana_Nizamabad,10,Southern Plateau and Hills Region
+Telangana_Peddapalli,10,Southern Plateau and Hills Region
+Telangana_Rajanna Sircilla,10,Southern Plateau and Hills Region
+Telangana_Ranga Reddy,10,Southern Plateau and Hills Region
+Telangana_Sangareddy,10,Southern Plateau and Hills Region
+Telangana_Siddipet,10,Southern Plateau and Hills Region
+Telangana_Suryapet,10,Southern Plateau and Hills Region
+Telangana_Vikarabad,10,Southern Plateau and Hills Region
+Telangana_Wanaparthy,10,Southern Plateau and Hills Region
+Telangana_Warangal,10,Southern Plateau and Hills Region
+Telangana_Yadadri Bhuvanagiri,10,Southern Plateau and Hills Region
+Tripura_Dhalai,2,Eastern Himalayan Region
+Tripura_Gomati,2,Eastern Himalayan Region
+Tripura_Khowai,2,Eastern Himalayan Region
+Tripura_North Tripura,2,Eastern Himalayan Region
+Tripura_Sepahijala,2,Eastern Himalayan Region
+Tripura_South Tripura,2,Eastern Himalayan Region
+Tripura_Unakoti,2,Eastern Himalayan Region
+Tripura_West Tripura,2,Eastern Himalayan Region
+Uttar Pradesh_Agra,5,Upper Gangetic Plains Region
+Uttar Pradesh_Aligarh,5,Upper Gangetic Plains Region
+Uttar Pradesh_Ambedkar Nagar,4,Middle Gangetic Plains Region
+Uttar Pradesh_Amethi,4,Middle Gangetic Plains Region
+Uttar Pradesh_Amroha,5,Upper Gangetic Plains Region
+Uttar Pradesh_Auraiya,5,Upper Gangetic Plains Region
+Uttar Pradesh_Ayodhya,4,Middle Gangetic Plains Region
+Uttar Pradesh_Azamgarh,4,Middle Gangetic Plains Region
+Uttar Pradesh_Baghpat,5,Upper Gangetic Plains Region
+Uttar Pradesh_Bahraich,4,Middle Gangetic Plains Region
+Uttar Pradesh_Ballia,4,Middle Gangetic Plains Region
+Uttar Pradesh_Balrampur,4,Middle Gangetic Plains Region
+Uttar Pradesh_Banda,5,Upper Gangetic Plains Region
+Uttar Pradesh_Barabanki,4,Middle Gangetic Plains Region
+Uttar Pradesh_Bareilly,5,Upper Gangetic Plains Region
+Uttar Pradesh_Basti,4,Middle Gangetic Plains Region
+Uttar Pradesh_Bhadohi,4,Middle Gangetic Plains Region
+Uttar Pradesh_Bijnor,5,Upper Gangetic Plains Region
+Uttar Pradesh_Budaun,5,Upper Gangetic Plains Region
+Uttar Pradesh_Bulandshahr,5,Upper Gangetic Plains Region
+Uttar Pradesh_Chandauli,4,Middle Gangetic Plains Region
+Uttar Pradesh_Chitrakoot,5,Upper Gangetic Plains Region
+Uttar Pradesh_Deoria,4,Middle Gangetic Plains Region
+Uttar Pradesh_Etah,5,Upper Gangetic Plains Region
+Uttar Pradesh_Etawah,5,Upper Gangetic Plains Region
+Uttar Pradesh_Farrukhabad,5,Upper Gangetic Plains Region
+Uttar Pradesh_Fatehpur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Firozabad,5,Upper Gangetic Plains Region
+Uttar Pradesh_Gautam Buddha Nagar,5,Upper Gangetic Plains Region
+Uttar Pradesh_Ghaziabad,5,Upper Gangetic Plains Region
+Uttar Pradesh_Ghazipur,4,Middle Gangetic Plains Region
+Uttar Pradesh_Gonda,4,Middle Gangetic Plains Region
+Uttar Pradesh_Gorakhpur,4,Middle Gangetic Plains Region
+Uttar Pradesh_Hamirpur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Hapur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Hardoi,5,Upper Gangetic Plains Region
+Uttar Pradesh_Hathras,5,Upper Gangetic Plains Region
+Uttar Pradesh_Jalaun,5,Upper Gangetic Plains Region
+Uttar Pradesh_Jaunpur,4,Middle Gangetic Plains Region
+Uttar Pradesh_Jhansi,5,Upper Gangetic Plains Region
+Uttar Pradesh_Kannauj,5,Upper Gangetic Plains Region
+Uttar Pradesh_Kanpur Dehat,5,Upper Gangetic Plains Region
+Uttar Pradesh_Kanpur Nagar,5,Upper Gangetic Plains Region
+Uttar Pradesh_Kasganj,5,Upper Gangetic Plains Region
+Uttar Pradesh_Kaushambi,4,Middle Gangetic Plains Region
+Uttar Pradesh_Kheri,5,Upper Gangetic Plains Region
+Uttar Pradesh_Kushi Nagar,4,Middle Gangetic Plains Region
+Uttar Pradesh_Lalitpur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Lucknow,5,Upper Gangetic Plains Region
+Uttar Pradesh_Maharajganj,4,Middle Gangetic Plains Region
+Uttar Pradesh_Mahoba,5,Upper Gangetic Plains Region
+Uttar Pradesh_Mainpuri,5,Upper Gangetic Plains Region
+Uttar Pradesh_Mathura,5,Upper Gangetic Plains Region
+Uttar Pradesh_Mau,4,Middle Gangetic Plains Region
+Uttar Pradesh_Meerut,5,Upper Gangetic Plains Region
+Uttar Pradesh_Mirzapur,4,Middle Gangetic Plains Region
+Uttar Pradesh_Moradabad,5,Upper Gangetic Plains Region
+Uttar Pradesh_Muzaffarnagar,5,Upper Gangetic Plains Region
+Uttar Pradesh_Pilibhit,5,Upper Gangetic Plains Region
+Uttar Pradesh_Pratapgarh,4,Middle Gangetic Plains Region
+Uttar Pradesh_Prayagraj,4,Middle Gangetic Plains Region
+Uttar Pradesh_Rae Bareli,4,Middle Gangetic Plains Region
+Uttar Pradesh_Rampur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Saharanpur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Sambhal,5,Upper Gangetic Plains Region
+Uttar Pradesh_Sant Kabeer Nagar,4,Middle Gangetic Plains Region
+Uttar Pradesh_Shahjahanpur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Shamli,5,Upper Gangetic Plains Region
+Uttar Pradesh_Shravasti,4,Middle Gangetic Plains Region
+Uttar Pradesh_Siddharth Nagar,4,Middle Gangetic Plains Region
+Uttar Pradesh_Sitapur,5,Upper Gangetic Plains Region
+Uttar Pradesh_Sonbhadra,4,Middle Gangetic Plains Region
+Uttar Pradesh_Sultanpur,4,Middle Gangetic Plains Region
+Uttar Pradesh_Unnao,5,Upper Gangetic Plains Region
+Uttar Pradesh_Varanasi,4,Middle Gangetic Plains Region
+Uttarakhand_Almora,1,Western Himalayan Region
+Uttarakhand_Bageshwar,1,Western Himalayan Region
+Uttarakhand_Chamoli,1,Western Himalayan Region
+Uttarakhand_Champawat,1,Western Himalayan Region
+Uttarakhand_Dehradun,1,Western Himalayan Region
+Uttarakhand_Haridwar,5,Upper Gangetic Plains Region
+Uttarakhand_Nainital,5,Upper Gangetic Plains Region
+Uttarakhand_Pauri Garhwal,1,Western Himalayan Region
+Uttarakhand_Pithoragarh,1,Western Himalayan Region
+Uttarakhand_Rudra Prayag,1,Western Himalayan Region
+Uttarakhand_Tehri Garhwal,1,Western Himalayan Region
+Uttarakhand_Udam Singh Nagar,5,Upper Gangetic Plains Region
+Uttarakhand_Uttar Kashi,1,Western Himalayan Region
+West Bengal_24 Paraganas North,3,Lower Gangetic Plains Region
+West Bengal_24 Paraganas South,3,Lower Gangetic Plains Region
+West Bengal_Alipurduar,3,Lower Gangetic Plains Region
+West Bengal_Bankura,3,Lower Gangetic Plains Region
+West Bengal_Birbhum,3,Lower Gangetic Plains Region
+West Bengal_Coochbehar,3,Lower Gangetic Plains Region
+West Bengal_Darjeeling,3,Lower Gangetic Plains Region
+West Bengal_Dinajpur Dakshin,3,Lower Gangetic Plains Region
+West Bengal_Dinajpur Uttar,3,Lower Gangetic Plains Region
+West Bengal_Hooghly,3,Lower Gangetic Plains Region
+West Bengal_Howrah,3,Lower Gangetic Plains Region
+West Bengal_Jalpaiguri,3,Lower Gangetic Plains Region
+West Bengal_Jhargram,3,Lower Gangetic Plains Region
+West Bengal_Kalimpong,3,Lower Gangetic Plains Region
+West Bengal_Kolkata,3,Lower Gangetic Plains Region
+West Bengal_Maldah,3,Lower Gangetic Plains Region
+West Bengal_Medinipur East,3,Lower Gangetic Plains Region
+West Bengal_Medinipur West,3,Lower Gangetic Plains Region
+West Bengal_Murshidabad,3,Lower Gangetic Plains Region
+West Bengal_Nadia,3,Lower Gangetic Plains Region
+West Bengal_Paschim Bardhaman,3,Lower Gangetic Plains Region
+West Bengal_Purba Bardhaman,3,Lower Gangetic Plains Region
+West Bengal_Purulia,3,Lower Gangetic Plains Region

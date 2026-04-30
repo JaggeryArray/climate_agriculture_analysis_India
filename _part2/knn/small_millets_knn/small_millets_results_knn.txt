@@ -1,0 +1,85 @@
+CROP: small_millets
+Total rows after merge: 554
+
+CLASS COUNTS
+Yield_Class
+Medium    261
+High      172
+Low       121
+
+CLASS PROPORTIONS
+Yield_Class
+Medium    0.4711
+High      0.3105
+Low       0.2184
+
+ENCODING
+{'High': np.int64(0), 'Low': np.int64(1), 'Medium': np.int64(2)}
+
+FOLD-WISE METRICS
+  Fold 1: Accuracy=0.7027  F1=0.7030
+  Fold 2: Accuracy=0.7387  F1=0.7380
+  Fold 3: Accuracy=0.7027  F1=0.7021
+  Fold 4: Accuracy=0.6757  F1=0.6758
+  Fold 5: Accuracy=0.6636  F1=0.6622
+
+AGGREGATED CV METRICS
+  Accuracy : 0.6967, SD: 0.0260
+  F1       : 0.6962, SD: 0.0261
+
+PER-CLASS CV METRICS (mean +/- SD across folds)
+  Class               Precision           Recall               F1
+  High         0.704 +/- 0.045   0.686 +/- 0.031   0.694 +/- 0.031
+  Low          0.688 +/- 0.047   0.702 +/- 0.104   0.693 +/- 0.071
+  Medium       0.697 +/- 0.036   0.701 +/- 0.026   0.699 +/- 0.028
+
+CONFUSION MATRIX (summed over all folds - rows=True, cols=Predicted)
+                   High         Low      Medium
+  High               118           5          49
+  Low                  5          85          31
+  Medium              45          33         183
+
+CONFUSION MATRIX (row-normalized - recall per class)
+                   High         Low      Medium
+  High             0.686       0.029       0.285
+  Low              0.041       0.702       0.256
+  Medium           0.172       0.126       0.701
+
+SHAP FEATURE IMPORTANCE (sorted)
+                  feature  importance
+                      cvh    0.018888
+     humidity_variability    0.017844
+   runoff_ratio_rabi_mean    0.016068
+    water_retention_index    0.013770
+soil_moisture_seasonality    0.013345
+               e_rabi_std    0.012866
+              e_zaid_mean    0.012113
+          swvl1_amplitude    0.011724
+             e_kharif_std    0.011552
+           swvl1_rabi_std    0.011465
+            e_kharif_mean    0.011214
+            tp_kharif_std    0.010773
+          swvl1_rabi_mean    0.010735
+   runoff_ratio_zaid_mean    0.010697
+          heat_months_30C    0.010306
+          swvl1_stability    0.010133
+               e_zaid_std    0.009719
+    humidity_stress_index    0.009430
+            t2m_amplitude    0.009221
+           swvl1_zaid_std    0.009062
+                 GDD_rabi    0.009055
+             t2m_peak_sin    0.008760
+        swvl1_kharif_mean    0.008617
+              e_rabi_mean    0.008499
+  soil_air_diff_zaid_mean    0.007971
+               GDD_kharif    0.007769
+             t2m_peak_cos    0.007580
+       tp_kharif_fraction    0.007546
+ runoff_ratio_kharif_mean    0.007185
+soil_air_diff_kharif_mean    0.007073
+ soil_air_diff_kharif_std    0.006653
+  soil_air_diff_rabi_mean    0.006386
+           tp_kharif_mean    0.005995
+             tp_zaid_mean    0.005764
+   soil_air_diff_rabi_std    0.005308
+          heat_months_35C    0.004228
