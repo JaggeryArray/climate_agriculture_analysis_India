@@ -1,0 +1,759 @@
+state,district,location,crops_evaluated,crops_high,mean_ensemble_proba,crops_high_list,pct_crops_high
+Telangana,Hanumakonda,Telangana_Hanumakonda,43,12,0.4960325581395349,"banana, cotton, ginger, gram, groundnut, mesta, onion, rice, soyabean, sugarcane, sunflower, turmeric",27.9
+Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,43,11,0.5358023255813954,"arhar_tur, bajra, barley, coriander, cotton, linseed, other_rabi_pulses, rapeseed_and_mustard, sugarcane, sunflower, wheat",25.6
+Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,43,11,0.3876860465116279,"bajra, barley, coriander, cotton, linseed, masoor, other_rabi_pulses, rapeseed_and_mustard, sugarcane, sunflower, wheat",25.6
+Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,43,10,0.4749046511627907,"bajra, barley, coriander, cotton, linseed, other_rabi_pulses, rapeseed_and_mustard, sugarcane, sunflower, wheat",23.3
+Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,43,9,0.4603697674418605,"bajra, barley, coriander, cotton, linseed, other_rabi_pulses, rapeseed_and_mustard, sugarcane, wheat",20.9
+Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,43,9,0.36208837209302325,"barley, coriander, cotton, linseed, masoor, other_rabi_pulses, rapeseed_and_mustard, sugarcane, wheat",20.9
+Punjab,Mansa,Punjab_Mansa,27,8,0.5431925925925926,"coriander, dry_chillies, garlic, onion, other_rabi_pulses, potato, sunflower, turmeric",29.6
+Punjab,Malerkotla,Punjab_Malerkotla,35,8,0.53528,"coriander, garlic, moong, onion, other_rabi_pulses, potato, sunflower, turmeric",22.9
+Rajasthan,Deeg,Rajasthan_Deeg,43,8,0.5308767441860465,"bajra, banana, barley, other_rabi_pulses, rapeseed_and_mustard, sugarcane, sunflower, wheat",18.6
+Manipur,Kakching,Manipur_Kakching,43,8,0.38273488372093023,"arhar_tur, dry_chillies, ginger, moong, other_kharif_pulses, other_rabi_pulses, turmeric, urad",18.6
+Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,43,8,0.36109534883720934,"barley, coriander, cotton, groundnut, masoor, other_cereals, rapeseed_and_mustard, sugarcane",18.6
+Rajasthan,Dudu,Rajasthan_Dudu,43,8,0.32592093023255814,"barley, coriander, cotton, linseed, masoor, other_rabi_pulses, rapeseed_and_mustard, sugarcane",18.6
+Rajasthan,Kekri,Rajasthan_Kekri,43,8,0.2928906976744186,"barley, coriander, cotton, masoor, other_rabi_pulses, rapeseed_and_mustard, sugarcane, wheat",18.6
+Punjab,Bathinda,Punjab_Bathinda,29,7,0.5464586206896552,"coriander, dry_chillies, garlic, onion, other_rabi_pulses, potato, sunflower",24.1
+Punjab,Moga,Punjab_Moga,30,7,0.5432566666666666,"coriander, garlic, onion, other_rabi_pulses, potato, sunflower, turmeric",23.3
+Punjab,Tarn Taran,Punjab_Tarn Taran,29,7,0.5308206896551725,"barley, coriander, garlic, onion, other_rabi_pulses, potato, turmeric",24.1
+Punjab,Barnala,Punjab_Barnala,33,7,0.5251393939393939,"coriander, garlic, onion, other_rabi_pulses, potato, sunflower, turmeric",21.2
+Manipur,Kangpokpi,Manipur_Kangpokpi,43,7,0.4084790697674418,"ginger, moong, other_cereals, other_kharif_pulses, other_rabi_pulses, turmeric, urad",16.3
+Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,43,7,0.3743906976744186,"barley, coriander, cotton, groundnut, masoor, rapeseed_and_mustard, sugarcane",16.3
+Punjab,Ludhiana,Punjab_Ludhiana,27,6,0.5643518518518519,"coriander, garlic, linseed, onion, potato, turmeric",22.2
+Punjab,Patiala,Punjab_Patiala,28,6,0.5465428571428571,"coriander, garlic, onion, potato, sweet_potato, turmeric",21.4
+Punjab,S.a.s Nagar,Punjab_S.a.s Nagar,28,6,0.5391357142857143,"coriander, garlic, linseed, onion, other_rabi_pulses, potato",21.4
+Punjab,Fatehgarh Sahib,Punjab_Fatehgarh Sahib,30,6,0.5261733333333333,"garlic, linseed, onion, potato, sweet_potato, turmeric",20.0
+Punjab,Faridkot,Punjab_Faridkot,30,6,0.5214933333333334,"coriander, garlic, onion, other_rabi_pulses, potato, sunflower",20.0
+Manipur,Kamjong,Manipur_Kamjong,43,6,0.3914581395348837,"arhar_tur, ginger, moong, other_kharif_pulses, other_rabi_pulses, turmeric",14.0
+Arunachal Pradesh,Longding,Arunachal Pradesh_Longding,29,6,0.3125034482758621,"cowpea_lobia, horse_gram, linseed, other_cereals, sesamum, turmeric",20.7
+Rajasthan,Shahpura,Rajasthan_Shahpura,43,6,0.2971674418604651,"barley, coriander, cotton, rapeseed_and_mustard, sugarcane, wheat",14.0
+Rajasthan,Beawar,Rajasthan_Beawar,43,6,0.2769348837209302,"barley, coriander, cotton, other_rabi_pulses, rapeseed_and_mustard, sugarcane",14.0
+Punjab,Ferozepur,Punjab_Ferozepur,26,5,0.5430538461538462,"coriander, garlic, onion, potato, sunflower",19.2
+Punjab,Sangrur,Punjab_Sangrur,27,5,0.5275333333333333,"coriander, garlic, onion, potato, turmeric",18.5
+Haryana,Palwal,Haryana_Palwal,22,5,0.4742863636363637,"banana, gram, other_rabi_pulses, sunflower, sweet_potato",22.7
+Manipur,Tengnoupal,Manipur_Tengnoupal,43,5,0.35930232558139535,"ginger, moong, other_kharif_pulses, other_rabi_pulses, turmeric",11.6
+Punjab,Shahid Bhagat Singh Nagar,Punjab_Shahid Bhagat Singh Nagar,28,4,0.5548464285714286,"barley, garlic, other_rabi_pulses, potato",14.3
+Punjab,Amritsar,Punjab_Amritsar,27,4,0.5230518518518519,"barley, garlic, linseed, potato",14.8
+Punjab,Kapurthala,Punjab_Kapurthala,29,4,0.5155896551724137,"barley, garlic, linseed, potato",13.8
+Haryana,Mahendragarh,Haryana_Mahendragarh,22,4,0.4855909090909091,"linseed, other_rabi_pulses, rice, sugarcane",18.2
+Andhra Pradesh,Ntr,Andhra Pradesh_Ntr,26,4,0.43282307692307687,"mesta, onion, potato, turmeric",15.4
+Bihar,Lakhisarai,Bihar_Lakhisarai,17,4,0.40185882352941177,"other_rabi_pulses, safflower, sunflower, sweet_potato",23.5
+Meghalaya,Eastern West Khasi Hills,Meghalaya_Eastern West Khasi Hills,43,4,0.3816418604651162,"ginger, other_rabi_pulses, small_millets, turmeric",9.3
+Manipur,Noney,Manipur_Noney,43,4,0.37843953488372095,"ginger, moong, other_kharif_pulses, other_rabi_pulses",9.3
+Manipur,Pherzawl,Manipur_Pherzawl,43,4,0.3755651162790698,"ginger, moong, other_kharif_pulses, other_rabi_pulses",9.3
+Bihar,Sheikhpura,Bihar_Sheikhpura,16,4,0.36275,"mesta, other_rabi_pulses, safflower, sweet_potato",25.0
+Arunachal Pradesh,Tirap,Arunachal Pradesh_Tirap,25,4,0.32206,"horse_gram, linseed, other_cereals, sesamum",16.0
+Madhya Pradesh,Bhind,Madhya Pradesh_Bhind,7,3,0.6072142857142857,"banana, ragi, sunflower",42.9
+Andhra Pradesh,Bapatla,Andhra Pradesh_Bapatla,18,3,0.5409166666666666,"onion, other_oilseeds, turmeric",16.7
+Haryana,Faridabad,Haryana_Faridabad,18,3,0.5406444444444445,"banana, other_rabi_pulses, sunflower",16.7
+Haryana,Rohtak,Haryana_Rohtak,21,3,0.5179571428571429,"other_rabi_pulses, sunflower, turmeric",14.3
+Punjab,Sri Muktsar Sahib,Punjab_Sri Muktsar Sahib,27,3,0.5158481481481482,"coriander, garlic, onion",11.1
+Tamil Nadu,Kanniyakumari,Tamil Nadu_Kanniyakumari,22,3,0.5094545454545455,"other_cereals, potato, sunflower",13.6
+Tamil Nadu,Ariyalur,Tamil Nadu_Ariyalur,16,3,0.4965625,"ginger, other_cereals, potato",18.8
+Haryana,Rewari,Haryana_Rewari,19,3,0.4899947368421052,"linseed, other_rabi_pulses, sunflower",15.8
+Tamil Nadu,Kallakurichi,Tamil Nadu_Kallakurichi,18,3,0.48863333333333336,"ginger, potato, sunflower",16.7
+Haryana,Nuh,Haryana_Nuh,18,3,0.4845555555555555,"banana, other_rabi_pulses, sunflower",16.7
+Haryana,Gurugram,Haryana_Gurugram,18,3,0.48165555555555556,"banana, other_rabi_pulses, sunflower",16.7
+Punjab,Gurdaspur,Punjab_Gurdaspur,28,3,0.47234642857142856,"barley, potato, sunflower",10.7
+Haryana,Karnal,Haryana_Karnal,17,3,0.4623058823529411,"banana, other_rabi_pulses, sunflower",17.6
+Uttar Pradesh,Kushi Nagar,Uttar Pradesh_Kushi Nagar,10,3,0.44931,"horse_gram, mesta, safflower",30.0
+Andhra Pradesh,Annamayya,Andhra Pradesh_Annamayya,16,3,0.44170625,"masoor, mesta, turmeric",18.8
+Uttar Pradesh,Amethi,Uttar Pradesh_Amethi,16,3,0.43328125,"mesta, other_rabi_pulses, safflower",18.8
+Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh_Ambedkar Nagar,12,3,0.42895,"horse_gram, ragi, safflower",25.0
+Telangana,Suryapet,Telangana_Suryapet,16,3,0.42733750000000004,"mesta, niger_seed, soyabean",18.8
+Uttar Pradesh,Maharajganj,Uttar Pradesh_Maharajganj,9,3,0.42436666666666667,"horse_gram, mesta, safflower",33.3
+Andhra Pradesh,Nandyal,Andhra Pradesh_Nandyal,17,3,0.4227176470588235,"ginger, peas_and_beans, turmeric",17.6
+Telangana,Mancherial,Telangana_Mancherial,18,3,0.40932777777777773,"banana, mesta, tobacco",16.7
+Meghalaya,Ri Bhoi,Meghalaya_Ri Bhoi,23,3,0.40095217391304344,"horse_gram, other_cereals, other_kharif_pulses",13.0
+Telangana,Narayanpet,Telangana_Narayanpet,17,3,0.3887529411764706,"ginger, peas_and_beans, turmeric",17.6
+Bihar,Kaimur (Bhabua),Bihar_Kaimur (Bhabua),14,3,0.38127857142857147,"mesta, safflower, sweet_potato",21.4
+Manipur,Senapati,Manipur_Senapati,18,3,0.37951666666666667,"horse_gram, linseed, other_cereals",16.7
+Telangana,Wanaparthy,Telangana_Wanaparthy,18,3,0.37891111111111114,"ginger, peas_and_beans, turmeric",16.7
+Uttar Pradesh,Hapur,Uttar Pradesh_Hapur,20,3,0.378465,"banana, other_rabi_pulses, sunflower",15.0
+Nagaland,Noklak,Nagaland_Noklak,20,3,0.37606,"horse_gram, other_cereals, sesamum",15.0
+Uttar Pradesh,Siddharth Nagar,Uttar Pradesh_Siddharth Nagar,11,3,0.3600181818181818,"horse_gram, mesta, safflower",27.3
+Nagaland,Tseminyu,Nagaland_Tseminyu,18,3,0.3418388888888889,"horse_gram, other_cereals, turmeric",16.7
+Telangana,Jayashankar Bhupalapally,Telangana_Jayashankar Bhupalapally,17,3,0.3345529411764706,"ginger, mesta, safflower",17.6
+Bihar,Sheohar,Bihar_Sheohar,13,3,0.3287538461538461,"horse_gram, safflower, urad",23.1
+Uttar Pradesh,Basti,Uttar Pradesh_Basti,14,3,0.28982142857142856,"horse_gram, mesta, safflower",21.4
+Assam,Tamulpur,Assam_Tamulpur,43,3,0.28186279069767445,"mesta, niger_seed, sesamum",7.0
+Tamil Nadu,Perambalur,Tamil Nadu_Perambalur,13,2,0.5368461538461539,"ginger, potato",15.4
+Uttar Pradesh,Azamgarh,Uttar Pradesh_Azamgarh,8,2,0.5271125,"horse_gram, safflower",25.0
+Tamil Nadu,Tiruchirappalli,Tamil Nadu_Tiruchirappalli,11,2,0.5166818181818181,"ginger, potato",18.2
+Andhra Pradesh,Palnadu,Andhra Pradesh_Palnadu,19,2,0.5058789473684211,"onion, turmeric",10.5
+Haryana,Ambala,Haryana_Ambala,17,2,0.4990588235294118,"other_rabi_pulses, sweet_potato",11.8
+Haryana,Yamunanagar,Haryana_Yamunanagar,15,2,0.49068666666666666,"other_rabi_pulses, sweet_potato",13.3
+Haryana,Jhajjar,Haryana_Jhajjar,20,2,0.49053,"other_rabi_pulses, sunflower",10.0
+Punjab,Jalandhar,Punjab_Jalandhar,25,2,0.48782000000000003,"garlic, potato",8.0
+Uttarakhand,Haridwar,Uttarakhand_Haridwar,14,2,0.48436428571428575,"banana, garlic",14.3
+Haryana,Charki Dadri,Haryana_Charki Dadri,22,2,0.48134090909090904,"linseed, other_rabi_pulses",9.1
+Uttar Pradesh,Chandauli,Uttar Pradesh_Chandauli,12,2,0.4774666666666667,"horse_gram, safflower",16.7
+Haryana,Hisar,Haryana_Hisar,15,2,0.47642666666666666,"linseed, other_rabi_pulses",13.3
+Haryana,Jind,Haryana_Jind,20,2,0.47374499999999997,"other_rabi_pulses, sunflower",10.0
+Uttar Pradesh,Barabanki,Uttar Pradesh_Barabanki,9,2,0.47107777777777776,"horse_gram, safflower",22.2
+Odisha,Jagatsinghapur,Odisha_Jagatsinghapur,14,2,0.47088571428571424,"cotton, other_oilseeds",14.3
+Uttar Pradesh,Amroha,Uttar Pradesh_Amroha,13,2,0.46736923076923076,"small_millets, sunflower",15.4
+Uttar Pradesh,Jaunpur,Uttar Pradesh_Jaunpur,9,2,0.45597777777777776,"horse_gram, safflower",22.2
+Uttar Pradesh,Gonda,Uttar Pradesh_Gonda,9,2,0.44693333333333335,"horse_gram, safflower",22.2
+Haryana,Panipat,Haryana_Panipat,18,2,0.44507222222222226,"banana, other_rabi_pulses",11.1
+Uttar Pradesh,Ghazipur,Uttar Pradesh_Ghazipur,10,2,0.43628999999999996,"horse_gram, safflower",20.0
+Haryana,Sonipat,Haryana_Sonipat,18,2,0.42826111111111115,"banana, other_rabi_pulses",11.1
+Uttar Pradesh,Mau,Uttar Pradesh_Mau,10,2,0.42042,"horse_gram, safflower",20.0
+Andhra Pradesh,Eluru,Andhra Pradesh_Eluru,23,2,0.4027913043478261,"gram, mesta",8.7
+Tamil Nadu,Tenkasi,Tamil Nadu_Tenkasi,17,2,0.40255294117647056,"masoor, potato",11.8
+Assam,West Karbi Anglong,Assam_West Karbi Anglong,16,2,0.3999125,"horse_gram, other_cereals",12.5
+Telangana,Jogulamba Gadwal,Telangana_Jogulamba Gadwal,17,2,0.39718235294117643,"peas_and_beans, turmeric",11.8
+Meghalaya,West Khasi Hills,Meghalaya_West Khasi Hills,22,2,0.39123636363636366,"niger_seed, other_cereals",9.1
+Manipur,Ukhrul,Manipur_Ukhrul,19,2,0.38514210526315784,"horse_gram, small_millets",10.5
+West Bengal,Howrah,West Bengal_Howrah,22,2,0.38155,"arhar_tur, sannhamp",9.1
+Uttar Pradesh,Ballia,Uttar Pradesh_Ballia,12,2,0.3811333333333333,"horse_gram, safflower",16.7
+Uttar Pradesh,Shamli,Uttar Pradesh_Shamli,18,2,0.37819444444444444,"bajra, other_rabi_pulses",11.1
+Jharkhand,Dhanbad,Jharkhand_Dhanbad,22,2,0.3774136363636364,"mesta, sugarcane",9.1
+Uttar Pradesh,Sultanpur,Uttar Pradesh_Sultanpur,11,2,0.3753,"horse_gram, safflower",18.2
+Meghalaya,West Jaintia Hills,Meghalaya_West Jaintia Hills,26,2,0.37204230769230767,"other_cereals, other_rabi_pulses",7.7
+Jharkhand,Jamtara,Jharkhand_Jamtara,21,2,0.3716238095238095,"mesta, sugarcane",9.5
+Nagaland,Chumoukedima,Nagaland_Chumoukedima,14,2,0.35114285714285715,"niger_seed, other_cereals",14.3
+Assam,Dima Hasao,Assam_Dima Hasao,16,2,0.3452125,"other_cereals, other_kharif_pulses",12.5
+Nagaland,Shamator,Nagaland_Shamator,19,2,0.3424842105263158,"horse_gram, other_cereals",10.5
+Assam,Charaideo,Assam_Charaideo,23,2,0.3367478260869565,"niger_seed, other_cereals",8.7
+Karnataka,Vijayanagar,Karnataka_Vijayanagar,11,2,0.3363,"peas_and_beans, sweet_potato",18.2
+Telangana,Nagarkurnool,Telangana_Nagarkurnool,16,2,0.33504375,"ginger, peas_and_beans",12.5
+Manipur,Tamenglong,Manipur_Tamenglong,19,2,0.3336578947368421,"horse_gram, other_cereals",10.5
+Nagaland,Longleng,Nagaland_Longleng,12,2,0.32903333333333334,"cowpea_lobia, niger_seed",16.7
+Bihar,Purbi Champaran,Bihar_Purbi Champaran,9,2,0.3274222222222222,"horse_gram, safflower",22.2
+Uttar Pradesh,Ayodhya,Uttar Pradesh_Ayodhya,13,2,0.3267538461538461,"horse_gram, safflower",15.4
+Arunachal Pradesh,Namsai,Arunachal Pradesh_Namsai,22,2,0.31515,"niger_seed, other_cereals",9.1
+Jharkhand,Deoghar,Jharkhand_Deoghar,17,2,0.3059529411764706,"mesta, sweet_potato",11.8
+Maharashtra,Sangli,Maharashtra_Sangli,14,2,0.3054928571428571,"ginger, peas_and_beans",14.3
+Arunachal Pradesh,Changlang,Arunachal Pradesh_Changlang,23,2,0.29976956521739134,"linseed, other_cereals",8.7
+Jharkhand,East Singhbum,Jharkhand_East Singhbum,16,2,0.29166875,"mesta, sannhamp",12.5
+Jharkhand,Saraikela Kharsawan,Jharkhand_Saraikela Kharsawan,16,2,0.2894875,"mesta, sannhamp",12.5
+Jharkhand,Sahebganj,Jharkhand_Sahebganj,20,2,0.28437999999999997,"mesta, sweet_potato",10.0
+Assam,Bajali,Assam_Bajali,43,2,0.2681255813953488,"mesta, niger_seed",4.7
+Rajasthan,Salumbar,Rajasthan_Salumbar,43,2,0.26217209302325584,"barley, rapeseed_and_mustard",4.7
+Jharkhand,Godda,Jharkhand_Godda,15,2,0.24991333333333332,"mesta, sweet_potato",13.3
+West Bengal,Paschim Bardhaman,West Bengal_Paschim Bardhaman,25,2,0.246408,"garlic, sannhamp",8.0
+West Bengal,Dinajpur Uttar,West Bengal_Dinajpur Uttar,14,2,0.24352142857142858,"other_rabi_pulses, sweet_potato",14.3
+Andhra Pradesh,Y.s.r.,Andhra Pradesh_Y.s.r.,5,1,0.60292,masoor,20.0
+Karnataka,Bagalkote,Karnataka_Bagalkote,4,1,0.5536000000000001,peas_and_beans,25.0
+Tamil Nadu,Villupuram,Tamil Nadu_Villupuram,10,1,0.5310900000000001,potato,10.0
+Karnataka,Yadgir,Karnataka_Yadgir,5,1,0.5304,peas_and_beans,20.0
+Uttar Pradesh,Bhadohi,Uttar Pradesh_Bhadohi,11,1,0.5228909090909091,banana,9.1
+Andhra Pradesh,Chittoor,Andhra Pradesh_Chittoor,8,1,0.520275,other_cereals,12.5
+Odisha,Khordha,Odisha_Khordha,12,1,0.517875,niger_seed,8.3
+Tamil Nadu,Salem,Tamil Nadu_Salem,8,1,0.5156125,mesta,12.5
+Andhra Pradesh,Spsr Nellore,Andhra Pradesh_Spsr Nellore,9,1,0.5127666666666666,masoor,11.1
+Haryana,Bhiwani,Haryana_Bhiwani,17,1,0.4978647058823529,linseed,5.9
+Uttar Pradesh,Kanpur Nagar,Uttar Pradesh_Kanpur Nagar,9,1,0.49648888888888887,banana,11.1
+Punjab,Rupnagar,Punjab_Rupnagar,26,1,0.49393076923076923,other_rabi_pulses,3.8
+Himachal Pradesh,Bilaspur,Himachal Pradesh_Bilaspur,11,1,0.4859363636363636,sunflower,9.1
+Andhra Pradesh,Tirupati,Andhra Pradesh_Tirupati,23,1,0.48459565217391304,potato,4.3
+Jammu & Kashmir,Samba,Jammu & Kashmir_Samba,13,1,0.48438461538461536,sunflower,7.7
+Haryana,Kurukshetra,Haryana_Kurukshetra,20,1,0.48041999999999996,other_rabi_pulses,5.0
+Andhra Pradesh,Sri Sathya Sai,Andhra Pradesh_Sri Sathya Sai,15,1,0.4661666666666667,turmeric,6.7
+Haryana,Fatehabad,Haryana_Fatehabad,19,1,0.46446842105263153,other_rabi_pulses,5.3
+Haryana,Kaithal,Haryana_Kaithal,18,1,0.4583,other_rabi_pulses,5.6
+Tamil Nadu,Vellore,Tamil Nadu_Vellore,10,1,0.45686,mesta,10.0
+Haryana,Sirsa,Haryana_Sirsa,19,1,0.4500736842105263,other_cereals,5.3
+Gujarat,Mahesana,Gujarat_Mahesana,17,1,0.4495294117647059,banana,5.9
+Tamil Nadu,Ranipet,Tamil Nadu_Ranipet,18,1,0.4491,sunflower,5.6
+Odisha,Cuttack,Odisha_Cuttack,12,1,0.44600833333333334,sannhamp,8.3
+Madhya Pradesh,Datia,Madhya Pradesh_Datia,7,1,0.4458285714285714,sunflower,14.3
+Karnataka,Kolar,Karnataka_Kolar,4,1,0.435975,masoor,25.0
+Madhya Pradesh,Morena,Madhya Pradesh_Morena,9,1,0.42914444444444444,sunflower,11.1
+Uttar Pradesh,Bijnor,Uttar Pradesh_Bijnor,12,1,0.42693333333333333,banana,8.3
+Rajasthan,Alwar,Rajasthan_Alwar,8,1,0.4211125,sunflower,12.5
+Assam,Udalguri,Assam_Udalguri,16,1,0.42059375,coriander,6.2
+Uttarakhand,Udam Singh Nagar,Uttarakhand_Udam Singh Nagar,13,1,0.4196692307692308,banana,7.7
+Mizoram,Champhai,Mizoram_Champhai,26,1,0.41749615384615385,moong,3.8
+Himachal Pradesh,Solan,Himachal Pradesh_Solan,10,1,0.41456,sunflower,10.0
+Meghalaya,South West Garo Hills,Meghalaya_South West Garo Hills,17,1,0.4136941176470588,niger_seed,5.9
+Himachal Pradesh,Una,Himachal Pradesh_Una,15,1,0.4122533333333333,sunflower,6.7
+Mizoram,Kolasib,Mizoram_Kolasib,22,1,0.4088545454545454,ginger,4.5
+Assam,Karimganj,Assam_Karimganj,16,1,0.40380625,coriander,6.2
+Uttar Pradesh,Shravasti,Uttar Pradesh_Shravasti,12,1,0.40291666666666665,tobacco,8.3
+Odisha,Jajapur,Odisha_Jajapur,13,1,0.4028076923076923,sannhamp,7.7
+Assam,Biswanath,Assam_Biswanath,16,1,0.40271875,coriander,6.2
+Mizoram,Serchhip,Mizoram_Serchhip,29,1,0.39743793103448277,moong,3.4
+Tamil Nadu,Thanjavur,Tamil Nadu_Thanjavur,14,1,0.39698571428571433,potato,7.1
+Himachal Pradesh,Hamirpur,Himachal Pradesh_Hamirpur,14,1,0.3953142857142857,sunflower,7.1
+Mizoram,Aizawl,Mizoram_Aizawl,22,1,0.39418636363636367,ginger,4.5
+Rajasthan,Dholpur,Rajasthan_Dholpur,10,1,0.39272,sunflower,10.0
+Karnataka,Chikkaballapura,Karnataka_Chikkaballapura,4,1,0.391075,masoor,25.0
+Assam,Cachar,Assam_Cachar,16,1,0.3897,coriander,6.2
+Gujarat,Banas Kantha,Gujarat_Banas Kantha,15,1,0.38793333333333335,barley,6.7
+Assam,Sonitpur,Assam_Sonitpur,16,1,0.3877125,coriander,6.2
+Uttar Pradesh,Saharanpur,Uttar Pradesh_Saharanpur,12,1,0.38433333333333336,banana,8.3
+Gujarat,Jamnagar,Gujarat_Jamnagar,18,1,0.3836111111111111,banana,5.6
+Uttar Pradesh,Sambhal,Uttar Pradesh_Sambhal,16,1,0.3829875,other_rabi_pulses,6.2
+Nagaland,Peren,Nagaland_Peren,10,1,0.37534999999999996,niger_seed,10.0
+Mizoram,Hnahthial,Mizoram_Hnahthial,31,1,0.3749354838709677,moong,3.2
+Mizoram,Saitual,Mizoram_Saitual,30,1,0.37334333333333336,moong,3.3
+Gujarat,Gandhinagar,Gujarat_Gandhinagar,18,1,0.37262222222222224,sugarcane,5.6
+Andhra Pradesh,Kakinada,Andhra Pradesh_Kakinada,27,1,0.3723888888888889,sunflower,3.7
+Gujarat,Patan,Gujarat_Patan,17,1,0.3715,sugarcane,5.9
+Maharashtra,Latur,Maharashtra_Latur,17,1,0.3680058823529412,ginger,5.9
+Gujarat,Junagadh,Gujarat_Junagadh,17,1,0.36663529411764706,potato,5.9
+Uttar Pradesh,Kasganj,Uttar Pradesh_Kasganj,15,1,0.36407333333333336,other_rabi_pulses,6.7
+Meghalaya,West Garo Hills,Meghalaya_West Garo Hills,15,1,0.36358,niger_seed,6.7
+Uttar Pradesh,Balrampur,Uttar Pradesh_Balrampur,13,1,0.36266923076923074,horse_gram,7.7
+Meghalaya,North Garo Hills,Meghalaya_North Garo Hills,18,1,0.36060000000000003,niger_seed,5.6
+Mizoram,Khawzawl,Mizoram_Khawzawl,32,1,0.36010625,moong,3.1
+Gujarat,Bhavnagar,Gujarat_Bhavnagar,17,1,0.3584294117647059,potato,5.9
+Uttar Pradesh,Baghpat,Uttar Pradesh_Baghpat,10,1,0.35386,garlic,10.0
+Gujarat,Sabar Kantha,Gujarat_Sabar Kantha,18,1,0.34920555555555555,other_rabi_pulses,5.6
+Maharashtra,Palghar,Maharashtra_Palghar,24,1,0.3423041666666667,sugarcane,4.2
+Telangana,Peddapalli,Telangana_Peddapalli,16,1,0.33983125000000003,sugarcane,6.2
+Andhra Pradesh,Anakapalli,Andhra Pradesh_Anakapalli,22,1,0.3347318181818182,mesta,4.5
+Uttar Pradesh,Gautam Buddha Nagar,Uttar Pradesh_Gautam Buddha Nagar,16,1,0.328025,banana,6.2
+Jharkhand,Dumka,Jharkhand_Dumka,17,1,0.32687647058823527,mesta,5.9
+Arunachal Pradesh,West Kameng,Arunachal Pradesh_West Kameng,30,1,0.31722,urad,3.3
+Arunachal Pradesh,Lohit,Arunachal Pradesh_Lohit,22,1,0.3147,other_cereals,4.5
+Bihar,Jehanabad,Bihar_Jehanabad,8,1,0.3127625,safflower,12.5
+Bihar,Patna,Bihar_Patna,10,1,0.31223,horse_gram,10.0
+Gujarat,Morbi,Gujarat_Morbi,21,1,0.3097095238095238,potato,4.8
+Bihar,Gopalganj,Bihar_Gopalganj,7,1,0.30668571428571434,horse_gram,14.3
+Telangana,Jangoan,Telangana_Jangoan,14,1,0.3064857142857143,mesta,7.1
+Gujarat,Chhotaudepur,Gujarat_Chhotaudepur,20,1,0.29888,potato,5.0
+West Bengal,Nadia,West Bengal_Nadia,16,1,0.29664999999999997,sannhamp,6.2
+Rajasthan,Nagaur,Rajasthan_Nagaur,10,1,0.29177,other_cereals,10.0
+Bihar,Bhojpur,Bihar_Bhojpur,11,1,0.2891090909090909,sunflower,9.1
+Jharkhand,Bokaro,Jharkhand_Bokaro,17,1,0.2878764705882353,mesta,5.9
+Arunachal Pradesh,Kamle,Arunachal Pradesh_Kamle,26,1,0.28757307692307693,turmeric,3.8
+Bihar,Nalanda,Bihar_Nalanda,11,1,0.2857636363636364,sweet_potato,9.1
+Maharashtra,Nashik,Maharashtra_Nashik,16,1,0.28565625,banana,6.2
+Bihar,Vaishali,Bihar_Vaishali,8,1,0.283625,horse_gram,12.5
+Madhya Pradesh,Niwari,Madhya Pradesh_Niwari,25,1,0.280616,sunflower,4.0
+Telangana,Mahabubnagar,Telangana_Mahabubnagar,9,1,0.27690000000000003,peas_and_beans,11.1
+Bihar,Madhubani,Bihar_Madhubani,8,1,0.2695125,safflower,12.5
+Jharkhand,Giridih,Jharkhand_Giridih,17,1,0.26899411764705883,mesta,5.9
+Jharkhand,Pakur,Jharkhand_Pakur,16,1,0.2675375,mesta,6.2
+Gujarat,Dohad,Gujarat_Dohad,18,1,0.26621666666666666,banana,5.6
+Bihar,Jamui,Bihar_Jamui,17,1,0.26345294117647056,niger_seed,5.9
+Kerala,Wayanad,Kerala_Wayanad,25,1,0.2634,garlic,4.0
+Arunachal Pradesh,Upper Subansiri,Arunachal Pradesh_Upper Subansiri,23,1,0.2619173913043478,other_cereals,4.3
+Jharkhand,West Singhbhum,Jharkhand_West Singhbhum,18,1,0.2601388888888889,sannhamp,5.6
+Arunachal Pradesh,Shi Yomi,Arunachal Pradesh_Shi Yomi,27,1,0.2449888888888889,moong,3.7
+Bihar,Arwal,Bihar_Arwal,10,1,0.24179,safflower,10.0
+Andhra Pradesh,Parvathipuram Manyam,Andhra Pradesh_Parvathipuram Manyam,22,1,0.2406090909090909,sannhamp,4.5
+West Bengal,Maldah,West Bengal_Maldah,17,1,0.24028823529411766,sweet_potato,5.9
+Maharashtra,Raigad,Maharashtra_Raigad,25,1,0.240108,sugarcane,4.0
+Madhya Pradesh,Alirajpur,Madhya Pradesh_Alirajpur,11,1,0.23703636363636366,banana,9.1
+Odisha,Boudh,Odisha_Boudh,11,1,0.22681818181818184,sannhamp,9.1
+Telangana,Mulugu,Telangana_Mulugu,18,1,0.22051666666666667,sugarcane,5.6
+Bihar,Munger,Bihar_Munger,17,1,0.21682941176470585,mesta,5.9
+Bihar,Saran,Bihar_Saran,11,1,0.20534545454545453,horse_gram,9.1
+Bihar,Muzaffarpur,Bihar_Muzaffarpur,10,1,0.20151,horse_gram,10.0
+Karnataka,Ballari,Karnataka_Ballari,4,0,0.590125,,0.0
+Jammu & Kashmir,Jammu,Jammu & Kashmir_Jammu,9,0,0.5728555555555556,,0.0
+Uttar Pradesh,Sitapur,Uttar Pradesh_Sitapur,7,0,0.5635142857142857,,0.0
+Tamil Nadu,Kanchipuram,Tamil Nadu_Kanchipuram,10,0,0.53673,,0.0
+Punjab,Fazilka,Punjab_Fazilka,29,0,0.5183689655172414,,0.0
+Andhra Pradesh,Prakasam,Andhra Pradesh_Prakasam,8,0,0.5094,,0.0
+Andhra Pradesh,West Godavari,Andhra Pradesh_West Godavari,11,0,0.5050454545454546,,0.0
+Tamil Nadu,Ramanathapuram,Tamil Nadu_Ramanathapuram,14,0,0.50325,,0.0
+Tamil Nadu,Tirupathur,Tamil Nadu_Tirupathur,14,0,0.4994071428571428,,0.0
+Tamil Nadu,Tuticorin,Tamil Nadu_Tuticorin,14,0,0.4978214285714286,,0.0
+Odisha,Puri,Odisha_Puri,15,0,0.49756666666666666,,0.0
+Uttar Pradesh,Sant Kabeer Nagar,Uttar Pradesh_Sant Kabeer Nagar,10,0,0.48905000000000004,,0.0
+Uttar Pradesh,Bahraich,Uttar Pradesh_Bahraich,8,0,0.4875,,0.0
+Tamil Nadu,Cuddalore,Tamil Nadu_Cuddalore,11,0,0.4788636363636364,,0.0
+Andhra Pradesh,Krishna,Andhra Pradesh_Krishna,12,0,0.4763,,0.0
+Karnataka,Koppal,Karnataka_Koppal,3,0,0.47609999999999997,,0.0
+Gujarat,Porbandar,Gujarat_Porbandar,22,0,0.47413181818181815,,0.0
+Rajasthan,Hanumangarh,Rajasthan_Hanumangarh,11,0,0.47040000000000004,,0.0
+Uttar Pradesh,Deoria,Uttar Pradesh_Deoria,9,0,0.4695444444444445,,0.0
+Rajasthan,Ganganagar,Rajasthan_Ganganagar,9,0,0.4691888888888889,,0.0
+Puducherry,Karaikal,Puducherry_Karaikal,29,0,0.46861034482758623,,0.0
+Andhra Pradesh,Kurnool,Andhra Pradesh_Kurnool,6,0,0.46795000000000003,,0.0
+Rajasthan,Jhunjhunu,Rajasthan_Jhunjhunu,11,0,0.4616454545454545,,0.0
+Tamil Nadu,Thiruvallur,Tamil Nadu_Thiruvallur,10,0,0.45967,,0.0
+Tamil Nadu,Tiruvannamalai,Tamil Nadu_Tiruvannamalai,10,0,0.4587800000000001,,0.0
+Uttar Pradesh,Bareilly,Uttar Pradesh_Bareilly,8,0,0.4522875,,0.0
+Andhra Pradesh,Konaseema,Andhra Pradesh_Konaseema,34,0,0.45191176470588235,,0.0
+Rajasthan,Churu,Rajasthan_Churu,18,0,0.45153888888888893,,0.0
+Tamil Nadu,Chengalpattu,Tamil Nadu_Chengalpattu,19,0,0.44908947368421054,,0.0
+Odisha,Nayagarh,Odisha_Nayagarh,8,0,0.4480625,,0.0
+Tamil Nadu,Tirunelveli,Tamil Nadu_Tirunelveli,10,0,0.44600999999999996,,0.0
+Odisha,Ganjam,Odisha_Ganjam,7,0,0.4459714285714286,,0.0
+Jammu & Kashmir,Kathua,Jammu & Kashmir_Kathua,11,0,0.44448181818181814,,0.0
+Tamil Nadu,Mayiladuthurai,Tamil Nadu_Mayiladuthurai,27,0,0.4443518518518519,,0.0
+Uttar Pradesh,Kheri,Uttar Pradesh_Kheri,10,0,0.44309000000000004,,0.0
+Puducherry,Pondicherry,Puducherry_Pondicherry,20,0,0.44284,,0.0
+Tamil Nadu,Dharmapuri,Tamil Nadu_Dharmapuri,9,0,0.44261111111111107,,0.0
+Karnataka,Ramanagara,Karnataka_Ramanagara,4,0,0.441425,,0.0
+Odisha,Kendrapara,Odisha_Kendrapara,16,0,0.43916875,,0.0
+Punjab,Hoshiarpur,Punjab_Hoshiarpur,26,0,0.4362923076923077,,0.0
+Tamil Nadu,Thiruvarur,Tamil Nadu_Thiruvarur,20,0,0.43626,,0.0
+Tamil Nadu,Karur,Tamil Nadu_Karur,11,0,0.43477272727272726,,0.0
+Uttar Pradesh,Hardoi,Uttar Pradesh_Hardoi,9,0,0.43456666666666666,,0.0
+Tamil Nadu,Madurai,Tamil Nadu_Madurai,11,0,0.43290909090909085,,0.0
+Uttar Pradesh,Pilibhit,Uttar Pradesh_Pilibhit,8,0,0.4306625,,0.0
+Gujarat,Devbhumi Dwarka,Gujarat_Devbhumi Dwarka,22,0,0.42918636363636364,,0.0
+Karnataka,Bengaluru Rural,Karnataka_Bengaluru Rural,3,0,0.42723333333333335,,0.0
+Uttar Pradesh,Prayagraj,Uttar Pradesh_Prayagraj,11,0,0.42560909090909094,,0.0
+Andhra Pradesh,Anantapur,Andhra Pradesh_Anantapur,7,0,0.4244857142857143,,0.0
+Tamil Nadu,Sivaganga,Tamil Nadu_Sivaganga,12,0,0.42244166666666666,,0.0
+Uttar Pradesh,Budaun,Uttar Pradesh_Budaun,9,0,0.4214555555555555,,0.0
+Assam,Darrang,Assam_Darrang,16,0,0.41839375,,0.0
+Assam,Goalpara,Assam_Goalpara,16,0,0.41814375,,0.0
+Andhra Pradesh,Guntur,Andhra Pradesh_Guntur,7,0,0.4167142857142857,,0.0
+Uttar Pradesh,Shahjahanpur,Uttar Pradesh_Shahjahanpur,11,0,0.41660909090909093,,0.0
+Rajasthan,Barmer,Rajasthan_Barmer,17,0,0.4155823529411765,,0.0
+Assam,Bongaigaon,Assam_Bongaigaon,16,0,0.415175,,0.0
+Gujarat,Kachchh,Gujarat_Kachchh,18,0,0.4149666666666667,,0.0
+Uttar Pradesh,Mirzapur,Uttar Pradesh_Mirzapur,9,0,0.4141444444444444,,0.0
+Mizoram,Mamit,Mizoram_Mamit,22,0,0.4125045454545455,,0.0
+Tamil Nadu,Nagapattinam,Tamil Nadu_Nagapattinam,22,0,0.41174545454545447,,0.0
+Uttar Pradesh,Muzaffarnagar,Uttar Pradesh_Muzaffarnagar,10,0,0.41055,,0.0
+Assam,Kamrup,Assam_Kamrup,16,0,0.4105,,0.0
+Karnataka,Raichur,Karnataka_Raichur,3,0,0.4098,,0.0
+Uttar Pradesh,Gorakhpur,Uttar Pradesh_Gorakhpur,10,0,0.40802000000000005,,0.0
+Tripura,West Tripura,Tripura_West Tripura,20,0,0.407885,,0.0
+Tamil Nadu,Dindigul,Tamil Nadu_Dindigul,9,0,0.4076666666666667,,0.0
+Rajasthan,Anoopgarh,Rajasthan_Anoopgarh,43,0,0.40716976744186045,,0.0
+Assam,Kokrajhar,Assam_Kokrajhar,16,0,0.40678125,,0.0
+Tripura,Gomati,Tripura_Gomati,20,0,0.40540000000000004,,0.0
+Karnataka,Mandya,Karnataka_Mandya,3,0,0.4049333333333333,,0.0
+Karnataka,Gadag,Karnataka_Gadag,3,0,0.4041333333333334,,0.0
+Karnataka,Mysuru,Karnataka_Mysuru,3,0,0.40336666666666665,,0.0
+Assam,Barpeta,Assam_Barpeta,16,0,0.403275,,0.0
+Rajasthan,Bharatpur,Rajasthan_Bharatpur,9,0,0.4018888888888889,,0.0
+A & N Islands,Nicobars,A & N Islands_Nicobars,30,0,0.40177,,0.0
+Uttar Pradesh,Rae Bareli,Uttar Pradesh_Rae Bareli,9,0,0.40049999999999997,,0.0
+Assam,Golaghat,Assam_Golaghat,16,0,0.40003125,,0.0
+Uttarakhand,Champawat,Uttarakhand_Champawat,12,0,0.39997499999999997,,0.0
+Assam,Chirang,Assam_Chirang,16,0,0.39969375,,0.0
+Assam,Dibrugarh,Assam_Dibrugarh,16,0,0.39915625,,0.0
+Tripura,South Tripura,Tripura_South Tripura,19,0,0.39735789473684213,,0.0
+Uttar Pradesh,Agra,Uttar Pradesh_Agra,11,0,0.3962727272727273,,0.0
+Assam,Marigaon,Assam_Marigaon,16,0,0.395025,,0.0
+Uttar Pradesh,Sonbhadra,Uttar Pradesh_Sonbhadra,11,0,0.3947909090909091,,0.0
+Assam,Nagaon,Assam_Nagaon,16,0,0.3921875,,0.0
+Tripura,Sepahijala,Tripura_Sepahijala,21,0,0.3919238095238095,,0.0
+A & N Islands,North And Middle Andaman,A & N Islands_North And Middle Andaman,25,0,0.39178399999999997,,0.0
+Assam,Nalbari,Assam_Nalbari,16,0,0.39165625000000004,,0.0
+Uttar Pradesh,Rampur,Uttar Pradesh_Rampur,11,0,0.39109090909090904,,0.0
+Assam,Dhubri,Assam_Dhubri,16,0,0.390875,,0.0
+Rajasthan,Sikar,Rajasthan_Sikar,13,0,0.3903615384615385,,0.0
+Tamil Nadu,Virudhunagar,Tamil Nadu_Virudhunagar,12,0,0.39009999999999995,,0.0
+Assam,Lakhimpur,Assam_Lakhimpur,16,0,0.38979375,,0.0
+Tamil Nadu,Pudukkottai,Tamil Nadu_Pudukkottai,11,0,0.38830000000000003,,0.0
+Meghalaya,East Garo Hills,Meghalaya_East Garo Hills,16,0,0.3879125,,0.0
+A & N Islands,South Andamans,A & N Islands_South Andamans,26,0,0.3863346153846154,,0.0
+Assam,Tinsukia,Assam_Tinsukia,16,0,0.386075,,0.0
+Rajasthan,Jaisalmer,Rajasthan_Jaisalmer,16,0,0.3850625,,0.0
+Assam,Kamrup Metro,Assam_Kamrup Metro,16,0,0.38398750000000004,,0.0
+Assam,Hailakandi,Assam_Hailakandi,16,0,0.38285625,,0.0
+Assam,Karbi Anglong,Assam_Karbi Anglong,16,0,0.38255625,,0.0
+DNHDD,Daman,DNHDD_Daman,42,0,0.38246904761904765,,0.0
+Karnataka,Chamarajanagara,Karnataka_Chamarajanagara,4,0,0.3814,,0.0
+Assam,Sivasagar,Assam_Sivasagar,16,0,0.38123125,,0.0
+Uttar Pradesh,Varanasi,Uttar Pradesh_Varanasi,11,0,0.38107272727272723,,0.0
+Tripura,Unakoti,Tripura_Unakoti,20,0,0.38089500000000004,,0.0
+Maharashtra,Parbhani,Maharashtra_Parbhani,16,0,0.38063125000000003,,0.0
+Telangana,Karimnagar,Telangana_Karimnagar,11,0,0.37981818181818183,,0.0
+Uttar Pradesh,Mathura,Uttar Pradesh_Mathura,12,0,0.3788583333333333,,0.0
+Assam,Jorhat,Assam_Jorhat,16,0,0.378575,,0.0
+Uttar Pradesh,Meerut,Uttar Pradesh_Meerut,13,0,0.37751538461538464,,0.0
+Manipur,Bishnupur,Manipur_Bishnupur,19,0,0.3772736842105263,,0.0
+Arunachal Pradesh,Itanagar Capital Complex,Arunachal Pradesh_Itanagar Capital Complex,43,0,0.3768488372093023,,0.0
+Uttar Pradesh,Kannauj,Uttar Pradesh_Kannauj,10,0,0.37256,,0.0
+Mizoram,Lunglei,Mizoram_Lunglei,22,0,0.37132727272727273,,0.0
+Assam,Majuli,Assam_Majuli,16,0,0.3702875,,0.0
+Tripura,North Tripura,Tripura_North Tripura,19,0,0.3702315789473684,,0.0
+Manipur,Thoubal,Manipur_Thoubal,19,0,0.369921052631579,,0.0
+Manipur,Imphal West,Manipur_Imphal West,19,0,0.3698,,0.0
+Assam,Dhemaji,Assam_Dhemaji,16,0,0.36773125,,0.0
+Uttar Pradesh,Unnao,Uttar Pradesh_Unnao,9,0,0.3675777777777778,,0.0
+Assam,Baksa,Assam_Baksa,16,0,0.36609375,,0.0
+Gujarat,Bharuch,Gujarat_Bharuch,16,0,0.36478125,,0.0
+Uttar Pradesh,Moradabad,Uttar Pradesh_Moradabad,10,0,0.36431,,0.0
+Gujarat,Ahmadabad,Gujarat_Ahmadabad,17,0,0.3639705882352941,,0.0
+Meghalaya,South Garo Hills,Meghalaya_South Garo Hills,18,0,0.36359444444444444,,0.0
+Gujarat,Gir Somnath,Gujarat_Gir Somnath,20,0,0.36129,,0.0
+Uttar Pradesh,Pratapgarh,Uttar Pradesh_Pratapgarh,11,0,0.3604909090909091,,0.0
+Tripura,Khowai,Tripura_Khowai,20,0,0.35903,,0.0
+Karnataka,Bengaluru Urban,Karnataka_Bengaluru Urban,4,0,0.357925,,0.0
+Manipur,Imphal East,Manipur_Imphal East,19,0,0.35781052631578947,,0.0
+Odisha,Baleshwar,Odisha_Baleshwar,15,0,0.3568733333333334,,0.0
+Madhya Pradesh,Chhatarpur,Madhya Pradesh_Chhatarpur,2,0,0.35585,,0.0
+Manipur,Churachandpur,Manipur_Churachandpur,18,0,0.35515555555555556,,0.0
+Rajasthan,Jalore,Rajasthan_Jalore,12,0,0.35497500000000004,,0.0
+Andhra Pradesh,Srikakulam,Andhra Pradesh_Srikakulam,10,0,0.35478,,0.0
+Uttar Pradesh,Aligarh,Uttar Pradesh_Aligarh,11,0,0.35315454545454544,,0.0
+West Bengal,Kalimpong,West Bengal_Kalimpong,29,0,0.35208275862068966,,0.0
+Manipur,Chandel,Manipur_Chandel,19,0,0.3514473684210526,,0.0
+Rajasthan,Balotra,Rajasthan_Balotra,43,0,0.35076046511627906,,0.0
+Himachal Pradesh,Sirmaur,Himachal Pradesh_Sirmaur,12,0,0.34994166666666665,,0.0
+West Bengal,24 Paraganas South,West Bengal_24 Paraganas South,20,0,0.34938,,0.0
+Meghalaya,South West Khasi Hills,Meghalaya_South West Khasi Hills,27,0,0.3489222222222222,,0.0
+Nagaland,Tuensang,Nagaland_Tuensang,8,0,0.348825,,0.0
+Tamil Nadu,Namakkal,Tamil Nadu_Namakkal,8,0,0.34738749999999996,,0.0
+Uttar Pradesh,Etah,Uttar Pradesh_Etah,10,0,0.34571,,0.0
+Uttarakhand,Almora,Uttarakhand_Almora,15,0,0.34562,,0.0
+Mizoram,Saiha,Mizoram_Saiha,25,0,0.345132,,0.0
+Gujarat,Amreli,Gujarat_Amreli,16,0,0.345125,,0.0
+Meghalaya,East Khasi Hills,Meghalaya_East Khasi Hills,24,0,0.3448708333333333,,0.0
+Andhra Pradesh,Visakhapatanam,Andhra Pradesh_Visakhapatanam,9,0,0.3441,,0.0
+Gujarat,Rajkot,Gujarat_Rajkot,16,0,0.343275,,0.0
+Uttar Pradesh,Kaushambi,Uttar Pradesh_Kaushambi,12,0,0.34285000000000004,,0.0
+Gujarat,Kheda,Gujarat_Kheda,16,0,0.342475,,0.0
+Odisha,Bhadrak,Odisha_Bhadrak,17,0,0.34224117647058827,,0.0
+Telangana,Jagitial,Telangana_Jagitial,15,0,0.34042666666666666,,0.0
+Sikkim,Namchi,Sikkim_Namchi,31,0,0.34011290322580645,,0.0
+Maharashtra,Nanded,Maharashtra_Nanded,17,0,0.33993529411764706,,0.0
+Tamil Nadu,Tiruppur,Tamil Nadu_Tiruppur,12,0,0.3398666666666667,,0.0
+Sikkim,Gangtok,Sikkim_Gangtok,31,0,0.33978709677419355,,0.0
+Andhra Pradesh,East Godavari,Andhra Pradesh_East Godavari,10,0,0.33944,,0.0
+Nagaland,Zunheboto,Nagaland_Zunheboto,10,0,0.3392,,0.0
+Sikkim,Gyalshing,Sikkim_Gyalshing,31,0,0.33913225806451613,,0.0
+Karnataka,Tumakuru,Karnataka_Tumakuru,4,0,0.3338,,0.0
+Tripura,Dhalai,Tripura_Dhalai,19,0,0.33357368421052636,,0.0
+Uttarakhand,Nainital,Uttarakhand_Nainital,11,0,0.33136363636363636,,0.0
+Meghalaya,East Jaintia Hills,Meghalaya_East Jaintia Hills,23,0,0.33134782608695657,,0.0
+Rajasthan,Dausa,Rajasthan_Dausa,11,0,0.3313,,0.0
+Mizoram,Lawngtlai,Mizoram_Lawngtlai,24,0,0.3308333333333333,,0.0
+Assam,South Salmara Mancachar,Assam_South Salmara Mancachar,19,0,0.3307368421052632,,0.0
+Rajasthan,Jodhpur,Rajasthan_Jodhpur,12,0,0.3297,,0.0
+Gujarat,Mahisagar,Gujarat_Mahisagar,18,0,0.3292833333333334,,0.0
+Uttar Pradesh,Mainpuri,Uttar Pradesh_Mainpuri,13,0,0.32918461538461535,,0.0
+Tamil Nadu,Krishnagiri,Tamil Nadu_Krishnagiri,10,0,0.3261,,0.0
+Gujarat,Anand,Gujarat_Anand,16,0,0.32606875,,0.0
+Karnataka,Davangere,Karnataka_Davangere,3,0,0.3252,,0.0
+Telangana,Yadadri Bhuvanagiri,Telangana_Yadadri Bhuvanagiri,13,0,0.3251538461538462,,0.0
+Sikkim,Pakyong,Sikkim_Pakyong,33,0,0.3241030303030303,,0.0
+Uttar Pradesh,Hathras,Uttar Pradesh_Hathras,11,0,0.3235363636363636,,0.0
+Telangana,Ranga Reddy,Telangana_Ranga Reddy,8,0,0.3232375,,0.0
+Kerala,Thiruvananthapuram,Kerala_Thiruvananthapuram,27,0,0.32289999999999996,,0.0
+Assam,Hojai,Assam_Hojai,20,0,0.3222,,0.0
+Tamil Nadu,Coimbatore,Tamil Nadu_Coimbatore,9,0,0.3211111111111111,,0.0
+Kerala,Alappuzha,Kerala_Alappuzha,28,0,0.32050357142857144,,0.0
+Karnataka,Chitradurga,Karnataka_Chitradurga,4,0,0.3204,,0.0
+Ladakh,Leh Ladakh,Ladakh_Leh Ladakh,24,0,0.3197875,,0.0
+Uttar Pradesh,Kanpur Dehat,Uttar Pradesh_Kanpur Dehat,11,0,0.3194181818181818,,0.0
+Gujarat,Botad,Gujarat_Botad,22,0,0.3185090909090909,,0.0
+Gujarat,Vadodara,Gujarat_Vadodara,16,0,0.3177875,,0.0
+Uttar Pradesh,Auraiya,Uttar Pradesh_Auraiya,11,0,0.3176090909090909,,0.0
+Arunachal Pradesh,Kra Daadi,Arunachal Pradesh_Kra Daadi,28,0,0.3173535714285714,,0.0
+Telangana,Khammam,Telangana_Khammam,10,0,0.31702,,0.0
+Gujarat,Surendranagar,Gujarat_Surendranagar,16,0,0.3158625,,0.0
+Tamil Nadu,The Nilgiris,Tamil Nadu_The Nilgiris,17,0,0.315535294117647,,0.0
+Ladakh,Kargil,Ladakh_Kargil,30,0,0.3144166666666667,,0.0
+Uttar Pradesh,Fatehpur,Uttar Pradesh_Fatehpur,9,0,0.31348888888888893,,0.0
+Karnataka,Kalaburagi,Karnataka_Kalaburagi,3,0,0.3133666666666667,,0.0
+Uttar Pradesh,Firozabad,Uttar Pradesh_Firozabad,8,0,0.3132875,,0.0
+West Bengal,Bankura,West Bengal_Bankura,10,0,0.31212,,0.0
+Sikkim,Soreng,Sikkim_Soreng,35,0,0.3117,,0.0
+Himachal Pradesh,Mandi,Himachal Pradesh_Mandi,13,0,0.3102615384615385,,0.0
+Telangana,Sangareddy,Telangana_Sangareddy,12,0,0.31009166666666665,,0.0
+Telangana,Medchal Malkajgiri,Telangana_Medchal Malkajgiri,15,0,0.3100133333333333,,0.0
+Uttar Pradesh,Bulandshahr,Uttar Pradesh_Bulandshahr,11,0,0.3065272727272727,,0.0
+Gujarat,Arvalli,Gujarat_Arvalli,21,0,0.304452380952381,,0.0
+West Bengal,24 Paraganas North,West Bengal_24 Paraganas North,20,0,0.30439,,0.0
+Arunachal Pradesh,Pakke Kessang,Arunachal Pradesh_Pakke Kessang,27,0,0.3036407407407407,,0.0
+Gujarat,Panch Mahals,Gujarat_Panch Mahals,15,0,0.30356,,0.0
+Arunachal Pradesh,Kurung Kumey,Arunachal Pradesh_Kurung Kumey,26,0,0.3034653846153846,,0.0
+Gujarat,Valsad,Gujarat_Valsad,20,0,0.302195,,0.0
+Jammu & Kashmir,Rajouri,Jammu & Kashmir_Rajouri,13,0,0.30164615384615384,,0.0
+Arunachal Pradesh,Papum Pare,Arunachal Pradesh_Papum Pare,21,0,0.30151428571428573,,0.0
+Himachal Pradesh,Kangra,Himachal Pradesh_Kangra,11,0,0.3013181818181818,,0.0
+Telangana,Medak,Telangana_Medak,4,0,0.30055,,0.0
+Tamil Nadu,Erode,Tamil Nadu_Erode,8,0,0.30005000000000004,,0.0
+Uttar Pradesh,Farrukhabad,Uttar Pradesh_Farrukhabad,12,0,0.29980833333333334,,0.0
+Himachal Pradesh,Shimla,Himachal Pradesh_Shimla,15,0,0.29914,,0.0
+Kerala,Kannur,Kerala_Kannur,28,0,0.2986321428571429,,0.0
+Jammu & Kashmir,Udhampur,Jammu & Kashmir_Udhampur,14,0,0.2984857142857143,,0.0
+West Bengal,Hooghly,West Bengal_Hooghly,17,0,0.2967941176470588,,0.0
+Karnataka,Dakshina Kannada,Karnataka_Dakshina Kannada,14,0,0.29642857142857143,,0.0
+Uttar Pradesh,Etawah,Uttar Pradesh_Etawah,12,0,0.29633333333333334,,0.0
+Arunachal Pradesh,East Siang,Arunachal Pradesh_East Siang,22,0,0.2955318181818182,,0.0
+Kerala,Kollam,Kerala_Kollam,30,0,0.2948133333333333,,0.0
+Maharashtra,Chandrapur,Maharashtra_Chandrapur,18,0,0.2939777777777778,,0.0
+Telangana,Nalgonda,Telangana_Nalgonda,10,0,0.29396,,0.0
+Gujarat,Tapi,Gujarat_Tapi,19,0,0.293821052631579,,0.0
+Arunachal Pradesh,West Siang,Arunachal Pradesh_West Siang,21,0,0.2935047619047619,,0.0
+Kerala,Pathanamthitta,Kerala_Pathanamthitta,30,0,0.29291999999999996,,0.0
+Gujarat,Surat,Gujarat_Surat,15,0,0.2915,,0.0
+West Bengal,Medinipur East,West Bengal_Medinipur East,21,0,0.29128571428571426,,0.0
+Kerala,Kottayam,Kerala_Kottayam,33,0,0.29040606060606056,,0.0
+Odisha,Gajapati,Odisha_Gajapati,8,0,0.29026250000000003,,0.0
+Nagaland,Mon,Nagaland_Mon,7,0,0.28754285714285716,,0.0
+Kerala,Ernakulam,Kerala_Ernakulam,31,0,0.287441935483871,,0.0
+Arunachal Pradesh,Leparada,Arunachal Pradesh_Leparada,23,0,0.2873,,0.0
+Uttarakhand,Dehradun,Uttarakhand_Dehradun,10,0,0.28694,,0.0
+Nagaland,Mokokchung,Nagaland_Mokokchung,7,0,0.28682857142857143,,0.0
+Arunachal Pradesh,Lower Dibang Valley,Arunachal Pradesh_Lower Dibang Valley,21,0,0.28626666666666667,,0.0
+Arunachal Pradesh,Lower Subansiri,Arunachal Pradesh_Lower Subansiri,22,0,0.28545454545454546,,0.0
+Madhya Pradesh,Gwalior,Madhya Pradesh_Gwalior,12,0,0.2850916666666667,,0.0
+Tamil Nadu,Theni,Tamil Nadu_Theni,10,0,0.28481999999999996,,0.0
+DNHDD,Dadra And Nagar Haveli,DNHDD_Dadra And Nagar Haveli,24,0,0.2842166666666667,,0.0
+Bihar,Nawada,Bihar_Nawada,7,0,0.28419999999999995,,0.0
+Karnataka,Vijayapura,Karnataka_Vijayapura,3,0,0.28086666666666665,,0.0
+Gujarat,Navsari,Gujarat_Navsari,19,0,0.28054736842105266,,0.0
+Karnataka,Udupi,Karnataka_Udupi,11,0,0.2797272727272727,,0.0
+Telangana,Vikarabad,Telangana_Vikarabad,13,0,0.2793538461538462,,0.0
+Bihar,Rohtas,Bihar_Rohtas,8,0,0.2790125,,0.0
+Arunachal Pradesh,Siang,Arunachal Pradesh_Siang,22,0,0.27785,,0.0
+Kerala,Idukki,Kerala_Idukki,24,0,0.2777875,,0.0
+Arunachal Pradesh,Lower Siang,Arunachal Pradesh_Lower Siang,23,0,0.27750434782608696,,0.0
+Odisha,Rayagada,Odisha_Rayagada,8,0,0.2759375,,0.0
+Odisha,Kendujhar,Odisha_Kendujhar,5,0,0.27424,,0.0
+Jammu & Kashmir,Reasi,Jammu & Kashmir_Reasi,17,0,0.2737823529411765,,0.0
+Nagaland,Phek,Nagaland_Phek,9,0,0.2735888888888889,,0.0
+West Bengal,Alipurduar,West Bengal_Alipurduar,22,0,0.2721409090909091,,0.0
+Maharashtra,Jalgaon,Maharashtra_Jalgaon,17,0,0.27151764705882353,,0.0
+Himachal Pradesh,Lahul And Spiti,Himachal Pradesh_Lahul And Spiti,31,0,0.27006129032258064,,0.0
+Telangana,Siddipet,Telangana_Siddipet,13,0,0.2692307692307692,,0.0
+Kerala,Kozhikode,Kerala_Kozhikode,32,0,0.269184375,,0.0
+Kerala,Kasaragod,Kerala_Kasaragod,24,0,0.2688083333333333,,0.0
+Bihar,Buxar,Bihar_Buxar,13,0,0.2684307692307692,,0.0
+Telangana,Rajanna Sircilla,Telangana_Rajanna Sircilla,13,0,0.26824615384615386,,0.0
+Arunachal Pradesh,Upper Siang,Arunachal Pradesh_Upper Siang,25,0,0.268024,,0.0
+Karnataka,Haveri,Karnataka_Haveri,3,0,0.26689999999999997,,0.0
+Uttarakhand,Pauri Garhwal,Uttarakhand_Pauri Garhwal,13,0,0.26569230769230767,,0.0
+Nagaland,Wokha,Nagaland_Wokha,7,0,0.2655142857142857,,0.0
+Telangana,Bhadradri Kothagudem,Telangana_Bhadradri Kothagudem,15,0,0.26536,,0.0
+Rajasthan,Jaipur,Rajasthan_Jaipur,10,0,0.26398,,0.0
+Jammu & Kashmir,Kishtwar,Jammu & Kashmir_Kishtwar,22,0,0.26387272727272726,,0.0
+Gujarat,Dang,Gujarat_Dang,22,0,0.2637772727272727,,0.0
+Bihar,Kishanganj,Bihar_Kishanganj,9,0,0.2636444444444444,,0.0
+Maharashtra,Osmanabad,Maharashtra_Osmanabad,15,0,0.26364,,0.0
+Maharashtra,Hingoli,Maharashtra_Hingoli,17,0,0.2631058823529412,,0.0
+Kerala,Malappuram,Kerala_Malappuram,27,0,0.2628185185185185,,0.0
+Rajasthan,Bikaner,Rajasthan_Bikaner,9,0,0.2624222222222222,,0.0
+Nagaland,Kiphire,Nagaland_Kiphire,10,0,0.26197,,0.0
+Maharashtra,Thane,Maharashtra_Thane,22,0,0.26079545454545455,,0.0
+Madhya Pradesh,Satna,Madhya Pradesh_Satna,2,0,0.25994999999999996,,0.0
+Uttarakhand,Rudra Prayag,Uttarakhand_Rudra Prayag,18,0,0.25946111111111114,,0.0
+Telangana,Nirmal,Telangana_Nirmal,14,0,0.25925714285714285,,0.0
+Andhra Pradesh,Vizianagaram,Andhra Pradesh_Vizianagaram,9,0,0.2590222222222222,,0.0
+Punjab,Pathankot,Punjab_Pathankot,32,0,0.25891875,,0.0
+Bihar,Gaya,Bihar_Gaya,7,0,0.2572285714285714,,0.0
+Maharashtra,Solapur,Maharashtra_Solapur,15,0,0.2564,,0.0
+Himachal Pradesh,Kinnaur,Himachal Pradesh_Kinnaur,30,0,0.2559366666666667,,0.0
+Maharashtra,Nandurbar,Maharashtra_Nandurbar,16,0,0.2549125,,0.0
+Sikkim,Mangan,Sikkim_Mangan,32,0,0.254309375,,0.0
+Odisha,Dhenkanal,Odisha_Dhenkanal,13,0,0.25400769230769227,,0.0
+Maharashtra,Jalna,Maharashtra_Jalna,16,0,0.25381875,,0.0
+Odisha,Mayurbhanj,Odisha_Mayurbhanj,7,0,0.2535857142857143,,0.0
+Maharashtra,Aurangabad,Maharashtra_Aurangabad,15,0,0.2534666666666667,,0.0
+Odisha,Sundargarh,Odisha_Sundargarh,7,0,0.2520857142857143,,0.0
+Uttarakhand,Bageshwar,Uttarakhand_Bageshwar,14,0,0.25193571428571426,,0.0
+Karnataka,Bidar,Karnataka_Bidar,3,0,0.2513666666666667,,0.0
+Nagaland,Kohima,Nagaland_Kohima,8,0,0.2512,,0.0
+West Bengal,Purba Bardhaman,West Bengal_Purba Bardhaman,13,0,0.25106153846153845,,0.0
+Maharashtra,Beed,Maharashtra_Beed,15,0,0.25082666666666664,,0.0
+Arunachal Pradesh,East Kameng,Arunachal Pradesh_East Kameng,25,0,0.24962399999999998,,0.0
+Odisha,Koraput,Odisha_Koraput,6,0,0.24938333333333332,,0.0
+Maharashtra,Kolhapur,Maharashtra_Kolhapur,17,0,0.24835882352941177,,0.0
+Bihar,Begusarai,Bihar_Begusarai,5,0,0.24828,,0.0
+Madhya Pradesh,Singrauli,Madhya Pradesh_Singrauli,5,0,0.24787999999999996,,0.0
+West Bengal,Murshidabad,West Bengal_Murshidabad,15,0,0.24713333333333332,,0.0
+Uttarakhand,Tehri Garhwal,Uttarakhand_Tehri Garhwal,16,0,0.24655,,0.0
+Maharashtra,Dhule,Maharashtra_Dhule,15,0,0.24617999999999998,,0.0
+Karnataka,Hassan,Karnataka_Hassan,4,0,0.2439,,0.0
+Arunachal Pradesh,Anjaw,Arunachal Pradesh_Anjaw,24,0,0.24309583333333332,,0.0
+Maharashtra,Ahmednagar,Maharashtra_Ahmednagar,15,0,0.24244000000000002,,0.0
+Haryana,Panchkula,Haryana_Panchkula,16,0,0.24201875,,0.0
+Bihar,Banka,Bihar_Banka,12,0,0.24189166666666664,,0.0
+Jammu & Kashmir,Doda,Jammu & Kashmir_Doda,21,0,0.24169047619047618,,0.0
+Odisha,Jharsuguda,Odisha_Jharsuguda,13,0,0.23997692307692306,,0.0
+Himachal Pradesh,Kullu,Himachal Pradesh_Kullu,17,0,0.23982941176470587,,0.0
+Bihar,Aurangabad,Bihar_Aurangabad,9,0,0.2378,,0.0
+Uttar Pradesh,Ghaziabad,Uttar Pradesh_Ghaziabad,11,0,0.23729090909090908,,0.0
+Gujarat,Narmada,Gujarat_Narmada,19,0,0.23625263157894738,,0.0
+Karnataka,Dharwad,Karnataka_Dharwad,3,0,0.23563333333333333,,0.0
+Rajasthan,Tonk,Rajasthan_Tonk,9,0,0.2338,,0.0
+West Bengal,Coochbehar,West Bengal_Coochbehar,12,0,0.233125,,0.0
+West Bengal,Purulia,West Bengal_Purulia,10,0,0.23279999999999998,,0.0
+Jammu & Kashmir,Baramulla,Jammu & Kashmir_Baramulla,24,0,0.23272916666666665,,0.0
+Rajasthan,Ajmer,Rajasthan_Ajmer,10,0,0.2314,,0.0
+Andhra Pradesh,Alluri Sitharama Raju,Andhra Pradesh_Alluri Sitharama Raju,20,0,0.23119,,0.0
+Odisha,Malkangiri,Odisha_Malkangiri,11,0,0.23076363636363634,,0.0
+West Bengal,Birbhum,West Bengal_Birbhum,13,0,0.23064615384615383,,0.0
+Kerala,Thrissur,Kerala_Thrissur,28,0,0.22988214285714287,,0.0
+Jammu & Kashmir,Ganderbal,Jammu & Kashmir_Ganderbal,31,0,0.2293258064516129,,0.0
+Telangana,Mahabubabad,Telangana_Mahabubabad,15,0,0.22880666666666669,,0.0
+Jammu & Kashmir,Anantnag,Jammu & Kashmir_Anantnag,29,0,0.22880344827586208,,0.0
+Jammu & Kashmir,Bandipora,Jammu & Kashmir_Bandipora,26,0,0.22878076923076923,,0.0
+Rajasthan,Sawai Madhopur,Rajasthan_Sawai Madhopur,11,0,0.22830000000000003,,0.0
+Goa,South Goa,Goa_South Goa,34,0,0.2273235294117647,,0.0
+Arunachal Pradesh,Tawang,Arunachal Pradesh_Tawang,31,0,0.2271,,0.0
+Madhya Pradesh,Dhar,Madhya Pradesh_Dhar,3,0,0.22640000000000002,,0.0
+Odisha,Sonepur,Odisha_Sonepur,10,0,0.22610000000000002,,0.0
+Maharashtra,Yavatmal,Maharashtra_Yavatmal,16,0,0.22593125,,0.0
+Jharkhand,Palamu,Jharkhand_Palamu,15,0,0.22569999999999998,,0.0
+Himachal Pradesh,Chamba,Himachal Pradesh_Chamba,14,0,0.22372142857142857,,0.0
+Maharashtra,Ratnagiri,Maharashtra_Ratnagiri,21,0,0.2233095238095238,,0.0
+Arunachal Pradesh,Dibang Valley,Arunachal Pradesh_Dibang Valley,22,0,0.22248636363636365,,0.0
+Jammu & Kashmir,Budgam,Jammu & Kashmir_Budgam,24,0,0.22106250000000002,,0.0
+Jammu & Kashmir,Kulgam,Jammu & Kashmir_Kulgam,28,0,0.21951071428571428,,0.0
+Uttarakhand,Pithoragarh,Uttarakhand_Pithoragarh,15,0,0.21924666666666667,,0.0
+Jammu & Kashmir,Srinagar,Jammu & Kashmir_Srinagar,25,0,0.21788799999999997,,0.0
+Bihar,Araria,Bihar_Araria,7,0,0.21761428571428573,,0.0
+Jammu & Kashmir,Mirpur,Jammu & Kashmir_Mirpur,43,0,0.21603488372093024,,0.0
+Bihar,Khagaria,Bihar_Khagaria,6,0,0.21468333333333334,,0.0
+Maharashtra,Pune,Maharashtra_Pune,15,0,0.21463333333333334,,0.0
+Odisha,Deogarh,Odisha_Deogarh,12,0,0.2142166666666667,,0.0
+Uttar Pradesh,Mahoba,Uttar Pradesh_Mahoba,12,0,0.21367499999999998,,0.0
+Jammu & Kashmir,Poonch,Jammu & Kashmir_Poonch,26,0,0.21361923076923078,,0.0
+West Bengal,Darjeeling,West Bengal_Darjeeling,14,0,0.20967142857142856,,0.0
+Uttar Pradesh,Hamirpur,Uttar Pradesh_Hamirpur,10,0,0.20695999999999998,,0.0
+Rajasthan,Karauli,Rajasthan_Karauli,7,0,0.2067142857142857,,0.0
+Jharkhand,Hazaribagh,Jharkhand_Hazaribagh,16,0,0.2066875,,0.0
+Telangana,Nizamabad,Telangana_Nizamabad,6,0,0.20656666666666668,,0.0
+West Bengal,Dinajpur Dakshin,West Bengal_Dinajpur Dakshin,17,0,0.20479411764705882,,0.0
+Maharashtra,Buldhana,Maharashtra_Buldhana,15,0,0.20456666666666665,,0.0
+Bihar,Siwan,Bihar_Siwan,7,0,0.2044,,0.0
+Madhya Pradesh,Sheopur,Madhya Pradesh_Sheopur,8,0,0.2040375,,0.0
+Telangana,Warangal,Telangana_Warangal,9,0,0.20308888888888887,,0.0
+Karnataka,Kodagu,Karnataka_Kodagu,11,0,0.2019,,0.0
+Jammu & Kashmir,Pulwama,Jammu & Kashmir_Pulwama,28,0,0.20165357142857143,,0.0
+Maharashtra,Satara,Maharashtra_Satara,15,0,0.19898000000000002,,0.0
+Rajasthan,Sirohi,Rajasthan_Sirohi,7,0,0.1988285714285714,,0.0
+Maharashtra,Sindhudurg,Maharashtra_Sindhudurg,24,0,0.19862500000000002,,0.0
+Goa,North Goa,Goa_North Goa,34,0,0.19852058823529412,,0.0
+Maharashtra,Gadchiroli,Maharashtra_Gadchiroli,18,0,0.1976,,0.0
+Jharkhand,Simdega,Jharkhand_Simdega,16,0,0.19685624999999998,,0.0
+Maharashtra,Akola,Maharashtra_Akola,17,0,0.19658823529411765,,0.0
+Jharkhand,Koderma,Jharkhand_Koderma,17,0,0.19585882352941175,,0.0
+Uttar Pradesh,Chitrakoot,Uttar Pradesh_Chitrakoot,12,0,0.19430833333333333,,0.0
+Chhattisgarh,Dantewada,Chhattisgarh_Dantewada,5,0,0.19404,,0.0
+Odisha,Anugul,Odisha_Anugul,10,0,0.19382,,0.0
+Telangana,Kumuram Bheem Asifabad,Telangana_Kumuram Bheem Asifabad,15,0,0.19244666666666665,,0.0
+Chhattisgarh,Surajpur,Chhattisgarh_Surajpur,6,0,0.19126666666666667,,0.0
+Rajasthan,Pali,Rajasthan_Pali,12,0,0.19116666666666668,,0.0
+Bihar,Samastipur,Bihar_Samastipur,6,0,0.19108333333333336,,0.0
+Odisha,Sambalpur,Odisha_Sambalpur,11,0,0.1904181818181818,,0.0
+Jharkhand,Garhwa,Jharkhand_Garhwa,18,0,0.1900111111111111,,0.0
+Maharashtra,Washim,Maharashtra_Washim,16,0,0.18975,,0.0
+West Bengal,Jalpaiguri,West Bengal_Jalpaiguri,15,0,0.18908,,0.0
+Jharkhand,Ranchi,Jharkhand_Ranchi,19,0,0.18880526315789473,,0.0
+Jammu & Kashmir,Kupwara,Jammu & Kashmir_Kupwara,32,0,0.18706250000000002,,0.0
+Jammu & Kashmir,Ramban,Jammu & Kashmir_Ramban,34,0,0.18433823529411764,,0.0
+West Bengal,Medinipur West,West Bengal_Medinipur West,12,0,0.18415,,0.0
+Jharkhand,Khunti,Jharkhand_Khunti,17,0,0.18355294117647059,,0.0
+Kerala,Palakkad,Kerala_Palakkad,19,0,0.18347368421052632,,0.0
+West Bengal,Jhargram,West Bengal_Jhargram,23,0,0.18254347826086956,,0.0
+Odisha,Nuapada,Odisha_Nuapada,6,0,0.18231666666666665,,0.0
+Jammu & Kashmir,Shopian,Jammu & Kashmir_Shopian,35,0,0.1813942857142857,,0.0
+Telangana,Kamareddy,Telangana_Kamareddy,12,0,0.18046666666666666,,0.0
+Bihar,Pashchim Champaran,Bihar_Pashchim Champaran,8,0,0.1796625,,0.0
+Maharashtra,Nagpur,Maharashtra_Nagpur,19,0,0.1792842105263158,,0.0
+Bihar,Madhepura,Bihar_Madhepura,6,0,0.17853333333333332,,0.0
+Chhattisgarh,Sukma,Chhattisgarh_Sukma,10,0,0.17846,,0.0
+Jammu & Kashmir,Muzaffarabad,Jammu & Kashmir_Muzaffarabad,43,0,0.17825348837209304,,0.0
+Bihar,Sitamarhi,Bihar_Sitamarhi,6,0,0.17769999999999997,,0.0
+Odisha,Balangir,Odisha_Balangir,6,0,0.1751166666666667,,0.0
+Karnataka,Belagavi,Karnataka_Belagavi,3,0,0.17366666666666664,,0.0
+Madhya Pradesh,Balaghat,Madhya Pradesh_Balaghat,2,0,0.1719,,0.0
+Jharkhand,Ramgarh,Jharkhand_Ramgarh,19,0,0.16897894736842103,,0.0
+Madhya Pradesh,Shivpuri,Madhya Pradesh_Shivpuri,6,0,0.1689166666666667,,0.0
+Uttar Pradesh,Jhansi,Uttar Pradesh_Jhansi,9,0,0.1678777777777778,,0.0
+Jharkhand,Chatra,Jharkhand_Chatra,18,0,0.16507777777777777,,0.0
+Uttarakhand,Chamoli,Uttarakhand_Chamoli,15,0,0.16284,,0.0
+Madhya Pradesh,Indore,Madhya Pradesh_Indore,7,0,0.16217142857142858,,0.0
+Odisha,Kalahandi,Odisha_Kalahandi,5,0,0.16096,,0.0
+Maharashtra,Wardha,Maharashtra_Wardha,18,0,0.1605333333333333,,0.0
+Karnataka,Uttara Kannada,Karnataka_Uttara Kannada,7,0,0.15982857142857143,,0.0
+Odisha,Kandhamal,Odisha_Kandhamal,8,0,0.1594625,,0.0
+Maharashtra,Bhandara,Maharashtra_Bhandara,18,0,0.1582611111111111,,0.0
+Bihar,Katihar,Bihar_Katihar,7,0,0.1567714285714286,,0.0
+Chhattisgarh,Korea,Chhattisgarh_Korea,6,0,0.15438333333333334,,0.0
+Bihar,Supaul,Bihar_Supaul,8,0,0.15345,,0.0
+Rajasthan,Rajsamand,Rajasthan_Rajsamand,8,0,0.153275,,0.0
+Madhya Pradesh,Raisen,Madhya Pradesh_Raisen,5,0,0.15212,,0.0
+Madhya Pradesh,Ashoknagar,Madhya Pradesh_Ashoknagar,9,0,0.15074444444444446,,0.0
+Odisha,Nabarangpur,Odisha_Nabarangpur,5,0,0.15034,,0.0
+Chhattisgarh,Surguja,Chhattisgarh_Surguja,3,0,0.15030000000000002,,0.0
+Bihar,Bhagalpur,Bihar_Bhagalpur,8,0,0.1498875,,0.0
+Karnataka,Chikkamagaluru,Karnataka_Chikkamagaluru,4,0,0.14782499999999998,,0.0
+Maharashtra,Amravati,Maharashtra_Amravati,17,0,0.14730000000000001,,0.0
+Chhattisgarh,Raigarh,Chhattisgarh_Raigarh,4,0,0.146825,,0.0
+Madhya Pradesh,Panna,Madhya Pradesh_Panna,4,0,0.1457,,0.0
+Uttarakhand,Uttar Kashi,Uttarakhand_Uttar Kashi,15,0,0.14443999999999999,,0.0
+Madhya Pradesh,Shajapur,Madhya Pradesh_Shajapur,6,0,0.1444,,0.0
+Madhya Pradesh,Mandsaur,Madhya Pradesh_Mandsaur,6,0,0.14265,,0.0
+Madhya Pradesh,Rajgarh,Madhya Pradesh_Rajgarh,6,0,0.13960000000000003,,0.0
+Chhattisgarh,Mahasamund,Chhattisgarh_Mahasamund,6,0,0.13868333333333333,,0.0
+Odisha,Bargarh,Odisha_Bargarh,8,0,0.13824999999999998,,0.0
+Uttar Pradesh,Jalaun,Uttar Pradesh_Jalaun,8,0,0.1350875,,0.0
+Bihar,Purnia,Bihar_Purnia,9,0,0.13486666666666666,,0.0
+Rajasthan,Dungarpur,Rajasthan_Dungarpur,7,0,0.1336142857142857,,0.0
+Rajasthan,Chittorgarh,Rajasthan_Chittorgarh,6,0,0.13263333333333335,,0.0
+Uttar Pradesh,Banda,Uttar Pradesh_Banda,9,0,0.12974444444444444,,0.0
+Chhattisgarh,Korba,Chhattisgarh_Korba,6,0,0.12736666666666666,,0.0
+Rajasthan,Bundi,Rajasthan_Bundi,9,0,0.1246111111111111,,0.0
+Uttar Pradesh,Lalitpur,Uttar Pradesh_Lalitpur,12,0,0.12431666666666667,,0.0
+Chhattisgarh,Jashpur,Chhattisgarh_Jashpur,6,0,0.12333333333333334,,0.0
+Maharashtra,Gondia,Maharashtra_Gondia,19,0,0.12250000000000001,,0.0
+Rajasthan,Banswara,Rajasthan_Banswara,9,0,0.12054444444444444,,0.0
+Bihar,Darbhanga,Bihar_Darbhanga,9,0,0.11737777777777778,,0.0
+Chhattisgarh,Janjgir-Champa,Chhattisgarh_Janjgir-Champa,7,0,0.1169,,0.0
+Madhya Pradesh,Tikamgarh,Madhya Pradesh_Tikamgarh,3,0,0.11669999999999998,,0.0
+Bihar,Saharsa,Bihar_Saharsa,9,0,0.1158,,0.0
+Chhattisgarh,Sakti,Chhattisgarh_Sakti,16,0,0.11378125,,0.0
+Chhattisgarh,Bijapur,Chhattisgarh_Bijapur,14,0,0.1137,,0.0
+Madhya Pradesh,Agar Malwa,Madhya Pradesh_Agar Malwa,13,0,0.11357692307692308,,0.0
+Chhattisgarh,Gaurella Pendra Marwahi,Chhattisgarh_Gaurella Pendra Marwahi,9,0,0.11318888888888888,,0.0
+Karnataka,Shivamogga,Karnataka_Shivamogga,3,0,0.11156666666666666,,0.0
+Telangana,Adilabad,Telangana_Adilabad,6,0,0.11136666666666666,,0.0
+Chhattisgarh,Narayanpur,Chhattisgarh_Narayanpur,12,0,0.10938333333333335,,0.0
+Madhya Pradesh,Vidisha,Madhya Pradesh_Vidisha,8,0,0.10931249999999999,,0.0
+Jharkhand,Gumla,Jharkhand_Gumla,18,0,0.10755555555555556,,0.0
+Rajasthan,Udaipur,Rajasthan_Udaipur,7,0,0.10711428571428572,,0.0
+Chhattisgarh,Balrampur,Chhattisgarh_Balrampur,4,0,0.10572499999999999,,0.0
+Chhattisgarh,Durg,Chhattisgarh_Durg,4,0,0.10552500000000001,,0.0
+Rajasthan,Jhalawar,Rajasthan_Jhalawar,8,0,0.1053,,0.0
+Chhattisgarh,Dhamtari,Chhattisgarh_Dhamtari,7,0,0.09961428571428572,,0.0
+Madhya Pradesh,Ujjain,Madhya Pradesh_Ujjain,5,0,0.09956000000000001,,0.0
+Rajasthan,Bhilwara,Rajasthan_Bhilwara,7,0,0.09897142857142857,,0.0
+Chhattisgarh,Bilaspur,Chhattisgarh_Bilaspur,5,0,0.0979,,0.0
+Madhya Pradesh,Narsinghpur,Madhya Pradesh_Narsinghpur,3,0,0.09776666666666667,,0.0
+Chhattisgarh,Baloda Bazar,Chhattisgarh_Baloda Bazar,4,0,0.096375,,0.0
+Jharkhand,Lohardaga,Jharkhand_Lohardaga,19,0,0.09336842105263159,,0.0
+Chhattisgarh,Balod,Chhattisgarh_Balod,8,0,0.09146249999999999,,0.0
+Jharkhand,Latehar,Jharkhand_Latehar,19,0,0.09090526315789474,,0.0
+Madhya Pradesh,Anuppur,Madhya Pradesh_Anuppur,4,0,0.089,,0.0
+Chhattisgarh,Gariyaband,Chhattisgarh_Gariyaband,4,0,0.0866,,0.0
+Madhya Pradesh,Guna,Madhya Pradesh_Guna,8,0,0.08573750000000001,,0.0
+Chhattisgarh,Mungeli,Chhattisgarh_Mungeli,6,0,0.08539999999999999,,0.0
+Madhya Pradesh,Bhopal,Madhya Pradesh_Bhopal,9,0,0.08437777777777777,,0.0
+Madhya Pradesh,Rewa,Madhya Pradesh_Rewa,2,0,0.08414999999999999,,0.0
+Chhattisgarh,Raipur,Chhattisgarh_Raipur,4,0,0.08282500000000001,,0.0
+Chhattisgarh,Bastar,Chhattisgarh_Bastar,4,0,0.081675,,0.0
+Chhattisgarh,Sarangarh Bilaigarh,Chhattisgarh_Sarangarh Bilaigarh,18,0,0.08,,0.0
+Chhattisgarh,Bemetara,Chhattisgarh_Bemetara,6,0,0.07684999999999999,,0.0
+Rajasthan,Kota,Rajasthan_Kota,7,0,0.07197142857142858,,0.0
+Rajasthan,Pratapgarh,Rajasthan_Pratapgarh,9,0,0.06504444444444443,,0.0
+Chhattisgarh,Manendragarh Chirimiri Bharatpur,Chhattisgarh_Manendragarh Chirimiri Bharatpur,9,0,0.06364444444444445,,0.0
+Madhya Pradesh,Neemuch,Madhya Pradesh_Neemuch,7,0,0.06261428571428572,,0.0
+Madhya Pradesh,Dindori,Madhya Pradesh_Dindori,6,0,0.058133333333333335,,0.0
+Madhya Pradesh,Burhanpur,Madhya Pradesh_Burhanpur,7,0,0.056485714285714285,,0.0
+Rajasthan,Baran,Rajasthan_Baran,8,0,0.056275,,0.0
+Chhattisgarh,Kondagaon,Chhattisgarh_Kondagaon,8,0,0.047674999999999995,,0.0
+Chhattisgarh,Rajnandgaon,Chhattisgarh_Rajnandgaon,4,0,0.0475,,0.0
+Chhattisgarh,Kanker,Chhattisgarh_Kanker,6,0,0.04165,,0.0
+Madhya Pradesh,Sehore,Madhya Pradesh_Sehore,7,0,0.040942857142857135,,0.0
+Chhattisgarh,Khairgarh Chhuikhadan Gandai,Chhattisgarh_Khairgarh Chhuikhadan Gandai,12,0,0.040875,,0.0
+Madhya Pradesh,Jhabua,Madhya Pradesh_Jhabua,5,0,0.03844,,0.0
+Madhya Pradesh,Barwani,Madhya Pradesh_Barwani,5,0,0.03684,,0.0
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,Chhattisgarh_Mohla Manpur Ambagarh Chouki,16,0,0.03439375,,0.0
+Chhattisgarh,Kabirdham,Chhattisgarh_Kabirdham,6,0,0.028200000000000003,,0.0
+Madhya Pradesh,Khargone,Madhya Pradesh_Khargone,4,0,0.017525,,0.0
+Madhya Pradesh,Damoh,Madhya Pradesh_Damoh,4,0,0.0166,,0.0
+Madhya Pradesh,Sidhi,Madhya Pradesh_Sidhi,2,0,0.0161,,0.0
+Madhya Pradesh,Ratlam,Madhya Pradesh_Ratlam,6,0,0.014366666666666668,,0.0
+Madhya Pradesh,Betul,Madhya Pradesh_Betul,2,0,0.0138,,0.0
+Madhya Pradesh,Chhindwara,Madhya Pradesh_Chhindwara,2,0,0.01245,,0.0
+Madhya Pradesh,Harda,Madhya Pradesh_Harda,5,0,0.01154,,0.0
+Madhya Pradesh,Mandla,Madhya Pradesh_Mandla,3,0,0.011399999999999999,,0.0
+Madhya Pradesh,Narmadapuram,Madhya Pradesh_Narmadapuram,2,0,0.0113,,0.0
+Madhya Pradesh,Seoni,Madhya Pradesh_Seoni,2,0,0.0106,,0.0
+Madhya Pradesh,Katni,Madhya Pradesh_Katni,2,0,0.00895,,0.0
+Madhya Pradesh,East Nimar,Madhya Pradesh_East Nimar,3,0,0.007899999999999999,,0.0
+Madhya Pradesh,Umaria,Madhya Pradesh_Umaria,6,0,0.00785,,0.0
+Madhya Pradesh,Dewas,Madhya Pradesh_Dewas,5,0,0.00702,,0.0
+Madhya Pradesh,Jabalpur,Madhya Pradesh_Jabalpur,3,0,0.005933333333333333,,0.0
+Madhya Pradesh,Shahdol,Madhya Pradesh_Shahdol,3,0,0.004333333333333334,,0.0
+Madhya Pradesh,Sagar,Madhya Pradesh_Sagar,1,0,0.0015,,0.0

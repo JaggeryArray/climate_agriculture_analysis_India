@@ -1,0 +1,605 @@
+crop,state,district,location,knn_pred_class,rf_pred_class,xgb_pred_class,knn_high_proba,rf_high_proba,xgb_high_proba,knn_weight,rf_weight,xgb_weight,ensemble_high_proba,votes_for_high,high_class_used,ood_distance,ood_flag
+sunflower,Haryana,Faridabad,Haryana_Faridabad,High,High,High,1.0,1.0,0.9996,0.3358,0.3275,0.3367,0.9999,3,High,3.7749,False
+wheat,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,1.0,1.0,0.9997,0.335,0.3299,0.335,0.9999,3,High,4.1989,False
+other_rabi_pulses,Uttar Pradesh,Amethi,Uttar Pradesh_Amethi,High,High,High,1.0,1.0,0.9993,0.3453,0.3156,0.3391,0.9998,3,High,3.3008,False
+rapeseed_and_mustard,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,1.0,0.9995,0.3356,0.3275,0.3369,0.9998,3,High,5.4722,False
+sugarcane,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,1.0,0.9994,0.3445,0.3097,0.3457,0.9998,3,High,5.4233,False
+sunflower,Haryana,Karnal,Haryana_Karnal,High,High,High,1.0,1.0,0.9995,0.3358,0.3275,0.3367,0.9998,3,High,3.9006,False
+sunflower,Uttar Pradesh,Amroha,Uttar Pradesh_Amroha,High,High,High,1.0,1.0,0.9994,0.3358,0.3275,0.3367,0.9998,3,High,4.4115,False
+other_rabi_pulses,Uttar Pradesh,Shamli,Uttar Pradesh_Shamli,High,High,High,1.0,1.0,0.9992,0.3453,0.3156,0.3391,0.9997,3,High,4.3418,False
+rapeseed_and_mustard,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,1.0,0.9992,0.3356,0.3275,0.3369,0.9997,3,High,4.2309,False
+rapeseed_and_mustard,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,1.0,1.0,0.9988,0.3356,0.3275,0.3369,0.9996,3,High,3.9677,False
+rapeseed_and_mustard,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,1.0,0.9988,0.3356,0.3275,0.3369,0.9996,3,High,4.6624,False
+rapeseed_and_mustard,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9967,0.9995,0.3356,0.3275,0.3369,0.9988,3,High,3.4379,False
+sugarcane,Haryana,Mahendragarh,Haryana_Mahendragarh,High,High,High,1.0,0.9967,0.9996,0.3445,0.3097,0.3457,0.9988,3,High,5.0505,False
+banana,Uttar Pradesh,Kanpur Nagar,Uttar Pradesh_Kanpur Nagar,High,High,High,1.0,0.9967,0.9991,0.3404,0.3245,0.3351,0.9986,3,High,3.6444,False
+barley,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,1.0,0.9967,0.9991,0.3396,0.3208,0.3396,0.9986,3,High,4.495,False
+mesta,Jharkhand,Pakur,Jharkhand_Pakur,High,High,High,1.0,0.9967,0.9992,0.3354,0.3292,0.3354,0.9986,3,High,4.853,False
+other_rabi_pulses,Uttar Pradesh,Hapur,Uttar Pradesh_Hapur,High,High,High,1.0,0.9967,0.999,0.3453,0.3156,0.3391,0.9986,3,High,4.7498,False
+rapeseed_and_mustard,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.9967,0.999,0.3356,0.3275,0.3369,0.9986,3,High,4.2901,False
+sunflower,Uttar Pradesh,Hapur,Uttar Pradesh_Hapur,High,High,High,1.0,0.9967,0.9991,0.3358,0.3275,0.3367,0.9986,3,High,4.6064,False
+barley,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9967,0.9987,0.3396,0.3208,0.3396,0.9985,3,High,3.59,False
+barley,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,0.9967,0.9988,0.3396,0.3208,0.3396,0.9985,3,High,5.9757,False
+garlic,Uttar Pradesh,Baghpat,Uttar Pradesh_Baghpat,High,High,High,1.0,0.9967,0.9988,0.3318,0.3346,0.3336,0.9985,3,High,4.3757,False
+mesta,Jharkhand,East Singhbum,Jharkhand_East Singhbum,High,High,High,1.0,0.9967,0.9987,0.3354,0.3292,0.3354,0.9985,3,High,5.2048,False
+other_rabi_pulses,Haryana,Karnal,Haryana_Karnal,High,High,High,1.0,0.9967,0.9986,0.3453,0.3156,0.3391,0.9985,3,High,3.9673,False
+cotton,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.9967,0.9985,0.3473,0.3248,0.3279,0.9984,3,High,4.2033,False
+cotton,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,High,High,High,1.0,0.9967,0.9986,0.3473,0.3248,0.3279,0.9984,3,High,5.5727,False
+other_rabi_pulses,Uttar Pradesh,Kasganj,Uttar Pradesh_Kasganj,High,High,High,1.0,0.9967,0.9984,0.3453,0.3156,0.3391,0.9984,3,High,3.7315,False
+other_rabi_pulses,Uttar Pradesh,Sambhal,Uttar Pradesh_Sambhal,High,High,High,1.0,0.9967,0.9984,0.3453,0.3156,0.3391,0.9984,3,High,4.0898,False
+sugarcane,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,High,High,High,1.0,0.9967,0.9979,0.3445,0.3097,0.3457,0.9983,3,High,7.0349,False
+other_rabi_pulses,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,1.0,0.9967,0.9979,0.3453,0.3156,0.3391,0.9982,3,High,5.6349,False
+other_rabi_pulses,Haryana,Panipat,Haryana_Panipat,High,High,High,1.0,0.9967,0.9971,0.3453,0.3156,0.3391,0.998,3,High,3.9137,False
+sugarcane,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,1.0,0.9933,0.9993,0.3445,0.3097,0.3457,0.9977,3,High,4.2131,False
+sugarcane,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,0.9933,0.9993,0.3445,0.3097,0.3457,0.9977,3,High,4.8277,False
+cotton,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,0.9933,0.9992,0.3473,0.3248,0.3279,0.9976,3,High,4.5979,False
+cotton,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9933,0.9992,0.3473,0.3248,0.3279,0.9976,3,High,3.6463,False
+sunflower,Haryana,Palwal,Haryana_Palwal,High,High,High,1.0,0.9933,0.9994,0.3358,0.3275,0.3367,0.9976,3,High,3.7166,False
+sweet_potato,Bihar,Nalanda,Bihar_Nalanda,High,High,High,1.0,0.9933,0.9991,0.3413,0.3236,0.3351,0.9976,3,High,4.4775,False
+wheat,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9933,0.9995,0.335,0.3299,0.335,0.9976,3,High,3.6564,False
+horse_gram,Bihar,Patna,Bihar_Patna,High,High,High,1.0,0.9933,0.999,0.319,0.3458,0.3352,0.9974,3,High,5.6602,False
+niger_seed,Meghalaya,North Garo Hills,Meghalaya_North Garo Hills,High,High,High,1.0,0.9933,0.9989,0.3319,0.3296,0.3385,0.9974,3,High,8.6376,False
+barley,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.9967,0.9953,0.3396,0.3208,0.3396,0.9973,3,High,4.2436,False
+sugarcane,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.9933,0.9981,0.3445,0.3097,0.3457,0.9973,3,High,4.9922,False
+banana,Uttar Pradesh,Bhadohi,Uttar Pradesh_Bhadohi,High,High,High,1.0,0.9933,0.9982,0.3404,0.3245,0.3351,0.9972,3,High,3.8895,False
+mesta,Jharkhand,Jamtara,Jharkhand_Jamtara,High,High,High,1.0,0.9933,0.9983,0.3354,0.3292,0.3354,0.9972,3,High,5.4877,False
+sugarcane,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.99,0.9994,0.3445,0.3097,0.3457,0.9967,3,High,4.4567,False
+rapeseed_and_mustard,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.99,0.9996,0.3356,0.3275,0.3369,0.9966,3,High,5.1082,False
+mesta,Jharkhand,Sahebganj,Jharkhand_Sahebganj,High,High,High,1.0,0.99,0.9993,0.3354,0.3292,0.3354,0.9965,3,High,4.5874,False
+mesta,Jharkhand,Dumka,Jharkhand_Dumka,High,High,High,1.0,0.99,0.9991,0.3354,0.3292,0.3354,0.9964,3,High,5.1985,False
+sugarcane,Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,High,High,High,1.0,0.99,0.9984,0.3445,0.3097,0.3457,0.9964,3,High,6.9175,False
+sunflower,Bihar,Bhojpur,Bihar_Bhojpur,High,High,High,1.0,0.99,0.9992,0.3358,0.3275,0.3367,0.9964,3,High,4.0902,False
+sunflower,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,1.0,0.99,0.9991,0.3358,0.3275,0.3367,0.9964,3,High,5.7806,False
+wheat,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.99,0.9992,0.335,0.3299,0.335,0.9964,3,High,4.3326,False
+banana,Uttar Pradesh,Hapur,Uttar Pradesh_Hapur,High,High,High,1.0,0.99,0.9985,0.3404,0.3245,0.3351,0.9963,3,High,4.9194,False
+niger_seed,Assam,Charaideo,Assam_Charaideo,High,High,High,1.0,0.99,0.9989,0.3319,0.3296,0.3385,0.9963,3,High,5.7957,False
+niger_seed,Meghalaya,South West Garo Hills,Meghalaya_South West Garo Hills,High,High,High,1.0,0.99,0.9989,0.3319,0.3296,0.3385,0.9963,3,High,7.5877,False
+other_rabi_pulses,Haryana,Kurukshetra,Haryana_Kurukshetra,High,High,High,1.0,0.99,0.9984,0.3453,0.3156,0.3391,0.9963,3,High,4.0948,False
+other_kharif_pulses,Manipur,Noney,Manipur_Noney,High,High,High,1.0,0.9933,0.9948,0.3445,0.3083,0.3472,0.9961,3,High,5.4255,False
+banana,Uttar Pradesh,Gautam Buddha Nagar,Uttar Pradesh_Gautam Buddha Nagar,High,High,High,1.0,0.99,0.9978,0.3404,0.3245,0.3351,0.996,3,High,4.8498,False
+other_rabi_pulses,Haryana,Sonipat,Haryana_Sonipat,High,High,High,1.0,0.99,0.9973,0.3453,0.3156,0.3391,0.9959,3,High,4.0351,False
+barley,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,1.0,0.99,0.9969,0.3396,0.3208,0.3396,0.9957,3,High,6.964,False
+coriander,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,0.99,0.997,0.3354,0.3301,0.3344,0.9957,3,High,4.6003,False
+mesta,Bihar,Munger,Bihar_Munger,High,High,High,1.0,0.9867,0.9993,0.3354,0.3292,0.3354,0.9954,3,High,4.4261,False
+mesta,Jharkhand,Godda,Jharkhand_Godda,High,High,High,1.0,0.9867,0.9991,0.3354,0.3292,0.3354,0.9953,3,High,4.5689,False
+other_rabi_pulses,Haryana,Kaithal,Haryana_Kaithal,High,High,High,1.0,0.99,0.9955,0.3453,0.3156,0.3391,0.9953,3,High,4.5231,False
+sugarcane,Rajasthan,Beawar,Rajasthan_Beawar,High,High,High,1.0,0.9867,0.9983,0.3445,0.3097,0.3457,0.9953,3,High,5.4944,False
+sugarcane,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9867,0.998,0.3445,0.3097,0.3457,0.9952,3,High,3.6564,False
+cotton,Rajasthan,Beawar,Rajasthan_Beawar,High,High,High,1.0,0.9867,0.9984,0.3473,0.3248,0.3279,0.9951,3,High,5.1228,False
+other_kharif_pulses,Manipur,Pherzawl,Manipur_Pherzawl,High,High,High,1.0,0.9867,0.9976,0.3445,0.3083,0.3472,0.9951,3,High,5.3907,False
+other_rabi_pulses,Haryana,Faridabad,Haryana_Faridabad,High,High,High,1.0,0.9867,0.9978,0.3453,0.3156,0.3391,0.9951,3,High,3.7978,False
+horse_gram,Nagaland,Tseminyu,Nagaland_Tseminyu,High,High,High,1.0,0.9867,0.9984,0.319,0.3458,0.3352,0.9948,3,High,6.1504,False
+niger_seed,Assam,Bajali,Assam_Bajali,High,High,High,1.0,0.9867,0.9974,0.3319,0.3296,0.3385,0.9947,3,High,6.9686,False
+barley,Rajasthan,Beawar,Rajasthan_Beawar,High,High,High,1.0,0.9867,0.9966,0.3396,0.3208,0.3396,0.9946,3,High,6.6196,False
+coriander,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9833,0.9993,0.3354,0.3301,0.3344,0.9943,3,High,3.6554,False
+sunflower,Madhya Pradesh,Bhind,Madhya Pradesh_Bhind,High,High,High,1.0,0.9833,0.9992,0.3358,0.3275,0.3367,0.9943,3,High,3.8585,False
+barley,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.9833,0.9985,0.3396,0.3208,0.3396,0.9941,3,High,5.3861,False
+masoor,Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,High,High,High,1.0,0.9833,0.9983,0.3413,0.3225,0.3361,0.9941,3,High,7.8772,False
+mesta,Assam,Bajali,Assam_Bajali,High,High,High,1.0,0.9833,0.9988,0.3354,0.3292,0.3354,0.9941,3,High,6.2082,False
+sunflower,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,1.0,0.9833,0.9987,0.3358,0.3275,0.3367,0.9941,3,High,4.79,False
+coriander,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.9833,0.9985,0.3354,0.3301,0.3344,0.994,3,High,4.3186,False
+horse_gram,Bihar,Vaishali,Bihar_Vaishali,High,High,High,1.0,0.9833,0.9991,0.319,0.3458,0.3352,0.9939,3,High,6.4404,False
+other_rabi_pulses,Haryana,Ambala,Haryana_Ambala,High,High,High,1.0,0.9833,0.997,0.3453,0.3156,0.3391,0.9937,3,High,4.1098,False
+sannhamp,Odisha,Jajapur,Odisha_Jajapur,High,High,High,1.0,0.9833,0.9977,0.3303,0.341,0.3288,0.9935,3,High,5.9585,False
+peas_and_beans,Karnataka,Vijayanagar,Karnataka_Vijayanagar,High,High,High,1.0,0.98,0.9993,0.3407,0.3185,0.3407,0.9934,3,High,6.9598,False
+urad,Arunachal Pradesh,West Kameng,Arunachal Pradesh_West Kameng,High,High,High,1.0,0.9833,0.9951,0.3411,0.3164,0.3426,0.9931,3,High,7.5469,False
+cotton,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,0.98,0.9984,0.3473,0.3248,0.3279,0.993,3,High,5.163,False
+sunflower,Tamil Nadu,Kallakurichi,Tamil Nadu_Kallakurichi,High,High,High,1.0,0.98,0.9982,0.3358,0.3275,0.3367,0.9928,3,High,5.553,False
+cotton,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.98,0.9972,0.3473,0.3248,0.3279,0.9926,3,High,4.5746,False
+other_kharif_pulses,Manipur,Kamjong,Manipur_Kamjong,High,High,High,1.0,0.98,0.9949,0.3445,0.3083,0.3472,0.9921,3,High,5.2739,False
+sugarcane,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,1.0,0.9767,0.9982,0.3445,0.3097,0.3457,0.9921,3,High,8.025,False
+barley,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.9767,0.9985,0.3396,0.3208,0.3396,0.992,3,High,4.5245,False
+other_rabi_pulses,Haryana,Palwal,Haryana_Palwal,High,High,High,1.0,0.9767,0.9982,0.3453,0.3156,0.3391,0.992,3,High,3.67,False
+rapeseed_and_mustard,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,1.0,0.98,0.9953,0.3356,0.3275,0.3369,0.9919,3,High,7.8902,False
+coriander,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,High,High,High,1.0,0.9767,0.9982,0.3354,0.3301,0.3344,0.9917,3,High,6.1477,False
+horse_gram,Bihar,Muzaffarpur,Bihar_Muzaffarpur,High,High,High,1.0,0.9767,0.9987,0.319,0.3458,0.3352,0.9915,3,High,5.491,False
+other_rabi_pulses,Punjab,Barnala,Punjab_Barnala,High,High,High,1.0,0.9833,0.9903,0.3453,0.3156,0.3391,0.9914,3,High,6.0664,False
+potato,Tamil Nadu,Kallakurichi,Tamil Nadu_Kallakurichi,High,High,High,1.0,0.9733,0.9977,0.3531,0.299,0.348,0.9912,3,High,6.1419,False
+sunflower,Haryana,Jind,Haryana_Jind,High,High,High,1.0,0.9733,0.9994,0.3358,0.3275,0.3367,0.9911,3,High,4.7653,False
+arhar_tur,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9767,0.9938,0.3538,0.2885,0.3577,0.991,3,High,3.5501,False
+cotton,Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,High,High,High,1.0,0.9733,0.9989,0.3473,0.3248,0.3279,0.991,3,High,5.6775,False
+sunflower,Haryana,Nuh,Haryana_Nuh,High,High,High,1.0,0.9733,0.9993,0.3358,0.3275,0.3367,0.991,3,High,4.4437,False
+rapeseed_and_mustard,Rajasthan,Beawar,Rajasthan_Beawar,High,High,High,1.0,0.9767,0.9958,0.3356,0.3275,0.3369,0.9909,3,High,5.5119,False
+cotton,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.9733,0.9982,0.3473,0.3248,0.3279,0.9907,3,High,4.8642,False
+safflower,Bihar,Sheohar,Bihar_Sheohar,High,High,High,1.0,0.9767,0.9942,0.3475,0.32,0.3325,0.9906,3,High,4.6031,False
+barley,Rajasthan,Shahpura,Rajasthan_Shahpura,High,High,High,1.0,0.9733,0.9964,0.3396,0.3208,0.3396,0.9902,3,High,7.4677,False
+sugarcane,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.97,0.9985,0.3445,0.3097,0.3457,0.9902,3,High,4.3455,False
+potato,Tamil Nadu,Tiruchirappalli,Tamil Nadu_Tiruchirappalli,High,High,High,1.0,0.97,0.9966,0.3531,0.299,0.348,0.9898,3,High,7.3611,False
+other_rabi_pulses,Punjab,Tarn Taran,Punjab_Tarn Taran,High,High,High,1.0,0.9733,0.9945,0.3453,0.3156,0.3391,0.9897,3,High,6.0643,False
+sunflower,Punjab,Barnala,Punjab_Barnala,High,High,High,1.0,0.97,0.9984,0.3358,0.3275,0.3367,0.9896,3,High,6.209,False
+other_rabi_pulses,Haryana,Jind,Haryana_Jind,High,High,High,1.0,0.9733,0.9939,0.3453,0.3156,0.3391,0.9895,3,High,4.6277,False
+sannhamp,Odisha,Cuttack,Odisha_Cuttack,High,High,High,1.0,0.97,0.9985,0.3303,0.341,0.3288,0.9893,3,High,6.501,False
+other_rabi_pulses,Bihar,Sheikhpura,Bihar_Sheikhpura,High,High,High,1.0,0.9667,0.9986,0.3453,0.3156,0.3391,0.989,3,High,3.9712,False
+masoor,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.97,0.9958,0.3413,0.3225,0.3361,0.9889,3,High,4.1508,False
+wheat,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.9667,0.9991,0.335,0.3299,0.335,0.9887,3,High,5.4064,False
+sugarcane,Telangana,Peddapalli,Telangana_Peddapalli,High,High,High,1.0,0.9633,0.9997,0.3445,0.3097,0.3457,0.9885,3,High,7.7916,False
+cotton,Rajasthan,Shahpura,Rajasthan_Shahpura,High,High,High,1.0,0.97,0.9944,0.3473,0.3248,0.3279,0.9884,3,High,7.4423,False
+rapeseed_and_mustard,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,High,High,High,1.0,0.97,0.9946,0.3356,0.3275,0.3369,0.9884,3,High,6.1465,False
+sunflower,Rajasthan,Dholpur,Rajasthan_Dholpur,High,High,High,1.0,0.9667,0.998,0.3358,0.3275,0.3367,0.9884,3,High,4.769,False
+coriander,Rajasthan,Beawar,Rajasthan_Beawar,High,High,High,1.0,0.9667,0.9969,0.3354,0.3301,0.3344,0.988,3,High,5.5969,False
+masoor,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,High,High,High,1.0,0.9667,0.9961,0.3413,0.3225,0.3361,0.9879,3,High,7.4655,False
+mesta,Tamil Nadu,Vellore,Tamil Nadu_Vellore,High,High,High,1.0,0.9667,0.9965,0.3354,0.3292,0.3354,0.9879,3,High,7.9732,False
+barley,Punjab,Tarn Taran,Punjab_Tarn Taran,High,High,High,1.0,0.9633,0.9987,0.3396,0.3208,0.3396,0.9878,3,High,5.3261,False
+cotton,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,1.0,0.9667,0.9949,0.3473,0.3248,0.3279,0.9875,3,High,7.2945,False
+garlic,Punjab,Mansa,Punjab_Mansa,High,High,High,1.0,0.9667,0.996,0.3318,0.3346,0.3336,0.9875,3,High,5.9727,False
+mesta,Telangana,Suryapet,Telangana_Suryapet,High,High,High,1.0,0.9633,0.9985,0.3354,0.3292,0.3354,0.9874,3,High,5.597,False
+coriander,Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,High,High,High,1.0,0.9667,0.9951,0.3354,0.3301,0.3344,0.9873,3,High,6.3849,False
+mesta,Jharkhand,Dhanbad,Jharkhand_Dhanbad,High,High,High,1.0,0.9633,0.9975,0.3354,0.3292,0.3354,0.9871,3,High,5.4026,False
+niger_seed,Meghalaya,West Garo Hills,Meghalaya_West Garo Hills,High,High,High,1.0,0.9633,0.9973,0.3319,0.3296,0.3385,0.987,3,High,7.3529,False
+horse_gram,Bihar,Saran,Bihar_Saran,High,High,High,1.0,0.9633,0.9985,0.319,0.3458,0.3352,0.9868,3,High,7.5252,False
+other_rabi_pulses,Punjab,Moga,Punjab_Moga,High,High,High,1.0,0.9667,0.992,0.3453,0.3156,0.3391,0.9868,3,High,6.707,False
+other_rabi_pulses,Bihar,Lakhisarai,Bihar_Lakhisarai,High,High,High,1.0,0.96,0.998,0.3453,0.3156,0.3391,0.9867,3,High,3.4864,False
+other_rabi_pulses,Haryana,Yamunanagar,Haryana_Yamunanagar,High,High,High,1.0,0.96,0.9979,0.3453,0.3156,0.3391,0.9867,3,High,4.7199,False
+ginger,Meghalaya,Eastern West Khasi Hills,Meghalaya_Eastern West Khasi Hills,High,High,High,1.0,0.9633,0.9956,0.337,0.329,0.334,0.9865,3,High,7.0434,False
+masoor,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,0.9633,0.9947,0.3413,0.3225,0.3361,0.9864,3,High,4.6418,False
+turmeric,Telangana,Wanaparthy,Telangana_Wanaparthy,High,High,High,1.0,0.96,0.9984,0.3372,0.328,0.3347,0.9863,3,High,4.9948,False
+potato,Tamil Nadu,Perambalur,Tamil Nadu_Perambalur,High,High,High,1.0,0.9567,0.9971,0.3531,0.299,0.348,0.986,3,High,6.397,False
+ginger,Manipur,Kangpokpi,Manipur_Kangpokpi,High,High,High,1.0,0.96,0.9972,0.337,0.329,0.334,0.9859,3,High,5.6169,False
+rapeseed_and_mustard,Rajasthan,Shahpura,Rajasthan_Shahpura,High,High,High,1.0,0.96,0.9965,0.3356,0.3275,0.3369,0.9857,3,High,8.0514,False
+sweet_potato,Haryana,Ambala,Haryana_Ambala,High,High,High,1.0,0.96,0.996,0.3413,0.3236,0.3351,0.9857,3,High,6.9015,False
+other_kharif_pulses,Manipur,Kangpokpi,Manipur_Kangpokpi,High,High,High,1.0,0.9567,0.9968,0.3445,0.3083,0.3472,0.9855,3,High,5.6142,False
+linseed,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.9633,0.9933,0.3244,0.3356,0.34,0.9854,3,High,4.714,False
+sunflower,Punjab,Moga,Punjab_Moga,High,High,High,1.0,0.9567,0.9984,0.3358,0.3275,0.3367,0.9853,3,High,7.0145,False
+other_rabi_pulses,Manipur,Pherzawl,Manipur_Pherzawl,High,High,High,1.0,0.9567,0.9968,0.3453,0.3156,0.3391,0.9852,3,High,5.3812,False
+other_cereals,Arunachal Pradesh,Longding,Arunachal Pradesh_Longding,High,High,High,1.0,0.96,0.9959,0.3222,0.3388,0.339,0.9851,3,High,6.1709,False
+turmeric,Andhra Pradesh,Nandyal,Andhra Pradesh_Nandyal,High,High,High,1.0,0.9567,0.9974,0.3372,0.328,0.3347,0.9849,3,High,5.0579,False
+barley,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,0.9567,0.9959,0.3396,0.3208,0.3396,0.9847,3,High,4.8399,False
+cotton,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.9567,0.9958,0.3473,0.3248,0.3279,0.9846,3,High,4.2182,False
+potato,Tamil Nadu,Villupuram,Tamil Nadu_Villupuram,High,High,High,1.0,0.9533,0.9959,0.3531,0.299,0.348,0.9846,3,High,7.3788,False
+bajra,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9567,0.9955,0.3346,0.3212,0.3441,0.9845,3,High,3.5637,False
+barley,Punjab,Amritsar,Punjab_Amritsar,High,High,High,1.0,0.9533,0.9986,0.3396,0.3208,0.3396,0.9845,3,High,6.2406,False
+niger_seed,Assam,Tamulpur,Assam_Tamulpur,High,High,High,1.0,0.9567,0.9956,0.3319,0.3296,0.3385,0.9842,3,High,7.7134,False
+sugarcane,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.95,0.9992,0.3445,0.3097,0.3457,0.9842,3,High,4.8289,False
+mesta,Jharkhand,Deoghar,Jharkhand_Deoghar,High,High,High,1.0,0.9533,0.9978,0.3354,0.3292,0.3354,0.9839,3,High,6.5634,False
+safflower,Uttar Pradesh,Ballia,Uttar Pradesh_Ballia,High,High,High,1.0,0.95,0.9991,0.3475,0.32,0.3325,0.9837,3,High,7.9605,False
+sweet_potato,Punjab,Patiala,Punjab_Patiala,High,High,High,1.0,0.9533,0.996,0.3413,0.3236,0.3351,0.9836,3,High,7.1119,False
+mesta,Uttar Pradesh,Kushi Nagar,Uttar Pradesh_Kushi Nagar,High,High,High,1.0,0.9533,0.9967,0.3354,0.3292,0.3354,0.9835,3,High,5.446,False
+potato,Punjab,Mansa,Punjab_Mansa,High,High,High,1.0,0.9467,0.9983,0.3531,0.299,0.348,0.9835,3,High,6.1261,False
+barley,Punjab,Kapurthala,Punjab_Kapurthala,High,High,High,1.0,0.95,0.9983,0.3396,0.3208,0.3396,0.9834,3,High,5.2504,False
+barley,Punjab,Shahid Bhagat Singh Nagar,Punjab_Shahid Bhagat Singh Nagar,High,High,High,1.0,0.95,0.9981,0.3396,0.3208,0.3396,0.9833,3,High,5.1006,False
+ginger,Manipur,Kamjong,Manipur_Kamjong,High,High,High,1.0,0.95,0.9992,0.337,0.329,0.334,0.9833,3,High,5.8885,False
+other_rabi_pulses,Haryana,Nuh,Haryana_Nuh,High,High,High,1.0,0.95,0.996,0.3453,0.3156,0.3391,0.9829,3,High,4.2447,False
+banana,Gujarat,Jamnagar,Gujarat_Jamnagar,High,High,High,1.0,0.95,0.9971,0.3404,0.3245,0.3351,0.9828,3,High,6.7901,False
+other_rabi_pulses,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,1.0,0.9533,0.9924,0.3453,0.3156,0.3391,0.9827,3,High,4.4887,False
+garlic,Punjab,Patiala,Punjab_Patiala,High,High,High,1.0,0.95,0.9974,0.3318,0.3346,0.3336,0.9824,3,High,4.9226,False
+garlic,Punjab,Sangrur,Punjab_Sangrur,High,High,High,1.0,0.95,0.9973,0.3318,0.3346,0.3336,0.9824,3,High,5.4724,False
+moong,Mizoram,Saitual,Mizoram_Saitual,High,High,High,1.0,0.9467,0.9942,0.352,0.2937,0.3543,0.9823,3,High,7.8041,False
+groundnut,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,Medium,Medium,Medium,1.0,0.95,0.995,0.3345,0.3232,0.3423,0.9821,3,Medium,5.8458,False
+sugarcane,Maharashtra,Palghar,Maharashtra_Palghar,High,High,High,1.0,0.9433,0.9991,0.3445,0.3097,0.3457,0.9821,3,High,6.9775,False
+garlic,Punjab,Bathinda,Punjab_Bathinda,High,High,High,1.0,0.95,0.9959,0.3318,0.3346,0.3336,0.9819,3,High,7.0774,False
+mesta,Andhra Pradesh,Eluru,Andhra Pradesh_Eluru,High,High,High,1.0,0.9467,0.9976,0.3354,0.3292,0.3354,0.9816,3,High,7.1795,False
+other_rabi_pulses,Punjab,Shahid Bhagat Singh Nagar,Punjab_Shahid Bhagat Singh Nagar,High,High,High,1.0,0.95,0.9923,0.3453,0.3156,0.3391,0.9816,3,High,5.3687,False
+other_rabi_pulses,Punjab,Faridkot,Punjab_Faridkot,High,High,High,1.0,0.9467,0.9943,0.3453,0.3156,0.3391,0.9812,3,High,8.0847,False
+sunflower,Haryana,Rohtak,Haryana_Rohtak,High,High,High,1.0,0.9433,0.9987,0.3358,0.3275,0.3367,0.981,3,High,4.153,False
+other_rabi_pulses,Manipur,Noney,Manipur_Noney,High,High,High,1.0,0.9467,0.9931,0.3453,0.3156,0.3391,0.9808,3,High,5.7763,False
+sweet_potato,Karnataka,Vijayanagar,Karnataka_Vijayanagar,High,High,High,1.0,0.9433,0.9974,0.3413,0.3236,0.3351,0.9808,3,High,5.8055,False
+moong,Manipur,Kakching,Manipur_Kakching,High,High,High,1.0,0.9367,0.9971,0.352,0.2937,0.3543,0.9804,3,High,6.7904,False
+horse_gram,Bihar,Sheohar,Bihar_Sheohar,High,High,High,1.0,0.9433,0.9984,0.319,0.3458,0.3352,0.9799,3,High,4.5159,False
+other_cereals,Tamil Nadu,Ariyalur,Tamil Nadu_Ariyalur,High,High,High,1.0,0.9433,0.9973,0.3222,0.3388,0.339,0.9799,3,High,5.446,False
+other_kharif_pulses,Manipur,Tengnoupal,Manipur_Tengnoupal,High,High,High,1.0,0.9433,0.9921,0.3445,0.3083,0.3472,0.9798,3,High,6.0493,False
+bajra,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.94,0.9971,0.3346,0.3212,0.3441,0.9797,3,High,4.4755,False
+other_cereals,Nagaland,Tseminyu,Nagaland_Tseminyu,High,High,High,1.0,0.9433,0.9968,0.3222,0.3388,0.339,0.9797,3,High,6.6851,False
+banana,Telangana,Mancherial,Telangana_Mancherial,High,High,High,1.0,0.94,0.9973,0.3404,0.3245,0.3351,0.9796,3,High,3.7036,False
+potato,Tamil Nadu,Ariyalur,Tamil Nadu_Ariyalur,High,High,High,1.0,0.9367,0.9958,0.3531,0.299,0.348,0.9796,3,High,7.9426,False
+other_kharif_pulses,Manipur,Kakching,Manipur_Kakching,High,High,High,1.0,0.94,0.9932,0.3445,0.3083,0.3472,0.9791,3,High,5.723,False
+banana,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.9367,0.9981,0.3404,0.3245,0.3351,0.9788,3,High,4.5919,False
+wheat,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,0.9367,0.9987,0.335,0.3299,0.335,0.9787,3,High,5.7941,False
+ginger,Manipur,Kakching,Manipur_Kakching,High,High,High,1.0,0.9367,0.9982,0.337,0.329,0.334,0.9786,3,High,7.1535,False
+mesta,Andhra Pradesh,Annamayya,Andhra Pradesh_Annamayya,High,High,High,1.0,0.94,0.995,0.3354,0.3292,0.3354,0.9786,3,High,6.5929,False
+mesta,Andhra Pradesh,Ntr,Andhra Pradesh_Ntr,High,High,High,1.0,0.9367,0.9983,0.3354,0.3292,0.3354,0.9786,3,High,5.4981,False
+sugarcane,Maharashtra,Raigad,Maharashtra_Raigad,High,High,High,1.0,0.9333,0.9975,0.3445,0.3097,0.3457,0.9785,3,High,6.9419,False
+ginger,Manipur,Noney,Manipur_Noney,High,High,High,1.0,0.94,0.9944,0.337,0.329,0.334,0.9784,3,High,6.1287,False
+potato,Punjab,Patiala,Punjab_Patiala,High,High,High,1.0,0.93,0.9966,0.3531,0.299,0.348,0.9779,3,High,4.8823,False
+coriander,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,0.9333,0.9995,0.3354,0.3301,0.3344,0.9778,3,High,5.7991,False
+other_cereals,Nagaland,Chumoukedima,Nagaland_Chumoukedima,High,High,High,1.0,0.9367,0.9965,0.3222,0.3388,0.339,0.9774,3,High,6.597,False
+turmeric,Andhra Pradesh,Bapatla,Andhra Pradesh_Bapatla,High,High,High,1.0,0.9333,0.9971,0.3372,0.328,0.3347,0.9772,3,High,6.7943,False
+soyabean,Telangana,Suryapet,Telangana_Suryapet,High,High,High,1.0,0.93,0.9957,0.34,0.307,0.353,0.977,3,High,4.6838,False
+safflower,Uttar Pradesh,Ghazipur,Uttar Pradesh_Ghazipur,High,High,High,1.0,0.93,0.9979,0.3475,0.32,0.3325,0.9769,3,High,5.8017,False
+moong,Mizoram,Serchhip,Mizoram_Serchhip,High,High,High,1.0,0.93,0.9927,0.352,0.2937,0.3543,0.9768,3,High,7.7373,False
+groundnut,Telangana,Hanumakonda,Telangana_Hanumakonda,Medium,Medium,Medium,1.0,0.93,0.9981,0.3345,0.3232,0.3423,0.9767,3,Medium,4.707,False
+turmeric,Andhra Pradesh,Palnadu,Andhra Pradesh_Palnadu,High,High,High,1.0,0.9333,0.9958,0.3372,0.328,0.3347,0.9767,3,High,5.0763,False
+potato,Tamil Nadu,Thanjavur,Tamil Nadu_Thanjavur,High,High,High,1.0,0.9233,0.9986,0.3531,0.299,0.348,0.9766,3,High,8.9302,False
+linseed,Haryana,Bhiwani,Haryana_Bhiwani,High,High,High,1.0,0.9333,0.9965,0.3244,0.3356,0.34,0.9764,3,High,6.9211,False
+potato,Punjab,Bathinda,Punjab_Bathinda,High,High,High,1.0,0.9233,0.9982,0.3531,0.299,0.348,0.9764,3,High,7.3347,False
+other_rabi_pulses,Manipur,Tengnoupal,Manipur_Tengnoupal,High,High,High,1.0,0.93,0.9951,0.3453,0.3156,0.3391,0.9763,3,High,6.3664,False
+other_rabi_pulses,Haryana,Rohtak,Haryana_Rohtak,High,High,High,1.0,0.9367,0.9886,0.3453,0.3156,0.3391,0.9762,3,High,4.1841,False
+arhar_tur,Manipur,Kakching,Manipur_Kakching,High,High,High,1.0,0.9333,0.9866,0.3538,0.2885,0.3577,0.976,3,High,6.196,False
+horse_gram,Arunachal Pradesh,Longding,Arunachal Pradesh_Longding,High,High,High,1.0,0.9367,0.9938,0.319,0.3458,0.3352,0.976,3,High,7.9518,False
+moong,Mizoram,Khawzawl,Mizoram_Khawzawl,High,High,High,1.0,0.93,0.9904,0.352,0.2937,0.3543,0.976,3,High,7.8646,False
+sunflower,Tamil Nadu,Ranipet,Tamil Nadu_Ranipet,High,High,High,1.0,0.9333,0.9926,0.3358,0.3275,0.3367,0.9757,3,High,5.099,False
+other_cereals,Manipur,Senapati,Manipur_Senapati,High,High,High,1.0,0.93,0.9969,0.3222,0.3388,0.339,0.9752,3,High,5.9475,False
+turmeric,Andhra Pradesh,Sri Sathya Sai,Andhra Pradesh_Sri Sathya Sai,High,High,High,1.0,0.9267,0.9976,0.3372,0.328,0.3347,0.9752,3,High,5.7817,False
+coriander,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,1.0,0.9333,0.9915,0.3354,0.3301,0.3344,0.9751,3,High,7.3444,False
+gram,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.9233,0.9926,0.3609,0.2917,0.3474,0.9751,3,High,4.8933,False
+niger_seed,Nagaland,Chumoukedima,Nagaland_Chumoukedima,High,High,High,1.0,0.93,0.9942,0.3319,0.3296,0.3385,0.975,3,High,7.4629,False
+banana,Maharashtra,Nashik,Maharashtra_Nashik,High,High,High,1.0,0.9233,0.9989,0.3404,0.3245,0.3351,0.9748,3,High,5.2576,False
+other_rabi_pulses,Haryana,Jhajjar,Haryana_Jhajjar,High,High,High,1.0,0.93,0.9908,0.3453,0.3156,0.3391,0.9748,3,High,4.453,False
+ginger,Telangana,Nagarkurnool,Telangana_Nagarkurnool,High,High,High,1.0,0.9233,0.9988,0.337,0.329,0.334,0.9744,3,High,3.8562,False
+moong,Manipur,Kamjong,Manipur_Kamjong,High,High,High,1.0,0.9233,0.9911,0.352,0.2937,0.3543,0.9743,3,High,5.9158,False
+coriander,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.9233,0.9981,0.3354,0.3301,0.3344,0.9741,3,High,5.1371,False
+other_rabi_pulses,Haryana,Gurugram,Haryana_Gurugram,High,High,High,1.0,0.9267,0.9914,0.3453,0.3156,0.3391,0.9739,3,High,4.4018,False
+mesta,Assam,Tamulpur,Assam_Tamulpur,High,High,High,1.0,0.9233,0.9966,0.3354,0.3292,0.3354,0.9736,3,High,8.0475,False
+sugarcane,Rajasthan,Shahpura,Rajasthan_Shahpura,High,High,High,1.0,0.9333,0.9824,0.3445,0.3097,0.3457,0.9733,3,High,8.3257,False
+garlic,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,1.0,0.9233,0.9962,0.3318,0.3346,0.3336,0.9731,3,High,6.3597,False
+other_rabi_pulses,Manipur,Kakching,Manipur_Kakching,High,High,High,1.0,0.9267,0.9889,0.3453,0.3156,0.3391,0.9731,3,High,6.0257,False
+potato,Punjab,Sangrur,Punjab_Sangrur,High,High,High,1.0,0.9133,0.9973,0.3531,0.299,0.348,0.9731,3,High,5.5561,False
+banana,Uttar Pradesh,Bijnor,Uttar Pradesh_Bijnor,High,High,High,1.0,0.92,0.9961,0.3404,0.3245,0.3351,0.9727,3,High,5.7441,False
+linseed,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.9267,0.9906,0.3244,0.3356,0.34,0.9722,3,High,4.6295,False
+ginger,Telangana,Narayanpet,Telangana_Narayanpet,High,High,High,1.0,0.9267,0.9888,0.337,0.329,0.334,0.9721,3,High,5.2939,False
+sunflower,Madhya Pradesh,Morena,Madhya Pradesh_Morena,High,High,High,1.0,0.9167,0.998,0.3358,0.3275,0.3367,0.972,3,High,5.2089,False
+garlic,Punjab,Ludhiana,Punjab_Ludhiana,High,High,High,1.0,0.92,0.9956,0.3318,0.3346,0.3336,0.9718,3,High,6.1586,False
+other_rabi_pulses,Manipur,Kamjong,Manipur_Kamjong,High,High,High,1.0,0.9167,0.9945,0.3453,0.3156,0.3391,0.9718,3,High,5.5777,False
+turmeric,Punjab,Sangrur,Punjab_Sangrur,High,High,High,1.0,0.9233,0.9908,0.3372,0.328,0.3347,0.9718,3,High,6.135,False
+other_rabi_pulses,Rajasthan,Beawar,Rajasthan_Beawar,High,High,High,1.0,0.92,0.991,0.3453,0.3156,0.3391,0.9717,3,High,5.3795,False
+coriander,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.9167,0.9971,0.3354,0.3301,0.3344,0.9715,3,High,4.4401,False
+moong,Mizoram,Hnahthial,Mizoram_Hnahthial,High,High,High,1.0,0.9133,0.9913,0.352,0.2937,0.3543,0.9715,3,High,8.2742,False
+sugarcane,Jharkhand,Dhanbad,Jharkhand_Dhanbad,High,High,High,1.0,0.9167,0.991,0.3445,0.3097,0.3457,0.9711,3,High,4.0471,False
+other_kharif_pulses,Assam,Dima Hasao,Assam_Dima Hasao,High,High,High,1.0,0.9133,0.9932,0.3445,0.3083,0.3472,0.9709,3,High,6.139,False
+horse_gram,Arunachal Pradesh,Tirap,Arunachal Pradesh_Tirap,High,High,High,1.0,0.92,0.9947,0.319,0.3458,0.3352,0.9706,3,High,7.9546,False
+linseed,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,0.9167,0.9957,0.3244,0.3356,0.34,0.9706,3,High,6.2059,False
+turmeric,Arunachal Pradesh,Longding,Arunachal Pradesh_Longding,High,High,High,1.0,0.9167,0.9937,0.3372,0.328,0.3347,0.9706,3,High,5.291,False
+onion,Punjab,Mansa,Punjab_Mansa,High,High,High,1.0,0.9133,0.9966,0.3364,0.3266,0.3371,0.9705,3,High,6.1791,False
+safflower,Bihar,Madhubani,Bihar_Madhubani,High,High,High,1.0,0.9167,0.9914,0.3475,0.32,0.3325,0.9705,3,High,7.2129,False
+niger_seed,Nagaland,Peren,Nagaland_Peren,High,High,High,1.0,0.9267,0.9828,0.3319,0.3296,0.3385,0.97,3,High,8.6808,False
+masoor,Andhra Pradesh,Y.s.r.,Andhra Pradesh_Y.s.r.,High,High,High,1.0,0.9133,0.9933,0.3413,0.3225,0.3361,0.9698,3,High,9.2502,False
+garlic,Punjab,Barnala,Punjab_Barnala,High,High,High,1.0,0.9133,0.9961,0.3318,0.3346,0.3336,0.9697,3,High,6.2591,False
+other_cereals,Arunachal Pradesh,Namsai,Arunachal Pradesh_Namsai,High,High,High,1.0,0.9133,0.9973,0.3222,0.3388,0.339,0.9697,3,High,8.852,False
+banana,Haryana,Palwal,Haryana_Palwal,High,High,High,1.0,0.91,0.9963,0.3404,0.3245,0.3351,0.9696,3,High,5.4546,False
+mesta,Jharkhand,Giridih,Jharkhand_Giridih,High,High,High,1.0,0.91,0.9975,0.3354,0.3292,0.3354,0.9695,3,High,6.4749,False
+onion,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.91,0.9952,0.3364,0.3266,0.3371,0.969,3,High,4.7618,False
+other_rabi_pulses,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,0.9033,0.9967,0.3453,0.3156,0.3391,0.9684,3,High,4.8743,False
+potato,Punjab,Barnala,Punjab_Barnala,High,High,High,1.0,0.8967,0.9979,0.3531,0.299,0.348,0.9684,3,High,6.3504,False
+sweet_potato,Bihar,Kaimur (Bhabua),Bihar_Kaimur (Bhabua),High,High,High,1.0,0.9033,0.9985,0.3413,0.3236,0.3351,0.9682,3,High,3.8089,False
+banana,Haryana,Karnal,Haryana_Karnal,High,High,High,1.0,0.9067,0.9951,0.3404,0.3245,0.3351,0.9681,3,High,7.5439,False
+small_millets,Meghalaya,Eastern West Khasi Hills,Meghalaya_Eastern West Khasi Hills,High,High,High,1.0,0.9167,0.9855,0.3395,0.3237,0.3369,0.9681,3,High,7.0544,False
+sunflower,Rajasthan,Alwar,Rajasthan_Alwar,High,High,High,1.0,0.9067,0.9962,0.3358,0.3275,0.3367,0.9681,3,High,5.7716,False
+sunflower,Haryana,Gurugram,Haryana_Gurugram,High,High,High,1.0,0.9033,0.9987,0.3358,0.3275,0.3367,0.9679,3,High,4.423,False
+garlic,Punjab,Fatehgarh Sahib,Punjab_Fatehgarh Sahib,High,High,High,1.0,0.9067,0.9966,0.3318,0.3346,0.3336,0.9676,3,High,5.6684,False
+linseed,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.91,0.9929,0.3244,0.3356,0.34,0.9674,3,High,5.5923,False
+onion,Punjab,Sangrur,Punjab_Sangrur,High,High,High,1.0,0.91,0.9905,0.3364,0.3266,0.3371,0.9674,3,High,5.5917,False
+mesta,Telangana,Jangoan,Telangana_Jangoan,High,High,High,1.0,0.9033,0.9973,0.3354,0.3292,0.3354,0.9673,3,High,6.5744,False
+other_rabi_pulses,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.9233,0.9749,0.3453,0.3156,0.3391,0.9673,3,High,4.4554,False
+coriander,Punjab,Mansa,Punjab_Mansa,High,High,High,1.0,0.9067,0.9937,0.3354,0.3301,0.3344,0.9671,3,High,6.2427,False
+mesta,Jharkhand,Bokaro,Jharkhand_Bokaro,High,High,High,1.0,0.91,0.9902,0.3354,0.3292,0.3354,0.9671,3,High,6.0025,False
+horse_gram,Uttar Pradesh,Ballia,Uttar Pradesh_Ballia,High,High,High,1.0,0.9067,0.9978,0.319,0.3458,0.3352,0.967,3,High,8.8532,False
+other_rabi_pulses,Punjab,S.a.s Nagar,Punjab_S.a.s Nagar,High,High,High,1.0,0.9,0.9956,0.3453,0.3156,0.3391,0.9669,3,High,5.2001,False
+tobacco,Uttar Pradesh,Shravasti,Uttar Pradesh_Shravasti,High,High,High,1.0,0.9067,0.9955,0.3325,0.3388,0.3287,0.9669,3,High,4.1716,False
+rapeseed_and_mustard,Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,High,High,High,1.0,0.92,0.9793,0.3356,0.3275,0.3369,0.9668,3,High,6.5207,False
+peas_and_beans,Karnataka,Yadgir,Karnataka_Yadgir,High,High,High,1.0,0.8967,0.9989,0.3407,0.3185,0.3407,0.9667,3,High,7.6746,False
+coriander,Rajasthan,Shahpura,Rajasthan_Shahpura,High,High,High,1.0,0.9033,0.9951,0.3354,0.3301,0.3344,0.9665,3,High,7.7907,False
+other_rabi_pulses,Punjab,Bathinda,Punjab_Bathinda,High,High,High,1.0,0.9067,0.9879,0.3453,0.3156,0.3391,0.9665,3,High,7.4669,False
+other_cereals,Arunachal Pradesh,Changlang,Arunachal Pradesh_Changlang,High,High,High,1.0,0.9033,0.9975,0.3222,0.3388,0.339,0.9664,3,High,6.3336,False
+soyabean,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.8967,0.9943,0.34,0.307,0.353,0.9663,3,High,4.7488,False
+moong,Manipur,Kangpokpi,Manipur_Kangpokpi,High,High,High,1.0,0.8967,0.9904,0.352,0.2937,0.3543,0.9662,3,High,6.1679,False
+sweet_potato,Haryana,Palwal,Haryana_Palwal,High,High,High,1.0,0.9033,0.9924,0.3413,0.3236,0.3351,0.9662,3,High,3.5241,False
+safflower,Bihar,Jehanabad,Bihar_Jehanabad,High,High,High,1.0,0.9,0.9943,0.3475,0.32,0.3325,0.9661,3,High,5.7458,False
+sunflower,Punjab,Gurdaspur,Punjab_Gurdaspur,High,High,High,1.0,0.8967,0.9985,0.3358,0.3275,0.3367,0.9657,3,High,6.6842,False
+moong,Manipur,Pherzawl,Manipur_Pherzawl,High,High,High,1.0,0.8933,0.9912,0.352,0.2937,0.3543,0.9656,3,High,6.4072,False
+mesta,Uttar Pradesh,Maharajganj,Uttar Pradesh_Maharajganj,High,High,High,1.0,0.9,0.9954,0.3354,0.3292,0.3354,0.9655,3,High,6.9661,False
+other_rabi_pulses,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.9,0.991,0.3453,0.3156,0.3391,0.9654,3,High,4.141,False
+moong,Manipur,Tengnoupal,Manipur_Tengnoupal,High,High,High,1.0,0.8933,0.9901,0.352,0.2937,0.3543,0.9652,3,High,7.03,False
+mesta,Jharkhand,Saraikela Kharsawan,Jharkhand_Saraikela Kharsawan,High,High,High,1.0,0.8967,0.9968,0.3354,0.3292,0.3354,0.9649,3,High,5.5239,False
+other_rabi_pulses,Haryana,Rewari,Haryana_Rewari,High,High,High,1.0,0.9067,0.9832,0.3453,0.3156,0.3391,0.9648,3,High,5.5097,False
+sunflower,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,1.0,0.8933,0.9992,0.3358,0.3275,0.3367,0.9648,3,High,4.3414,False
+wheat,Rajasthan,Shahpura,Rajasthan_Shahpura,High,High,High,1.0,0.8967,0.9968,0.335,0.3299,0.335,0.9648,3,High,7.8903,False
+potato,Gujarat,Morbi,Gujarat_Morbi,High,High,High,1.0,0.8867,0.9958,0.3531,0.299,0.348,0.9647,3,High,6.6085,False
+sannhamp,Jharkhand,East Singhbum,Jharkhand_East Singhbum,High,High,High,1.0,0.9033,0.9919,0.3303,0.341,0.3288,0.9644,3,High,5.2559,False
+potato,Punjab,Tarn Taran,Punjab_Tarn Taran,High,High,High,1.0,0.8833,0.9975,0.3531,0.299,0.348,0.9643,3,High,6.7206,False
+sunflower,Punjab,Ferozepur,Punjab_Ferozepur,High,High,High,1.0,0.8933,0.9973,0.3358,0.3275,0.3367,0.9642,3,High,8.2298,False
+sunflower,Madhya Pradesh,Datia,Madhya Pradesh_Datia,High,High,High,1.0,0.8933,0.9967,0.3358,0.3275,0.3367,0.964,3,High,3.8515,False
+coriander,Punjab,Bathinda,Punjab_Bathinda,High,High,High,1.0,0.8967,0.9938,0.3354,0.3301,0.3344,0.9638,3,High,7.4047,False
+moong,Mizoram,Champhai,Mizoram_Champhai,High,High,High,1.0,0.8833,0.9943,0.352,0.2937,0.3543,0.9637,3,High,8.9145,False
+safflower,Bihar,Lakhisarai,Bihar_Lakhisarai,High,High,High,1.0,0.89,0.9961,0.3475,0.32,0.3325,0.9635,3,High,5.11,False
+barley,Rajasthan,Salumbar,Rajasthan_Salumbar,High,High,High,1.0,0.89,0.9958,0.3396,0.3208,0.3396,0.9633,3,High,5.523,False
+other_cereals,Arunachal Pradesh,Tirap,Arunachal Pradesh_Tirap,High,High,High,1.0,0.9,0.9914,0.3222,0.3388,0.339,0.9632,3,High,6.4637,False
+other_cereals,Andhra Pradesh,Chittoor,Andhra Pradesh_Chittoor,High,High,High,1.0,0.9067,0.9845,0.3222,0.3388,0.339,0.9631,3,High,4.1523,False
+potato,Andhra Pradesh,Tirupati,Andhra Pradesh_Tirupati,High,High,High,1.0,0.8867,0.9913,0.3531,0.299,0.348,0.9631,3,High,7.0483,False
+potato,Punjab,Ludhiana,Punjab_Ludhiana,High,High,High,1.0,0.88,0.9966,0.3531,0.299,0.348,0.963,3,High,6.0266,False
+sweet_potato,Punjab,Fatehgarh Sahib,Punjab_Fatehgarh Sahib,High,High,High,1.0,0.89,0.9959,0.3413,0.3236,0.3351,0.963,3,High,8.2897,False
+ginger,Manipur,Pherzawl,Manipur_Pherzawl,High,High,High,1.0,0.89,0.997,0.337,0.329,0.334,0.9628,3,High,7.3092,False
+sunflower,Bihar,Lakhisarai,Bihar_Lakhisarai,High,High,High,1.0,0.8867,0.9985,0.3358,0.3275,0.3367,0.9624,3,High,3.8137,False
+mesta,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.89,0.9956,0.3354,0.3292,0.3354,0.9623,3,High,6.1256,False
+peas_and_beans,Karnataka,Bagalkote,Karnataka_Bagalkote,High,High,High,1.0,0.8833,0.9981,0.3407,0.3185,0.3407,0.9622,3,High,7.3405,False
+onion,Punjab,Patiala,Punjab_Patiala,High,High,High,1.0,0.8867,0.9969,0.3364,0.3266,0.3371,0.962,3,High,4.953,False
+potato,Punjab,Amritsar,Punjab_Amritsar,High,High,High,1.0,0.8767,0.9965,0.3531,0.299,0.348,0.9619,3,High,6.3393,False
+garlic,Punjab,Moga,Punjab_Moga,High,High,High,1.0,0.89,0.9959,0.3318,0.3346,0.3336,0.9618,3,High,7.4255,False
+onion,Punjab,Bathinda,Punjab_Bathinda,High,High,High,1.0,0.8867,0.9964,0.3364,0.3266,0.3371,0.9618,3,High,7.3501,False
+sugarcane,Telangana,Mulugu,Telangana_Mulugu,High,High,High,1.0,0.88,0.9967,0.3445,0.3097,0.3457,0.9617,3,High,5.0031,False
+rapeseed_and_mustard,Rajasthan,Salumbar,Rajasthan_Salumbar,High,High,High,1.0,0.89,0.993,0.3356,0.3275,0.3369,0.9616,3,High,4.5933,False
+cowpea_lobia,Nagaland,Longleng,Nagaland_Longleng,High,High,High,1.0,0.89,0.9939,0.3351,0.3317,0.3333,0.9615,3,High,6.5622,False
+potato,Punjab,Moga,Punjab_Moga,High,High,High,1.0,0.8733,0.9975,0.3531,0.299,0.348,0.9612,3,High,7.3183,False
+garlic,Punjab,Jalandhar,Punjab_Jalandhar,High,High,High,1.0,0.8867,0.996,0.3318,0.3346,0.3336,0.9607,3,High,6.123,False
+safflower,Bihar,Purbi Champaran,Bihar_Purbi Champaran,High,High,High,1.0,0.89,0.9872,0.3475,0.32,0.3325,0.9606,3,High,4.6056,False
+coriander,Punjab,Sangrur,Punjab_Sangrur,High,High,High,1.0,0.8867,0.9937,0.3354,0.3301,0.3344,0.9605,3,High,5.7278,False
+potato,Punjab,Faridkot,Punjab_Faridkot,High,High,High,1.0,0.87,0.9979,0.3531,0.299,0.348,0.9604,3,High,8.2898,False
+potato,Punjab,Fatehgarh Sahib,Punjab_Fatehgarh Sahib,High,High,High,1.0,0.87,0.997,0.3531,0.299,0.348,0.9601,3,High,5.6273,False
+banana,Haryana,Panipat,Haryana_Panipat,High,High,High,1.0,0.8833,0.9936,0.3404,0.3245,0.3351,0.96,3,High,7.4603,False
+other_rabi_pulses,Haryana,Charki Dadri,Haryana_Charki Dadri,High,High,High,1.0,0.8867,0.9863,0.3453,0.3156,0.3391,0.9596,3,High,5.4672,False
+safflower,Bihar,Arwal,Bihar_Arwal,High,High,High,1.0,0.88,0.9932,0.3475,0.32,0.3325,0.9593,3,High,5.8394,False
+potato,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,1.0,0.8667,0.9969,0.3531,0.299,0.348,0.9591,3,High,6.2061,False
+other_cereals,Nagaland,Shamator,Nagaland_Shamator,High,High,High,1.0,0.8867,0.9918,0.3222,0.3388,0.339,0.9588,3,High,6.8482,False
+turmeric,Haryana,Rohtak,Haryana_Rohtak,High,High,High,1.0,0.9033,0.971,0.3372,0.328,0.3347,0.9586,3,High,4.3546,False
+other_rabi_pulses,Punjab,Mansa,Punjab_Mansa,High,High,High,1.0,0.8833,0.9862,0.3453,0.3156,0.3391,0.9585,3,High,6.3885,False
+urad,Manipur,Kangpokpi,Manipur_Kangpokpi,High,High,High,1.0,0.8767,0.9924,0.3411,0.3164,0.3426,0.9584,3,High,5.9099,False
+other_cereals,Meghalaya,West Jaintia Hills,Meghalaya_West Jaintia Hills,High,High,High,1.0,0.8833,0.9935,0.3222,0.3388,0.339,0.9583,3,High,8.3367,False
+sannhamp,West Bengal,Paschim Bardhaman,West Bengal_Paschim Bardhaman,High,High,High,1.0,0.8833,0.9942,0.3303,0.341,0.3288,0.9583,3,High,5.6598,False
+garlic,Punjab,Ferozepur,Punjab_Ferozepur,High,High,High,1.0,0.88,0.995,0.3318,0.3346,0.3336,0.9582,3,High,8.1632,False
+garlic,Punjab,Faridkot,Punjab_Faridkot,High,High,High,1.0,0.88,0.9945,0.3318,0.3346,0.3336,0.958,3,High,8.187,False
+turmeric,Punjab,Barnala,Punjab_Barnala,High,High,High,1.0,0.8867,0.9852,0.3372,0.328,0.3347,0.9579,3,High,6.9325,False
+horse_gram,Bihar,Purbi Champaran,Bihar_Purbi Champaran,High,High,High,1.0,0.88,0.9978,0.319,0.3458,0.3352,0.9578,3,High,4.3555,False
+potato,Punjab,Ferozepur,Punjab_Ferozepur,High,High,High,1.0,0.86,0.9982,0.3531,0.299,0.348,0.9575,3,High,8.1069,False
+other_rabi_pulses,Haryana,Mahendragarh,Haryana_Mahendragarh,High,High,High,1.0,0.8833,0.9824,0.3453,0.3156,0.3391,0.9572,3,High,5.7521,False
+potato,Punjab,Shahid Bhagat Singh Nagar,Punjab_Shahid Bhagat Singh Nagar,High,High,High,1.0,0.87,0.9887,0.3531,0.299,0.348,0.9572,3,High,6.0413,False
+other_cereals,Meghalaya,Ri Bhoi,Meghalaya_Ri Bhoi,High,High,High,1.0,0.88,0.9932,0.3222,0.3388,0.339,0.957,3,High,7.9123,False
+other_kharif_pulses,Meghalaya,Ri Bhoi,Meghalaya_Ri Bhoi,High,High,High,1.0,0.8633,0.9972,0.3445,0.3083,0.3472,0.9569,3,High,6.5959,False
+linseed,Haryana,Mahendragarh,Haryana_Mahendragarh,High,High,High,1.0,0.88,0.9908,0.3244,0.3356,0.34,0.9566,3,High,6.5177,False
+turmeric,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,1.0,0.8833,0.9848,0.3372,0.328,0.3347,0.9566,3,High,6.9226,False
+sunflower,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.87,0.9971,0.3358,0.3275,0.3367,0.9565,3,High,4.6113,False
+turmeric,Manipur,Kakching,Manipur_Kakching,High,High,High,1.0,0.89,0.9767,0.3372,0.328,0.3347,0.9561,3,High,7.3425,False
+peas_and_beans,Telangana,Wanaparthy,Telangana_Wanaparthy,High,High,High,1.0,0.8633,0.9985,0.3407,0.3185,0.3407,0.9559,3,High,7.1171,False
+garlic,Punjab,Sri Muktsar Sahib,Punjab_Sri Muktsar Sahib,High,High,High,1.0,0.88,0.9879,0.3318,0.3346,0.3336,0.9558,3,High,8.9274,False
+potato,Punjab,Jalandhar,Punjab_Jalandhar,High,High,High,1.0,0.8567,0.9962,0.3531,0.299,0.348,0.9558,3,High,5.9298,False
+linseed,Rajasthan,Dudu,Rajasthan_Dudu,High,High,High,1.0,0.88,0.9883,0.3244,0.3356,0.34,0.9557,3,High,5.1417,False
+sunflower,Haryana,Jhajjar,Haryana_Jhajjar,High,High,High,1.0,0.8667,0.9981,0.3358,0.3275,0.3367,0.9557,3,High,4.5135,False
+other_rabi_pulses,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.8733,0.9868,0.3453,0.3156,0.3391,0.9555,3,High,5.3652,False
+turmeric,Andhra Pradesh,Ntr,Andhra Pradesh_Ntr,High,High,High,1.0,0.8767,0.988,0.3372,0.328,0.3347,0.9555,3,High,4.7278,False
+urad,Bihar,Sheohar,Bihar_Sheohar,High,High,High,1.0,0.8733,0.9867,0.3411,0.3164,0.3426,0.9554,3,High,4.1988,False
+turmeric,Punjab,Patiala,Punjab_Patiala,High,High,High,1.0,0.8767,0.9875,0.3372,0.328,0.3347,0.9553,3,High,5.3745,False
+onion,Punjab,Barnala,Punjab_Barnala,High,High,High,1.0,0.87,0.9912,0.3364,0.3266,0.3371,0.9546,3,High,6.3418,False
+garlic,Punjab,Tarn Taran,Punjab_Tarn Taran,High,High,High,1.0,0.87,0.994,0.3318,0.3346,0.3336,0.9545,3,High,7.0625,False
+other_cereals,Arunachal Pradesh,Lohit,Arunachal Pradesh_Lohit,High,High,High,1.0,0.87,0.9958,0.3222,0.3388,0.339,0.9545,3,High,7.3842,False
+other_rabi_pulses,Punjab,Rupnagar,Punjab_Rupnagar,High,High,High,1.0,0.88,0.9775,0.3453,0.3156,0.3391,0.9545,3,High,4.8492,False
+bajra,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.8667,0.992,0.3346,0.3212,0.3441,0.9544,3,High,5.0097,False
+onion,Andhra Pradesh,Bapatla,Andhra Pradesh_Bapatla,High,High,High,1.0,0.8633,0.997,0.3364,0.3266,0.3371,0.9543,3,High,6.1521,False
+other_rabi_pulses,Haryana,Fatehabad,Haryana_Fatehabad,High,High,High,1.0,0.8767,0.979,0.3453,0.3156,0.3391,0.9539,3,High,6.0501,False
+sunflower,Andhra Pradesh,Kakinada,Andhra Pradesh_Kakinada,High,High,High,1.0,0.8733,0.9852,0.3358,0.3275,0.3367,0.9535,3,High,9.2317,False
+niger_seed,Arunachal Pradesh,Namsai,Arunachal Pradesh_Namsai,High,High,High,1.0,0.8633,0.9953,0.3319,0.3296,0.3385,0.9534,3,High,8.3195,False
+ginger,Telangana,Wanaparthy,Telangana_Wanaparthy,High,High,High,1.0,0.8733,0.9851,0.337,0.329,0.334,0.9533,3,High,4.7281,False
+horse_gram,Bihar,Gopalganj,Bihar_Gopalganj,High,High,High,1.0,0.8667,0.9982,0.319,0.3458,0.3352,0.9533,3,High,5.9568,False
+peas_and_beans,Telangana,Nagarkurnool,Telangana_Nagarkurnool,High,High,High,1.0,0.8533,0.9986,0.3407,0.3185,0.3407,0.9528,3,High,6.2526,False
+other_rabi_pulses,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,0.8667,0.9842,0.3453,0.3156,0.3391,0.9526,3,High,5.8555,False
+coriander,Punjab,Patiala,Punjab_Patiala,High,High,High,1.0,0.8633,0.9925,0.3354,0.3301,0.3344,0.9524,3,High,5.3262,False
+onion,Andhra Pradesh,Palnadu,Andhra Pradesh_Palnadu,High,High,High,1.0,0.8567,0.9972,0.3364,0.3266,0.3371,0.9523,3,High,4.971,False
+linseed,Haryana,Charki Dadri,Haryana_Charki Dadri,High,High,High,1.0,0.8667,0.9904,0.3244,0.3356,0.34,0.952,3,High,6.1344,False
+banana,Haryana,Faridabad,Haryana_Faridabad,High,High,High,1.0,0.8567,0.9953,0.3404,0.3245,0.3351,0.9519,3,High,5.4195,False
+mesta,Uttar Pradesh,Basti,Uttar Pradesh_Basti,High,High,High,1.0,0.86,0.994,0.3354,0.3292,0.3354,0.9519,3,High,6.6889,False
+potato,Tamil Nadu,Tenkasi,Tamil Nadu_Tenkasi,High,High,High,1.0,0.8867,0.9588,0.3531,0.299,0.348,0.9518,3,High,8.8332,False
+coriander,Punjab,Faridkot,Punjab_Faridkot,High,High,High,1.0,0.86,0.9925,0.3354,0.3301,0.3344,0.9513,3,High,8.5688,False
+other_rabi_pulses,Manipur,Kangpokpi,Manipur_Kangpokpi,High,High,High,1.0,0.8633,0.9827,0.3453,0.3156,0.3391,0.951,3,High,5.8813,False
+peas_and_beans,Andhra Pradesh,Nandyal,Andhra Pradesh_Nandyal,High,High,High,1.0,0.85,0.9956,0.3407,0.3185,0.3407,0.9507,3,High,8.1993,False
+linseed,Arunachal Pradesh,Longding,Arunachal Pradesh_Longding,High,High,High,1.0,0.86,0.9929,0.3244,0.3356,0.34,0.9506,3,High,6.6724,False
+moong,Manipur,Noney,Manipur_Noney,High,High,High,1.0,0.8467,0.9874,0.352,0.2937,0.3543,0.9505,3,High,5.8122,False
+onion,Punjab,Faridkot,Punjab_Faridkot,High,High,High,1.0,0.8533,0.9954,0.3364,0.3266,0.3371,0.9505,3,High,8.3628,False
+other_cereals,Manipur,Tamenglong,Manipur_Tamenglong,High,High,High,1.0,0.86,0.9935,0.3222,0.3388,0.339,0.9504,3,High,7.6347,False
+sugarcane,Gujarat,Patan,Gujarat_Patan,High,High,High,1.0,0.8433,0.9964,0.3445,0.3097,0.3457,0.9502,3,High,7.6857,False
+other_cereals,Nagaland,Noklak,Nagaland_Noklak,High,High,High,1.0,0.8667,0.9859,0.3222,0.3388,0.339,0.95,3,High,7.0475,False
+coriander,Punjab,Barnala,Punjab_Barnala,High,High,High,1.0,0.8567,0.9917,0.3354,0.3301,0.3344,0.9499,3,High,6.5463,False
+turmeric,Punjab,Ludhiana,Punjab_Ludhiana,High,High,High,1.0,0.86,0.9877,0.3372,0.328,0.3347,0.9499,3,High,6.6387,False
+horse_gram,Uttar Pradesh,Kushi Nagar,Uttar Pradesh_Kushi Nagar,High,High,High,1.0,0.8567,0.9975,0.319,0.3458,0.3352,0.9496,3,High,6.2396,False
+horse_gram,Uttar Pradesh,Maharajganj,Uttar Pradesh_Maharajganj,High,High,High,1.0,0.8567,0.9961,0.319,0.3458,0.3352,0.9491,3,High,6.0758,False
+banana,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,1.0,0.8467,0.9961,0.3404,0.3245,0.3351,0.9489,3,High,6.5784,False
+horse_gram,Uttar Pradesh,Ghazipur,Uttar Pradesh_Ghazipur,High,High,High,1.0,0.8567,0.9955,0.319,0.3458,0.3352,0.9489,3,High,6.0432,False
+safflower,Uttar Pradesh,Azamgarh,Uttar Pradesh_Azamgarh,High,High,High,1.0,0.8433,0.9972,0.3475,0.32,0.3325,0.9489,3,High,7.7265,False
+sannhamp,Odisha,Boudh,Odisha_Boudh,High,High,High,1.0,0.86,0.9894,0.3303,0.341,0.3288,0.9488,3,High,4.8496,False
+other_cereals,Assam,Dima Hasao,Assam_Dima Hasao,High,High,High,1.0,0.8533,0.9952,0.3222,0.3388,0.339,0.9487,3,High,8.7114,False
+other_rabi_pulses,Meghalaya,West Jaintia Hills,Meghalaya_West Jaintia Hills,High,High,High,1.0,0.8533,0.9854,0.3453,0.3156,0.3391,0.9487,3,High,4.5458,False
+sweet_potato,Haryana,Yamunanagar,Haryana_Yamunanagar,High,High,High,1.0,0.8733,0.9676,0.3413,0.3236,0.3351,0.9482,3,High,7.5604,False
+masoor,Karnataka,Kolar,Karnataka_Kolar,High,High,High,1.0,0.8433,0.996,0.3413,0.3225,0.3361,0.9481,3,High,8.0628,False
+other_rabi_pulses,Haryana,Hisar,Haryana_Hisar,High,High,High,1.0,0.8633,0.9733,0.3453,0.3156,0.3391,0.9478,3,High,5.7518,False
+potato,Punjab,Kapurthala,Punjab_Kapurthala,High,High,High,1.0,0.83,0.9962,0.3531,0.299,0.348,0.9478,3,High,6.1747,False
+groundnut,Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,Medium,Medium,Medium,1.0,0.8633,0.9756,0.3345,0.3232,0.3423,0.9475,3,Medium,6.1623,False
+wheat,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,0.9167,0.93,0.995,0.335,0.3299,0.335,0.9473,3,High,4.3477,False
+garlic,Punjab,Kapurthala,Punjab_Kapurthala,High,High,High,1.0,0.8467,0.995,0.3318,0.3346,0.3336,0.947,3,High,6.4455,False
+wheat,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,1.0,0.8733,0.9666,0.335,0.3299,0.335,0.947,3,High,7.7109,False
+onion,Punjab,Sri Muktsar Sahib,Punjab_Sri Muktsar Sahib,High,High,High,1.0,0.8433,0.9937,0.3364,0.3266,0.3371,0.9467,3,High,9.3559,False
+safflower,Uttar Pradesh,Mau,Uttar Pradesh_Mau,High,High,High,1.0,0.8333,0.9985,0.3475,0.32,0.3325,0.9462,3,High,7.7035,False
+sunflower,Madhya Pradesh,Niwari,Madhya Pradesh_Niwari,High,High,High,1.0,0.85,0.9856,0.3358,0.3275,0.3367,0.946,3,High,4.2816,False
+sannhamp,Jharkhand,Saraikela Kharsawan,Jharkhand_Saraikela Kharsawan,High,High,High,1.0,0.8467,0.9941,0.3303,0.341,0.3288,0.9458,3,High,5.1268,False
+mesta,Bihar,Sheikhpura,Bihar_Sheikhpura,High,High,High,1.0,0.88,0.9558,0.3354,0.3292,0.3354,0.9457,3,High,4.2609,False
+safflower,Uttar Pradesh,Gonda,Uttar Pradesh_Gonda,High,High,High,1.0,0.8433,0.9872,0.3475,0.32,0.3325,0.9456,3,High,7.4041,False
+sunflower,Punjab,Faridkot,Punjab_Faridkot,High,High,High,1.0,0.8367,0.9971,0.3358,0.3275,0.3367,0.9455,3,High,8.8137,False
+onion,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,1.0,0.84,0.9931,0.3364,0.3266,0.3371,0.9454,3,High,6.2596,False
+rice,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.84,0.9895,0.3432,0.3191,0.3377,0.9454,3,High,4.7282,False
+barley,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,High,High,High,0.8793,0.96,0.9971,0.3396,0.3208,0.3396,0.9452,3,High,5.9752,False
+turmeric,Nagaland,Tseminyu,Nagaland_Tseminyu,High,High,High,1.0,0.8467,0.9861,0.3372,0.328,0.3347,0.945,3,High,5.2171,False
+garlic,Punjab,Amritsar,Punjab_Amritsar,High,High,High,1.0,0.84,0.9954,0.3318,0.3346,0.3336,0.9449,3,High,6.6002,False
+other_rabi_pulses,West Bengal,Dinajpur Uttar,West Bengal_Dinajpur Uttar,High,High,High,1.0,0.87,0.9584,0.3453,0.3156,0.3391,0.9449,3,High,6.0671,False
+sunflower,Jammu & Kashmir,Samba,Jammu & Kashmir_Samba,High,High,High,1.0,0.8367,0.9952,0.3358,0.3275,0.3367,0.9449,3,High,9.4273,False
+safflower,Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh_Ambedkar Nagar,High,High,High,1.0,0.83,0.997,0.3475,0.32,0.3325,0.9446,3,High,7.1269,False
+safflower,Uttar Pradesh,Basti,Uttar Pradesh_Basti,High,High,High,1.0,0.8367,0.9903,0.3475,0.32,0.3325,0.9445,3,High,6.7878,False
+gram,Haryana,Palwal,Haryana_Palwal,High,High,High,1.0,0.84,0.9737,0.3609,0.2917,0.3474,0.9442,3,High,3.2984,False
+onion,Andhra Pradesh,Ntr,Andhra Pradesh_Ntr,High,High,High,1.0,0.8367,0.9913,0.3364,0.3266,0.3371,0.9437,3,High,4.8936,False
+coriander,Punjab,Sri Muktsar Sahib,Punjab_Sri Muktsar Sahib,High,High,High,1.0,0.8433,0.9861,0.3354,0.3301,0.3344,0.9436,3,High,9.0276,False
+onion,Punjab,Moga,Punjab_Moga,High,High,High,1.0,0.8333,0.9936,0.3364,0.3266,0.3371,0.9434,3,High,7.2936,False
+coriander,Punjab,Moga,Punjab_Moga,High,High,High,1.0,0.8367,0.9912,0.3354,0.3301,0.3344,0.9431,3,High,7.7606,False
+garlic,Punjab,Shahid Bhagat Singh Nagar,Punjab_Shahid Bhagat Singh Nagar,High,High,High,1.0,0.8433,0.9865,0.3318,0.3346,0.3336,0.9431,3,High,6.1452,False
+barley,Gujarat,Banas Kantha,Gujarat_Banas Kantha,High,High,High,1.0,0.8267,0.9948,0.3396,0.3208,0.3396,0.9426,3,High,8.9346,False
+peas_and_beans,Telangana,Jogulamba Gadwal,Telangana_Jogulamba Gadwal,High,High,High,1.0,0.8233,0.9947,0.3407,0.3185,0.3407,0.9419,3,High,8.2895,False
+banana,Haryana,Sonipat,Haryana_Sonipat,High,High,High,1.0,0.83,0.9901,0.3404,0.3245,0.3351,0.9415,3,High,7.0446,False
+sunflower,Himachal Pradesh,Bilaspur,Himachal Pradesh_Bilaspur,High,High,High,1.0,0.8267,0.9943,0.3358,0.3275,0.3367,0.9413,3,High,6.304,False
+rice,Haryana,Mahendragarh,Haryana_Mahendragarh,High,High,High,1.0,0.85,0.9668,0.3432,0.3191,0.3377,0.9409,3,High,5.3812,False
+safflower,Uttar Pradesh,Ayodhya,Uttar Pradesh_Ayodhya,High,High,High,1.0,0.82,0.9951,0.3475,0.32,0.3325,0.9408,3,High,6.9167,False
+sunflower,Punjab,Mansa,Punjab_Mansa,High,High,High,1.0,0.8267,0.9917,0.3358,0.3275,0.3367,0.9404,3,High,6.9972,False
+turmeric,Punjab,Moga,Punjab_Moga,High,High,High,1.0,0.8333,0.9853,0.3372,0.328,0.3347,0.9404,3,High,8.012,False
+linseed,Punjab,S.a.s Nagar,Punjab_S.a.s Nagar,High,High,High,1.0,0.83,0.992,0.3244,0.3356,0.34,0.9402,3,High,6.4144,False
+turmeric,Arunachal Pradesh,Kamle,Arunachal Pradesh_Kamle,High,High,High,1.0,0.8367,0.9797,0.3372,0.328,0.3347,0.9396,3,High,6.0964,False
+horse_gram,Uttar Pradesh,Basti,Uttar Pradesh_Basti,High,High,High,1.0,0.8267,0.9983,0.319,0.3458,0.3352,0.9395,3,High,7.7382,False
+potato,Gujarat,Junagadh,Gujarat_Junagadh,High,High,High,1.0,0.8067,0.9918,0.3531,0.299,0.348,0.9393,3,High,6.0287,False
+safflower,Uttar Pradesh,Kushi Nagar,Uttar Pradesh_Kushi Nagar,High,High,High,1.0,0.8267,0.984,0.3475,0.32,0.3325,0.9392,3,High,5.8422,False
+potato,Gujarat,Bhavnagar,Gujarat_Bhavnagar,High,High,High,1.0,0.8,0.9967,0.3531,0.299,0.348,0.9391,3,High,7.6543,False
+ginger,Tamil Nadu,Perambalur,Tamil Nadu_Perambalur,High,High,High,1.0,0.8233,0.9911,0.337,0.329,0.334,0.9389,3,High,7.1351,False
+peas_and_beans,Telangana,Mahabubnagar,Telangana_Mahabubnagar,High,High,High,1.0,0.8067,0.9991,0.3407,0.3185,0.3407,0.9381,3,High,7.2281,False
+coriander,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,1.0,0.82,0.9913,0.3354,0.3301,0.3344,0.9376,3,High,6.8489,False
+other_cereals,Tamil Nadu,Kanniyakumari,Tamil Nadu_Kanniyakumari,High,High,High,1.0,0.82,0.9951,0.3222,0.3388,0.339,0.9373,3,High,7.4015,False
+other_rabi_pulses,Rajasthan,Jaipur Gramin,Rajasthan_Jaipur Gramin,High,High,High,1.0,0.8467,0.957,0.3453,0.3156,0.3391,0.937,3,High,4.5819,False
+sweet_potato,Bihar,Sheikhpura,Bihar_Sheikhpura,High,High,High,1.0,0.81,0.9945,0.3413,0.3236,0.3351,0.9367,3,High,4.7829,False
+peas_and_beans,Telangana,Narayanpet,Telangana_Narayanpet,High,High,High,1.0,0.8067,0.9941,0.3407,0.3185,0.3407,0.9364,3,High,7.6649,False
+sesamum,Arunachal Pradesh,Longding,Arunachal Pradesh_Longding,High,High,High,1.0,0.8267,0.9811,0.339,0.3313,0.3297,0.9363,3,High,5.6875,False
+sweet_potato,Bihar,Lakhisarai,Bihar_Lakhisarai,High,High,High,1.0,0.8067,0.9963,0.3413,0.3236,0.3351,0.9362,3,High,3.8088,False
+safflower,Bihar,Kaimur (Bhabua),Bihar_Kaimur (Bhabua),High,High,High,1.0,0.82,0.9778,0.3475,0.32,0.3325,0.935,3,High,5.0863,False
+potato,Punjab,S.a.s Nagar,Punjab_S.a.s Nagar,High,High,High,1.0,0.79,0.9924,0.3531,0.299,0.348,0.9346,3,High,5.1433,False
+coriander,Punjab,Ludhiana,Punjab_Ludhiana,High,High,High,1.0,0.81,0.9917,0.3354,0.3301,0.3344,0.9345,3,High,6.7313,False
+mesta,Uttar Pradesh,Siddharth Nagar,Uttar Pradesh_Siddharth Nagar,High,High,High,1.0,0.8067,0.9935,0.3354,0.3292,0.3354,0.9342,3,High,7.7067,False
+horse_gram,Uttar Pradesh,Gonda,Uttar Pradesh_Gonda,High,High,High,1.0,0.8133,0.9961,0.319,0.3458,0.3352,0.9341,3,High,5.734,False
+other_cereals,Assam,West Karbi Anglong,Assam_West Karbi Anglong,High,High,High,1.0,0.81,0.9956,0.3222,0.3388,0.339,0.9341,3,High,8.1342,False
+garlic,Uttarakhand,Haridwar,Uttarakhand_Haridwar,High,High,High,1.0,0.8167,0.9861,0.3318,0.3346,0.3336,0.934,3,High,4.4443,False
+moong,Arunachal Pradesh,Shi Yomi,Arunachal Pradesh_Shi Yomi,High,High,High,1.0,0.8167,0.9658,0.352,0.2937,0.3543,0.934,3,High,8.317,False
+horse_gram,Manipur,Tamenglong,Manipur_Tamenglong,High,High,High,1.0,0.8133,0.9954,0.319,0.3458,0.3352,0.9339,3,High,8.2341,False
+other_oilseeds,Andhra Pradesh,Bapatla,Andhra Pradesh_Bapatla,High,High,High,0.8713,0.94,0.9889,0.3304,0.3357,0.3339,0.9336,3,High,5.6457,False
+safflower,Telangana,Jayashankar Bhupalapally,Telangana_Jayashankar Bhupalapally,High,High,High,1.0,0.81,0.9824,0.3475,0.32,0.3325,0.9333,3,High,4.4267,False
+other_rabi_pulses,Meghalaya,Eastern West Khasi Hills,Meghalaya_Eastern West Khasi Hills,High,High,High,1.0,0.81,0.9782,0.3453,0.3156,0.3391,0.9326,3,High,7.5342,False
+horse_gram,Uttar Pradesh,Siddharth Nagar,Uttar Pradesh_Siddharth Nagar,High,High,High,1.0,0.8067,0.998,0.319,0.3458,0.3352,0.9325,3,High,7.0241,False
+safflower,Uttar Pradesh,Siddharth Nagar,Uttar Pradesh_Siddharth Nagar,High,High,High,1.0,0.7933,0.9951,0.3475,0.32,0.3325,0.9322,3,High,8.2218,False
+masoor,Tamil Nadu,Tenkasi,Tamil Nadu_Tenkasi,High,High,High,1.0,0.81,0.9804,0.3413,0.3225,0.3361,0.9321,3,High,8.3385,False
+banana,Uttar Pradesh,Saharanpur,Uttar Pradesh_Saharanpur,High,High,High,1.0,0.7933,0.9957,0.3404,0.3245,0.3351,0.9315,3,High,7.1443,False
+horse_gram,Uttar Pradesh,Mau,Uttar Pradesh_Mau,High,High,High,1.0,0.8033,0.9984,0.319,0.3458,0.3352,0.9315,3,High,8.3989,False
+turmeric,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.83,0.9614,0.3372,0.328,0.3347,0.9313,3,High,4.7741,False
+sesamum,Arunachal Pradesh,Tirap,Arunachal Pradesh_Tirap,High,High,High,1.0,0.81,0.9822,0.339,0.3313,0.3297,0.9312,3,High,5.6198,False
+horse_gram,Nagaland,Shamator,Nagaland_Shamator,High,High,High,1.0,0.84,0.9593,0.319,0.3458,0.3352,0.931,3,High,8.0499,False
+ginger,Maharashtra,Latur,Maharashtra_Latur,High,High,High,1.0,0.81,0.9802,0.337,0.329,0.334,0.9309,3,High,5.3659,False
+coriander,Punjab,Ferozepur,Punjab_Ferozepur,High,High,High,1.0,0.83,0.961,0.3354,0.3301,0.3344,0.9308,3,High,8.5086,False
+tobacco,Telangana,Mancherial,Telangana_Mancherial,High,High,High,1.0,0.81,0.9853,0.3325,0.3388,0.3287,0.9308,3,High,4.1153,False
+banana,Haryana,Nuh,Haryana_Nuh,High,High,High,1.0,0.7967,0.9901,0.3404,0.3245,0.3351,0.9307,3,High,6.676,False
+linseed,Punjab,Ludhiana,Punjab_Ludhiana,High,High,High,1.0,0.8067,0.9864,0.3244,0.3356,0.34,0.9305,3,High,6.9166,False
+bajra,Uttar Pradesh,Shamli,Uttar Pradesh_Shamli,High,High,High,1.0,0.81,0.9746,0.3346,0.3212,0.3441,0.9302,3,High,3.9071,False
+dry_chillies,Punjab,Mansa,Punjab_Mansa,High,High,High,1.0,0.8267,0.951,0.3428,0.3021,0.3551,0.9302,3,High,6.0136,False
+potato,Punjab,Gurdaspur,Punjab_Gurdaspur,High,High,High,1.0,0.77,0.9969,0.3531,0.299,0.348,0.9302,3,High,6.0408,False
+coriander,Assam,Udalguri,Assam_Udalguri,High,High,High,1.0,0.8,0.9873,0.3354,0.3301,0.3344,0.9297,3,High,9.6206,False
+barley,Rajasthan,Didwana Kuchaman,Rajasthan_Didwana Kuchaman,High,High,High,0.8498,0.9433,0.9964,0.3396,0.3208,0.3396,0.9296,3,High,6.4112,False
+niger_seed,Meghalaya,West Khasi Hills,Meghalaya_West Khasi Hills,High,High,High,1.0,0.86,0.9284,0.3319,0.3296,0.3385,0.9296,3,High,8.5783,False
+sesamum,Assam,Tamulpur,Assam_Tamulpur,High,High,High,1.0,0.81,0.9764,0.339,0.3313,0.3297,0.9293,3,High,6.6681,False
+niger_seed,Odisha,Khordha,Odisha_Khordha,High,High,High,1.0,0.81,0.9748,0.3319,0.3296,0.3385,0.9289,3,High,6.9071,False
+onion,Punjab,Ludhiana,Punjab_Ludhiana,High,High,High,1.0,0.7933,0.9875,0.3364,0.3266,0.3371,0.9283,3,High,5.9875,False
+banana,Madhya Pradesh,Alirajpur,Madhya Pradesh_Alirajpur,High,High,High,0.84,0.9467,0.9983,0.3404,0.3245,0.3351,0.9277,3,High,3.985,False
+horse_gram,Manipur,Senapati,Manipur_Senapati,High,High,High,1.0,0.8,0.9904,0.319,0.3458,0.3352,0.9276,3,High,8.0984,False
+sannhamp,Andhra Pradesh,Parvathipuram Manyam,Andhra Pradesh_Parvathipuram Manyam,High,High,High,1.0,0.8033,0.9838,0.3303,0.341,0.3288,0.9276,3,High,6.3785,False
+linseed,Haryana,Hisar,Haryana_Hisar,High,High,High,1.0,0.79,0.9935,0.3244,0.3356,0.34,0.9273,3,High,6.7016,False
+masoor,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,1.0,0.7833,0.9916,0.3413,0.3225,0.3361,0.9273,3,High,7.9227,False
+other_cereals,Manipur,Kangpokpi,Manipur_Kangpokpi,High,High,High,1.0,0.8033,0.9818,0.3222,0.3388,0.339,0.9272,3,High,8.6999,False
+coriander,Assam,Cachar,Assam_Cachar,High,High,High,1.0,0.7867,0.9923,0.3354,0.3301,0.3344,0.927,3,High,7.6106,False
+gram,Andhra Pradesh,Eluru,Andhra Pradesh_Eluru,High,High,High,1.0,0.77,0.9826,0.3609,0.2917,0.3474,0.9269,3,High,6.0776,False
+sannhamp,West Bengal,Nadia,West Bengal_Nadia,High,High,High,1.0,0.7967,0.9883,0.3303,0.341,0.3288,0.9268,3,High,7.8028,False
+safflower,Uttar Pradesh,Maharajganj,Uttar Pradesh_Maharajganj,High,High,High,1.0,0.7767,0.9946,0.3475,0.32,0.3325,0.9267,3,High,8.2068,False
+sunflower,Punjab,Bathinda,Punjab_Bathinda,High,High,High,1.0,0.79,0.9865,0.3358,0.3275,0.3367,0.9267,3,High,8.1285,False
+ginger,Mizoram,Kolasib,Mizoram_Kolasib,High,High,High,1.0,0.8067,0.9707,0.337,0.329,0.334,0.9266,3,High,8.2979,False
+niger_seed,Nagaland,Longleng,Nagaland_Longleng,High,High,High,0.8936,0.9267,0.9585,0.3319,0.3296,0.3385,0.9265,3,High,6.5859,False
+peas_and_beans,Maharashtra,Sangli,Maharashtra_Sangli,High,High,High,1.0,0.7833,0.987,0.3407,0.3185,0.3407,0.9265,3,High,8.574,False
+banana,Uttarakhand,Haridwar,Uttarakhand_Haridwar,High,High,High,1.0,0.7767,0.9966,0.3404,0.3245,0.3351,0.9264,3,High,6.7775,False
+safflower,Uttar Pradesh,Sultanpur,Uttar Pradesh_Sultanpur,High,High,High,1.0,0.7833,0.9869,0.3475,0.32,0.3325,0.9263,3,High,5.7137,False
+turmeric,Manipur,Kamjong,Manipur_Kamjong,High,High,High,1.0,0.79,0.9856,0.3372,0.328,0.3347,0.9263,3,High,6.0984,False
+sunflower,Himachal Pradesh,Una,Himachal Pradesh_Una,High,High,High,1.0,0.7867,0.9882,0.3358,0.3275,0.3367,0.9262,3,High,7.3603,False
+sunflower,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,1.0,0.7933,0.9815,0.3358,0.3275,0.3367,0.9261,3,High,5.529,False
+horse_gram,Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh_Ambedkar Nagar,High,High,High,1.0,0.79,0.9959,0.319,0.3458,0.3352,0.926,3,High,7.8985,False
+ginger,Andhra Pradesh,Nandyal,Andhra Pradesh_Nandyal,High,High,High,1.0,0.7767,0.9983,0.337,0.329,0.334,0.9259,3,High,4.7089,False
+other_cereals,Rajasthan,Nagaur,Rajasthan_Nagaur,High,High,High,1.0,0.8,0.9798,0.3222,0.3388,0.339,0.9254,3,High,6.4016,False
+garlic,Kerala,Wayanad,Kerala_Wayanad,High,High,High,1.0,0.8167,0.9586,0.3318,0.3346,0.3336,0.9249,3,High,7.9277,False
+masoor,Andhra Pradesh,Spsr Nellore,Andhra Pradesh_Spsr Nellore,High,High,High,0.8079,0.97,0.9992,0.3413,0.3225,0.3361,0.9245,3,High,7.5682,False
+mesta,Telangana,Mancherial,Telangana_Mancherial,High,High,High,1.0,0.7733,0.9967,0.3354,0.3292,0.3354,0.9243,3,High,4.6136,False
+other_cereals,Arunachal Pradesh,Upper Subansiri,Arunachal Pradesh_Upper Subansiri,High,High,High,1.0,0.7933,0.9832,0.3222,0.3388,0.339,0.9243,3,High,7.7218,False
+sweet_potato,Jharkhand,Deoghar,Jharkhand_Deoghar,High,High,High,1.0,0.77,0.9955,0.3413,0.3236,0.3351,0.9241,3,High,5.2567,False
+onion,Punjab,Fatehgarh Sahib,Punjab_Fatehgarh Sahib,High,High,High,1.0,0.7733,0.9936,0.3364,0.3266,0.3371,0.9238,3,High,5.5857,False
+safflower,Uttar Pradesh,Barabanki,Uttar Pradesh_Barabanki,High,High,High,1.0,0.7767,0.9857,0.3475,0.32,0.3325,0.9238,3,High,8.802,False
+banana,Haryana,Gurugram,Haryana_Gurugram,High,High,High,1.0,0.78,0.9854,0.3404,0.3245,0.3351,0.9237,3,High,7.7097,False
+linseed,Punjab,Fatehgarh Sahib,Punjab_Fatehgarh Sahib,High,High,High,1.0,0.7833,0.9888,0.3244,0.3356,0.34,0.9235,3,High,6.579,False
+horse_gram,Uttar Pradesh,Azamgarh,Uttar Pradesh_Azamgarh,High,High,High,1.0,0.7833,0.9949,0.319,0.3458,0.3352,0.9234,3,High,8.2765,False
+horse_gram,Manipur,Ukhrul,Manipur_Ukhrul,High,High,High,1.0,0.7933,0.9829,0.319,0.3458,0.3352,0.9228,3,High,8.5602,False
+linseed,Haryana,Rewari,Haryana_Rewari,High,High,High,1.0,0.7767,0.9931,0.3244,0.3356,0.34,0.9227,3,High,6.3386,False
+other_cereals,Assam,Charaideo,Assam_Charaideo,High,High,High,1.0,0.8033,0.9682,0.3222,0.3388,0.339,0.9226,3,High,8.7642,False
+niger_seed,Bihar,Jamui,Bihar_Jamui,High,High,High,1.0,0.7933,0.9724,0.3319,0.3296,0.3385,0.9225,3,High,5.7043,False
+sunflower,Himachal Pradesh,Hamirpur,Himachal Pradesh_Hamirpur,High,High,High,1.0,0.7667,0.9954,0.3358,0.3275,0.3367,0.922,3,High,8.2218,False
+horse_gram,Uttar Pradesh,Ayodhya,Uttar Pradesh_Ayodhya,High,High,High,1.0,0.7767,0.9959,0.319,0.3458,0.3352,0.9214,3,High,5.5323,False
+linseed,Manipur,Senapati,Manipur_Senapati,High,High,High,1.0,0.7867,0.979,0.3244,0.3356,0.34,0.9213,3,High,7.2493,False
+coriander,Assam,Biswanath,Assam_Biswanath,High,High,High,1.0,0.7733,0.9862,0.3354,0.3301,0.3344,0.9205,3,High,8.5793,False
+sunflower,Tamil Nadu,Kanniyakumari,Tamil Nadu_Kanniyakumari,High,High,High,1.0,0.7667,0.9905,0.3358,0.3275,0.3367,0.9204,3,High,7.8745,False
+turmeric,Punjab,Fatehgarh Sahib,Punjab_Fatehgarh Sahib,High,High,High,1.0,0.78,0.9772,0.3372,0.328,0.3347,0.9202,3,High,6.2146,False
+moong,Punjab,Malerkotla,Punjab_Malerkotla,High,High,High,0.8326,0.9367,0.9933,0.352,0.2937,0.3543,0.9201,3,High,4.4647,False
+safflower,Bihar,Sheikhpura,Bihar_Sheikhpura,High,High,High,0.8263,0.94,0.9989,0.3475,0.32,0.3325,0.9201,3,High,4.8685,False
+small_millets,Uttar Pradesh,Amroha,Uttar Pradesh_Amroha,High,High,High,1.0,0.7767,0.9768,0.3395,0.3237,0.3369,0.9199,3,High,5.0865,False
+other_cereals,Rajasthan,Jodhpur Gramin,Rajasthan_Jodhpur Gramin,High,High,High,1.0,0.7767,0.9867,0.3222,0.3388,0.339,0.9198,3,High,6.9467,False
+turmeric,Punjab,Tarn Taran,Punjab_Tarn Taran,High,High,High,1.0,0.7867,0.9695,0.3372,0.328,0.3347,0.9198,3,High,7.5391,False
+sugarcane,Gujarat,Gandhinagar,Gujarat_Gandhinagar,High,High,High,0.8435,0.93,0.9854,0.3445,0.3097,0.3457,0.9194,3,High,5.747,False
+linseed,Arunachal Pradesh,Tirap,Arunachal Pradesh_Tirap,High,High,High,1.0,0.7933,0.9659,0.3244,0.3356,0.34,0.9191,3,High,6.6086,False
+banana,Gujarat,Dohad,Gujarat_Dohad,High,High,High,0.8313,0.93,0.9972,0.3404,0.3245,0.3351,0.9189,3,High,4.2981,False
+sweet_potato,Jharkhand,Godda,Jharkhand_Godda,High,High,High,1.0,0.7667,0.9832,0.3413,0.3236,0.3351,0.9189,3,High,5.0579,False
+other_rabi_pulses,Gujarat,Sabar Kantha,Gujarat_Sabar Kantha,High,High,High,1.0,0.7533,0.989,0.3453,0.3156,0.3391,0.9184,3,High,5.1393,False
+horse_gram,Uttar Pradesh,Chandauli,Uttar Pradesh_Chandauli,High,High,High,1.0,0.77,0.9922,0.319,0.3458,0.3352,0.9179,3,High,4.1581,False
+garlic,Punjab,S.a.s Nagar,Punjab_S.a.s Nagar,High,High,High,1.0,0.7833,0.9697,0.3318,0.3346,0.3336,0.9174,3,High,5.4936,False
+onion,Punjab,Ferozepur,Punjab_Ferozepur,High,High,High,1.0,0.82,0.9293,0.3364,0.3266,0.3371,0.9174,3,High,8.14,False
+mesta,Andhra Pradesh,Anakapalli,Andhra Pradesh_Anakapalli,High,High,High,0.8295,0.9233,0.9983,0.3354,0.3292,0.3354,0.917,3,High,7.0703,False
+cotton,Odisha,Jagatsinghapur,Odisha_Jagatsinghapur,High,High,High,1.0,0.75,0.9942,0.3473,0.3248,0.3279,0.9169,3,High,6.2881,False
+other_cereals,Meghalaya,West Khasi Hills,Meghalaya_West Khasi Hills,High,High,High,1.0,0.8,0.9543,0.3222,0.3388,0.339,0.9167,3,High,7.9719,False
+ginger,Manipur,Tengnoupal,Manipur_Tengnoupal,High,High,High,1.0,0.76,0.9861,0.337,0.329,0.334,0.9164,3,High,7.4431,False
+small_millets,Manipur,Ukhrul,Manipur_Ukhrul,High,High,High,1.0,0.7567,0.9857,0.3395,0.3237,0.3369,0.9164,3,High,7.7561,False
+banana,Gujarat,Mahesana,Gujarat_Mahesana,High,High,High,1.0,0.8367,0.9079,0.3404,0.3245,0.3351,0.9161,3,High,5.905,False
+horse_gram,Uttar Pradesh,Sultanpur,Uttar Pradesh_Sultanpur,High,High,High,1.0,0.7633,0.9937,0.319,0.3458,0.3352,0.9161,3,High,6.0147,False
+ragi,Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh_Ambedkar Nagar,High,High,High,0.8574,0.9,0.9899,0.3333,0.3322,0.3344,0.9159,3,High,4.3073,False
+sunflower,Rajasthan,Kotputli-Behror,Rajasthan_Kotputli-Behror,High,High,High,1.0,0.75,0.9934,0.3358,0.3275,0.3367,0.9159,3,High,6.1021,False
+masoor,Karnataka,Chikkaballapura,Karnataka_Chikkaballapura,High,High,High,1.0,0.7533,0.9861,0.3413,0.3225,0.3361,0.9158,3,High,8.8757,False
+ginger,Telangana,Hanumakonda,Telangana_Hanumakonda,High,High,High,1.0,0.75,0.994,0.337,0.329,0.334,0.9157,3,High,4.8792,False
+arhar_tur,Manipur,Kamjong,Manipur_Kamjong,High,High,High,1.0,0.7767,0.9438,0.3538,0.2885,0.3577,0.9155,3,High,6.0091,False
+bajra,Rajasthan,Deeg,Rajasthan_Deeg,High,High,High,0.8494,0.9067,0.9864,0.3346,0.3212,0.3441,0.915,3,High,4.0754,False
+banana,Madhya Pradesh,Bhind,Madhya Pradesh_Bhind,High,High,High,0.8147,0.9367,0.9947,0.3404,0.3245,0.3351,0.9146,3,High,4.6665,False
+coriander,Assam,Karimganj,Assam_Karimganj,High,High,High,1.0,0.75,0.9915,0.3354,0.3301,0.3344,0.9146,3,High,8.4866,False
+horse_gram,Nagaland,Noklak,Nagaland_Noklak,High,High,High,1.0,0.79,0.962,0.319,0.3458,0.3352,0.9146,3,High,8.4698,False
+potato,Andhra Pradesh,Ntr,Andhra Pradesh_Ntr,High,High,High,1.0,0.76,0.9588,0.3531,0.299,0.348,0.9139,3,High,5.6207,False
+arhar_tur,West Bengal,Howrah,West Bengal_Howrah,High,High,High,1.0,0.7467,0.9615,0.3538,0.2885,0.3577,0.9131,3,High,6.1334,False
+turmeric,Manipur,Tengnoupal,Manipur_Tengnoupal,High,High,High,1.0,0.7467,0.9884,0.3372,0.328,0.3347,0.913,3,High,7.5753,False
+onion,Punjab,Tarn Taran,Punjab_Tarn Taran,High,High,High,1.0,0.74,0.9919,0.3364,0.3266,0.3371,0.9124,3,High,6.813,False
+turmeric,Meghalaya,Eastern West Khasi Hills,Meghalaya_Eastern West Khasi Hills,High,High,High,1.0,0.7633,0.9695,0.3372,0.328,0.3347,0.9122,3,High,7.6567,False
+ginger,Telangana,Jayashankar Bhupalapally,Telangana_Jayashankar Bhupalapally,High,High,High,1.0,0.7633,0.9693,0.337,0.329,0.334,0.9119,3,High,4.2277,False
+banana,Uttarakhand,Udam Singh Nagar,Uttarakhand_Udam Singh Nagar,High,High,High,1.0,0.7367,0.9911,0.3404,0.3245,0.3351,0.9116,3,High,6.6566,False
+bajra,Rajasthan,Neem Ka Thana,Rajasthan_Neem Ka Thana,High,High,High,1.0,0.77,0.9576,0.3346,0.3212,0.3441,0.9115,3,High,5.4565,False
+barley,Punjab,Gurdaspur,Punjab_Gurdaspur,High,High,High,1.0,0.7333,0.9904,0.3396,0.3208,0.3396,0.9112,3,High,7.4214,False
+linseed,Arunachal Pradesh,Changlang,Arunachal Pradesh_Changlang,High,High,High,1.0,0.7467,0.988,0.3244,0.3356,0.34,0.9109,3,High,8.6883,False
+safflower,Uttar Pradesh,Amethi,Uttar Pradesh_Amethi,High,High,High,1.0,0.7733,0.9502,0.3475,0.32,0.3325,0.9109,3,High,6.2165,False
+cowpea_lobia,Arunachal Pradesh,Longding,Arunachal Pradesh_Longding,High,High,High,0.8601,0.88,0.9921,0.3351,0.3317,0.3333,0.9107,3,High,5.8411,False
+horse_gram,Assam,West Karbi Anglong,Assam_West Karbi Anglong,High,High,High,1.0,0.77,0.9667,0.319,0.3458,0.3352,0.9093,3,High,8.3422,False
+other_cereals,Haryana,Sirsa,Haryana_Sirsa,High,High,High,1.0,0.77,0.9608,0.3222,0.3388,0.339,0.9088,3,High,8.3563,False
+sugarcane,Jharkhand,Jamtara,Jharkhand_Jamtara,High,High,High,0.8401,0.9,0.9841,0.3445,0.3097,0.3457,0.9085,3,High,4.0409,False
+sweet_potato,Jharkhand,Sahebganj,Jharkhand_Sahebganj,High,High,High,1.0,0.7367,0.9811,0.3413,0.3236,0.3351,0.9084,3,High,5.8876,False
+ginger,Tamil Nadu,Tiruchirappalli,Tamil Nadu_Tiruchirappalli,High,High,High,1.0,0.7567,0.9646,0.337,0.329,0.334,0.9081,3,High,8.3028,False
+potato,Gujarat,Chhotaudepur,Gujarat_Chhotaudepur,High,High,High,1.0,0.7033,0.99,0.3531,0.299,0.348,0.9078,3,High,7.329,False
+sweet_potato,West Bengal,Dinajpur Uttar,West Bengal_Dinajpur Uttar,High,High,High,1.0,0.7333,0.9821,0.3413,0.3236,0.3351,0.9077,3,High,8.0461,False
+safflower,Uttar Pradesh,Jaunpur,Uttar Pradesh_Jaunpur,High,High,High,1.0,0.7233,0.988,0.3475,0.32,0.3325,0.9075,3,High,5.6923,False
+masoor,Rajasthan,Gangapurcity,Rajasthan_Gangapurcity,High,High,High,0.8498,0.8967,0.9761,0.3413,0.3225,0.3361,0.9074,3,High,4.1927,False
+mesta,Tamil Nadu,Salem,Tamil Nadu_Salem,High,High,High,0.8569,0.87,0.994,0.3354,0.3292,0.3354,0.9072,3,High,7.6339,False
+mesta,Telangana,Jayashankar Bhupalapally,Telangana_Jayashankar Bhupalapally,High,High,High,1.0,0.7767,0.9419,0.3354,0.3292,0.3354,0.907,3,High,5.2072,False
+coriander,Punjab,Tarn Taran,Punjab_Tarn Taran,High,High,High,1.0,0.73,0.9883,0.3354,0.3301,0.3344,0.9069,3,High,7.5362,False
+horse_gram,Uttar Pradesh,Balrampur,Uttar Pradesh_Balrampur,High,High,High,1.0,0.7467,0.9834,0.319,0.3458,0.3352,0.9069,3,High,5.6818,False
+coriander,Punjab,S.a.s Nagar,Punjab_S.a.s Nagar,High,High,High,1.0,0.7267,0.9912,0.3354,0.3301,0.3344,0.9068,3,High,6.2795,False
+dry_chillies,Manipur,Kakching,Manipur_Kakching,High,High,High,1.0,0.75,0.9502,0.3428,0.3021,0.3551,0.9068,3,High,7.3202,False
+sweet_potato,West Bengal,Maldah,West Bengal_Maldah,High,High,High,1.0,0.75,0.9625,0.3413,0.3236,0.3351,0.9065,3,High,7.0478,False
+sunflower,Himachal Pradesh,Solan,Himachal Pradesh_Solan,High,High,High,1.0,0.7333,0.9813,0.3358,0.3275,0.3367,0.9064,3,High,6.8274,False
+linseed,Punjab,Amritsar,Punjab_Amritsar,High,High,High,0.8879,0.84,0.9893,0.3244,0.3356,0.34,0.9063,3,High,7.049,False
+turmeric,Andhra Pradesh,Annamayya,Andhra Pradesh_Annamayya,High,High,High,0.8354,0.8867,0.9965,0.3372,0.328,0.3347,0.9061,3,High,4.7018,False
+turmeric,Punjab,Mansa,Punjab_Mansa,High,High,High,0.8781,0.8933,0.9467,0.3372,0.328,0.3347,0.9061,3,High,6.8698,False
+dry_chillies,Punjab,Bathinda,Punjab_Bathinda,High,High,High,1.0,0.77,0.9299,0.3428,0.3021,0.3551,0.9056,3,High,7.2859,False
+sannhamp,West Bengal,Howrah,West Bengal_Howrah,High,High,High,1.0,0.7433,0.9788,0.3303,0.341,0.3288,0.9055,3,High,7.702,False
+onion,Punjab,S.a.s Nagar,Punjab_S.a.s Nagar,High,High,High,1.0,0.7433,0.9671,0.3364,0.3266,0.3371,0.9051,3,High,5.4438,False
+ginger,Mizoram,Aizawl,Mizoram_Aizawl,High,High,High,1.0,0.7267,0.9848,0.337,0.329,0.334,0.905,3,High,8.8021,False
+potato,Tamil Nadu,Kanniyakumari,Tamil Nadu_Kanniyakumari,High,High,High,1.0,0.74,0.9491,0.3531,0.299,0.348,0.9046,3,High,7.863,False
+horse_gram,Uttar Pradesh,Barabanki,Uttar Pradesh_Barabanki,High,High,High,1.0,0.73,0.9934,0.319,0.3458,0.3352,0.9044,3,High,4.9721,False
+ragi,Madhya Pradesh,Bhind,Madhya Pradesh_Bhind,High,High,High,1.0,0.7533,0.9592,0.3333,0.3322,0.3344,0.9044,3,High,6.6835,False
+garlic,West Bengal,Paschim Bardhaman,West Bengal_Paschim Bardhaman,High,High,High,1.0,0.76,0.9531,0.3318,0.3346,0.3336,0.9041,3,High,5.1518,False
+mesta,Bihar,Kaimur (Bhabua),Bihar_Kaimur (Bhabua),High,High,High,0.8616,0.8633,0.9862,0.3354,0.3292,0.3354,0.9039,3,High,4.4384,False
+linseed,Punjab,Kapurthala,Punjab_Kapurthala,High,High,High,0.913,0.8133,0.9835,0.3244,0.3356,0.34,0.9035,3,High,6.8547,False
+mesta,Uttar Pradesh,Amethi,Uttar Pradesh_Amethi,High,High,High,1.0,0.7133,0.9933,0.3354,0.3292,0.3354,0.9034,3,High,5.3043,False
+sannhamp,Jharkhand,West Singhbhum,Jharkhand_West Singhbhum,High,High,High,1.0,0.7633,0.9506,0.3303,0.341,0.3288,0.9031,3,High,5.9539,False
+masoor,Andhra Pradesh,Annamayya,Andhra Pradesh_Annamayya,High,High,High,0.8041,0.9133,0.9934,0.3413,0.3225,0.3361,0.903,3,High,6.4556,False
+safflower,Uttar Pradesh,Chandauli,Uttar Pradesh_Chandauli,High,High,High,1.0,0.7367,0.9618,0.3475,0.32,0.3325,0.903,3,High,5.2661,False
+horse_gram,Meghalaya,Ri Bhoi,Meghalaya_Ri Bhoi,High,High,High,1.0,0.75,0.9672,0.319,0.3458,0.3352,0.9026,3,High,7.7151,False
+other_rabi_pulses,Rajasthan,Kekri,Rajasthan_Kekri,High,High,High,0.8593,0.8867,0.9616,0.3453,0.3156,0.3391,0.9026,3,High,7.6874,False
+ginger,Maharashtra,Sangli,Maharashtra_Sangli,High,High,High,1.0,0.7167,0.9864,0.337,0.329,0.334,0.9022,3,High,7.6283,False
+urad,Manipur,Kakching,Manipur_Kakching,High,High,High,0.8609,0.8933,0.9515,0.3411,0.3164,0.3426,0.9022,3,High,6.9119,False
+horse_gram,Uttar Pradesh,Jaunpur,Uttar Pradesh_Jaunpur,High,High,High,1.0,0.7233,0.9929,0.319,0.3458,0.3352,0.902,3,High,5.4302,False
+ginger,Tamil Nadu,Ariyalur,Tamil Nadu_Ariyalur,High,High,High,0.8531,0.8567,0.9957,0.337,0.329,0.334,0.9019,3,High,8.7912,False
+coriander,Assam,Sonitpur,Assam_Sonitpur,High,High,High,1.0,0.7167,0.9856,0.3354,0.3301,0.3344,0.9016,3,High,8.2693,False
+turmeric,Telangana,Jogulamba Gadwal,Telangana_Jogulamba Gadwal,High,High,High,0.8131,0.8967,0.9943,0.3372,0.328,0.3347,0.9012,3,High,6.1171,False
+niger_seed,Telangana,Suryapet,Telangana_Suryapet,High,High,High,1.0,0.71,0.9901,0.3319,0.3296,0.3385,0.9011,3,High,6.9433,False
+turmeric,Manipur,Kangpokpi,Manipur_Kangpokpi,High,High,High,0.8402,0.88,0.9829,0.3372,0.328,0.3347,0.901,3,High,5.9591,False
+sunflower,Haryana,Rewari,Haryana_Rewari,High,High,High,1.0,0.73,0.968,0.3358,0.3275,0.3367,0.9008,3,High,5.7329,False
+turmeric,Telangana,Narayanpet,Telangana_Narayanpet,High,High,High,0.7725,0.9333,0.9979,0.3372,0.328,0.3347,0.9007,3,High,5.5211,False
+sesamum,Nagaland,Noklak,Nagaland_Noklak,High,High,High,1.0,0.7467,0.9524,0.339,0.3313,0.3297,0.9004,3,High,7.1759,False
+other_oilseeds,Odisha,Jagatsinghapur,Odisha_Jagatsinghapur,High,High,High,1.0,0.71,0.9928,0.3304,0.3357,0.3339,0.9003,3,High,6.2423,False
+ginger,Tamil Nadu,Kallakurichi,Tamil Nadu_Kallakurichi,High,High,High,0.8357,0.87,0.995,0.337,0.329,0.334,0.9002,3,High,6.6122,False
+linseed,Rajasthan,Khairthal-Tijara,Rajasthan_Khairthal-Tijara,High,High,High,0.8463,0.8567,0.9942,0.3244,0.3356,0.34,0.9001,3,High,4.5801,False

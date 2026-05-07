@@ -1,0 +1,118 @@
+======================================================================
+UNDERUTILISED DISTRICTS — POLICY REPORT
+Identifying districts with no crop data but high model-predicted yield potential
+======================================================================
+
+METHODOLOGY
+----------------------------------------
+  Three models were trained per crop on existing district data (KNN, Random Forest, XGBoost).
+  Each model predicts the yield class for districts that have climate data but NO historical
+  crop records. A district × crop pair is flagged as 'High Potential' when at least
+  2 out of 3 models predict the 'High' yield class.
+  The ensemble probability is the average of all three models' P(High).
+
+SUMMARY STATISTICS
+----------------------------------------
+  Crops analysed                    : 43
+  Total unseen district-crop pairs  : 11,907
+  High-potential pairs (majority)   : 604
+  Unique high-potential districts   : 244
+
+TOP 30 DISTRICTS (by breadth — number of crops predicted High)
+----------------------------------------
+  Rank  State                District                  Crops High  % of Evaluated Mean P(High)
+  1     Telangana            Hanumakonda                       12           27.9%        0.496
+  2     Rajasthan            Khairthal-Tijara                  11           25.6%        0.536
+  3     Rajasthan            Gangapurcity                      11           25.6%        0.388
+  4     Rajasthan            Kotputli-Behror                   10           23.3%        0.475
+  5     Rajasthan            Neem Ka Thana                      9           20.9%        0.460
+  6     Rajasthan            Jaipur Gramin                      9           20.9%        0.362
+  7     Punjab               Mansa                              8           29.6%        0.543
+  8     Punjab               Malerkotla                         8           22.9%        0.535
+  9     Rajasthan            Deeg                               8           18.6%        0.531
+  10    Manipur              Kakching                           8           18.6%        0.383
+  11    Rajasthan            Jodhpur Gramin                     8           18.6%        0.361
+  12    Rajasthan            Dudu                               8           18.6%        0.326
+  13    Rajasthan            Kekri                              8           18.6%        0.293
+  14    Punjab               Bathinda                           7           24.1%        0.546
+  15    Punjab               Moga                               7           23.3%        0.543
+  16    Punjab               Tarn Taran                         7           24.1%        0.531
+  17    Punjab               Barnala                            7           21.2%        0.525
+  18    Manipur              Kangpokpi                          7           16.3%        0.408
+  19    Rajasthan            Didwana Kuchaman                   7           16.3%        0.374
+  20    Punjab               Ludhiana                           6           22.2%        0.564
+  21    Punjab               Patiala                            6           21.4%        0.547
+  22    Punjab               S.a.s Nagar                        6           21.4%        0.539
+  23    Punjab               Fatehgarh Sahib                    6           20.0%        0.526
+  24    Punjab               Faridkot                           6           20.0%        0.521
+  25    Manipur              Kamjong                            6           14.0%        0.391
+  26    Arunachal Pradesh    Longding                           6           20.7%        0.313
+  27    Rajasthan            Shahpura                           6           14.0%        0.297
+  28    Rajasthan            Beawar                             6           14.0%        0.277
+  29    Punjab               Ferozepur                          5           19.2%        0.543
+  30    Punjab               Sangrur                            5           18.5%        0.528
+
+PER-CROP HIGH-POTENTIAL DISTRICT COUNT
+----------------------------------------
+  other_rabi_pulses                      55 districts  (mean P=0.974)
+  sunflower                              41 districts  (mean P=0.964)
+  horse_gram                             33 districts  (mean P=0.943)
+  mesta                                  32 districts  (mean P=0.966)
+  potato                                 32 districts  (mean P=0.959)
+  coriander                              29 districts  (mean P=0.954)
+  turmeric                               28 districts  (mean P=0.943)
+  safflower                              25 districts  (mean P=0.944)
+  other_cereals                          25 districts  (mean P=0.950)
+  banana                                 24 districts  (mean P=0.955)
+  garlic                                 22 districts  (mean P=0.958)
+  sugarcane                              22 districts  (mean P=0.981)
+  ginger                                 21 districts  (mean P=0.941)
+  linseed                                20 districts  (mean P=0.940)
+  barley                                 19 districts  (mean P=0.978)
+  onion                                  18 districts  (mean P=0.945)
+  sweet_potato                           15 districts  (mean P=0.949)
+  niger_seed                             14 districts  (mean P=0.962)
+  rapeseed_and_mustard                   13 districts  (mean P=0.991)
+  moong                                  13 districts  (mean P=0.964)
+  cotton                                 13 districts  (mean P=0.987)
+  masoor                                 12 districts  (mean P=0.949)
+  peas_and_beans                         10 districts  (mean P=0.952)
+  sannhamp                               10 districts  (mean P=0.946)
+  wheat                                   8 districts  (mean P=0.978)
+  other_kharif_pulses                     8 districts  (mean P=0.982)
+  bajra                                   6 districts  (mean P=0.946)
+  arhar_tur                               4 districts  (mean P=0.949)
+  sesamum                                 4 districts  (mean P=0.924)
+  urad                                    4 districts  (mean P=0.952)
+  groundnut                               3 districts  (mean P=0.969)
+  dry_chillies                            3 districts  (mean P=0.914)
+  small_millets                           3 districts  (mean P=0.935)
+  gram                                    3 districts  (mean P=0.949)
+  cowpea_lobia                            2 districts  (mean P=0.936)
+  other_oilseeds                          2 districts  (mean P=0.917)
+  ragi                                    2 districts  (mean P=0.910)
+  rice                                    2 districts  (mean P=0.943)
+  soyabean                                2 districts  (mean P=0.972)
+  tobacco                                 2 districts  (mean P=0.949)
+
+POLICY RECOMMENDATIONS
+----------------------------------------
+  1. PRIORITY SOIL SURVEYS: Dispatch agronomy teams to the top-ranked districts
+     to verify climate-model assumptions with ground-truth soil and irrigation audits.
+
+  2. PILOT PROGRAMMES: Launch small-scale cultivation trials in the top 10 districts
+     for the crop(s) with highest ensemble P(High), using local farmer cooperatives.
+
+  3. DATA COLLECTION IMPERATIVE: All flagged districts currently lack official crop
+     yield records. Establishing monitoring points here will close the data gap and
+     allow future model retraining with observed outcomes.
+
+  4. INFRASTRUCTURE ALIGNMENT: Cross-reference high-potential districts with existing
+     irrigation, road, and market-access databases to prioritise those where investment
+     marginal cost is lowest.
+
+  5. CAVEATS: Model predictions are based on climate features alone. Soil quality,
+     water availability, socio-economic conditions, and local agronomic expertise
+     must be considered before any policy commitment.
+
+======================================================================
